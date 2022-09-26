@@ -32,4 +32,18 @@ sections:
       description: Infobar description
       button: click here for more info
       url: /what-students-say/
+  - infopic:
+      title: Photo Gallery
+      subtitle: Juying secondary
+      button: click here to view
+      url: https://www.flickr.com/photos/106251112@N04/sets/
+      image: /images/btn_photo.png
+      alt: Image alt text
+  - infopic:
+      title: Youtube
+      subtitle: Juying secondary
+      button: click here to view
+      url: https://www.youtube.com/channel/UCiQpfTXaxMLuFHPQC8qPrWw/feed
+      image: /images/btn-ytube.png
+      alt: Image alt text
 ---
