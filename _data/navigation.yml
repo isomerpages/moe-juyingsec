@@ -1,2 +1,23 @@
 logo: /images/school logo.svg
-links: []
+links:
+  - title: Information
+    url: /information/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /information/principals-message/
+      - title: School Overview
+        url: /information/school-overview/
+      - title: Administrative Information
+        url: /information/administrative-information/
+      - title: Students' Welfare
+        url: /information/student-welfare/
+      - title: Contact Us
+        url: /contact-us/
+      - title: Why choose Juying Secondary?
+        url: /information/why-juying/
+      - title: Direct School Admission (DSA)
+        url: /information/dsa/
+      - title: Examination Schedules
+        url: /information/examination-schedules/
+      - title: Student Handbook
+        url: /information/student-handbook/
