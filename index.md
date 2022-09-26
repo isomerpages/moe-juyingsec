@@ -33,16 +33,18 @@ sections:
       url: /what-students-say/
   - infopic:
       title: Photo Gallery
-      subtitle: Juying secondary
+      subtitle: Juying Gallery
       button: click here to view
       url: https://www.flickr.com/photos/106251112@N04/sets/
       image: /images/btn_photo.png
       alt: Image alt text
+      description: Join us at our Photo Gallery
   - infopic:
       title: Youtube
-      subtitle: Juying secondary
+      subtitle: Juying Youtube
       button: click here to view
       url: https://www.youtube.com/channel/UCiQpfTXaxMLuFHPQC8qPrWw/feed
       image: /images/btn-ytube.png
       alt: Image alt text
+      description: Juying Secondary on Youtube
 ---
