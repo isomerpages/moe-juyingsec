@@ -80,3 +80,33 @@ links:
         url: /programmes/hbl/
       - title: Personalised Digital Learning
         url: /programmes/pdlp/
+  - title: Achievements
+    url: /achievements/school/
+    sublinks:
+      - title: School
+        url: /achievements/school/
+      - title: Strength of Character
+        url: /achievements/strength-of-character/
+      - title: Impactful Leaders
+        url: /achievements/impactful-leaders/
+      - title: Purposeful Partnership
+        url: /achievements/purposeful-partnership/
+      - title: Alumni Excellence
+        url: /achievements/alumni-excellence/
+      - title: I-Star Award
+        url: /achievements/istar-award/
+      - title: ECHA
+        url: /achievements/echa/
+  - title: CCA
+    url: /CCA/performing-arts/
+    sublinks:
+      - title: Performing Arts
+        url: /CCA/performing-arts/
+      - title: Uniformed Groups
+        url: /CCA/uniformed-groups/
+      - title: Sports & Games
+        url: /CCA/sports-and-games/
+      - title: Clubs & Societies
+        url: /CCA/clubs-and-societies/
+      - title: Grading System
+        url: /CCA/grading-system/
