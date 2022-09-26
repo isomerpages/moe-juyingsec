@@ -21,3 +21,31 @@ links:
         url: /information/examination-schedules/
       - title: Student Handbook
         url: /information/student-handbook/
+  - title: Happenings
+    url: /happenings/news/
+    sublinks:
+      - title: News
+        url: /happenings/news/
+      - title: School Calender
+        url: /happenings/school-calender/
+      - title: School Yearbook
+        url: /happenings/school-yearbook/
+      - title: Events
+        url: /happenings/events/
+  - title: People
+    url: /people/school-management-committee/
+    sublinks:
+      - title: School Management Committee
+        url: /people/school-management-committee/
+      - title: Departments
+        url: /people/departments/
+      - title: Our Partners
+        url: /people/our-partners/
+      - title: Lifelong Learners
+        url: /people/lifelong-learners/
+      - title: Strength of Character
+        url: /people/strength-of-character/
+      - title: Form Teachers
+        url: /people/form-teachers/
+      - title: Executive & Admin Staff
+        url: /people/executive-and-administrative-staff/
