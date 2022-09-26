@@ -29,7 +29,6 @@ sections:
       url: /what-parents-say/
   - infobar:
       title: What Students Say
-      description: Infobar description
       button: click here for more info
       url: /what-students-say/
   - infopic:
