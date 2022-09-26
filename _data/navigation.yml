@@ -110,3 +110,14 @@ links:
         url: /CCA/clubs-and-societies/
       - title: Grading System
         url: /CCA/grading-system/
+  - title: Links
+    url: /links/
+    sublinks:
+      - title: Useful Links
+        url: /links/useful-links/
+      - title: Student Learning Space
+        url: https://www.learning.moe.edu.sg/sls/index.html
+      - title: FAQ
+        url: /links/faq/
+      - title: Parents Gateway
+        url: /links/parents-gateway/
