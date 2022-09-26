@@ -49,3 +49,34 @@ links:
         url: /people/form-teachers/
       - title: Executive & Admin Staff
         url: /people/executive-and-administrative-staff/
+  - title: Programmes
+    url: /programmes/llp/
+    sublinks:
+      - title: LLP - PASSION
+        url: /programmes/llp/
+      - title: ALP - Public Speaking
+        url: /programmes/alp/
+      - title: Student Leadership
+        url: /programmes/student-leadership/
+      - title: Achievers Programme
+        url: /programmes/achievers-programme/
+      - title: Full Subject-Based Banding
+        url: /programmes/full-sbb/
+      - title: NE / VIA / TIE
+        url: /programmes/ne-via-tie/
+      - title: After School Engagement
+        url: /programmes/after-school-engagement/
+      - title: Sexuality Education
+        url: /programmes/sex-edu/
+      - title: MOE OBS Challenge
+        url: /programmes/moe-obs-challenge/
+      - title: CCE Programmes / PASSION
+        url: /programmes/cce-programmes-passion/
+      - title: Modules
+        url: /programmes/modules/
+      - title: Kindness & Gratitude Movement
+        url: /programmes/kindness-and-gratitude-movement/
+      - title: Home-Based Learning (HBL)
+        url: /programmes/hbl/
+      - title: Personalised Digital Learning
+        url: /programmes/pdlp/
