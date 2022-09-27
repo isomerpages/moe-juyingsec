@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Alumni Excellence/.keep
       - iStar Award.md
       - ECHA.md
