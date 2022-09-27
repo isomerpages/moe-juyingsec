@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Administrative Information/.keep
       - Students' Welfare/.keep
       - Why Choose Juying Secondary?/.keep
       - Direct School Admission (DSA)/.keep
