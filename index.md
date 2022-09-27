@@ -10,15 +10,15 @@ sections:
       title: Juying Secondary School
       background: /images/juying hero.gif
       key_highlights:
-        - title: Vision
-          description: ""
-          url: /information/school-overview/vision-and-mission/
-        - title: Mission
+        - title: Vision & Mission
           description: ""
           url: /information/school-overview/vision-and-mission/
         - title: Values
           description: ""
           url: /information/school-overview/values/
+        - title: News & Achievements
+          description: ""
+          url: /happenings/news/
   - infobar:
       title: Latest News
       button: click here for more info
