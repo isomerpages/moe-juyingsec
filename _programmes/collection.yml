@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - LLP PASSION.md
       - ALP Public Speaking.md
       - Student Leadership/.keep
       - Achievers Programme.md
