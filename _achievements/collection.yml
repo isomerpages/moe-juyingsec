@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Strength of Character/.keep
       - Impactful Leaders/.keep
       - Purposeful Partnership.md
       - Alumni Excellence/.keep
