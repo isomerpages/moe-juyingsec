@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Kindness & Gratitude Movement.md
       - Home Based Learning (HBL).md
       - PDLP/.keep
