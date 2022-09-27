@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - MOE OBS Challenge.md
       - CCE Prog & PASSION Modules/.keep
       - Kindness & Gratitude Movement.md
       - Home Based Learning (HBL).md
