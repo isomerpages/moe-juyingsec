@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Management Committee.md
+      - Departments/Science.md
       - Departments/Humanities.md
       - Departments/Aesthetics.md
       - Departments/Information Communication.md
