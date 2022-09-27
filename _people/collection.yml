@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Management Committee.md
+      - Departments/Technology.md
       - Departments/Physical Education & CCA.md
       - Departments/Normal Technical.md
       - Departments/Craft & Technology.md
