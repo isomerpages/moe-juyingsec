@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - Direct School Admission (DSA)/.keep
       - Examination Schedules/.keep
       - Student Handbook.md
