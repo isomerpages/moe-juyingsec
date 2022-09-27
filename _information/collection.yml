@@ -4,13 +4,7 @@ collections:
     order:
       - Principal's Message.md
       - School Overview/.keep
-      - Students' Welfare/Counselling Services.md
-      - Students' Welfare/Financial Assistance.md
-      - Students' Welfare/.keep
-      - Why Choose Juying Secondary?/What Do Our Parents Say About Us?.md
-      - Why Choose Juying Secondary?/What Do Our Students Say About Us?.md
-      - Why Choose Juying Secondary?/Juying Publicity Booklets.md
-      - Why Choose Juying Secondary?/.keep
+      - Administrative Information/.keep
       - Administrative Information/Secondary 1 Registration 2022.md
       - Administrative Information/School Routines & Procedures.md
       - Administrative Information/Facilities.md
@@ -22,11 +16,17 @@ collections:
       - Administrative Information/Joint or Early Admission Exercise.md
       - Administrative Information/Direct School Admission Exercise.md
       - Administrative Information/Cyberwellness.md
-      - Administrative Information/.keep
+      - Students' Welfare/.keep
+      - Students' Welfare/Counselling Services.md
+      - Students' Welfare/Financial Assistance.md
+      - Why Choose Juying Secondary?/.keep
+      - Why Choose Juying Secondary?/What Do Our Parents Say About Us?.md
+      - Why Choose Juying Secondary?/What Do Our Students Say About Us?.md
+      - Why Choose Juying Secondary?/Juying Publicity Booklets.md
+      - Examination Schedules/.keep
       - Examination Schedules/Semester 1 Weighted Assessments.md
       - Examination Schedules/Semester 2 Weighted Assessments.md
       - Examination Schedules/Preliminary Examination.md
       - Examination Schedules/End of Year Examination.md
       - Examination Schedules/GCE O & N Level Information.md
-      - Examination Schedules/.keep
       - Student Handbook.md
