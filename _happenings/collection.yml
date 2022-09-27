@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - News/2019.md
       - News/.keep
       - School Calender.md
       - School Yearbook/.keep
