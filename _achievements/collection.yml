@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School.md
+      - Lifelong Learners/2017 GCE N Level.md
       - Lifelong Learners/.keep
       - Strength of Character/2021.md
       - Strength of Character/2020.md
