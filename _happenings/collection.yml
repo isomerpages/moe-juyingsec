@@ -2,11 +2,11 @@ collections:
   happenings:
     output: true
     order:
+      - News/.keep
+      - School Calender.md
+      - School Yearbook/.keep
+      - Events/.keep
       - Events/2022.md
       - Events/2021.md
       - Events/2020.md
       - Events/2019.md
-      - Events/.keep
-      - School Calender.md
-      - School Yearbook/.keep
-      - News/.keep
