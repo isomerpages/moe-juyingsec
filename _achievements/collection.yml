@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Purposeful Partnership.md
       - Alumni Excellence/.keep
       - iStar Award.md
       - ECHA.md
