@@ -2,6 +2,7 @@ collections:
   people:
     output: true
     order:
+      - Departments/.keep
       - Our Partners/.keep
       - Lifelong Learners.md
       - Strength of Character.md
