@@ -2,5 +2,6 @@ collections:
   happenings:
     output: true
     order:
+      - School Calender.md
       - School Yearbook/.keep
       - Events/.keep
