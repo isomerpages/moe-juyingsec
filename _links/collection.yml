@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Useful Links/Students.md
       - Useful Links/Parents.md
       - Useful Links/.keep
       - FAQ/FAQ.md
