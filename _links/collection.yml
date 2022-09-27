@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - FAQ/Privacy Policy.md
       - FAQ/Terms of Use.md
       - FAQ/.keep
       - Parents Gateway.md
