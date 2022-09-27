@@ -2,11 +2,11 @@ collections:
   happenings:
     output: true
     order:
-      - News/2022.md
-      - News/2021.md
-      - News/2020.md
-      - News/2019.md
-      - News/.keep
+      - Events/2022.md
+      - Events/2021.md
+      - Events/2020.md
+      - Events/2019.md
+      - Events/.keep
       - School Calender.md
       - School Yearbook/.keep
       - Wasd/.keep
