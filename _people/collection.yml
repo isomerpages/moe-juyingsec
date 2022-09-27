@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Management Committee.md
+      - Departments/Craft & Technology.md
       - Departments/Student Development Team.md
       - Departments/Discipline.md
       - Departments/.keep
