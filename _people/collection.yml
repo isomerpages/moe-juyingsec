@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Management Committee.md
+      - Departments/English Language & Literature.md
       - Departments/Mother Tongue.md
       - Departments/Mathematics.md
       - Departments/Science.md
