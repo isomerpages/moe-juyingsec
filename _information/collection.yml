@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - School Overview/School History.md
       - School Overview/Vision & Mission.md
       - School Overview/Core Values.md
       - School Overview/Strategic Thrusts.md
