@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2022:
     output: true
     order:
+      - Subject Based Banding.md
       - MOE FAS.md
       - Appeal.md
       - Other Enquiries.md
