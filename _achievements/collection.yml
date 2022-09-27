@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - iStar Award.md
       - ECHA.md
