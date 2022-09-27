@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School.md
+      - Lifelong Learners/Lifelong Learners.md
       - Lifelong Learners/2021 GCE N Level.md
       - Lifelong Learners/2020 GCE O Level.md
       - Lifelong Learners/2020 GCE N Level.md
