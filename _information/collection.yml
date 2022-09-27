@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Direct School Admission Exercise.md
       - Principal's Message.md
       - School Overview/.keep
       - Administrative Information/.keep
@@ -24,6 +23,7 @@ collections:
       - Why Choose Juying Secondary?/What Do Our Parents Say About Us?.md
       - Why Choose Juying Secondary?/What Do Our Students Say About Us?.md
       - Why Choose Juying Secondary?/Juying Publicity Booklets.md
+      - Direct School Admission Exercise.md
       - Examination Schedules/.keep
       - Examination Schedules/Semester 1 Weighted Assessments.md
       - Examination Schedules/Semester 2 Weighted Assessments.md
