@@ -69,3 +69,82 @@ To have **INTEGRITY** means I will
 *   Have the courage to own up
 *   Always be fair
 *   Make the righteous choice
+
+##### **(2) Be Morally Upright**
+*   Always be truthful
+*   Be trustworthy
+*   Differentiate between right and wrong
+
+##### **(3) Be Accountable**
+*   Responsible for my actions
+*   Uphold good values
+*   Exercise self-discipline
+
+![](/images/core%20values4.jpg)
+
+To show **GRATITUDE**  means I will
+
+##### **(1) Be Grateful**
+*   Appreciate everything I am blessed with
+*   Making the most of the opportunities that I have
+*   Looking for the best in every situation
+
+##### **(2) Practise Tolerance**
+*   Seek first to understand and then be understood
+*   Give people the benefit of the doubt
+*   Treat everyone equally
+
+##### **(3) Be Kind to Others**
+*   Lend a helping hand
+*   Always be pleasant
+*   Appreciate the efforts of others
+
+##### **(4) Be Respectful At All Times**
+*   Be considerate and thoughtful
+*   Be punctual
+*   Be mindful of the language
+
+![](/images/core%20values5.jpg)
+
+To show **HUMILITY** means I will
+
+##### **(1) Be Modest and Respectful**
+*   Accept the limitations of myself and others
+*   Be grateful for what is available
+*   Seek to learn from mistakes
+*   Refrain from bragging
+*   Let others discover my talent(s)
+*   Willingly help others without judging
+*   Never seek to hurt the feelings of others
+*   Give way to others
+
+##### **(2) Seek First to Understand, Then Be Understood**
+*   Always seek guidance
+*   Listen more than talk
+*   Readily apologise, without being prompted
+*   Be charitable
+
+##### **(3) Not Be Pretentious**
+*   Be sincere in my words and actions
+*   Never make empty promises
+*   Refrain from being egoistic
+
+![](/images/core%20values6.jpg)
+
+To show **TENACITY** means I will
+
+##### **(1) Never Giving Up**
+*   Overcoming challenges with a calm and collected mind     
+*   Seeing Through what I have started
+*   Utilising the resources available to me
+*   Determined to succeed without compromising my values
+
+##### **(2) Work Towards a Common Goal**
+*   Realise the strengths of the team and synergise
+*   Be punctual for all meetings
+*   Have a shared vision
+
+##### **(3) Choose Us vs Me**
+*   Realise only Together We Will Succeed
+*   Put the needs of the team above self
+*   Embrace the Win-Win attitude
