@@ -107,7 +107,7 @@ TAN JING EN (1E2)
 <br clear="left"><br>
 
 | | |
-|:---:|---|
+|:---:|:---:|
 | ![](/images/mt1.jpg) | Team Juying who took part in the<br>W3 Cluster Mother Tongue Language &<br>Cultural Fiesta |
 | ![](/images/mt2.jpg) | The Malay Language team who won 2nd place<br>in the Mother Tongue Language & Cultural<br>Fiesta<br><br>Left to right:Siti Nur Hayarah Binte Muhamed Shah (3E1)<br>Ryzz Adriana Bte Mohammad H (3A2)<br>Muhammad Syahmi Alzam Bin Sa'ad (3E2)<br>Muhammad Danial Bin Aripin (3E2) |
 | ![](/images/mt3.jpg) |  The Chinese Language team who won 4th place <br>in the Mother Tongue Language & Cultural<br>Fiesta 2018<br><br><br>Left to right:<br>Lee Yi Zhen (3E1)<br>Rachel Quek Kai En (3E1)<br>Foong Sin Chen (3E1)<br>Lee Yi Qian (3E1) |
@@ -118,6 +118,19 @@ TAN JING EN (1E2)
 #### **Kompang Workshop**
 
 |  |  |
-|---|---|
+|---|:---:|
 | ![](/images/kompang%20workshop1.jpg)<br>![](/images/kompang%20workshop2.jpg)<br>![](/images/kompang%20workshop3.jpg)<br>![](/images/kompang%20workshop4.jpg) |<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> Kompang Workshop for Sec 2 Malay students |
-| 
+|
+
+#### **Mother Tongue Fortnight (Malay Language)**
+
+| | |
+|:---:|:---:|
+| ![](/images/mtl%20malay%201.jpg) | Riddle Solving |
+| ![](/images/mtl%20malay%202.jpg) | Spelling Bee |
+| ![](/images/mtl%20malay%203.jpg) | Composing Rap lyrics  |
+| ![](/images/mtl%20malay%204.jpg) |  Kompang Challenge |
+| ![](/images/mtl%20malay%205.jpg) |  Acting out characters from a scene |
+| ![](/images/mtl%20malay%206.jpg) |  Final Checkpoint |
+|
+
