@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - School Routines & Procedures.md
       - Facilities.md
       - Bookshop and Booklists.md
       - eLearning.md
