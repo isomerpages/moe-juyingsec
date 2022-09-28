@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - September Bridging Schedule.md
       - FGC Schedules.md
       - CCA Schedule.md
       - Post Exam Timetable.md
