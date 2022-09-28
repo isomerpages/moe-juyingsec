@@ -135,6 +135,7 @@ TAN JING EN (1E2)
 |
 
 #### **Mother Tongue Fortnight (Chinese Language)**
+
 | | |
 |:---:|:---:|
 | ![](/images/mtl%20chinese%201.jpg)<br>![](/images/mtl%20chinese%202.jpg) | <br><br><br><br><br><br><br><br><br><br><br><br>Chinese Character Painting |
