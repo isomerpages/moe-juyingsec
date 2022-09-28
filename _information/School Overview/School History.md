@@ -5,10 +5,11 @@ description: ""
 third_nav_title: School Overview
 ---
 ### **School History**
-![](/images/sch%20history.jpg)
+<img src="/images/sch%20history.jpg" 
+     style="width:75%">
 
 \[Click [here](https://www.youtube.com/watch?v=kvi6JVgkNNw&feature=emb_logo) to watch the Juying Secondary 25th Anniversary video\]  
-...  
+
 Juying Secondary School was founded in December 1994 with the appointment of Mrs Lee Yin Ling as its pioneer principal. With an initial Secondary One cohort on 12 June 1995, the students and teachers move into the present premises, then partially retrofitted, formerly occupied by Jurong Institute.  
 
 During the first few years, our emphasis was on setting up working systems that were effective and clear to the staff.  At the same time, teachers strived to build up instructional programmes that cater to the students’ abilities and to add value to their academic achievements.  This was strongly supported by strict discipline and a responsive care programme. The school was officially opened by Mr Peter Chen, Senior Minister of State for Education and MP for Hong Kah GRC on 18 July 1997.
