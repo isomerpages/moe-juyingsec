@@ -116,3 +116,8 @@ TAN JING EN (1E2)
 |
 
 #### **Kompang Workshop**
+
+|  |  |
+|---|---|
+| ![](/images/kompang%20workshop1.jpg)<br>![](/images/kompang%20workshop2.jpg)<br>![](/images/kompang%20workshop3.jpg)<br>![](/images/kompang%20workshop4.jpg) |<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> Kompang Workshop for Sec 2 Malay students |
+| 
