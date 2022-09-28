@@ -15,7 +15,7 @@ Juying Secondary School has completed our PRIME Upgrading. Along with renovation
 
 |  |  |
 |:---:|:---:|
-|<img src="/images/sports%20facilities%201.jpg" style="width:75%"> Indoor Sports Hall |<img src="/images/sports%20facilities%202.jpg" style="width:50%"> Indoor Gym |
+|<img src="/images/sports%20facilities%201.jpg" style="width:%"> Indoor Sports Hall |<img src="/images/sports%20facilities%202.jpg" style="width:57%"> Indoor Gym |
 |  Astro-turf Soccer field |  Low Elements Course |
 | Rock Climbing Wall | Abseiling Wall |
 |  Lower Deck Hard Court |  Fitness Corner |
@@ -26,4 +26,3 @@ Juying Secondary School has completed our PRIME Upgrading. Along with renovation
 
 
 #### **Others**
-
