@@ -8,14 +8,11 @@ third_nav_title: Administrative Information
 
 Juying Secondary School has completed our PRIME Upgrading. Along with renovations and brand new learning blocks, Juying Secondary has been bolstered with a host of new facilities.
 
-![](/images/other%20facilities%201.jpg)
-![](/images/academic%20facilities%201.jpg)
-
 #### **Sports Facilities**
 
 |  |  |
 |:---:|:---:|
-|<img src="/images/sports%20facilities%201.jpg" style="width:%"> Indoor Sports Hall |<img src="/images/sports%20facilities%202.jpg" style="width:57%"> Indoor Gym |
+|<img src="/images/sports%20facilities%201.jpg" style="width:100%"> Indoor Sports Hall |<img src="/images/sports%20facilities%202.jpg" style="width:57%"> Indoor Gym |
 |  Astro-turf Soccer field |  Low Elements Course |
 | Rock Climbing Wall | Abseiling Wall |
 |  Lower Deck Hard Court |  Fitness Corner |
@@ -23,6 +20,21 @@ Juying Secondary School has completed our PRIME Upgrading. Along with renovation
 
 #### **Academic**
 
-
+|  |  |
+|:---:|:---:|
+| <img src="/images/other%20facilities%201.jpg" style="width:80%">DREAMS Studio | <img src="/images/other%20facilities%202.jpg" style="width:100%">Science Laboratories |
+|  Music Room | School Library |
+|  Computer laboratories | Technical workshops |
+|  Art Room |  Food and Consumer Education rooms |
+| Mobile Robotics |  Tenacity Block |
+|
 
 #### **Others**
+
+|  |  |
+|:---:|:---:|
+|<img src="/images/academic%20facilities%201.jpg" style="width:58%"> School Indoor Hall | <img src="/images/academic%20facilities%202.jpg" style="width:100%">Chillax |
+| Dance Studio | Dance Studio 2 |
+| Parade Square | iStudio |
+| Pavilion | Counselling Room |
+|
