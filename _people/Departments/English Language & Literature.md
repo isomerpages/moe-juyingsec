@@ -40,9 +40,42 @@ In addition, English Department continues to offer Upper Secondary English Liter
 
 #### **Secondary Three ALP – Debating Training Workshop**
 
+<figure>
+<img src="/images/sec3%20alp1.jpeg" 
+     style="width:75%">
+<figcaption> Debating on the given motion.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/sec3%20alp2.jpeg" 
+     style="width:75%">
+<figcaption> Applying rebuttal skills in the inter-team debate.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/sec3%20alp3.jpeg" 
+     style="width:75%">
+<figcaption> Discussing and researching for content.
+ </figcaption>
+</figure>
 
 #### **Secondary Four ALP – Interview Skills Workshop**
 
+<figure>
+<img src="/images/sec4%20alp1.jpeg" 
+     style="width:75%">
+<figcaption> Our trainer conducting a mock interview for the students.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/sec4%20alp2.jpeg" 
+     style="width:75%">
+<figcaption> Students engaged in mock-interview panels under one of our trainers' guidance.
+ </figcaption>
+</figure>
 
 #### **Organization Chart**
 
@@ -63,4 +96,4 @@ In addition, English Department continues to offer Upper Secondary English Liter
 | Mr Darren Subramaniam | Teacher |
 | Au Wei Li Wesley  |  Teacher |
 | Mr Lim Teck Siong |  Teacher |
-| 
+|
