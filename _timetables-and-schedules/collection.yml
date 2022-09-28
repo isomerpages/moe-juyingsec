@@ -2,6 +2,7 @@ collections:
   timetables-and-schedules:
     output: true
     order:
+      - June Bridging Schedules.md
       - September Bridging Schedule.md
       - FGS Schedules.md
       - CCA Schedule.md
