@@ -2,6 +2,14 @@ collections:
   administrative-information:
     output: true
     order:
+      - Secondary 1 Registration 2022/.keep
+      - Secondary 1 Registration 2022/Secondary 1 Registration 2022.md
+      - Secondary 1 Registration 2022/Books & Uniforms.md
+      - Secondary 1 Registration 2022/1st Day of School & Sec 1 Orientation.md
+      - Secondary 1 Registration 2022/Subject Based Banding.md
+      - Secondary 1 Registration 2022/MOE FAS.md
+      - Secondary 1 Registration 2022/Appeal.md
+      - Secondary 1 Registration 2022/Other Enquiries.md
       - School Routines & Procedures.md
       - Facilities.md
       - Bookshop and Booklists.md
@@ -12,6 +20,7 @@ collections:
       - Joint or Early Admission Exercise.md
       - Direct School Admission Exercise.md
       - Cyberwellness.md
+      - Timetables And Schedules/.keep
       - Timetables And Schedules/Class Timetable.md
       - Timetables And Schedules/Examination Timetable.md
       - Timetables And Schedules/June Bridging Schedules.md
@@ -19,12 +28,3 @@ collections:
       - Timetables And Schedules/FGC Schedules.md
       - Timetables And Schedules/CCA Schedule.md
       - Timetables And Schedules/Post Exam Timetable.md
-      - Timetables And Schedules/.keep
-      - Secondary 1 Registration 2022/Secondary 1 Registration 2022.md
-      - Secondary 1 Registration 2022/Books & Uniforms.md
-      - Secondary 1 Registration 2022/1st Day of School & Sec 1 Orientation.md
-      - Secondary 1 Registration 2022/Subject Based Banding.md
-      - Secondary 1 Registration 2022/MOE FAS.md
-      - Secondary 1 Registration 2022/Appeal.md
-      - Secondary 1 Registration 2022/Other Enquiries.md
-      - Secondary 1 Registration 2022/.keep
