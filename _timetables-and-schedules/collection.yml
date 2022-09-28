@@ -2,6 +2,7 @@ collections:
   timetables-and-schedules:
     output: true
     order:
+      - Examination Timetable.md
       - Class Timetable.md
       - June Bridging Schedules.md
       - September Bridging Schedule.md
