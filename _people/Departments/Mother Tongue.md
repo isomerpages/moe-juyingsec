@@ -134,3 +134,11 @@ TAN JING EN (1E2)
 | ![](/images/mtl%20malay%206.jpg) |  Final Checkpoint |
 |
 
+#### **Mother Tongue Fortnight (Chinese Language)**
+| | |
+|:---:|:---:|
+| ![](/images/mtl%20chinese%201.jpg)<br>![](/images/mtl%20chinese%202.jpg) | <br><br><br><br><br><br><br><br><br><br><br><br>Chinese Character Painting |
+| ![](/images/mtl%20chinese%203.jpg)<br>![](/images/mtl%20chinese%204.jpg) | <br><br><br><br><br><br><br><br><br><br><br><br>Chinese Character Painting |
+| ![](/images/mtl%20chinese%205.jpg)<br>![](/images/mtl%20chinese%206.jpg)<br>![](/images/mtl%20chinese%207.jpg) |<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> Chinese Character Painting  |
+| ![](/images/mtl%20chinese%208.jpg)<br>![](/images/mtl%20chinese%209.jpg) |  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Team Bonding Games 
+| 
