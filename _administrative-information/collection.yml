@@ -14,11 +14,6 @@ collections:
       - Facilities.md
       - Bookshop and Booklists.md
       - eLearning.md
-      - Forms.md
-      - School Rules.md
-      - Joint or Early Admission Exercise.md
-      - Direct School Admission Exercise.md
-      - Cyberwellness.md
       - Timetables And Schedules/.keep
       - Timetables And Schedules/Class Timetable.md
       - Timetables And Schedules/Examination Timetable.md
@@ -27,3 +22,8 @@ collections:
       - Timetables And Schedules/FGC Schedules.md
       - Timetables And Schedules/CCA Schedule.md
       - Timetables And Schedules/Post Exam Timetable.md
+      - Forms.md
+      - School Rules.md
+      - Joint or Early Admission Exercise.md
+      - Direct School Admission Exercise.md
+      - Cyberwellness.md
