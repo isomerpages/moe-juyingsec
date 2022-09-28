@@ -2,4 +2,5 @@ collections:
   administrative-information:
     output: true
     order:
+      - Appeal.md
       - Other Enquiries.md
