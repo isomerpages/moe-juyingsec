@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Direct School Admission Exercise<br>(for Admission to Secondary One in 2023)**
 
-#### *Direct School Admission Exercise**
+#### **Direct School Admission Exercise**
 
 ##### **JOIN US via DSA**
 
