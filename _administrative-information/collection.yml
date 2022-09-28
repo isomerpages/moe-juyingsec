@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - eLearning.md
       - Timetables & Schedules.md
       - Forms.md
       - School Rules.md
