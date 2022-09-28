@@ -2,7 +2,6 @@ collections:
   administrative-information:
     output: true
     order:
-      - Secondary 1 Registration 2022.md
       - School Routines & Procedures.md
       - Facilities.md
       - Bookshop and Booklists.md
