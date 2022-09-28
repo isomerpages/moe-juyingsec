@@ -19,8 +19,7 @@ ST 2.4: Student Development and Leadership Education.
 
 The committee is formed by the Heads of Department and Subject Heads of all co-curriculum (PCCG/CCE, PE/CCA/OE, Aesthetics, Student Development, National Education/Values-in-Action, Normal Technical), Senior Teacher  (Student Development), Year Heads, House Masters and the Prefect Master.
 
-Our school exemplifies the **R2IGHT** values which are:
-
+Our school exemplifies the **R2IGHT** values which are:<br>
 1\. **R**espect<br>
 2\. **R**esponsibility<br>
 3\. **I**ntegrity<br>
