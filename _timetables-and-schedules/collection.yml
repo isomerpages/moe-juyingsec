@@ -2,5 +2,6 @@ collections:
   timetables-and-schedules:
     output: true
     order:
+      - FGS Schedules.md
       - CCA Schedule.md
       - Post Exam Timetable.md
