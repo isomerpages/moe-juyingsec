@@ -2,6 +2,7 @@ collections:
   timetables-and-schedules:
     output: true
     order:
+      - September Bridging Schedule.md
       - FGS Schedules.md
       - CCA Schedule.md
       - Post Exam Timetable.md
