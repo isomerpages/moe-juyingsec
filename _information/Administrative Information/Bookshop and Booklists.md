@@ -6,8 +6,8 @@ third_nav_title: Administrative Information
 ---
 ### **Bookshop/Booklists**
 #### **Booklists (for year 2022)**
-**For Secondary 1 students (2022)  
-**Please refer to this [link](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/books-and-uniforms/).
+**For Secondary 1 students (2022)**<br>
+Please refer to this [link](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/books-and-uniforms/).
 
 **For Secondary 2-5 students (2022)**  
 Click [here](https://drive.google.com/drive/folders/1zIqkYNUTZatqUYnzCUL2_uijx4UPFi8W?usp=sharing) for all Secondary 2 to Secondary 4 booklists.  
