@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - Subject Based Banding.md
       - MOE FAS.md
       - Appeal.md
       - Other Enquiries.md
