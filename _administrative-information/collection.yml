@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - FGC Schedules.md
       - CCA Schedule.md
       - Post Exam Timetable.md
       - Secondary 1 Registration 2022/Secondary 1 Registration 2022.md
