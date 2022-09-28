@@ -1,5 +1,4 @@
 collections:
   secondary-1-registration-2022:
     output: true
-    order:
-      - Secondary 1 Registration 2022.md
+    order: []
