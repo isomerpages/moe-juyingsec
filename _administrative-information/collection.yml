@@ -1,4 +1,5 @@
 collections:
   administrative-information:
     output: true
-    order: []
+    order:
+      - Other Enquiries.md
