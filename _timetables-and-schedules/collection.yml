@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Class Timetable.md
-      - Examination Timetable/.keep
       - June Bridging Schedules.md
       - September Bridging Schedule.md
       - FGS Schedules.md
