@@ -126,12 +126,12 @@ TAN JING EN (1E2)
 
 | | |
 |:---:|:---:|
-| ![](/images/mtl%20malay%201.jpg) | Riddle Solving |
-| ![](/images/mtl%20malay%202.jpg) | Spelling Bee |
-| ![](/images/mtl%20malay%203.jpg) | Composing Rap lyrics  |
-| ![](/images/mtl%20malay%204.jpg) |  Kompang Challenge |
-| ![](/images/mtl%20malay%205.jpg) |  Acting out characters from a scene |
-| ![](/images/mtl%20malay%206.jpg) |  Final Checkpoint |
+| ![](/images/mtl%20malay%201.jpg) |<br><br><br><br><br> Riddle Solving |
+| ![](/images/mtl%20malay%202.jpg) | <br><br><br><br><br>Spelling Bee |
+| ![](/images/mtl%20malay%203.jpg) |<br><br><br><br><br> Composing Rap lyrics  |
+| ![](/images/mtl%20malay%204.jpg) | <br><br><br><br><br> Kompang Challenge |
+| ![](/images/mtl%20malay%205.jpg) |  <br><br><br><br><br>Acting out characters from a scene |
+| ![](/images/mtl%20malay%206.jpg) | <br><br><br><br><br> Final Checkpoint |
 |
 
 #### **Mother Tongue Fortnight (Chinese Language)**
@@ -141,4 +141,4 @@ TAN JING EN (1E2)
 | ![](/images/mtl%20chinese%203.jpg)<br>![](/images/mtl%20chinese%204.jpg) | <br><br><br><br><br><br><br><br><br><br><br><br>Chinese Character Painting |
 | ![](/images/mtl%20chinese%205.jpg)<br>![](/images/mtl%20chinese%206.jpg)<br>![](/images/mtl%20chinese%207.jpg) |<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> Chinese Character Painting  |
 | ![](/images/mtl%20chinese%208.jpg)<br>![](/images/mtl%20chinese%209.jpg) |  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Team Bonding Games 
-| 
+|
