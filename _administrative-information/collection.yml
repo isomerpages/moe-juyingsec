@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - Timetables And Schedules/Examination Timetable.md
       - Timetables And Schedules/June Bridging Schedules.md
       - Timetables And Schedules/September Bridging Schedule.md
       - Timetables And Schedules/FGC Schedules.md
