@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - Direct School Admission Exercise.md
       - Cyberwellness.md
       - Timetables And Schedules/Class Timetable.md
       - Timetables And Schedules/Examination Timetable.md
