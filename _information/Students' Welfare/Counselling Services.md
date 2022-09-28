@@ -50,3 +50,14 @@ Counselling Hub (Level 1), Opposite Chillax room.
 <br clear="left">
 
 #### **How to Contact Us?**
+**If you are in school:**<br>
+*   You may speak to the counsellor directly
+*   Through your Form Teacher or Subject teachers
+*   Drop us a note in the drop-in box
+  
+**If you are outside school:**<br>
+Call the General Office @ 6308 9898 and ask them to transfer you to our school counsellors.  
+   
+Or leave your name and contact number for us to get back to you.
+
+##### **You are Important to Us....**
