@@ -6,7 +6,7 @@ description: ""
 ### **Books & Uniforms**
 #### **Purchase of Books and Uniform**
 
-The school will be opened for Sec 1 students to purchase their books and uniform from **23 December 2021 onwards. **
+The school will be opened for Sec 1 students to purchase their books and uniform from **23 December 2021 onwards.**
 
 ##### **Safe Management Measures**
 * To prevent over-crowding of the school premises on 23 Dec 2021, parents/guardians should visit the school by appointment on this day. We seek your understanding that priority will be given to those who have booked appointments. Students should be accompanied by at most one parent/guardian.
