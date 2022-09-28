@@ -1,0 +1,4 @@
+collections:
+  administrative-information:
+    output: true
+    order: []
