@@ -21,9 +21,9 @@ The committee is formed by the Heads of Department and Subject Heads of all co-c
 
 Our school exemplifies the **R2IGHT** values which are:
 
-1\.**R**espect<br>
-2\.**R**esponsibility<br>
-3\.**I**ntegrity<br>
-4.**G**ratitude<br>
-5.**H**umility<br>
-6.**T**enacity
+1\. **R**espect<br>
+2\. **R**esponsibility<br>
+3\. **I**ntegrity<br>
+4. **G**ratitude<br>
+5. **H**umility<br>
+6. **T**enacity
