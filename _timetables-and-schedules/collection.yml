@@ -1,0 +1,4 @@
+collections:
+  timetables-and-schedules:
+    output: true
+    order: []
