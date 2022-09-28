@@ -2,8 +2,6 @@ collections:
   administrative-information:
     output: true
     order:
-      - Forms/Forms.md
-      - Forms/.keep
       - Secondary 1 Registration 2022/.keep
       - Secondary 1 Registration 2022/Secondary 1 Registration 2022.md
       - Secondary 1 Registration 2022/Books & Uniforms.md
@@ -24,6 +22,8 @@ collections:
       - Timetables And Schedules/FGC Schedules.md
       - Timetables And Schedules/CCA Schedule.md
       - Timetables And Schedules/Post Exam Timetable.md
+      - Forms/.keep
+      - Forms/Forms.md
       - School Rules.md
       - Joint or Early Admission Exercise.md
       - Direct School Admission Exercise.md
