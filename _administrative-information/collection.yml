@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - Timetables & Schedules.md
       - Forms.md
       - School Rules.md
       - Joint or Early Admission Exercise.md
