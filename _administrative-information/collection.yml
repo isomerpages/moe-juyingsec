@@ -2,5 +2,6 @@ collections:
   administrative-information:
     output: true
     order:
+      - MOE FAS.md
       - Appeal.md
       - Other Enquiries.md
