@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Class Timetable.md
-      - Examination Timetable.md
