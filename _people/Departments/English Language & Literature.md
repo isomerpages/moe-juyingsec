@@ -80,7 +80,7 @@ In addition, English Department continues to offer Upper Secondary English Liter
 #### **Organization Chart**
 
 | Name | Designation |
-|:---:|:---:|
+|---|---|
 | Mdm P Manimegalai | HOD (English Language & Literature) |
 | Ms Lynette Wong | Subject Head (English Language & Literature) |
 | Ms Shynn Lim | HOD (Character & Citizenship Education) |
