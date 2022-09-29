@@ -24,3 +24,5 @@ After the Circuit Breaker, the JYSC welcomed the school back with collaterals pr
 Besides developing collaterals, the JYSC also partnered with the Class Committee to design class bonding games led by them, while maintaining safe distancing. The JYSC in collaboration with the CCA leaders also participated in Kindness Day by turning Singapore bright and yellow on social media.
 
 <img src="/images/2020%20project%204.png" style="width:85%">
+
+Despite the challenges brought forth by the Covid-19, the student leaders rose up to the occasion and brave through the storms with an innovative mindset.
