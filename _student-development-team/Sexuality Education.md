@@ -71,7 +71,15 @@ ii\. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning reso
 
 ##### **Secondary 3**
 
-
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>  |
+|:---:|:---:|---|:---:|
+| Lessons<br>about<br>Love<br>(Part 3) | 1<br>(60 mins) | - recognise what constitutes responsible dating<br>- evaluate if a dating relationship is healthy or unhealthy<br>- demonstrate competencies in managing emotions in dating and romantic relationships | Apr – May<br>  |
+|  | 2<br>(60 mins) | - recognise differences in perspectives of dating and romantic relationships<br>- evaluate one’s readiness for romantic relationships<br>- recognise challenges that occur in the context of a relationship<br>- examine how our response to emotions can affect relationships positively or negatively | May |
+|  | 3<br>(60 mins) | - recognise the different levels of physical intimacy in a relationship<br>- know the progressive nature of actions that lead to sexual arousal and intercourse<br>- recognise that one may unintentionally invite sexual intimacy through one’s verbal and non-verbal behaviour | May |
+|  | 4<br>(60 mins) | - evaluate the norms of acceptability for public display of affection<br>- recognise how new media has shaped public perception of acceptability of public display of affection<br>- identify the strengths and limitations of new media in allowing people to develop serious relationships<br>- recognise how new media has influenced relationship building both positively and negatively<br>- appreciate the value of face-to-face relationships | May |
+| The Real<br>Self<br>(Part 2) | 5 – Part 1<br>(30 mins) | - recognise the importance of having healthy self-esteem that is not affected by external influences<br>- demonstrate strategies to identify and evaluate sources that contribute towards healthy self-esteem<br>- recognise the importance of self-esteem in building friendships Identity and healthy relationships | May |
+|   | 5 – Part 2<br>(30 mins) | Description of the Main Task:<br><br>- Students are to work in groups of 4 or 5.<br>- Each group will present the positive and negative messages about self-image received from a chosen source (peers, teachers, families or the media) and share tips on managing the negative messages.<br>- Groups can represent their learning through a blog, a poster presentation, an article for a teenage magazine, a role-play, a letter of response from Aunt Agony, a pamphlet or other preferred modes.<br>- At the end of all the presentations, students are to assess and reflect upon their own learning using a reflection form. | May |
+|
 
 ##### **Secondary 4**
 
