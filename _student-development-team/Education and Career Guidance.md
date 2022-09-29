@@ -43,24 +43,23 @@ The EAE Comprehensive Programme is a structured programme for our graduating stu
 
 Through the individualised guidance and support as well as the diverse platforms and exposure, the school aims to enable Jyians to make informed decisions and pursue opportunities beyond Juying so they can further develop their talent and potential.	
 	
+<figure>		
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Juying Secondary School - Education and Career Guidance - Culinary" src="https://www.youtube.com/embed/1VYUCNAxIv4" height="350" width="700"></iframe>
-<figure>	
 <figcaption> Culinary
  </figcaption>
 </figure>	
 	
+<figure>		
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Juying Secondary - Education and Career Guidance - Racial Harmony - Film, Sound &amp; Video" src="https://www.youtube.com/embed/EBBN5BJmLZs" height="350" width="700"></iframe>
-<figure>	
 <figcaption> Flim, Sound &amp; Video
  </figcaption>
 </figure>		
 	
+<figure>		
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="JYSS - ECG @ Sports Hub" src="https://www.youtube.com/embed/cgltRExKmCk" height="350" width="700"></iframe>	
-<figure>	
 <figcaption> JYSS ECG - SportsHub video
  </figcaption>
 </figure>		
 	
 	
 <img style="width:85%" src="/images/ecg4.jpg">
-	
