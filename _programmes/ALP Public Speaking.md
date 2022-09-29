@@ -12,7 +12,7 @@ description: ""
 **Click on the image above to view the ALP Talent Development Programme Recruitment slides.**
 
 #### **Application Form**
-Click [HERE](/files/alp%20form.pdf)to download the application form if your child is interested to join this programme.
+Click [HERE](/files/alp%20form.pdf) to download the application form if your child is interested to join this programme.
 
 #### **Applied Learning Programme**
 **Developing Confident, Competent & Empathetic Communicators**
