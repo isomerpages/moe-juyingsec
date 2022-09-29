@@ -2,6 +2,7 @@ collections:
   student-development-team:
     output: true
     order:
+      - Counselling Services.md
       - Sexuality Education.md
       - Education and Career Guidance.md
       - Student Development Team.md
