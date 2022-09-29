@@ -20,3 +20,59 @@ description: ""
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/) **website unavailable** for more information on MOE Sexuality Education.
+
+#### **Overview of Juying Secondary School’s Sexuality Education Programme**
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. 
+
+5\. The subjects that incorporate topics on sexuality include:<br>
+a.    Science<br>
+b.    Character and Citizenship Education (CCE)
+
+#### **Growing Years (GY) Programme:**
+i. “The Teenage Years (2nd Edition)” (Lower Sec) Teaching & Learning resource package<br>
+ii. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning resource package
+
+6\. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+
+7\. Through “The Teenage Years” and “Sense & Sexuality” packages, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+
+#### **Growing Years (GY) Programme:**
+i\. “The Teenage Years (2nd Edition)” (Lower Sec) Teaching & Learning resource package<br>
+ii\. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning resource package
+
+6\. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+
+7\. Through “The Teenage Years” and “Sense & Sexuality” packages, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+
+#### **At Juying Secondary School, the following lessons from the Growing Years Programme will be taught in 2020:**
+
+##### **Secondary 1**
+
+##### **Secondary 2**
+
+##### **Secondary 3**
+
+##### **Secondary 4**
+
+##### **Secondary 5**
+
+#### **eTeens Programme:**
+8\. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+##### **At Juying Secondary School, the eTeens programme will be implemented as follows in 2020:**
+
+
+#### **Information for Parents**
+
+10\. Parents may opt their children out of Growing Years, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/form1.pdf) . A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 05/01/2020.
+
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/form2.pdf).  A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 05/01/2020.
+
+13\. Parents can contact Miss Shynn Lim, HOD CCE at 6308 9898 or email [lim\_shi\_ying@moe.edu.sg](mailto:lim_shi_ying@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
