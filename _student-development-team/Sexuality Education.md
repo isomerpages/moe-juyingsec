@@ -63,6 +63,11 @@ ii\. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning reso
 
 ##### **At Juying Secondary School, the eTeens programme will be implemented as follows in 2020:**
 
+| Topics/Lessons | Programme Learning Objectives | Time Period<br>  |
+|:---:|---|:---:|
+| Mass Talk by HPB appointed vendor | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV<br>  | 30 Jul |
+| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>  | 6 Aug |
+|
 
 #### **Information for Parents**
 
@@ -75,4 +80,3 @@ ii\. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning reso
 13\. Parents can contact Miss Shynn Lim, HOD CCE at 6308 9898 or email [lim\_shi\_ying@moe.edu.sg](mailto:lim_shi_ying@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
