@@ -44,22 +44,22 @@ To nurture an informed **awareness and appreciation** of the visual arts, cult
 
 | | |
 |:---:|---|
-|  | Our little Sec 1s trying to design their works for the Plank Art competition |
-|  | Our proud art creation! |
-|  | Active engagement in Design & Technology lesson |
-|  | The “food masterpiece” of Jonathon & Sin Chen. |
+| ![](/images/craftntech1.jpg) | Our little Sec 1s trying to design their works for the Plank Art competition |
+|  ![](/images/craftntech2.jpg) | Our proud art creation! |
+|  ![](/images/craftntech3.jpg) | Active engagement in Design & Technology lesson |
+|  ![](/images/craftntech4.jpg) | The “food masterpiece” of Jonathon & Sin Chen. |
 |
 
 #### **Learning Journeys**
 
 | | |
 |:---:|---|
-|  | My proud creations during F&N lesson! |
-|  | MasterChef Junior Competition |
-|  | Learning Journey to NTUC |
-|  | Our Art Room - Where we derive our inspiration from |
-|  | VP Ms Wong presenting a Batik artwork by our student |
-|  |  Active engagement in D&T lesson |
+|  ![](/images/craftntech5.jpg) | My proud creations during F&N lesson! |
+|  ![](/images/craftntech6.jpg) | MasterChef Junior Competition |
+|  ![](/images/craftntech7.jpg) | Learning Journey to NTUC |
+|  ![](/images/craftntech8.jpg) | Our Art Room - Where we derive our inspiration from |
+|  ![](/images/craftntech9.jpg) | VP Ms Wong presenting a Batik artwork by our student |
+|  ![](/images/craftntech10.jpg) |  Active engagement in D&T lesson |
 |
 
 #### **Organization Chart**
