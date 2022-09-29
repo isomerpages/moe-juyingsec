@@ -16,7 +16,7 @@ The inaugural legacy project was launched in January 2020, titled ‘Delivering 
 After the Circuit Breaker, the JYSC welcomed the school back with collaterals produced with the new skills our SCs picked up during the full home-based learning period. They designed and put together ‘Back To School’ video clip, posters as well as our very own ‘Uniquely JYian’ Whatsapp Stickers Pack.
 
 |  |  |
-|---|---|
+|:---:|:---:|
 | <img src="/images/2020%20project%202.png" style="width:70%"> | <img src="/images/2020%20project%203.png" style="width:46%"> |
 | Scan to access the Stickers | Scan to view the 'Back to School' video clip |
 |
