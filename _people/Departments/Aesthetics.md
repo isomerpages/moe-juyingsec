@@ -19,3 +19,27 @@ In our Juying Secondary Aesthetics Department, we believe that at the heart of e
 #### **Programme**
 ##### **TAC: Developing Creative, Appreciative & Passionate Learners through Aesthetics**
 <img src="/images/aesthetics%20framework.png" style="width:85%">
+
+#### **Organization Chart**
+
+| Name | Designation |
+|---|---|
+| Mr Dayan Tan Ying Peng | HOD Aesthetics, ALP, LLP |
+| Ms Hema Latta | Art Lower Sec Coordinator |
+| Ms Sabirah Husnah | Art Upper Sec Coordinator |
+| Mr Jeshrei Toh | Music Coordinator |
+|
+
+#### **Activities**
+
+| | |
+|:---:|---|
+|  | Art Lesson Facilitation with Art Master Teacher |
+|  | Art Learning in Action! |
+|   | Our JYians' Artwork for MOE Corporate Gifts for Foreign Delegates  |
+|   | Our Principal and Lion Club Partners with Selected Peace Poster Artworks  |
+|   | Juying Aesthetics Foyer Showcase  |
+|   | Juying Aesthetics Wall Showcase (2D Medium Artwork)  |
+|   | Juying Aesthetics Pedestal Showcase (3D Medium Artwork)  |
+|   | Juying Aesthetics Staircase Showcase  |
+|
