@@ -30,3 +30,15 @@ and Exercise).  We do this through activities in PE, Aesthetics & OE that instil
 |  **2. Mental** <br><br>(a)  Teaching of R2IGHT Values in PE lessons<br><br>(b) Leading a Healthy Lifestyle<br>- Brief every student of PE department’s Vision and Mission.<br>- Health Talk, Promotion &amp; Activities during assembly <br><br>(c) Teaching of Physical &amp; Health Fitness<br>- Infused into PE lesson<br>- Healthy eating lesson by FCE department|
 | **3. Social** <br><br>(a)  Leadership development<br>- Sports Champions<br>- Sports Champions Programme <br><br> (b)  Inter-cohort activities<br>- Cheers<br>- Sports and games <br><br> (c) Aesthetics Program<br>- Modular dance / music lesson<br>- JYian Mass Dance |
 |
+
+#### **Organization Chart**
+
+| Name | Designation |
+|---|---|
+| Mdm Lian Chuen Pei | HOD / PE & CCA |
+| Mr Chuah Soon Ann | Senior Teacher (PE) |
+| Mr Soh Wei Qiang | Teacher |
+| Mr Choong Guo Wei | Teacher |
+| Ms Tay Wen Hui  | Teacher |
+| Mr Asyari Bin Muhammad Salleh | Teacher |
+|
