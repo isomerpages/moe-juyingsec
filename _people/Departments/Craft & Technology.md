@@ -32,5 +32,44 @@ C&T department is proud to celebrate with our JYians who have done better than t
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/dvNbKR3eG24" title="Stop motion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Our C&T programme adopts the E3 approach (Excite, Engage and Enrich) in the teaching of Art, D&T and F&N through simple yet meaningful hands-on and minds-on activities. Students are excited, engaged and enriched through the experiential learning by working in both indoor and outdoor settings and incorporate their art, design and culinary skills into real life cultural events as well as participation in internal and external competitions. An example is the accompanying stop-motion animation video by 3A2. |
+Our C&T programme adopts the E3 approach (Excite, Engage and Enrich) in the teaching of Art, D&T and F&N through simple yet meaningful hands-on and minds-on activities. Students are excited, engaged and enriched through the experiential learning by working in both indoor and outdoor settings and incorporate their art, design and culinary skills into real life cultural events as well as participation in internal and external competitions. An example is the accompanying stop-motion animation video by 3A2.
 
+#### **Vision**
+Every JYian a self-directed learner, innovative individual and confident team player. 
+
+#### **Mission**
+To nurture an informed **awareness and appreciation** of the visual arts, cultivate an **inquiring mind** and **innovative spirit** in working with materials and tools.  
+
+#### **Design & Technology Talent Development Programmes**
+
+| | |
+|:---:|---|
+|  | Our little Sec 1s trying to design their works for the Plank Art competition |
+|  | Our proud art creation! |
+|  | Active engagement in Design & Technology lesson |
+|  | The “food masterpiece” of Jonathon & Sin Chen. |
+|
+
+#### **Learning Journeys**
+
+| | |
+|:---:|---|
+|  | My proud creations during F&N lesson! |
+|  | MasterChef Junior Competition |
+|  | Learning Journey to NTUC |
+|  | Our Art Room - Where we derive our inspiration from |
+|  | VP Ms Wong presenting a Batik artwork by our student |
+|  |  Active engagement in D&T lesson |
+|
+
+#### **Organization Chart**
+
+| Name | Designation |
+|---|---|
+| Mr Tan Meng Hwee | HOD (ICT) / (D&T) |
+| Mr Ong Hok Beng | Senior teacher (D&T) |
+| Mdm Nor Diana Ahmad | D&T Coordinator (Upper Sec) |
+| Ms Khoo Woei Lin | D&T  Teacher / Mobile Robotics  |
+| Mr Ho Sing Charn  | D&T Teacher |
+| Mr Ko Kok Kheong | TSO (Workshop Instructor) |
+|
