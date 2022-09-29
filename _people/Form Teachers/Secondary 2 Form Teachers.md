@@ -9,8 +9,8 @@ third_nav_title: Form Teachers
 |  |
 |---|
 | Mr Ong Hok Beng <br>Sec 2A1 Form Teacher |
-| Ms RaudhahClass 2A1 Form Teacher |
-| Ms Chen YonghuaClass 2A2 Form Teacher |
+| Ms Raudhah<br>Class 2A1 Form Teacher |
+| Ms Chen Yonghua<br>Class 2A2 Form Teacher |
 | Mdm Rozana<br>Class 2A2 Form Teacher |
 | Ms Teoh Cheng Ling<br>Class 2E1 Form Teacher |
 | Ms Ng May Ling<br>Class 2E1 Form Teacher |
