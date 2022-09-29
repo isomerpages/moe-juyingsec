@@ -72,3 +72,13 @@ As we chart the progress for the school’s ALP in 2021, look forward to even mo
 
 ![](/images/alp%20caption%202.jpg)
 
+#### **ALP Programme**
+
+|  |  |
+|---|---|
+| ![](/images/alp10.jpg) | Our ALP Talent Pool having their Oracy Masterclass Training |
+| ![](/images/alp11.jpg) | Our Sec 2s having their ALP PASSION Drama Training |
+| ![](/images/alp12.jpg) |  Our Sec 3s having their ALP Debate Training |
+| ![](/images/alp13.jpg) |  Our Sec 4s & 5s having their ALP ECG Interview Training |
+| ![](/images/alp14.jpg) |  Our Student Councillors having their ALP Leadership Training |
+|
