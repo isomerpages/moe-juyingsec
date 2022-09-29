@@ -60,7 +60,64 @@ Science department started year, celebrating the fruits of our exciting lessons 
 
 #### **Programmes & Activities**
 
+<img src="/images/science1.jpg" 
+     style="width:49%" align=left>
+<img src="/images/science2.jpg" 
+     style="width:35%" align=middle>
+![](/images/science%20caption%201.jpg)
 
+<img src="/images/science3.jpg" 
+     style="width:44%" align=left>
+<img src="/images/science4.jpg" 
+     style="width:49%" align=right>
+![](/images/science%20caption%202.jpg)
+
+<figure>
+
+<img src="/images/science5.jpg" 
+     style="width:49%" align=left>
+<img src="/images/science6.jpg" 
+     style="width:49%" align=right>
+<br clear="left">	
+<figcaption>  Putting their forensic skills to the test to solve a murder crime
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/science7.jpg" style="width:85%">
+<figcaption> Sec 2 students sharing about their learning journey to Sungei Buloh Wetland Reserve
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/science8.jpg" style="width:85%">
+<figcaption>  Our Champion team at the ignITE Skills Challenge. Well done!
+ </figcaption>
+</figure>
+
+<img src="/images/science9.jpg" 
+     style="width:49%" align=left>
+<img src="/images/science10.jpg" 
+     style="width:49%" align=right>
+![](/images/science%20caption%203.jpg)
+
+<img src="/images/science11.jpg" 
+     style="width:44%" align=left>
+<img src="/images/science12.jpg" 
+     style="width:49%" align=right>
+![](/images/science%20caption%204.jpg)
+
+<img src="/images/science13.jpg" 
+     style="width:49%" align=left>
+<img src="/images/science14.jpg" 
+     style="width:49%" align=right>
+![](/images/science%20caption%205.jpg)
+
+<figure>
+<img src="/images/science15.jpg" style="width:85%">
+<figcaption> Sec 3s Physics students visiting a power station at Jurong Island.
+ </figcaption>
+</figure>
 
 #### **Organization Chart**
 
