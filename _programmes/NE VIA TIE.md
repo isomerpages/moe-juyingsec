@@ -180,11 +180,17 @@ School Wide Sustainability Awareness & Education
 <img src="/images/ne27.jpg" style="width:49%" align=left>
 <img src="/images/ne28.jpg" style="width:49%" align=right>
 
+![](/images/ne%20caption%201b.jpg)
+
 <img src="/images/ne29.jpg" style="width:49%" align=left>
 <img src="/images/ne30.jpg" style="width:49%" align=right>
 
+![](/images/ne%20caption%202b.jpg)
+
 <img src="/images/ne31.jpg" style="width:49%" align=left>
 <img src="/images/ne32.jpg" style="width:49%" align=right>
+
+![](/images/ne%20caption%203b.jpg)
 
 #### **Juying DREAM Garden**
 <figure>
