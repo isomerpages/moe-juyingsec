@@ -4,7 +4,6 @@ permalink: /people/departments/information-communication-technology/
 description: ""
 third_nav_title: Departments
 ---
-
 ### **Information Communication Technology**
 <figure>
 <img src="/images/ict%20dept.jpg" style="width:85%">
@@ -59,16 +58,21 @@ Through the use of technology, we hope maximise every learning opportunity by be
 <img src="/images/ict%208.jpg" style="width:50%;margin-right:15px;" align = "left">Students working on a Scratch project learnt during the ITP lessons.<br>
 Visual Programming with Scratch are part of the Code for Fun modules that have been created by MOE to develop interest in coding. The Code For Fun Programme also exposes students in planning and coding their own scripts to develop their own animations and games.
 <br clear="left">
+
 <img src="/images/ict%209.jpg" 
      style="width:49%" align=left>
 <img src="/images/ict%2010.jpg" 
      style="width:49%" align=right>
+		 
 <br clear="left">		 
+
 <img src="/images/ict%2011.jpg" 
      style="width:49%" align=left>
 <img src="/images/ict%2012.jpg" 
      style="width:49%" align=right>
+		 
 <br clear="left">		 
+
 <img src="/images/ict%2013.jpg" 
      style="width:49%" align=left>
 <img src="/images/ict%2014.jpg" 
