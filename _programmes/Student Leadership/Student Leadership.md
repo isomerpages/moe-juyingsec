@@ -64,5 +64,3 @@ At Juying, there are many additional opportunities for Jyians to develop themsel
 |:---:|:---:|:---:|
 | [2020](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/student-leadership/2020-projects/) | [2021](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/student-leadership/2021-projects/) | [2022](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/student-leadership/2022-projects/) |
 |
-
-
