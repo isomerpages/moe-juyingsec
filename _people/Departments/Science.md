@@ -73,7 +73,6 @@ Science department started year, celebrating the fruits of our exciting lessons 
 ![](/images/science%20caption%202.jpg)
 
 <figure>
-
 <img src="/images/science5.jpg" 
      style="width:49%" align=left>
 <img src="/images/science6.jpg" 
