@@ -83,7 +83,14 @@ ii\. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning reso
 
 ##### **Secondary 4**
 
-
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>  |
+|:---:|:---:|---|:---:|
+| Lessons<br>about<br>Love<br>(Part 4a) | 6<br>(60 mins) | - explain the process of grief and loss that people experience when a relationship breaks down<br>- exercise sensitivity and empathy when communicating break- ups<br>- recognise that one can emerge stronger after a break-up | Apr – June |
+| “Familiar”<br>Strangers<br>Alert<br>(Part 2) | 7<br>(60 mins)<br>  | - know what is considered pornographic material on the Internet under the Internet code of practice<br>- reflect on the legal consequences of sexual behaviour and include these considerations in their decision-making pertaining to pornography | Apr – June |
+| At the<br>Crossroads<br>(Part 2) | 8<br>(30 mins) | - distinguish between biologically-based and socially-conditioned gender characteristics<br>- evaluate views towards self and others, with regard to gender differences and stereotypes | Apr – June |
+| Lessons<br>about<br>Love<br>(Part 4b) | 9<br>(60 mins) | - recognise that commitment is a necessary ingredient for success in a marriage<br>- identify responsibilities involved and the challenges faced in marriages | Apr – June |
+| NA | 10<br>(60 mins) | Description of the Main Task: <br><br>- This main task will capture the culmination of learning in Secondary 4 level.<br>- Students are to work on the main task in groups of 4 or 5.<br>- Each group is to take on a topic of interest from the following: rejections and broken relationships, pornography, gender identity or marriage, cohabitation and divorce.<br>- Groups can share their learning for the chosen topic in the form of a debate, a mini-teach, the depiction and discussion of case scenarios, a discussion of consequences that follows after the viewing of a video or a live-chat, or any preferred mode.<br>- At the end of all the presentations, students are to assess and reflect upon their own learning using a reflection form.<br>- Teacher to round up by summarizing key learning outcomes for each topic, emphasizing on the key values and attitudes<br>  | Apr – June |
+|  
 
 ##### **Secondary 5**
 
