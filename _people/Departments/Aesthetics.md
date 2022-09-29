@@ -33,13 +33,13 @@ In our Juying Secondary Aesthetics Department, we believe that at the heart of e
 #### **Activities**
 
 | | |
-|:---:|---|
-|  | Art Lesson Facilitation with Art Master Teacher |
-|  | Art Learning in Action! |
-|   | Our JYians' Artwork for MOE Corporate Gifts for Foreign Delegates  |
-|   | Our Principal and Lion Club Partners with Selected Peace Poster Artworks  |
-|   | Juying Aesthetics Foyer Showcase  |
-|   | Juying Aesthetics Wall Showcase (2D Medium Artwork)  |
-|   | Juying Aesthetics Pedestal Showcase (3D Medium Artwork)  |
-|   | Juying Aesthetics Staircase Showcase  |
+|:---:|:---:|
+| ![](/images/aesthetics1.jpg) | Art Lesson Facilitation with Art Master Teacher |
+| ![](/images/aesthetics2.jpg) | Art Learning in Action! |
+| ![](/images/aesthetics3.jpg) | Our JYians' Artwork for MOE Corporate Gifts for Foreign Delegates  |
+| ![](/images/aesthetics4.jpg) | Our Principal and Lion Club Partners with Selected Peace Poster Artworks  |
+| ![](/images/aesthetics5.jpg) | Juying Aesthetics Foyer Showcase  |
+| ![](/images/aesthetics6.jpg) | Juying Aesthetics Wall Showcase (2D Medium Artwork)  |
+| ![](/images/aesthetics7.jpg) | Juying Aesthetics Pedestal Showcase (3D Medium Artwork)  |
+| ![](/images/aesthetics8.jpg) | Juying Aesthetics Staircase Showcase  |
 |
