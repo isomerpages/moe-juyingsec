@@ -48,7 +48,15 @@ ii\. “Sense & Sexuality (2nd Edition)” (Upper Sec) Teaching & Learning reso
 
 ##### **Secondary 1**
 
-
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>  |
+|:---:|:---:|---|:---:|
+| The Real Self<br>(Part 1) | 1<br>(60 mins) | - know how one’s perception of his body is linked to personal experiences and the sources of information that are taken in<br>- recognise that one’s self-perception is influenced by his perception of his body<br>- know strategies to develop healthy/positive perception of one’s body. | April – May  |
+| Lessons about Love (Part 1) | 2<br>(60 mins) | - recognise the importance of cultivating friendships with members of the same and opposite sex<br>- recognise what constitutes healthy and unhealthy relationships<br>- recognise the influence of peers on oneself and one’s value system<br>- distinguish between various types of love<br>·        know that the underlying value for healthy relationships is respect | April – May |
+|  | 3<br>(60 mins) | - recognise the importance of developing a friendship before committing to a romantic relationship<br>- recognise what dating involves<br>- know the different levels of physical intimacy in a relationship<br>- know that certain public displays of affection are not considered appropriate behaviour in our society<br>- recognise that it is important to seek their family’s views, beliefs and expectations with regard to dating and romantic relationships in teenage years | April – May |
+| “Familiar” Strangers Alert<br>(Part 1) | 4<br>(60 mins) | - reflect on the reasons for people to use social networking sites to make friends or to engage their existing friends<br>- know the usefulness and dangers of making friends over social networking platforms<br>- recognise that the media can influence the way people think, feel and behave<br>·        identify ways to protect themselves from negative influences from the media | April – May<br> <br>  |
+|  | 5 – Part 1<br>(30 mins) | - know the physiological, psychological and social impact of sexual abuse on the individual<br>- recognise the provision  of Singapore laws that serves to protect teenagers from sexual perpetrators and persecute those who have committed such crimes<br>- identify sources to seek help and support | April – May |
+|  | 5 – Part 2<br>Main Task<br>(30 mins) | Description of the Main Task:<br>·- Students are to work on the main task in groups of 4 or 5<br>- Groups will describe how the media can influence relationships (with self, peers, and the opposite sex)<br>- Groups can choose to present this in the form of a song, short 1-min video, rap, poster or any other preferred mode<br>- To assess learning, teachers may want students to submit a short write up to describe their work or a personal reflection after the main task. | April – May |
+|
 
 ##### **Secondary 2**
 
