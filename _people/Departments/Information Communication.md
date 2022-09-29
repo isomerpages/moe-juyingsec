@@ -31,11 +31,49 @@ Through the use of technology, we hope maximise every learning opportunity by be
 #### **Programmes & Activities**
 ##### **Microbit Programming**
 
+<img src="/images/ict1.jpg" 
+     style="width:49%" align=left>
+<img src="/images/ict2.jpg" 
+     style="width:49%" align=right>
+![](/images/ict%20caption%201.jpg)
+		 
+<img src="/images/ict3.jpg" 
+     style="width:49%" align=left>
+<img src="/images/ict4.jpg" 
+     style="width:49%" align=right>
+![](/images/ict%20caption%202.jpg)
 
+<img src="/images/ict5.jpg" 
+     style="width:49%" align=left>
+<img src="/images/ict6.jpg" 
+     style="width:49%" align=right>
+![](/images/ict%20caption%203.jpg)
 
-#### **Code For Fun & Google Cloud Skills**
+<img src="/images/ict7.jpg" 
+     style="width:49%" align=left>
+![](/images/ict%20caption%204.jpg)
 
+##### **Code For Fun & Google Cloud Skills**
 
+<img src="/images/ict%208.jpg" style="width:50%;margin-right:15px;" align = "left">Students working on a Scratch project learnt during the ITP lessons.<br>
+Visual Programming with Scratch are part of the Code for Fun modules that have been created by MOE to develop interest in coding. The Code For Fun Programme also exposes students in planning and coding their own scripts to develop their own animations and games.
+<br clear="left">
+<img src="/images/ict%209.jpg" 
+     style="width:49%" align=left>
+<img src="/images/ict%2010.jpg" 
+     style="width:49%" align=right>
+<br clear="left">		 
+<img src="/images/ict%2011.jpg" 
+     style="width:49%" align=left>
+<img src="/images/ict%2012.jpg" 
+     style="width:49%" align=right>
+<br clear="left">		 
+<img src="/images/ict%2013.jpg" 
+     style="width:49%" align=left>
+<img src="/images/ict%2014.jpg" 
+     style="width:49%" align=right>		 
+		 
+<br clear="left">		 
 
 #### **Organization Chart**
 
