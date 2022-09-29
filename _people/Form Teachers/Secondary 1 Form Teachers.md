@@ -12,7 +12,7 @@ third_nav_title: Form Teachers
 | Ms Charlotte Ho<br>Class 1-P Form Teacher |
 | Ms Soo Mei Hui<br>Class 1-A Form Teacher |
 | Mr Fauzul<br>Class 1-A Form Teacher |
-| Mr Adrian Nyoe<br><br>Class 1-S1 Form Teacher |
+| Mr Adrian Nyoe<br>Class 1-S1 Form Teacher |
 | Ms Lim Siew Yin<br>Class 1-S1 Form Teacher |
 | Ms Sabirah<br>Class 1-S2 Form Teacher |
 | Mdm Tan YingShan<br>Class 1-S2 Form Teacher |
