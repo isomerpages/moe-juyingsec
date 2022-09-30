@@ -7,17 +7,13 @@ third_nav_title: Sexuality Education
 ### **Sexuality Education**
 
 #### **MOE Sexuality Education in Schools**
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-
-  
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues. 
 
 2\. The goals of Sexuality Education are to:
 
 (i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>
 (ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>
 (iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
-
-  
 
 3\. The key messages of Sexuality Education are:
 
@@ -89,9 +85,33 @@ b. Character and Citizenship Education (CCE)
 | Respectful Relationships & Safety<br> <br>  | 1<br>(60 mins) | - Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. <br><br>- Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. <br><br>- Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.  | Term 1 Week 4 |
 |
 
+\*Note: The time period provided for the lessons may be shifted if there may be a need to do so depending on the changes in the CCE curriculum.
 
+#### **eTeens Programme:**
 
+8\. HPB, in collaboration with the Ministry of Health (MOH) and the Ministry of Education (MOE), conduct a programme titled Empowered Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV. The programme provides accurate information to help students make good life choices by raising awareness about how STIs/HIV are prevented to discourage risky sexual behaviours.
+<br>eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
+#### **At Juying Secondary School, the eTeens programme will be implemented as follows in 2022:**
+
+| Topics/Lessons | Programme Learning Objectives | Time Period |
+|:---:|---|:---:|
+| Mass Talk by HPB appointed vendor | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>-  Consequences and impact of STIs/HIV<br>  | Term 1 Week 10 |
+| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>  | Term 1 Week 10 |
+|
+
+#### **Information for Parents**
+
+10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. The online opt-out form can be obtained from Parents Gateway. Alternatively, parents may request the hardcopy opt-out form from their child’s Form Teacher, if they are unable to access it via Parents Gateway. The completed form (either online or hardcopy) is to be submitted by 14/01/2022.
+
+12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. The online opt-out form can be obtained from Parents Gateway. Alternatively, parents may request the hardcopy opt-out form from their child’s Form Teacher, if they are unable to access it via Parents Gateway. The completed form (either online or hardcopy) is to be submitted by 14/01/2022.
+
+13\. Parents can contact the school at 63089898 for discussion or to seek clarification about the school’s sexuality education programme.
+
+14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 
