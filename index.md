@@ -26,11 +26,11 @@ sections:
   - infobar:
       title: What Parents Say
       button: click here for more info
-      url: /what-parents-say/
+      url: https://sites.google.com/view/juyingtestimonials/parents-testimonials/2021/mdm-nancy-lim
   - infobar:
       title: What Students Say
       button: click here for more info
-      url: /what-students-say/
+      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2021/ariel-s4
   - infopic:
       title: Photo Gallery
       subtitle: Juying Gallery
