@@ -20,13 +20,13 @@ JPSG Partnership Award Recipients
 
 #### **National Day Award**
 
-![](/images/purposeful%20partnership%201.jpg)
-
 <figure>
 <img src="/images/purposeful%20partnership%201.jpg" 
      style="width:35%">
 <figcaption><strong>  Mr Ng Say Peng, Sam (PBM) <br>School Advisory Committee<br>Public Service Medal Pingat Bakti Masyarakat - PBM<br>2018
 </figure>
+	
+<br clear="left">	
 	
 |  |  |
 |:---:|:---:|
