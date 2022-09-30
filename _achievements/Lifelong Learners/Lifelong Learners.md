@@ -45,3 +45,57 @@ third_nav_title: Lifelong Learners
 
 #### **2018**
 
+| Subject | Name of Competition | Achievement |
+|---|---|---|
+| English<br>Language | International Competitions and Assessments<br>for Schools (ICAS)  | 3 Distinctions<br>32 Credits<br>16 Merits |
+| Geography |  NUS Geography Challenge  | Top Performing Individual<br>Bronze Award |
+| Mathematics | All Singapore Secondary Mathematics<br>Competition |  4th team placing |
+| Mathematics | International Competitions and Assessments<br>for Schools (ICAS)  | 9 Distinctions<br>31 Credits<br>14 Merits |
+| Mother Tongue | Mother Tongue Languages & Cultural Fiesta | 2nd team placing (ML)<br>4th team placing (CL)<br>2nd Place - Essay Writing Competition |
+| Mother Tongue | W3 Cluster Chinese Calligraphy Competition | 1st Prize<br>2nd Prize |
+| Nutrition & Food<br>Science | W3 Cluster Culinary Competition | Best Themed Award |
+| Science | International Competitions and Assessments<br>for Schools (ICAS) | 1 Distinction<br>17 Credits<br>17 Merits |
+| Science | ignITE Skills Challenge | 1st Place |
+| Computer<br>Applications  | Media Computing Competition<br>(MEC) | Games Programming<br>Silver Award<br>Animation Programming<br>Bronze Award |
+| 
+
+#### **2017**
+
+| Subject | Name of Competition | Achievement |
+|---|---|---|
+| English Language | International Competitions and Assessments<br>for Schools (ICAS) | 1 Distinction<br>40 Credits<br>14 Merits |
+| Mathematics | International Competitions and Assessments <br>for Schools (ICAS) | 1 Higher Distinction<br>8 Distinctions<br>37 Credits<br>11 Merits |
+| Science | International Competitions and Assessments <br>for Schools (ICAS) | 3 Distinctions<br>20 Credits<br>23 Merits |
+| Humanities | Republic Polytechnic Hospitality Race | 2nd Runner Up<br>3 Consolation Prizes |
+| Mother Tongue<br>(Chinese Language) | The 6th National Primary and Secondary<br>School Chinese Calligraphy Competition | Consolation Prizes |
+| Mother Tongue<br>(Malay Language) | W3 Cluster Mother Tongue Language and<br>Cultural Fiesta  | 2nd Team Placing<br>2nd Prize |
+| Computer Applications | National Media Computing Competition | Games Programming<br>Gold Award<br>Animation Programming<br>Silver Award |
+|  Art & Craft | Design for Good Youth Competition  | Finalist |
+| Food & Nutrition | Lam Soon Community Centre Sandwich<br>Making Competition | Top 5 (Consolation Prizes) |
+| 
+
+#### **2016**
+
+| Subject | Name of Competition | Achievement |
+|---|---|---|
+| English | International Competitions and Assessments<br>for Schools (ICAS) | 1 Distinction<br>21 Credits |
+| Mathematics | International Competitions and Assessments  for Schools (ICAS) | 1 Higher Distinction<br>6 Distinctions<br>18 Credits |
+| Mathematics | All Singapore Secondary Mathematics<br>Competition | 14th Position<br>20th Position |
+| Mathematics  | Singapore Mathematical Olympiad | Bronze Award |
+| Computer<br>Applications | National Media Computing Competition | Games Programming<br>Silver Award |
+| Mother Tongue<br>(Chinese Language) | W3 Cluster CL iMovie Competition | Gold Award<br>Silver Award |
+| Mother Tongue <br>(Chinese Language) | W3 Cluster Mother Tongue Language &<br>Cultural Fiesta | Bronze Award |
+| Mother Tongue <br>(Chinese Language) | First National Students' Poetry Competition | Consolation Prize |
+|
+
+#### **2015**
+
+| Subject | Name of Competition | Achievement |
+|---|---|---|
+| English | National Oratorical Competition | Second Round Qualifier -<br>Roop Singh (4T1) |
+| Mother Tongue | W3 Cluster Mother Tongue Language & <br>Cultural Fiesta | Top Prize -<br>First in Standard Award<br>Huang Ruijia (3E1)<br><br>3rd Prize in the ML Essay Writing Competition<br>Iyzzal Fahmi (3E1)<br>Language & Cultural Quiz segment -<br>1st Prize & Consolation Prize |
+|  Mother Tongue | 13th National Secondary School Chinese<br>Essay Writing Competition | 1st Prize - <br>Xin Lei Jiang |
+| Computer<br>Applications | National Media Computing Competition<br>Animation Programming<br><br>National Media Computing Competition<br>Games Programming | Bronze Award -<br>Sherman Mah Han Sheng (2T1)<br><br>Gold Award -<br>Mohammad Mikhail (3T1) |
+|  Humanities | Singapore Zoo iTrail Competition<br>(Secondary Category) | Champion -<br>Roy Teo Jia Jun (2E1)<br>Qiu Anqi (2E2)<br>Tan Jue Lin (2E2)<br>Khoo Jia Wei (2E2) |
+| 
+
