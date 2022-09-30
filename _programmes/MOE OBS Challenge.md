@@ -21,16 +21,16 @@ Through the Programme, the Secondary 3 students will learn:
 
 These are some of the activities that the students will experience during the Programme. Students will have a chance to experience at least one land-based and/or one water-based activity.
 
-1.  Mood Setting Expectations
+**1. Mood Setting Expectations**
 *   Students will know the course objectives and share their hopes and fears for the Programme.
 
-2.  Team Challenges
+**2. Team Challenges**
 *   Students will understand the concept of what makes a team, through various team challenges. During the challenges, the students will discover the strengths and weaknesses of each other.    
 
-3.  Morning Circle and Journaling
+**3. Morning Circle and Journaling**
 *   Students are taught to understand and realise the importance of reflection and sharing. They will then learn to explore better ways on working together.
 
-4.  Land/Sea Expedition
+**4. Land/Sea Expedition**
 *   Students will be given the opportunity to develop leadership skills and learn to harness the strengths of every member to complete the challenge. 
 
 You may click on [this](https://www.youtube.com/watch?v=QG6WlsHOUzA) link for the video on MOE-OBS Challenge Programme.
