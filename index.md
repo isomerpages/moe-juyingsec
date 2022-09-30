@@ -15,7 +15,7 @@ sections:
           url: /information/school-overview/vision-and-mission/
         - title: Values
           description: ""
-          url: https://staging.d1o9rele4xczce.amplifyapp.com/information/school-overview/core-values/
+          url: /information/school-overview/core-values/
         - title: News & Achievements
           description: ""
           url: /happenings/news/
