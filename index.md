@@ -24,13 +24,17 @@ sections:
       button: click here for more info
       url: /latest-news/
   - infobar:
-      title: What Parents Say
+      title: What Our Parents Say
       button: click here for more info
       url: https://sites.google.com/view/juyingtestimonials/parents-testimonials/2021/mdm-nancy-lim
   - infobar:
-      title: What Students Say
+      title: What Our Students Say
       button: click here for more info
       url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2021/ariel-s4
+  - infobar:
+      title: What Our Alumni Say
+      button: click here for more info
+      url: https://sites.google.com/view/juyingtestimonials/alumni/huang-rui-jia
   - infopic:
       title: Photo Gallery
       subtitle: Juying Gallery
