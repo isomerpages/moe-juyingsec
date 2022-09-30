@@ -67,4 +67,22 @@ This movement will be driven via 3 different platforms – schoolwide by Student
 <br><br><br><br><br><br>
 
 #### **6. Equipping of Social Skills Required for Student Leadership**
+**School-wide Equipping**<br>
+All JYians are equipped and empowered at various tiers. Besides the various knowledge and skills learnt during PASSION lessons, all JYians will be equipped with basic leadership skills during CCE lessons to get them equipped to drive student-led initiatives that constitute our Gratitude and Kindness Movement.
+
+-> **Tier 1 Equipping: All JYians**<br>
+**Differentiated Social Skills-Student Leadership Lessons during CCE**
+
+<img src="/images/cce6.jpg" style="width:85%">
+
+<img src="/images/cce7.jpg" style="width:85%">
+
+-> **Tier 2: Student Council, CCA Leaders, Class Committee**<br>
+Differentiated termly workshops conducted by Student Council Teacher Advisors and/or vendors on Leadership 
+
+-> **Tier 3: Student Council Exco**<br>
+I. Specific equipping workshops, mentorship by teacher advisers and partners<br>
+II. “The SinGa in Me” Legacy Projects 
+
+
 
