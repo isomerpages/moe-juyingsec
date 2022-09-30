@@ -8,8 +8,6 @@ third_nav_title: Lifelong Learners
 
 <img src="/images/2021%20n%20level%201.jpg" style="width:85%">
 
-<br clear="left">
-
 <img src="/images/2021%20n%20level%202.jpg" style="width:85%">
 
 <figure>
