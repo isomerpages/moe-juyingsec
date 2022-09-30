@@ -34,4 +34,3 @@ All in all, she has positively influenced her class and is a leader in more ways
 <img src="/images/istar%20award%208.jpg" style="width:85%">
 <img src="/images/istar%20award%209.jpg" style="width:85%">
 <img src="/images/istar%20award%2010.jpg" style="width:85%">
-
