@@ -48,16 +48,16 @@ Through these key events where our choir members were nurtured under the support
 #### **Club Activities**
 | | |
 |---|---|
-|  | Jurong Health Campus Performance |
-|  | Juying Show Choir Family |
-|  | Chinese New Year performance at Gek Poh Ville Community Club |
-|  | Nanyang National Day Observance Ceremony |
-|  | Sectionals in Progress |
-|  | B-Dazzled! Show Choir Festival |
-|  | Alumni helping and showing the family spirit |
-|  | Getting ready for showtime |
-|  | Show Choir Exchange at SCAPE |
-|  | Show Choir Exchange at SCAPE |
+| <img src="/images/choir3.jpg" style="width:85%"> | Jurong Health Campus Performance |
+| <img src="/images/choir4.jpg" style="width:85%"> | Juying Show Choir Family |
+| <img src="/images/choir5.jpg" style="width:85%"> | Chinese New Year performance at Gek Poh Ville Community Club |
+| <img src="/images/choir6.jpg" style="width:85%"> | Nanyang National Day Observance Ceremony |
+| <img src="/images/choir7.jpg" style="width:85%"> | Sectionals in Progress |
+| <img src="/images/choir8.jpg" style="width:85%"> | B-Dazzled! Show Choir Festival |
+| <img src="/images/choir9.jpg" style="width:85%"> | Alumni helping and showing the family spirit |
+| <img src="/images/choir10.jpg" style="width:85%"> | Getting ready for showtime |
+| <img src="/images/choir11.jpg" style="width:85%"> | Show Choir Exchange at SCAPE |
+| <img src="/images/choir12.jpg" style="width:85%"> | Show Choir Exchange at SCAPE |
 |
 
 #### **Achievements**
@@ -96,12 +96,10 @@ Through these key events where our choir members were nurtured under the support
 #### **Events**
 | | |
 |---|---|
-|  | Performing parts of the B-Dazzled Show Choir Competition piece in school |
-| # | Received the Bronze trophy from school principal, Mdm Soh  |
-| # | Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion |
-| # | Performed for Singapore Youth Festival (SYF) |
-| # | Aftermath of SYF performance  |
-| # | All dolled up and rehearsing for one last time with the instructor before the B-Dazzled Show Choir Competition |
+| <img src="/images/choir13.jpg" style="width:85%"> | Performing parts of the B-Dazzled Show Choir Competition piece in school |
+| <img src="/images/choir14.jpg" style="width:85%"> | Received the Bronze trophy from school principal, Mdm Soh  |
+| <img src="/images/choir15.jpg" style="width:85%"> | Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion |
+| <img src="/images/choir16.jpg" style="width:85%"> | Performed for Singapore Youth Festival (SYF) |
+| <img src="/images/choir17.jpg" style="width:85%"> | Aftermath of SYF performance  |
+| <img src="/images/choir18.jpg" style="width:85%"> | All dolled up and rehearsing for one last time with the instructor before the B-Dazzled Show Choir Competition |
 |
-
-
