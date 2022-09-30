@@ -6,4 +6,6 @@ third_nav_title: Lifelong Learners
 ---
 ### **2020 GCE O-level**
 
-![](/images/2020%20o%20level.jpg)
+<img src="/images/2020%20o%20level.jpg" style="width:85%">
+
+For more pictures of this event click [here.](https://www.flickr.com/photos/106251112@N04/albums/72157718754456502)
