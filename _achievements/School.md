@@ -28,6 +28,6 @@ description: ""
 
 <br clear="left">
 
-<img src="/images/achievement5.jpg" style="width:25%" align=left>
+<img src="/images/achievement5.jpg" style="width:21%" align=left>
 <img src="/images/achievement6.jpg" style="width:25%" align=left>
 <img src="/images/achievement7.jpg" style="width:25%" align=left>
