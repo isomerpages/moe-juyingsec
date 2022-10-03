@@ -113,3 +113,60 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 | 2015 | Annual Sea Competition (Kayaking - Doubles) | Female Senior Cadet : 4th |
 | 2014 | Best Unit Competition | Bronze |
 |
+
+#### **Activities**
+
+| Period | Level | Activity |
+|:---:|:---:|---|
+| March | Sec 3 | 1-star / 2-star Kayaking Certification Course |
+| March | Sec 3 | Advanced Drills Course |
+| March  | Sec 3 | Cadet Leaders Specialists’ Assessment   |
+|  March<br>June | Sec 3 | Specialist Course   |
+| March | Sec 3 | Cadet Leaders Technical Handling Test |
+| April | Sec 3 | Dragon boat Orientation Programme |
+| April | Sec 3 | Mini-Kayaking Expedition |
+| May<br>June  | Sec 3 | Annual Kayaking Expedition (AKE) for Cadet Leaders |
+| May | Sec 3  | Clean Up on Kayak Leadership Programme  |
+| June | Sec 3  | Cadet Leaders Individual Marksmanship Trainer (IMT)  |
+| June<br>July | Sec 3 | Dragon Boat Regatta |
+| June<br>Sept | Sec 3 | Senior Specialist Leadership Course |
+| July | Sec 3 | Annual Sea Competition (Kayaking) |
+| July | Sec 3 | Annual Sea Competition (Sea Challenge) |
+| Aug | Sec 3 | Cadet Leaders SAR21 Live Range |
+| Aug | Sec 3 | Road Relay Competition |
+| Nov | Sec 3 | Annual NCC Camp |
+|
+
+| Period | Level | Activity |
+|:---:|:---:|---|
+|  | Sec 2 | Camp STEEL |
+|  | Sec 2 | Physical Training Instructor (PTI) Course |
+|   | Sec 2 | Annual Orienteering Competition |
+| Nov | Sec 2 | Annual NCC Camp |
+| 
+
+| Period | Level | Activity |
+|:---:|:---:|---|
+|  | Sec 1 | Camp FORGE |
+|  | Sec 1 | NCC Affirmation Ceremony |
+|   | Sec 1 | Dragon Boat Regatta |
+|   | Sec 1 | Sports and Games Competition |
+| Nov |  Sec 1 | Annual NCC Camp |
+|
+
+#### **Activities/Achievements**
+
+|  |  |
+|---|---|
+| <img src="/images/nccsea%2013.jpeg" style="width:65%"> | Booth Visiting at Changi Exhibition |
+| <img src="/images/nccsea%2014.jpeg" style="width:65%"> | Dragonboat Team (Boys) |
+| <img src="/images/nccsea%2015.jpeg" style="width:65%"> | Dragonboat Team (Girls) |
+| <img src="/images/nccsea%2016.jpeg" style="width:65%"> | Kayaking team (Doubles) |
+| <img src="/images/nccsea%2017.jpeg" style="width:65%"> | On board ship from Canberra |
+| <img src="/images/nccsea%2018.jpeg" style="width:65%"> | Presenting Unit Recognition (Distinction) to Mdm Soh |
+| <img src="/images/nccsea%2019.jpeg" style="width:65%"> | Ready to march in |
+| <img src="/images/nccsea%2020.jpeg" style="width:65%"> | Sports and games (Frisbee) |
+| <img src="/images/nccsea%2021.jpeg" style="width:65%"> | Sui Mun (3rd in Kayaking Singles) |
+| <img src="/images/nccsea%2022.jpeg" style="width:65%"> | Team bonding during Exercise Puncak |
+|
+
