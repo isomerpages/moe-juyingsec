@@ -91,26 +91,21 @@ The Art & Crafts Club also takes part in various art competitions to challenge o
 
 | | |
 |---|---|
-| <img src="/images/artcraft3.png" style="width:85%">  | **International Peace Poster Competition 2021**<br>2nd place: Arthoven Kum Jin An <br>6th place: Liau Yi Wei<br>7th place: Nur Syahfina Binte Rohaizad<br>8th place: Charmaine Yeo Wei En<br>9th place: Lim Shu Yun<br>10th Place: Anton Kwoh Zu Ming<br><br>**featured image (left)**<br>2nd place: Arthoven Kum Jin An |
-|  <img src="/images/artcraft4.jpg" style="width:85%"> | JYian talent Zoleen receiving prizes from Mr Ng<br>for Live On Festival (LOF) 2021 National Competition. <br>Congratulations! |
-| <img src="/images/artcraft5.jpg" style="width:85%">  | Art piece created by Zoleen<br>for Live On Festival (2021) |
-| <img src="/images/artcraft6.jpg" style="width:85%"> | Miniature Food Making Workshop |
-| <img src="/images/artcraft7.jpg" style="width:85%"> | Mini-masterpieces from the Food Making Workshop |
-| <img src="/images/artcraft8.jpg" style="width:85%"> | Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee (NCCC) |
-| <img src="/images/artcraft9.jpg" style="width:85%"> | Design-A-Postcard Competition winners  |
-| <img src="/images/artcraft10.jpg" style="width:85%"> | Live On Festival (LOF) 2020 Award presentation. |
-| <img src="/images/artcraft11.jpg" style="width:85%"> | 3D Pop Art using recyclable materials and acrylic paint |
-| <img src="/images/artcraft12.jpg" style="width:85%"> | Concentration is key when doing observational drawing |
-| <img src="/images/artcraft13.jpg" style="width:85%"> | Student’s work on their own version of Van Gogh’s Starry Night |
-| <img src="/images/artcraft14.jpg" style="width:85%"> | Another masterpiece on their own adaptation of Van Gogh’s Starry Night |
-| <img src="/images/artcraft15.jpg" style="width:85%"> | A full shot with everyone! |
-| <img src="/images/artcraft16.jpg" style="width:85%"> | At JCUBE for VIA Flag Day |
-| <img src="/images/artcraft17.jpg" style="width:85%"> | T for Teamwork! |
-| <img src="/images/artcraft18.jpg" style="width:85%"> | Serious mode on! |
-| <img src="/images/artcraft19.jpg" style="width:85%"> | Handcrafted keychains for all our teachers for Teachers’ Day |
+| <img src="/images/artcraft3.png" style="width:65%">  | **International Peace Poster Competition 2021**<br>2nd place: Arthoven Kum Jin An <br>6th place: Liau Yi Wei<br>7th place: Nur Syahfina Binte Rohaizad<br>8th place: Charmaine Yeo Wei En<br>9th place: Lim Shu Yun<br>10th Place: Anton Kwoh Zu Ming<br><br>**featured image (left)**<br>2nd place: Arthoven Kum Jin An |
+|  <img src="/images/artcraft4.jpg" style="width:65%"> | JYian talent Zoleen receiving prizes from Mr Ng<br>for Live On Festival (LOF) 2021 National Competition. <br>Congratulations! |
+| <img src="/images/artcraft5.jpg" style="width:65%">  | Art piece created by Zoleen<br>for Live On Festival (2021) |
+| <img src="/images/artcraft6.jpg" style="width:65%"> | Miniature Food Making Workshop |
+| <img src="/images/artcraft7.jpg" style="width:65%"> | Mini-masterpieces from the Food Making Workshop |
+| <img src="/images/artcraft8.jpg" style="width:65%"> | Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee (NCCC) |
+| <img src="/images/artcraft9.jpg" style="width:65%"> | Design-A-Postcard Competition winners  |
+| <img src="/images/artcraft10.jpg" style="width:65%"> | Live On Festival (LOF) 2020 Award presentation. |
+| <img src="/images/artcraft11.jpg" style="width:65%"> | 3D Pop Art using recyclable materials and acrylic paint |
+| <img src="/images/artcraft12.jpg" style="width:65%"> | Concentration is key when doing observational drawing |
+| <img src="/images/artcraft13.jpg" style="width:65%"> | Student’s work on their own version of Van Gogh’s Starry Night |
+| <img src="/images/artcraft14.jpg" style="width:65%"> | Another masterpiece on their own adaptation of Van Gogh’s Starry Night |
+| <img src="/images/artcraft15.jpg" style="width:65%"> | A full shot with everyone! |
+| <img src="/images/artcraft16.jpg" style="width:65%"> | At JCUBE for VIA Flag Day |
+| <img src="/images/artcraft17.jpg" style="width:65%"> | T for Teamwork! |
+| <img src="/images/artcraft18.jpg" style="width:65%"> | Serious mode on! |
+| <img src="/images/artcraft19.jpg" style="width:65%"> | Handcrafted keychains for all our teachers for Teachers’ Day |
 |
-
-
-
-
-
