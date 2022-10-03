@@ -78,39 +78,32 @@ Thus our CCA is definitely an established platform to support and develop our me
 |  |  |
 |---|---|
 | <img src="/images/cultural%20dance%202.jpg" style="width:65%"> |Singapore Youth Festival 2021 |
-| # | Chinese New Year Performance |
-|  # | Teachers' Day Performance  |
-| # | The beauty of our dancers dancing to a Chinese-themed dance. |
-| # | Togetherness in harmony. |
-| # |  Rehearsing for perfection. |
-| # | Modern dance piece for Singapore Youth Festival Extravaganza at Bukit Panjang Plaza. |
-| # | Our swift dancers flying high for National Day Parade at Nanyang Community Club. |
-| # | Secondary 1 dancers performing during the Teacher’s Day celebration. |
-| # | Meal time during camp is awesome! |
-| # | Bonding camp is the time to get to know one another inside out. |
-| # |  Act it out with dance postures! |
-| # | Our dancer, Jie Lin, smiles at the audience during the Chinese New Year celebrations performance in school. |
-| # | A performance for Chinese New Year celebrations in school. |
+| <img src="/images/cultural%20dance%203.jpg" style="width:65%"> | Chinese New Year Performance |
+|  <img src="/images/cultural%20dance%204.jpg" style="width:65%"> | Teachers' Day Performance  |
+| <img src="/images/cultural%20dance%205.jpg" style="width:65%"> | The beauty of our dancers dancing to a Chinese-themed dance. |
+| <img src="/images/cultural%20dance%206.jpg" style="width:65%"> | Togetherness in harmony. |
+| <img src="/images/cultural%20dance%207.jpg" style="width:65%"> |  Rehearsing for perfection. |
+| <img src="/images/cultural%20dance%208.jpeg" style="width:65%"> | Modern dance piece for Singapore Youth Festival Extravaganza at Bukit Panjang Plaza. |
+| <img src="/images/cultural%20dance%209.jpg" style="width:65%"> | Our swift dancers flying high for National Day Parade at Nanyang Community Club. |
+| <img src="/images/cultural%20dance%2010.jpg" style="width:65%"> | Secondary 1 dancers performing during the Teacher’s Day celebration. |
+| <img src="/images/cultural%20dance%2011.jpg" style="width:65%"> | Meal time during camp is awesome! |
+| <img src="/images/cultural%20dance%2012.jpg" style="width:65%"> | Bonding camp is the time to get to know one another inside out. |
+| <img src="/images/cultural%20dance%2013.jpg" style="width:65%"> |  Act it out with dance postures! |
+| <img src="/images/cultural%20dance%2014.jpg" style="width:65%"> | Our dancer, Jie Lin, smiles at the audience during the Chinese New Year celebrations performance in school. |
+| <img src="/images/cultural%20dance%2015.jpg" style="width:65%"> | A performance for Chinese New Year celebrations in school. |
 |
 
 #### **Activities**
 
 |  |  |
 |---|---|
-| Debrief is must after rehearsal |  |
-| # | Flag day with sec 3 dancers |
-| # | Gong Xi Fa Cai Mr Yee and Nanyang Constituency |
-| # | Ready for Singapore Youth Festival Arts Presentation 2019 |
-| # | Ready to perform! |
-| # | Hold your posture! |
-| # | Syncronization is the key |
-| # | Warm up with my buddy |
-| # | Strengthen your arm muscle! |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Debrief is must after rehearsal |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Flag day with sec 3 dancers |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Gong Xi Fa Cai Mr Yee and Nanyang Constituency |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Ready for Singapore Youth Festival Arts Presentation 2019 |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Ready to perform! |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Hold your posture! |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Syncronization is the key |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Warm up with my buddy |
+| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Strengthen your arm muscle! |
 |
-
-
-
-
-
-
-
