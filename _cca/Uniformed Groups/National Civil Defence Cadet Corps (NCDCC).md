@@ -99,3 +99,18 @@ These are testaments of the growth of the cadets to be role models of excellence
 | <img src="/images/ncdcc23.jpg" style="width:85%"> | NCDCC Observance Ceremony |
 | <img src="/images/ncdcc24.jpeg" style="width:85%"><br><img src="/images/ncdcc25.jpeg" style="width:85%"> | Our Sec 2 and 3 National Civil Defence Cadet Corps (NCDCC) cadets participated in the Emergency Preparedness Day at Taman Jurong on 14 Jan (Sun), where they actively engaged members of the public in imparting useful emergency response skills such as Improvised First Aid Skills, Fire Safety and the use of CPR and AED. This was organised as part of the nationwide SGSecure programme, which our NCDCC cadets play an important role in educating and engaging the public.  |
 |  |  |
+
+#### **2018**
+
+|  |  |
+|---|---|
+| <img src="/images/ncdcc26.jpeg" style="width:65%"> | JYSS Total Defence Day |
+| <img src="/images/ncdcc27.jpeg" style="width:65%"> | JYSS Total Defence Day |
+| <img src="/images/ncdcc28.jpeg" style="width:65%"> | JYSS Total Defence Day 2019 |
+| <img src="/images/ncdcc29.jpeg" style="width:65%"> | NCDCC Service Week |
+| <img src="/images/ncdcc30.jpeg" style="width:65%"> | NCDCC Service Week |
+| <img src="/images/ncdcc31.jpeg" style="width:65%"> | NCDCC Observance Ceremony |
+| <img src="/images/ncdcc32.jpeg" style="width:65%"> | NCDCC Observance Ceremony  |
+| <img src="/images/ncdcc33.jpeg" style="width:65%"> | Precision Drill Competition (PDC) |
+| <img src="/images/ncdcc34.jpeg" style="width:65%"> | Precision Drill Competition (PDC) |
+|  |  |
