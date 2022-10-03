@@ -26,11 +26,12 @@ JPSG Partnership Award Recipients
 <figcaption><strong>  Mr Ng Say Peng, Sam (PBM) <br>School Advisory Committee<br>Public Service Medal Pingat Bakti Masyarakat - PBM<br>2018
 </figure>
 	
-<br clear="left">	
+<br><br><br><br>
+	<br><br><br><br>
 	
 |  |  |
 |:---:|:---:|
-| <img src="/images/purposeful%20partnership%202.jpg" style="width:55%"> | <img src="/images/purposeful%20partnership%203.jpg" style="width:97%"> |		
+| <img src="/images/purposeful%20partnership%202.jpg" style="width:55%"> | <img src="/images/purposeful%20partnership%203.jpg" style="width:97%"> |	
 | Mr Ng Say Peng, Sam (PBM) <br>School Advisory Committee <br> Public Service Medal Pingat Bakti Masyarakat - PBM<br><br>2015  | Dr Ong Ann Tee (PBM)<br>School Advisory Committee <br>Public Service Star Award<br>Bintang Bakti Masyarakat - BBM<br><br> 2014 |
 |
 	
