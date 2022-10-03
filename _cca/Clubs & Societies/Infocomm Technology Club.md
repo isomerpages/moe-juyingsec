@@ -68,16 +68,16 @@ Through means of providing support for the school and participation in competiti
 
 |  |  |
 |---|---|
-| <img src="/images/infocomm%203.jpg" style="width:85%"> | Photography student filming during the National Day Observance Ceremony |
-| <img src="/images/infocomm%204.jpg" style="width:85%"> | Photography student being a news cameraperson during during school events such as JYSS’s Sports Carnival  |
-| <img src="/images/infocomm%205.jpg" style="width:85%"> | Photography student reviewing their shots during CCA  |
-|  <img src="/images/infocomm%206.jpg" style="width:85%"> | Robotics students building robots during LEGO Spike (Basic) session |
-|  <img src="/images/infocomm%207.jpg" style="width:85%"> | Robotics students solving challenges in a LEGO Spike (Advanced) session |
-|  <img src="/images/infocomm%208.jpg" style="width:85%"> | Robotics students in an Arduino programming session |
-| <img src="/images/infocomm%209.jpg" style="width:85%"> | Robotics students participating at the World Robotics Games |
-| <img src="/images/infocomm%2010.jpg" style="width:85%"> | Robotics students clinching the top prize at the World Robotics Games (WRG) |
-| <img src="/images/infocomm%2011.jpg" style="width:85%"> | Robotics students participating in Project CODE |
-| <img src="/images/infocomm%2012.jpg" style="width:85%"> | AVPA students backstage at a school event  |
+| <img src="/images/infocomm%203.jpg" style="width:65%"> | Photography student filming during the National Day Observance Ceremony |
+| <img src="/images/infocomm%204.jpg" style="width:65%"> | Photography student being a news cameraperson during during school events such as JYSS’s Sports Carnival  |
+| <img src="/images/infocomm%205.jpg" style="width:65%"> | Photography student reviewing their shots during CCA  |
+|  <img src="/images/infocomm%206.jpeg" style="width:65%"> | Robotics students building robots during LEGO Spike (Basic) session |
+|  <img src="/images/infocomm%207.jpeg" style="width:65%"> | Robotics students solving challenges in a LEGO Spike (Advanced) session |
+|  <img src="/images/infocomm%208.jpeg" style="width:65%"> | Robotics students in an Arduino programming session |
+| <img src="/images/infocomm%209.jpg" style="width:65%"> | Robotics students participating at the World Robotics Games |
+| <img src="/images/infocomm%2010.jpg" style="width:65%"> | Robotics students clinching the top prize at the World Robotics Games (WRG) |
+| <img src="/images/infocomm%2011.jpg" style="width:65%"> | Robotics students participating in Project CODE |
+| <img src="/images/infocomm%2012.jpg" style="width:65%"> | AVPA students backstage at a school event  |
 |
 
 #### **Achievements**
@@ -105,5 +105,3 @@ Through means of providing support for the school and participation in competiti
 | 2015 | Engineering and Science Challenge  | Champion |
 | 2015 | Ngee Ann Polytechnic Aerochallenge Competition  | 4th Place |
 |
-
-
