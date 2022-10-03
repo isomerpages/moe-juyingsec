@@ -7,7 +7,7 @@ third_nav_title: Useful Links
 ### **Students**
 
 |  |  |
-|---|---|
+|---|:---:|
 | <img src="/images/students1.png" style="width:85%"> | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) |
 | <img src="/images/students2.jpg" style="width:85%"> | [Juyingsec.spydus.com.sg](Juyingsec.spydus.com.sg)   |
 | <img src="/images/students3.jpg" style="width:85%"> | [http://www.ace-learning.com](http://www.ace-learning.com) |
