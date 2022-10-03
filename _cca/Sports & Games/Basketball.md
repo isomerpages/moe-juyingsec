@@ -12,3 +12,5 @@ third_nav_title: Sports & Games
 <figcaption>  Juying School Leaders with Basketball CCA Leaders
  </figcaption>
 </figure>
+
+<img src="/images/badminton2.jpg" style="width:85%">
