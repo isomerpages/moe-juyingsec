@@ -84,3 +84,18 @@ These are testaments of the growth of the cadets to be role models of excellence
 | <img src="/images/ncdcc12.jpeg" style="width:65%"> | eCCA in Session |
 | <img src="/images/ncdcc13.jpg" style="width:65%"> | CCA Fair |
 |  |  |
+
+#### **2019**
+
+|  |  |
+|---|---|
+| <img src="/images/ncdcc14.jpg" style="width:85%"> | NCDCC Unit Overall Proficiency Award (UOPA) |
+| <img src="/images/ncdcc15.jpg" style="width:85%"> | SCDF-NCDCC Pinnacle badge award ceremony |
+| <img src="/images/ncdcc16.jpeg" style="width:85%"> | National Day Parade |
+| <img src="/images/ncdcc17.jpeg" style="width:85%"> | Sec 1 Recruitment |
+| <img src="/images/ncdcc18.jpg" style="width:85%"><br><img src="/images/ncdcc19.jpg" style="width:85%"> | Precision Drill Competition (PDC) |
+| <img src="/images/ncdcc20.jpg" style="width:85%"> | NCDCC Observance Ceremony |
+| <img src="/images/ncdcc21.jpeg" style="width:85%"><br><img src="/images/ncdcc22.jpeg" style="width:85%"> | NCDCC Emergency Preparedness (EP) Day |
+| <img src="/images/ncdcc23.jpg" style="width:85%"> | NCDCC Observance Ceremony |
+| <img src="/images/ncdcc24.jpeg" style="width:85%"><br><img src="/images/ncdcc25.jpeg" style="width:85%"> | Our Sec 2 and 3 National Civil Defence Cadet Corps (NCDCC) cadets participated in the Emergency Preparedness Day at Taman Jurong on 14 Jan (Sun), where they actively engaged members of the public in imparting useful emergency response skills such as Improvised First Aid Skills, Fire Safety and the use of CPR and AED. This was organised as part of the nationwide SGSecure programme, which our NCDCC cadets play an important role in educating and engaging the public.  |
+|  |  |
