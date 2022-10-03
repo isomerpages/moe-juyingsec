@@ -20,9 +20,9 @@ third_nav_title: Performing Arts
  </figcaption>
 </figure>
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/YnqzO_ZgPt4" title="Hip Hop NDP Performance 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/YnqzO_ZgPt4" title="Hip Hop NDP Performance 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1214" height="664" src="https://www.youtube.com/embed/LZQIJVi4bIY" title="SYF 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/LZQIJVi4bIY" title="SYF 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Vision**
 A healthy community of passionate dancers that display humility, creativity and appreciation of the work they do
@@ -87,4 +87,3 @@ All in all, every member of the NutzCrew is deeply humbled by all the victories 
 | Vice-Captain | Maisarah Putri Yousri Dahlan (3E2) |
 |   | Shwe Yadanar Win (3E3)<br>Nadra Asheeqa Binte Meslee (3E2)<br>Sng Yong Sheng (3T1) <br>Mohamad Fidryan El’figo Bin Mohamad Fuad (3A1)  |
 |
-
