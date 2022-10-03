@@ -26,7 +26,5 @@ The Speech & Drama members worked hard to put together a stunning performance fo
 
 #### **SYF Arts Presentation 2021**
 
-<iframe width="529" height="396" src="https://www.youtube.com/embed/bcuwWJNJb20" title="JUYING SECONDARY SCHOOL - Speech & Drama Club -  Certificate of Distinction - SYF 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="700" height="350" src="https://www.youtube.com/embed/bcuwWJNJb20" title="JUYING SECONDARY SCHOOL - Speech & Drama Club -  Certificate of Distinction - SYF 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
