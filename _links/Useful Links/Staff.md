@@ -7,7 +7,7 @@ third_nav_title: Useful Links
 ### **Staff**
 
 |  |  |
-|---|---|
+|---|:---:|
 | <img src="/images/useful%20link%20staff%201.jpg" style="width:85%"> | [intranet.moe.gov.sg*](intranet.moe.gov.sg)**website unavailable** |
 | <img src="/images/useful%20link%20staff%202.jpg" style="width:85%"> | ICON<br>[icon.moe.edu.sg](icon.moe.edu.sg) |
 | <img src="/images/useful%20link%20staff%203.png" style="width:65%"> | SC Mobile<br> [https://scmobile.moe.edu.sg/](https://scmobile.moe.edu.sg/) |
