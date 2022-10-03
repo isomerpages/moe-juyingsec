@@ -37,7 +37,7 @@ In 2020 and 2021, National Competitions were suspended due to COVID-19 SMM but 
 
 | Teachers-In-Charge |
 |:---:|
-| Ms Tay Wen Hui (IC)<br>Ms Lim Siew Yin<br><br>Ms Linda Tan<br>Ms Serena Xu<br>Ms Tay Wen Hui |
+| Ms Tay Wen Hui (IC)<br>Ms Lim Siew Yin<br>Ms Linda Tan<br>Ms Serena Xu<br>Ms Tay Wen Hui |
 |
 
 | Coach |
