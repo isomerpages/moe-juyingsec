@@ -9,7 +9,7 @@ third_nav_title: Useful Links
 |  |  |
 |---|:---:|
 | <img src="/images/students1.png" style="width:85%"> | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) |
-| <img src="/images/students2.jpg" style="width:85%"> | [Juyingsec.spydus.com.sg](Juyingsec.spydus.com.sg)   |
+| <img src="/images/students2.jpg" style="width:85%"> | [Juyingsec.spydus.com.sg](http://juyingsec.spydus.com.sg/)   |
 | <img src="/images/students3.jpg" style="width:85%"> | [http://www.ace-learning.com](http://www.ace-learning.com) |
 | <img src="/images/students4.png" style="width:85%"> |  [https://www.mangahigh.com/en](https://www.mangahigh.com/en) |
 | <img src="/images/students5.png" style="width:85%"> |  [http://www.examtime.com](http://www.examtime.com) |
