@@ -50,3 +50,41 @@ All in all, every member of the NutzCrew is deeply humbled by all the victories 
 | <img src="/images/hiphop%204.jpg" style="width:65%"><br><img src="/images/hiphop%205.jpg" style="width:65%"> | 2020<br><br>1. Chinese New Year Performance at Nanyang Community Club<br>2. Online Teachers' Day Celebration : Aladdin |
 | <img src="/images/hiphop%206.jpg" style="width:65%"> | 2019<br><br>1. Singapore Youth Festival Arts Presentation 2019<br>2. Super 24 Dance Competition |
 |  |  |
+
+#### **Achievements**
+
+| Year | Competitions | Achievements |
+|:---:|---|---|
+| 2021 | Singapore Youth Festival Arts Presentation 2021 (Certificate of Distinction) | Certificate of Distinction |
+| 2020 | In response to the 2020 COVID-19 situation, all National competitions were ceased. |  |
+| 2019 | Super24 Dance Competition |  First Runner Up  |
+| 2019 | Singapore Youth Festival Arts Presentation 2019 | Certificate of Distinction |
+| 2019 | World Supremacy Battlegrounds    | Super 24 Dance Competition (First Runner Up) |
+|
+
+#### **CCA Schedule**
+
+| Practice Venue | Practice Day |
+|:---:|:---:|
+|  DREAMS Studio, Level 3 Classrooms at  Responsibility Block | Friday 2.30pm - 4.30pm |
+|
+
+#### **Organisation Chart**
+
+| Teachers-In-Charge |
+|:---:|
+| Ms Nur Wahidah (OIC)<br>Ms Wong Zhimin Lynette Mr Ng Wei Sheng Martin |
+|  |
+
+|  Dance Instructors  |
+|:---:|
+| Mr Muhd Alif Bin Rais (Alif Aircho)<br>Mr Bobby Prayogi |
+|
+
+| Executive Committee  |  |
+|:---:|:---:|
+| Captain | Chua Pei Xuan Sharnice (3T1) |
+| Vice-Captain | Maisarah Putri Yousri Dahlan (3E2) |
+|   | Shwe Yadanar Win (3E3)<br>Nadra Asheeqa Binte Meslee (3E2)<br>Sng Yong Sheng (3T1) <br>Mohamad Fidryan El’figo Bin Mohamad Fuad (3A1)  |
+|
+
