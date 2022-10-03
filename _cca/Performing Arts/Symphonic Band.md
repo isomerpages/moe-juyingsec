@@ -73,6 +73,55 @@ JYSB strives to give every member the opportunity to learn something outside of 
 | <img src="/images/band%2017.jpg" style="width:65%"> | Singapore Youth Festival (SYF) 2019: Support from Alumni |
 |
 
+#### **Achievements**
 
+| Year | Competition | Achievement |
+|:---:|---|---|
+| 2021  | Singapore Youth Festival Arts Presentation  | Certificate of Accomplishment |
+| 2019 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+| 2016 | 5th Singapore International Band Festival (SIBF) Competition | Certificate of Participation |
+| 2015 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+|
 
+#### **CCA Schedule**
+
+| Practice Venue | Practice Day |
+|:---:|:---:|
+| Band Room / AVA Room | Friday 2.30pm - 5.30pm |
+|
+
+#### **Organisation Chart**
+
+| Teachers-In-Charge |
+|---|
+| Mr Albert Lui (IC)<br>Mdm Rozana Salleh<br>Ms Chen Yonghua<br>Mdm Raudhah Rizal |
+|  |
+
+| Resident Conductor  |
+|---|
+| Mr Jasen How |
+|  |
+
+| Executive Committee |  |
+|:---:|:---:|
+| Asst Band Major | Stephen Teo Shao Hong (3E3) |
+| Drum Major | Jia Xi (3E3) |
+|  Asst Band Major | Choo Yu Han (2E2) |
+| Asst Drum Major | Meuthia Dzahirah (2E4) |
+|
+
+#### **Band Talent Development Programme**
+
+| Year | Programme | Organiser |
+|:---:|---|---|
+| 2017 | Band Student Conductor Camp | Arts Education Branch |
+| 2017 | Drum Major Camp | Arts Education Branch |
+| 2017 | Rudimental Drumming Workshop | Singapore Armed Forces |
+| 2017 | Chingay | People’s Association |
+| 2016 | Band Student Conductor Camp |  Arts Education Branch |
+| 2016 | Mobile Music Making Competition | Republic Polytechnic |
+| 2016 | Drum Major Camp | Arts Education Branch |
+| 2016 | Rudimental Drumming Workshop | Singapore Armed Forces |
+|
 
