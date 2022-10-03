@@ -88,13 +88,13 @@ The Speech & Drama members worked hard to put together a stunning performance fo
 
 |  |  |
 |---|---|
-| <img src="/images/speech%20and%20drama%2013.jpg" style="width:85%"> | Hard at work preparing the props for our SYF production –<br>It’s All in Your Head! |
-| <img src="/images/speech%20and%20drama%2014.jpg" style="width:85%"> | Rehearsing on stage for the SYF School Showcase! |
-| <img src="/images/speech%20and%20drama%2015.jpg" style="width:85%"> | The main casts of our SYF Production - It’s All in Your Head! |
-| <img src="/images/speech%20and%20drama%2016.jpg" style="width:85%"> | Our actors hard at work putting on make-up for the performance! |
-| <img src="/images/speech%20and%20drama%2017.jpg" style="width:85%"> | Drama members portraying Singaporeans from the past for our National Day Observance Ceremony with Nanyang Community Club! |
-| <img src="/images/speech%20and%20drama%2018.jpg" style="width:85%"> | Behind-the-scenes - cast members of the Teacher’s Day Production in the holding room! |
-| <img src="/images/speech%20and%20drama%2019.jpg" style="width:85%"> | A surprise Teacher’s Day celebration for the teachers! |
-| <img src="/images/speech%20and%20drama%2020.jpg" style="width:85%"> | Our inaugural debating team! |
-| <img src="/images/speech%20and%20drama%2021.jpg" style="width:85%"> | Our debater, Lim Chee Seng, was recognized as one of the Top 20 Speakers for Division III! |
+| <img src="/images/speech%20and%20drama%2013.jpg" style="width:95%"> | Hard at work preparing the props for our SYF production –<br>It’s All in Your Head! |
+| <img src="/images/speech%20and%20drama%2014.jpg" style="width:95%"> | Rehearsing on stage for the SYF School Showcase! |
+| <img src="/images/speech%20and%20drama%2015.jpg" style="width:95%"> | The main casts of our SYF Production - It’s All in Your Head! |
+| <img src="/images/speech%20and%20drama%2016.jpg" style="width:95%"> | Our actors hard at work putting on make-up for the performance! |
+| <img src="/images/speech%20and%20drama%2017.jpg" style="width:95%"> | Drama members portraying Singaporeans from the past for our National Day Observance Ceremony with Nanyang Community Club! |
+| <img src="/images/speech%20and%20drama%2018.jpg" style="width:95%"> | Behind-the-scenes - cast members of the Teacher’s Day Production in the holding room! |
+| <img src="/images/speech%20and%20drama%2019.jpg" style="width:95%"> | A surprise Teacher’s Day celebration for the teachers! |
+| <img src="/images/speech%20and%20drama%2020.jpg" style="width:95%"> | Our inaugural debating team! |
+| <img src="/images/speech%20and%20drama%2021.jpg" style="width:95%"> | Our debater, Lim Chee Seng, was recognized as one of the Top 20 Speakers for Division III! |
 |  |  |
