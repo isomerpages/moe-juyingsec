@@ -95,12 +95,13 @@ Through these key events where our choir members were nurtured under the support
 |
 
 #### **Events**
+
 | | |
 |---|---|
-| <img src="/images/choir13.jpg" style="width:85%"> | Performing parts of the B-Dazzled Show Choir Competition piece in school |
-| <img src="/images/choir14.jpg" style="width:85%"> | Received the Bronze trophy from school principal, Mdm Soh  |
-| <img src="/images/choir15.jpg" style="width:85%"> | Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion |
-| <img src="/images/choir16.jpg" style="width:85%"> | Performed for Singapore Youth Festival (SYF) |
-| <img src="/images/choir17.jpg" style="width:85%"> | Aftermath of SYF performance  |
-| <img src="/images/choir18.jpg" style="width:85%"> | All dolled up and rehearsing for one last time with the instructor before the B-Dazzled Show Choir Competition |
+| <img src="/images/choir13.jpg" style="width:65%"> | Performing parts of the B-Dazzled Show Choir Competition piece in school |
+| <img src="/images/choir14.jpg" style="width:65%"> | Received the Bronze trophy from school principal, Mdm Soh  |
+| <img src="/images/choir15.jpg" style="width:65%"> | Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion |
+| <img src="/images/choir16.jpg" style="width:65%"> | Performed for Singapore Youth Festival (SYF) |
+| <img src="/images/choir17.jpg" style="width:65%"> | Aftermath of SYF performance  |
+| <img src="/images/choir18.jpg" style="width:65%"> | All dolled up and rehearsing for one last time with the instructor before the B-Dazzled Show Choir Competition |
 |
