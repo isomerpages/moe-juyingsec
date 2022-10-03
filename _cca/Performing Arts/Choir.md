@@ -46,6 +46,7 @@ Through these key events where our choir members were nurtured under the support
 |
 
 #### **Club Activities**
+
 | | |
 |---|---|
 | <img src="/images/choir3.jpg" style="width:85%"> | Jurong Health Campus Performance |
