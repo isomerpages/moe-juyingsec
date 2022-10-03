@@ -94,12 +94,12 @@ JYSB strives to give every member the opportunity to learn something outside of 
 #### **Organisation Chart**
 
 | Teachers-In-Charge |
-|---|
+|:---:|
 | Mr Albert Lui (IC)<br>Mdm Rozana Salleh<br>Ms Chen Yonghua<br>Mdm Raudhah Rizal |
 |  |
 
 | Resident Conductor  |
-|---|
+|:---:|
 | Mr Jasen How |
 |  |
 
@@ -124,4 +124,3 @@ JYSB strives to give every member the opportunity to learn something outside of 
 | 2016 | Drum Major Camp | Arts Education Branch |
 | 2016 | Rudimental Drumming Workshop | Singapore Armed Forces |
 |
-
