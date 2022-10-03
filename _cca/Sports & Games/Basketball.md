@@ -80,33 +80,29 @@ The Basketball boys had participated in ActiveSG-BAS Basketball Developmental Le
 
 |  |  |
 |---|---|
-|  | School Team Players for National School Games West Zone B Division Competition 2019 |
-|   |   |
-| # | Participants of ActiveSG-BAS Developmental League, B Division Competition 2019 (Team 2) |
-| # | Free Throw attempt during the West Zone B Division Competition |
-| # | 3rd Runner Up at the ActiveSG-BAS Developmental League, B Division Competition 2019 (Team 1) |
-| # | Briefing by coach at T-Net competition which serves as a pre-season game for the C Division basketball players |
-| # | Tip Off at T-Net competition |
-| # | Tip Off at National School Games, West Zone C Division Competition 2019 |
-| # | Alumni Night where alumni members are invited back for a friendly game with the current B Division basketball players |
-| # | Team Bonding Games during Basketball Training Camp |
-| # | Team Building Activity at Escape Room |
+| <img src="/images/basketball3.jpg" style="width:85%"> | School Team Players for National School Games West Zone B Division Competition 2019 |
+| <img src="/images/basketball4.jpg" style="width:85%"> | Participants of ActiveSG-BAS Developmental League, B Division Competition 2019 (Team 2) |
+| <img src="/images/basketball5.jpg" style="width:85%"> | Free Throw attempt during the West Zone B Division Competition |
+| <img src="/images/basketball6.jpg" style="width:85%"> | 3rd Runner Up at the ActiveSG-BAS Developmental League, B Division Competition 2019 (Team 1) |
+| <img src="/images/basketball7.jpg" style="width:85%"> | Briefing by coach at T-Net competition which serves as a pre-season game for the C Division basketball players |
+| <img src="/images/basketball8.jpg" style="width:85%"> | Tip Off at T-Net competition |
+| <img src="/images/basketball9.jpg" style="width:85%"> | Tip Off at National School Games, West Zone C Division Competition 2019 |
+| <img src="/images/basketball10.jpg" style="width:85%"> | Alumni Night where alumni members are invited back for a friendly game with the current B Division basketball players |
+| <img src="/images/basketball11.jpg" style="width:85%"> | Team Bonding Games during Basketball Training Camp |
+| <img src="/images/basketball12.jpg" style="width:85%"> | Team Building Activity at Escape Room |
 |
 
 #### **2018**
 
 |  |  |
 |---|---|
-|  | ActiveSG-BAS Basketball Development League |
-| # | Alumni Night |
-| # | B Division Boys |
-| # | Friendly Game |
-| #  | Secondary Ones at Basketball trial |
-| # | Basketball Training Camp |
-| #  | Bonding Activity – Laser Tags |
-| # | Bonding Activity – Laser Tags |
-| # | Bonding Activity – Laser Tags |
+| <img src="/images/basketball13.jpeg" style="width:85%"> | ActiveSG-BAS Basketball Development League |
+| <img src="/images/basketball14.jpg" style="width:85%"> | Alumni Night |
+| <img src="/images/basketball15.jpg" style="width:85%"> | B Division Boys |
+| <img src="/images/basketball16.jpeg" style="width:85%"> | Friendly Game |
+| <img src="/images/basketball17.jpg" style="width:85%">  | Secondary Ones at Basketball trial |
+| <img src="/images/basketball18.jpg" style="width:85%"> | Basketball Training Camp |
+| <img src="/images/basketball19.jpeg" style="width:85%">  | Bonding Activity – Laser Tags |
+| <img src="/images/basketball20.jpeg" style="width:85%"> | Bonding Activity – Laser Tags |
+| <img src="/images/basketball21.jpeg" style="width:85%"> | Bonding Activity – Laser Tags |
 |
-
-
-
