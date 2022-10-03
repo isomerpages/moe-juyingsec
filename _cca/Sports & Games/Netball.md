@@ -81,6 +81,8 @@ In 2020 and 2021, National Competitions were suspended due to COVID-19 SMM but 
 | <img src="/images/netball10.jpg" style="width:85%"> | During one of our drills |
 |
 
+#### **2019**
+
 |  |  |
 |---|---|
 | <img src="/images/netball11.jpg" style="width:85%"> | Our C Division girls and captains, posing with their medals! |
@@ -105,4 +107,3 @@ In 2020 and 2021, National Competitions were suspended due to COVID-19 SMM but 
 | Nov | Annual Netball Camp |
 | Nov - Dec | Holiday training & friendly matches |
 |
-
