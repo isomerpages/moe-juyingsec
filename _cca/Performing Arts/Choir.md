@@ -49,16 +49,16 @@ Through these key events where our choir members were nurtured under the support
 
 | | |
 |---|---|
-| <img src="/images/choir3.jpg" style="width:85%"> | Jurong Health Campus Performance |
-| <img src="/images/choir4.jpg" style="width:85%"> | Juying Show Choir Family |
-| <img src="/images/choir5.jpg" style="width:85%"> | Chinese New Year performance at Gek Poh Ville Community Club |
-| <img src="/images/choir6.jpg" style="width:85%"> | Nanyang National Day Observance Ceremony |
-| <img src="/images/choir7.jpg" style="width:85%"> | Sectionals in Progress |
-| <img src="/images/choir8.jpg" style="width:85%"> | B-Dazzled! Show Choir Festival |
-| <img src="/images/choir9.jpg" style="width:85%"> | Alumni helping and showing the family spirit |
-| <img src="/images/choir10.jpg" style="width:85%"> | Getting ready for showtime |
-| <img src="/images/choir11.jpg" style="width:85%"> | Show Choir Exchange at SCAPE |
-| <img src="/images/choir12.jpg" style="width:85%"> | Show Choir Exchange at SCAPE |
+| <img src="/images/choir3.jpg" style="width:65%"> | Jurong Health Campus Performance |
+| <img src="/images/choir4.jpg" style="width:65%"> | Juying Show Choir Family |
+| <img src="/images/choir5.jpg" style="width:65%"> | Chinese New Year performance at Gek Poh Ville Community Club |
+| <img src="/images/choir6.jpg" style="width:65%"> | Nanyang National Day Observance Ceremony |
+| <img src="/images/choir7.jpg" style="width:65%"> | Sectionals in Progress |
+| <img src="/images/choir8.jpg" style="width:65%"> | B-Dazzled! Show Choir Festival |
+| <img src="/images/choir9.jpg" style="width:65%"> | Alumni helping and showing the family spirit |
+| <img src="/images/choir10.jpg" style="width:65%"> | Getting ready for showtime |
+| <img src="/images/choir11.jpg" style="width:65%"> | Show Choir Exchange at SCAPE |
+| <img src="/images/choir12.jpg" style="width:65%"> | Show Choir Exchange at SCAPE |
 |
 
 #### **Achievements**
