@@ -84,20 +84,20 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 |:---:|---|---|
 |  2022 | Unit Recognition  | DISTINCTION |
 |  2022 | Dragon Boat @Pesta Sukan 2022  | 4th  |
-|  2022 |  Knowledge Challenge (2022) | Junior Cadets<br> 1st - ETHAN TAN YI BIN (1S1) <br><br> Senior Cadets <br>Top 10 (10th) - NURDYRAH ELLIAYU BINTE ROZANI (2A2) <br><br> Cadet Leaders<br> Top 10 (10th) - LUCAS CHEW YAN YU (3E2)              |
+|  2022 |  Knowledge Challenge (2022) | **Junior Cadets**<br> 1st - ETHAN TAN YI BIN (1S1) <br><br> **Senior Cadets** <br>Top 10 (10th) - NURDYRAH ELLIAYU BINTE ROZANI (2A2) <br><br> **Cadet Leaders**<br> Top 10 (10th) - LUCAS CHEW YAN YU (3E2)              |
 | 2022  |  Mini Kayaking Expedition | LUCAS CHEW YAN YU (3E2)<br> ZULHERDYAN EZAL BIN MOHAMAD HERDUAN (3T1)  |
-|  2022 | Fitness Challenge  |  Junior Cadets Male<br> 1st - ABHILASH NEERAJ (1N)<br> Commendation (5th) - ZWE MIN SAN (1A)<br><br>  Junior Cadets Female<br> 1st - TEH JIA YUAN DILYS (ZHENG JIAYUAN) (1N)<br> 2nd - JAELYNN NEO JIAXUAN (1O) <br>3rd - NEELASHENE SURESH RAO (1P)<br> Commendation (4th) - MUSFIRAH BINTE MUHAMMED BASEER (1O)<br><br>  Senior Cadets Male <br>Top 10 (9th) - ALDRICH LAU (2E3) <br><br> Senior Cadets Female<br> 1st - NURDYRAH ELLIAYU BINTE ROZANI (2A2)<br> 2nd - DESIREE LOH WAN QI (2A1) <br>3rd - LIEW CHUN EN (2A2)<br> Top 10 (6th) - ALYA NURSYAZANI BINTE MOHAMMAD SANI (2A2) <br> Top 10 (10th) - SIEW XUAN YING (2A2) <br><br> Cadet Leaders Male<br> 3rd - ZULHERDYAN EZAL BIN MOHAMAD HERDUAN (3T1)<br><br>  Cadet Leaders Female<br> 1st - HANNIS FARHAN ASHIBLIE (3T1)<br> 2nd - EYU JIE NI (3E2) Commendation (4th) - CHERYL LEONG JIAQI (3T1)<br> Top 10 (10th) - NUR NATALISA ARYANNI BINTE ABDUL RUSMANNI (3T1) |
+|  2022 | Fitness Challenge  |  **Junior Cadets Male**<br> 1st - ABHILASH NEERAJ (1N)<br> Commendation (5th) - ZWE MIN SAN (1A)<br><br>  **Junior Cadets Female**<br> 1st - TEH JIA YUAN DILYS (ZHENG JIAYUAN) (1N)<br> 2nd - JAELYNN NEO JIAXUAN (1O) <br>3rd - NEELASHENE SURESH RAO (1P)<br> Commendation (4th) - MUSFIRAH BINTE MUHAMMED BASEER (1O)<br><br>  **Senior Cadets Male** <br>Top 10 (9th) - ALDRICH LAU (2E3) <br><br> **Senior Cadets Female**<br> 1st - NURDYRAH ELLIAYU BINTE ROZANI (2A2)<br> 2nd - DESIREE LOH WAN QI (2A1) <br>3rd - LIEW CHUN EN (2A2)<br> Top 10 (6th) - ALYA NURSYAZANI BINTE MOHAMMAD SANI (2A2) <br> Top 10 (10th) - SIEW XUAN YING (2A2) <br><br> **Cadet Leaders Male**<br> 3rd - ZULHERDYAN EZAL BIN MOHAMAD HERDUAN (3T1)<br><br>  **Cadet Leaders Female**<br> 1st - HANNIS FARHAN ASHIBLIE (3T1)<br> 2nd - EYU JIE NI (3E2) Commendation (4th) - CHERYL LEONG JIAQI (3T1)<br> Top 10 (10th) - NUR NATALISA ARYANNI BINTE ABDUL RUSMANNI (3T1) |
 | 2022  | Outstanding Cadet Award 2022  | HO QIAN YI ELEANOR (4E1) BONG SHI JIA (4E2)  |
-|  2021 | Sea Competition 2021 | (1) Bands and Hitches Challenge<br>Junior Cadets District Female<br>5th placing<br>Alya Nursyazani Bte Mohammad Sani (1A2)<br><br><br>(2) Fitness Challenge<br>Senior Cadets District Male<br>Champion<br>Zulherdyan Ezal Bin Mohamad Herduan (2T1)<br><br><br>Senior Cadets District Male<br>4th placing<br>Jaeren Huang Yu Quan (2A1)<br><br><br>Senior Cadets District Female<br>Joint 1st Runner Up <br>Eyu Jie Ni (2E2) |
-| 2020  | Guardians of the City Competition organised by<br>The Singapore Discovery Centre  | Gold Award<br>Jeidy Lim Yong Bin 2E3<br>Ho Qian Lee Eleanor 2E4<br>Lim Ze Ming 2A3<br><br>Silver Award<br>Poh Cheng Hung 1E2<br>Lucas Chew Yan Yu 1E2<br>Andy Tan Xin Ming 1E4  |
+|  2021 | Sea Competition 2021 | **(1) Bands and Hitches Challenge<br>Junior Cadets District Female<br>5th placing**<br>Alya Nursyazani Bte Mohammad Sani (1A2)<br><br><br>**(2) Fitness Challenge<br>Senior Cadets District Male<br>Champion**<br>Zulherdyan Ezal Bin Mohamad Herduan (2T1)<br><br><br>**Senior Cadets District Male<br>4th placing**<br>Jaeren Huang Yu Quan (2A1)<br><br><br>**Senior Cadets District Female<br>Joint 1st Runner Up**<br>Eyu Jie Ni (2E2) |
+| 2020  | Guardians of the City Competition organised by<br>The Singapore Discovery Centre  | **Gold Award**<br>Jeidy Lim Yong Bin 2E3<br>Ho Qian Lee Eleanor 2E4<br>Lim Ze Ming 2A3<br><br>**Silver Award**<br>Poh Cheng Hung 1E2<br>Lucas Chew Yan Yu 1E2<br>Andy Tan Xin Ming 1E4  |
 |  2019 | Unit Recognition  | DISTINCTION  |
-| 2019 | Annual Sea Competition (Kayaking) | Singles Girls<br>Junior Cadet - 4th : Ho Qian Yi Eleanor 1E4Senior Cadet - 4th : Beh Penhui 2A1Cadet Leaders - 3rd : Leong Sui Mun 3E2<br><br>Double Girls<br>Junior Cadet - 4th : Bong Shi Jia 1E2,<br>Naima Aqiesha Binte Rosdi 1E4Senior Cadet - 5th : Chng Jing Ni 2E2,<br>Lim Shi Hui 2E2Cadet Leader - 6th : Nur Sorfina Binte Muhd Zahid 3A2, Shakira Ayuni Binte Abdullah 3A2 |
-| 2019 | Dragon Boat Regatta | Boys: Semi-finalist<br>Girls: 3rd team placing |
+| 2019 | Annual Sea Competition (Kayaking) | **Singles Girls**<br>Junior Cadet - 4th : Ho Qian Yi Eleanor 1E4Senior Cadet - 4th : Beh Penhui 2A1Cadet Leaders - 3rd : Leong Sui Mun 3E2<br><br>**Double Girls**<br>Junior Cadet - 4th : Bong Shi Jia 1E2,<br>Naima Aqiesha Binte Rosdi 1E4 <br>Senior Cadet - 5th : Chng Jing Ni 2E2,<br>Lim Shi Hui 2E2Cadet Leader - 6th : Nur Sorfina Binte Muhd Zahid 3A2, Shakira Ayuni Binte Abdullah 3A2 |
+| 2019 | Dragon Boat Regatta | **Boys:** Semi-finalist<br>**Girls:** 3rd team placing |
 |  2019 | NCC Road Relay  | 3rd in Prelims<br>Finalists  |
 | 2018 | Unit Recognition | DISTINCTION |
-| 2018 | Dragon Boat Regatta | Boys : Semi-finalistGirls : 5th |
+| 2018 | Dragon Boat Regatta | **Boys :** Semi-finalist<br>**Girls :** 5th |
 | 2018 | Annual Orienteering Competition | 2nd |
-| 2018 | Annual Sea Competition (Kayaking) | Singles<br>Girls (Cadets Leaders) : 3rd<br>Girls (Junior Cadets) : 4th<br>Girls (Senior Cadets) : 4th<br><br>Doubles<br>Girls (Junior Cadets) : 4th<br>Girls (Senior Cadets) : 5th<br>Girls (Cadets Leaders) : 6th |
+| 2018 | Annual Sea Competition (Kayaking) | **Singles**<br>Girls (Cadets Leaders) : 3rd<br>Girls (Junior Cadets) : 4th<br>Girls (Senior Cadets) : 4th<br><br>**Doubles**<br>Girls (Junior Cadets) : 4th<br>Girls (Senior Cadets) : 5th<br>Girls (Cadets Leaders) : 6th |
 | 2018 | Road Relay Competition | Girls team : 1st runner-up |
 | 2017 | Best Unit Competition | Silver |
 | 2017 | Annual Sea Competition (Kayaking) | 4th-7th individual placing |
@@ -113,7 +113,3 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 | 2015 | Annual Sea Competition (Kayaking - Doubles) | Female Senior Cadet : 4th |
 | 2014 | Best Unit Competition | Bronze |
 |
-
-
-
-
