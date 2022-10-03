@@ -72,16 +72,16 @@ The Speech & Drama members worked hard to put together a stunning performance fo
 
 |  |  |
 |---|---|
-| <img src="/images/speech%20and%20drama%203.jpeg" style="width:85%"> | A confrontation between neighbours |
-| <img src="/images/speech%20and%20drama%204.jpeg" style="width:85%"> | Listening attentively to comments by judges for their play ‘Neighbour Woes’  |
-| <img src="/images/speech%20and%20drama%205.jpeg" style="width:85%"> | Celebratory Picture after Human Values Drama Festival 2018 |
-| <img src="/images/speech%20and%20drama%206.jpeg" style="width:85%"> |  Saying farewell to our beloved Sec 4s  |
-| <img src="/images/speech%20and%20drama%207.jpeg" style="width:85%"> |  A full shot with everyone |
-| <img src="/images/speech%20and%20drama%208.jpeg" style="width:85%"> | At the beach for our VIA clean-up  |
-| <img src="/images/speech%20and%20drama%209.jpeg" style="width:85%"> | Amidst rehearsals for Teachers’ Day  |
-| <img src="/images/speech%20and%20drama%2010.jpeg" style="width:85%"> |  With all our Performing Arts friends |
-| <img src="/images/speech%20and%20drama%2011.jpeg" style="width:85%"> | Jittery butterflies before our 30 minute Musical Performance for our teachers  |
-| <img src="/images/speech%20and%20drama%2012.jpeg" style="width:85%"> |  In the middle of it all!  |
+| <img src="/images/speech%20and%20drama%203.jpeg" style="width:65%"> | A confrontation between neighbours |
+| <img src="/images/speech%20and%20drama%204.jpeg" style="width:65%"> | Listening attentively to comments by judges for their play ‘Neighbour Woes’  |
+| <img src="/images/speech%20and%20drama%205.jpeg" style="width:65%"> | Celebratory Picture after Human Values Drama Festival 2018 |
+| <img src="/images/speech%20and%20drama%206.jpeg" style="width:65%"> |  Saying farewell to our beloved Sec 4s  |
+| <img src="/images/speech%20and%20drama%207.jpeg" style="width:65%"> |  A full shot with everyone |
+| <img src="/images/speech%20and%20drama%208.jpeg" style="width:65%"> | At the beach for our VIA clean-up  |
+| <img src="/images/speech%20and%20drama%209.jpeg" style="width:65%"> | Amidst rehearsals for Teachers’ Day  |
+| <img src="/images/speech%20and%20drama%2010.jpeg" style="width:65%"> |  With all our Performing Arts friends |
+| <img src="/images/speech%20and%20drama%2011.jpeg" style="width:65%"> | Jittery butterflies before our 30 minute Musical Performance for our teachers  |
+| <img src="/images/speech%20and%20drama%2012.jpeg" style="width:65%"> |  In the middle of it all!  |
 |
 
 #### **2019**
@@ -98,4 +98,3 @@ The Speech & Drama members worked hard to put together a stunning performance fo
 | <img src="/images/speech%20and%20drama%2020.jpg" style="width:85%"> | Our inaugural debating team! |
 | <img src="/images/speech%20and%20drama%2021.jpg" style="width:85%"> | Our debater, Lim Chee Seng, was recognized as one of the Top 20 Speakers for Division III! |
 |  |  |
-
