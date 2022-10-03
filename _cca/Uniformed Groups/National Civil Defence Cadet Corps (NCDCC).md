@@ -114,3 +114,58 @@ These are testaments of the growth of the cadets to be role models of excellence
 | <img src="/images/ncdcc33.jpeg" style="width:65%"> | Precision Drill Competition (PDC) |
 | <img src="/images/ncdcc34.jpeg" style="width:65%"> | Precision Drill Competition (PDC) |
 |  |  |
+
+#### **Competitions**
+
+| Year | Competition | Achievement |
+|:---:|---|---|
+| 2022 | Unit Overall Proficiency Award (UOPA) |   |
+|  2022 |  Instructional Video Competition | Tang Jia Wen Sarah<br>Adrian Tan Ding Ji<br>Low Han Bing<br>Yesenia Yasmine Binte Adanan<br> Maya Binte Mohammad Irwan<br>Esther Ling Xue Liang<br> |
+|  2022 | SCDF-NCDCC Pinnacle Badge Award  | Muhammad Irfan Azhari Bin Mohd Farid Hazrul Hakim Bin Norshahrul |
+| 2021  | Unit Overall Proficiency Award (UOPA)  |   |
+|  2021  | Best Unit Cadet  | Shena Quseerah Binte Hamidon  |
+| 2021 | SCDF-NCDCC Pinnacle Badge Award   | Muhaimin Dhani Anaqi Bin Maswande  |
+| 2020 | SCDF-NCDCC Pinnacle Badge Award  | Shena Quseerah Binte Hamidon  |
+|  2020  | Best Unit Cadet  | Nur Sofeena Fadzil |
+|  2020 | SCDF-NCDCC Pinnacle Badge Award | Nur Sofeena Fadzil  |
+| 2019 |  Unit Overall Proficiency Award (UOPA) | GOLD  |
+| 2019 |  SCDF-NCDCC Pinnacle Badge Award | Fazirah Bte Kamarudin (4A2) |
+| 2019 | Best Unit Cadet | Fazirah Bte Kamarudin (4A2) |
+| 2018 | Unit Overall Proficiency Award (UOPA) | GOLD |
+| 2018 | NCDCC Outdoor Resilience Adventure Challenge  | 2nd place |
+| 2018 | Best Unit Cadet | Mohammad Luthfil Hadi B Haji A (4E2) |
+| 2018 | SCDF-NCDCC Pinnacle Badge  | Mohammad Luthfil Hadi B Haji A (4E2) |
+| 2018 | West Sector Inter Unit Civil Defence Skills Challenge | Top 3 |
+| 2017 | Unit Overall Proficiency Award (UOPA) | GOLD |
+| 2017 | SCDF-NCDCC Pinnacle Badge | Mohammad Putera Alfian B A R (4A2)<br>Lim Bi Wang (4E1) |
+|
+
+#### **Activities**
+
+| Period | Activity |
+|:---:|---|
+| Jan | Emergency Preparedness Day at Taman Jurong |
+| Jan<br>Sept | Psychological First Aid Course |
+| Feb | Precision Drill Competition (PDC) |
+| Feb | Chingay Parade |
+| Mar | Disaster and Response Team (DART) Base Visit |
+| Mar | NCDCC Specialisation Course |
+| Mar | West Sector Inter Unit Civil Defence Skills Challenge |
+| Apr | Singapore Anti-Narcotics Association (SANA) Course |
+| Apr | NCDCC Games Day |
+| Apr | First Aid Service Week at Xingnan Primary School |
+| May | Cardiopulmonary resuscitation (CPR) Service Week at Westwood Secondary School |
+| May | Homefront Security Course |
+| June | NCDCC Affirmation Day |
+| Aug | Nanyang Observance Ceremony |
+| Aug | National Day Parade |
+| Aug | Emergency Preparedness (EP) Centre visit |
+| Aug | Civil Defence Heritage Gallery visit |
+| Aug | Emergency Preparedness day at Jurong West |
+| Aug | UG Camp |
+| Aug | NFEC-NCDCC Inter-Unit quiz (IQ) |
+| Oct | Fire Station visit |
+| Oct | NCDCC Outdoor Resilience Adventure Challenge |
+| Nov | NCDCC Annual Unit Camp |
+|
+
