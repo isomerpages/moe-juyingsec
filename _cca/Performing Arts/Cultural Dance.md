@@ -97,13 +97,13 @@ Thus our CCA is definitely an established platform to support and develop our me
 
 |  |  |
 |---|---|
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Debrief is must after rehearsal |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Flag day with sec 3 dancers |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Gong Xi Fa Cai Mr Yee and Nanyang Constituency |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Ready for Singapore Youth Festival Arts Presentation 2019 |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Ready to perform! |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Hold your posture! |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Syncronization is the key |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Warm up with my buddy |
-| <img src="/images/cultural%20dance%202.jpg" style="width:65%"> | Strengthen your arm muscle! |
+| <img src="/images/cultural%20dance%2016.jpg" style="width:65%"> | Debrief is must after rehearsal |
+| <img src="/images/cultural%20dance%2017.jpg" style="width:65%"> | Flag day with sec 3 dancers |
+| <img src="/images/cultural%20dance%2018.jpg" style="width:65%"> | Gong Xi Fa Cai Mr Yee and Nanyang Constituency |
+| <img src="/images/cultural%20dance%2019.jpg" style="width:65%"> | Ready for Singapore Youth Festival Arts Presentation 2019 |
+| <img src="/images/cultural%20dance%2020.jpg" style="width:65%"> | Ready to perform! |
+| <img src="/images/cultural%20dance%2021.jpg" style="width:65%"> | Hold your posture! |
+| <img src="/images/cultural%20dance%2022.jpg" style="width:65%"> | Syncronization is the key |
+| <img src="/images/cultural%20dance%2023.jpg" style="width:65%"> | Warm up with my buddy |
+| <img src="/images/cultural%20dance%2024.jpg" style="width:65%"> | Strengthen your arm muscle! |
 |
