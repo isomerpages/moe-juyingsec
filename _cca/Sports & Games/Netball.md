@@ -94,3 +94,15 @@ In 2020 and 2021, National Competitions were suspended due to COVID-19 SMM but 
 | <img src="/images/netball19.jpg" style="width:85%"> | Smiley faces waiting patiently for their next carnival match  |
 |
 
+#### **Activities**
+
+| Period | Activity |
+|:---:|---|
+| Jan - Feb | National School Games West Zone Netball Championships |
+| Apr | M1 Schools Challenge League |
+| Aug | Juying Sports Carnival |
+| Sep | Umpiring Workshop |
+| Nov | Annual Netball Camp |
+| Nov - Dec | Holiday training & friendly matches |
+|
+
