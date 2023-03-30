@@ -4,8 +4,6 @@ permalink: /information/school-overview/core-values/
 description: ""
 third_nav_title: School Overview
 ---
-
-### **Core Values**
 #### **School R2IGHT Core Values**
 ![](/images/core%20valyes.jpg)
 
