@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>Principal's Message 2023</strong></h4>
 <p><strong>Goodbye 2022 and Welcome 2023</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="width: 100%; border-collapse: collapse; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><p>2022 has ended. Just like the previous years, this will be a good time for us to reflect on the past year&rsquo;s highs and lows, wins and losses and to evaluate them in a way that will help improve our overall performance in this new year. Reflection gives us the closure we need for the year so that we can walk into the new year with a new mindset, insights, intentions and focus. If you are like me, just the thought of a new year is just so energizing for me and I cannot wait to blaze into the future to start thinking of what of what I want to accomplish in 2023.</p>
