@@ -3,24 +3,17 @@ title: Latest News
 permalink: /latest-news/
 description: ""
 ---
-### **Latest News**
-
-##### **2022 EOY Examination Information**
-2022-09-02<br>
-You can now download the End-of-Year Examinations 2022 topics and schedule [here](https://staging.d1o9rele4xczce.amplifyapp.com/information/examination-schedules/eoy-exams/).  All the best for the final exams!
-
-##### **2022 N-level Prelims**
-2022-07-07<br>
-Dear JYians and Parents, the 2022 N-level Preliminary Exams schedule can now be downloaded [here](https://staging.d1o9rele4xczce.amplifyapp.com/information/examination-schedules/prelim-exams/).
-
-#### **Semester 2 Weighted Assessment**
-2022-07-07<br>
-Dear JYian and Parents, the Semester 2 Weighted Assessment schedules and topics can now be downloaded [here](https://staging.d1o9rele4xczce.amplifyapp.com/information/examination-schedules/semester-2-weighted-assessments/).
-
-#### **Semester 2 Timetable**
-2022-06-23<br>
-Dear JYians, welcome back to Semester 2. Wishing you a successful semester ahead. The timetable for Semester 2 can now be downloaded [here](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/timetable-and-schedules/).
-
-#### **PDLP FAQs**
-2022-01-25<br>
-Dear JYians and Parents, click [HERE](/files/pdlp%20faq.pdf) to read more on the frequently asked questions on PDLP.
+<p><strong>Juying's PDLP Programme</strong></p>
+<p>2023-01-17<br />Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a href="/programmes/personalised-digital-learning-programme-pdlp" target="_blank" rel="noopener">here</a>.&nbsp;</p>
+<hr>
+<p><strong>2023 Semester 1 Weighted Assessments</strong></p>
+<p>2023-01-16<br />The 2023 Semester 1 Weighted Assessments (WA) schedule and topics for are now available&nbsp;<a href="/information/administrative-information/timetables-n-schedules/examination-timetable/semester-1-weighted-assessments" target="_blank" rel="noopener">here</a>.</p>
+<hr>
+<p><strong><a href="/information/administrative-information/timetables-n-schedules/class-timetable">Class Timetables 2023 Semester 1</a></strong></p>
+<p>2023-01-02<br />Click <a href="/information/administrative-information/timetables-n-schedules/class-timetable" target="_blank" rel="noopener">here</a> to view and download the class timetables for 2023 Semester 1.</p>
+<hr>
+<p><strong>Well Wishes 2023</strong></p>
+<p>2023-01-01<br />Here's to a successful and fulfilling school year ahead full of growth, learning and new opportunities.</p>
+<hr>
+<p><strong>Principal's Message 2023</strong></p>
+<p>2023-01-01<br />Goodbye 2022 Welcome 2023 ... Read Mdm Soh's Principal's Message 2023 <a href="/information/principals-message/principals-message-2023">here</a>.</p>
