@@ -9,10 +9,4 @@ third_nav_title: School Overview
 <h4><strong>Who We Are</strong></h4>
 <img src="/images/vision%20mission.png" 
      style="width:75%">
-		 
-**O** pportunities for all (home for students of all abilities and backgrounds)<br>
-**Y**  earning for lifelong learning (every student can learn)<br>
-**S**  tudent Centred (every student is unique)<br>
-**T**  alent development (enhance and amplify the individual talents  of all  students)<br>
-**E**  mpowerment (the students, like pearls, shine & illuminate any organisation they may enter in future)<br>
-**R**  ight values (R2IGHT) inculcation (develop them to be persons with strength of character)
+<p><strong>O</strong>pportunities for all (home for students of all abilities and backgrounds)<br /><strong>Y</strong>earning for lifelong learning (every student can learn)<br /><strong>S</strong>tudent Centred (every student is unique)<br /><strong>T</strong>alent development (enhance and amplify the individual talents of all students)<br /><strong>E</strong>mpowerment (the students, like pearls, shine &amp; illuminate any organisation they may enter in future)<br /><strong>R</strong>ight values (R2IGHT) inculcation (develop them to be persons with strength of character)</p>
