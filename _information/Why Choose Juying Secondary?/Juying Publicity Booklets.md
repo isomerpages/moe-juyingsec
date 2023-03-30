@@ -4,15 +4,7 @@ permalink: /information/why-choose-juying-secondary/juying-publicity-booklets/
 description: ""
 third_nav_title: Why Choose Juying Secondary?
 ---
-
-### **Juying Publicity Booklets**
-#### **JUYING P6 Publicity Booklet 2021**
-We are proud to bring you the JUYING P6 Publicity Booklet dedicated to P6 students & their parents.
-
-<img src="/images/2021-P6-Booklet.jpeg" style="width:35%">
-
-View online  in flipbook format [here](https://online.fliphtml5.com/imxpa/jhrz/#p=36)<br>
-OR<br>
-Click on the artwork or click [here](https://drive.google.com/file/d/1Us7UnxBz5gUzOo9R7exS21WHTiEIaBr1/view?usp=sharing) to download a PDF copy.<br>
-Filesize: 18.6 MB<br>
-Recommended to be downloaded using wifi.
+<h4><strong>JUYING P6 Publicity Booklet 2022</strong></h4>
+<p>Presenting to you the JUYING P6 Publicity Booklet 2022 dedicated to P6 students &amp; their parents.</p>
+<a href="https://drive.google.com/file/d/1qJiddPdq2slbKnMil0-A9lvfmxVTAbq1/view?usp=share_link"><img style="width: 50%;" src="/images/jpb1.png"></a>
+<p style="text-align: center;">Click on the artwork or click&nbsp;<u><a href="https://drive.google.com/file/d/1qJiddPdq2slbKnMil0-A9lvfmxVTAbq1/view?usp=share_link" target="_blank" rel="noopener">here</a></u> to download a PDF copy.<br />Filesize: 33 MB<br />Recommended to be downloaded using wifi.</p>
