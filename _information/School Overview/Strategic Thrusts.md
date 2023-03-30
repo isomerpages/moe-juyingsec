@@ -4,8 +4,6 @@ permalink: /information/school-overview/strategic-thrusts/
 description: ""
 third_nav_title: School Overview
 ---
-
-### **Strategic Thrusts**
 #### **STRATEGIC THRUST 1:  Lifelong Learners**
 
 **Every JYian, a passionate and confident learner who strives for academic excellence.**<br>					Passionate & Confident Learners – are motivated and self-directed, taking ownership for their own
