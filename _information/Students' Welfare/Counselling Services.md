@@ -4,8 +4,6 @@ permalink: /information/students-welfare/counselling-services/
 description: ""
 third_nav_title: Students' Welfare
 ---
-
-### **Counselling Services**
 #### **Useful Numbers**
 Here are some useful telephone numbers for student(s)/parent(s):
 
@@ -44,11 +42,6 @@ We work with students who need help in the following:
 
 #### **Where are we located?**
 Counselling Hub (Level 1), Opposite Chillax room.
-
-<img src="/images/counselling1.jpg" style="width:49%" align=left>
-<img src="/images/counselling2.jpg" style="width:49%" align=right>
-
-<br clear="left">
 
 #### **How to Contact Us?**
 **If you are in school:**<br>
