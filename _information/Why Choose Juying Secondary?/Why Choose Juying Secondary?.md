@@ -4,9 +4,6 @@ permalink: /information/why-choose-juying-secondary/
 description: ""
 third_nav_title: Why Choose Juying Secondary?
 ---
-
-
-### **Why Choose Juying Secondary?**
 <img src="/images/why%20juying%20sec%201.jpg" style="width:85%">
 
 Check out our Juying Secondary Scholars [here](https://sites.google.com/view/juyingtestimonials/juying-scholarship)
