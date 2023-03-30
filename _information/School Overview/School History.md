@@ -4,7 +4,6 @@ permalink: /information/school-overview/
 description: ""
 third_nav_title: School Overview
 ---
-### **School History**
 <img src="/images/sch%20history.jpg" 
      style="width:75%">
 
