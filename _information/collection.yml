@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - School Overview/.keep
       - School Overview/School History.md
@@ -15,6 +14,7 @@ collections:
       - Students' Welfare/.keep
       - Students' Welfare/Counselling Services.md
       - Students' Welfare/Financial Assistance.md
+      - Contact Us.md
       - Why Choose Juying Secondary?/.keep
       - Why Choose Juying Secondary?/Why Choose Juying Secondary?.md
       - Why Choose Juying Secondary?/What Do Our Parents Say About Us?.md
