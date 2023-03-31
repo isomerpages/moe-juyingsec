@@ -129,19 +129,19 @@ description: ""
 <td>Subject Head&nbsp;(Computer Applications)</td>
 </tr>
 <tr>
-<td>Ms Elydia Azman&nbsp;</td>
+<td>Ms Elydia Azman</td>
 <td>Subject Head (Student Management) (internal)</td>
 </tr>
 <tr>
 <td>Ms&nbsp;Wong Lye Peng Christina</td>
-<td>AdministrationManager&nbsp;</td>
+<td>AdministrationManager</td>
 </tr>
 <tr>
 <td>Mr&nbsp;Chong Kim</td>
-<td>Operations Manager&nbsp;</td>
+<td>Operations Manager</td>
 </tr>
 <tr>
-<td>Mr&nbsp;Mohter Amat Amin&nbsp;</td>
+<td>Mr&nbsp;Mohter Amat Amin</td>
 <td>Operations Manager</td>
 </tr>
 </tbody>
