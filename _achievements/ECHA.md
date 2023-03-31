@@ -3,7 +3,6 @@ title: ECHA
 permalink: /achievements/echa/
 description: ""
 ---
-### **ECHA**
 The Edusave Character Award (ECHA) is presented to students who have demonstrated:
 
 1\.  The School R2IGHT Values<br>
