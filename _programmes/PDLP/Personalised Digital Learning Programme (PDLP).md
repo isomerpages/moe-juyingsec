@@ -43,7 +43,7 @@ Juying Secondary will continuously engage our students and parents/guardians by 
 
 #### **PDLP Useful Links**
 Here are some useful resources to help your child make use of the PLD safely and effectively.<br>
-Click here to access&nbsp;[useful links for PDLP](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/pdlp/useful-links/)
+Click here to access&nbsp;[useful links for PDLP](/programmes/personalised-digital-learning-programme-pdlp/pdlp-useful-links)
 
 #### **PDLP Rollout**
 <img src="/images/pdlp2.jpg" style="width:50%;margin-right:15px;" align="left">
