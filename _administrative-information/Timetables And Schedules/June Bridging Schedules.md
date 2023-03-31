@@ -4,5 +4,4 @@ permalink: /information/administrative-information/timetables-n-schedules/june-b
 description: ""
 third_nav_title: Timetables And Schedules
 ---
-### **June Bridging Schedules**
-Information on the June Bridging Programme will be updated nearer the date.
+<p>Information on the June Bridging Programme will be updated nearer the date.</p>
