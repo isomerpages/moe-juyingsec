@@ -3,8 +3,6 @@ title: ALP – Public Speaking
 permalink: /programmes/alp/
 description: ""
 ---
-### **ALP - Public Speaking**
-
 <p><a href="https://docs.google.com/presentation/d/1eleFsS6y5bBPX6qNpjWUuS6T5lZ14cM8/edit">
 <img style="width:85%" src="/images/alp.jpg">
 </a></p>
