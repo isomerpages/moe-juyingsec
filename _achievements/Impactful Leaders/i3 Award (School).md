@@ -4,8 +4,6 @@ permalink: /achievements/impactful-leaders/i3-award-school/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **i3 Award (School)**
-
 <figure>
 <figcaption> 2021
  </figcaption>
