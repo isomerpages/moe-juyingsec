@@ -3,7 +3,6 @@ title: Home Based Learning (HBL)
 permalink: /programmes/home-based-learning-hbl/
 description: ""
 ---
-### **Home-Based Learning (HBL)**
 #### **Objectives**
 To further develop our students’ ability to be self-directed, independent, passionate and intrinsically motivated learners.
 
@@ -27,5 +26,5 @@ The attached Parent Kit provides general information and tips on HBL Days and ho
 Thank you.
 
 Attachments<br>
-[01 Student HBL Day Briefing Slides.pdf](/files/01%20Student%20HBL%20Day%20Briefing%20Slides.pdf)<br>
+[01 Student HBL Day Briefing Slides 2.pdf](/files/02%20Student%20HBL%20Day%20Briefing%20Slides%202.pdf)<br>
 [02 Parent Resource Kit Experiencing Blended Learning with Our Children.pdf](/files/02%20Parent%20Resource%20Kit%20Experiencing%20Blended%20Learning%20with%20Our%20Children.pdf)
