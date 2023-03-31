@@ -4,7 +4,6 @@ permalink: /programmes/personalised-digital-learning-programme-pdlp/
 description: ""
 third_nav_title: PDLP
 ---
-### **Personalised Digital Learning Programme (PDLP)**
 #### **National Digital Literacy Programme (NDLP)**
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy&nbsp;Programme&nbsp;(NDLP) for our schools to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the&nbsp;Personalised&nbsp;Digital Learning&nbsp;Programme&nbsp;(PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
@@ -29,13 +28,13 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 #### **Parent Handbook**
 Click on the link below to view or download the Parent Handbook.
 
-[Parent Handbook I on Learning with a PLD.pdf](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)<br>
-[Parent Handbook II on Learning with a PLD.pdf](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+[Parent Handbook I on Learning with a PLD_2023.pdf](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf)<br>
+[Parent Handbook II on Learning with a PLD_2023.pdf](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf.pdf)
 
 #### **FAQs for the Roll-Out of the Personal Learning Devices**
 Click on the link below to view or download the FAQ list
 
-[Set of FAQs for Schools Reference For Website.pdf](/files/Set%20of%20FAQs%20for%20Schools%20Reference_For%20Website.pdf)
+[Set of FAQs for Schools Reference_2023.pdf](/files/Set%20of%20FAQs%20for%20Schools%20Reference_2023.pdf)
 
 #### **PDLP @ Juying**
 Juying Secondary will continuously engage our students and parents/guardians by sharing our school’s&nbsp;approach and implementation plan for PDLP.&nbsp; Click the following for the Parents Engagement Slides.
