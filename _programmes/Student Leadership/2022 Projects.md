@@ -4,12 +4,11 @@ permalink: /programmes/student-leadership/2022-projects/
 description: ""
 third_nav_title: Student Leadership
 ---
-### **2022 Projects**
 #### **Upcycling Workshop for Class Leaders**
 
 <img src="/images/2022%20projects%201.png" style="width:85%">
 
-The Upcycling Workshop saw the Class Chairpersons and Vice-Chairpersons creating upcycled gift packaging under the guidance of Ms Dee, an experienced D&T teacher, and Mr Tan, HOD ICT. In line with the school’s gracious culture, the class leaders fervently designed appreciative notes and decorated their gifts for their form teachers; wonderfully surprising them! 
+The Upcycling Workshop saw the Class Chairpersons and Vice-Chairpersons creating upcycled gift packaging under the guidance of Ms Dee, an experienced D&amp;T teacher, and Mr Tan, HOD ICT. In line with the school’s gracious culture, the class leaders fervently designed appreciative notes and decorated their gifts for their form teachers; wonderfully surprising them!&nbsp;
 
 In the second part of the workshop, class leaders were led by SH/SLD Mrs Chan to discover the considerations that goes into planning class-based activities, and how they could empower their class committee to work together to create a positive class culture.
 
@@ -26,13 +25,13 @@ On 22 March, 300+ student leaders across the different leadership boards were in
 
 <img src="/images/2022%20projects%204.png" style="width:85%">
 
-#### **Nanyang Sayang Engagement, by JYSC, NCDCC & NCC(SEA) leaders**
+#### **Nanyang Sayang Engagement, by JYSC, NCDCC &amp; NCC(SEA) leaders**
 Over the March holidays, a group of CCA leaders from Student Council, NCDCC and NCC(SEA) led their CCA peers to conduct a round of engagement with children (majority in their primary levels) living in the Nanyang community, in partnership with Nanyang CCC. Service to the community has helped our students and student leaders develop desirable soft skills that would be beneficial to them in the future.
 
 <img src="/images/2022%20projects%205.png" style="width:85%">
 
-#### **Student Leaders’ Day, by 2021 JYSC & CCA Leaders**
-The Student Leaders’ Day was a memorable event for 2021 Student Council ExCos and CCA Leaders, who had came together to articulate their leadership growth and appreciate the intentional efforts that the school and teachers have taken to develop them before they stepped down. 
+#### **Student Leaders’ Day, by 2021 JYSC &amp; CCA Leaders**
+The Student Leaders’ Day was a memorable event for 2021 Student Council ExCos and CCA Leaders, who had came together to articulate their leadership growth and appreciate the intentional efforts that the school and teachers have taken to develop them before they stepped down.&nbsp;
 
 During the event, the student leaders collectively presented the school leaders with gift of Mountains, in line with theme of the event, to symbolise the challenges they faced and the wonderful experiences they’ve gained through leading their respective CCAs. We wish the 2021 Student Leaders’ the very best in their upcoming national exams!
 
