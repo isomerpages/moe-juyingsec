@@ -4,8 +4,6 @@ permalink: /achievements/lifelong-learners/
 description: ""
 third_nav_title: Lifelong Learners
 ---
-### **Lifelong Learners**
-
 #### **2022**
 
 | Subject | Name of Competition | Achievements/Recipients |
