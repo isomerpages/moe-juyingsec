@@ -3,7 +3,6 @@ title: Kindness &amp; Gratitude Movement
 permalink: /programmes/kindness-n-gratitude-movement/
 description: ""
 ---
-### **Kindness &amp; Gratitude Movement**
 <img src="/images/kindness%20movement%201.png" style="width:85%">
 
 <br clear="left">
