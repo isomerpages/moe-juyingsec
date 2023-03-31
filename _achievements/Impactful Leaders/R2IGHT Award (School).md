@@ -4,7 +4,6 @@ permalink: /achievements/impactful-leaders/r2ight-award-school/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **R2IGHT Award (School)**
 
 #### **2021**
 
