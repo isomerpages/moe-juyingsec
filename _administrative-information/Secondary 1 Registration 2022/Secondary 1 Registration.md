@@ -4,40 +4,50 @@ permalink: /information/administrative-information/secondary-1-registration/
 description: ""
 third_nav_title: Secondary 1 Registration 2022
 ---
-### **Secondary 1 Registration 2022**
-#### **First Day of School 2022 &amp; Orientation**
-
-Dear parents / guardians of Sec 1 students
-*   The first day of school is&nbsp;**4 January 2022 (Tuesday).**
-*   The&nbsp;**Sec 1 Orientation Programme**&nbsp;will take place from&nbsp;**4th January 2022 to 7th January 2022.**&nbsp;Meals will be provided for Sec 1 students during the Orientation Programme.
-
-**Reporting for the first day of school:**<br>
-Date: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 January 2022<br>
-Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.20am to 1.40pm<br>
-Venue: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 1 Classrooms<br>
-Attire:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full School Uniform (School Polo T-Shirt and Skirt/Shorts)
-
-Things to bring along:
-* Thermometer
-* Writing materials
-* Water bottle
-* Extra surgical masks
-* Wet wipes
-* Hand sanitiser
-* Personal medication (if needed)
-
-Please refer to the announcement sent via Parents Gateway on&nbsp;**23 December 2021**&nbsp;for more information.  
-  
-**Parents must acknowledge the Registration Day message sent on Parents Gateway for the Secondary 1 Registration process to be considered complete.**  
-  
-Please refer to the link below for the Principal's Welcome Letter and Key Administrative Information.
-
-[2022 Principals Welcome Message.pdf](/files/2022%20Principals%20Welcome%20Message.pdf)
-
-Please check out the other subpages for Secondary 1 matters.
-
-1\.  [Books &amp; Uniform](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/books-and-uniforms/) <br>
-2\.  [Subject Based Banding](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/subject-based-banding/)  <br>
-3\.  [MOE-FAS](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/moe-fas/) <br>
-4\.  [Appeal](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/appeal/) <br>
-5\.  [Other Enquiries](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/other-enquiries/)
+<h4><strong>First Day of School 2023 &amp; Orientation</strong></h4>
+<p>Dear Parents / Guardians of Sec 1 students</p>
+<ul>
+<li>The first day of school is <strong>Tuesday,&nbsp;3&nbsp;January 2023.</strong></li>
+<li>The <strong>Sec 1 Orientation Programme</strong>&nbsp;will take place from<strong>&nbsp;<br>3 January 2023 to 6 January 2022.</strong></li>
+</ul>
+<p><strong>Reporting for the first day of school:</strong></p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 15%;">Date:</td>
+<td style="width: 85%;">Tuesday, 3 January 2023</td>
+</tr>
+<tr>
+<td style="width: 15%;">Time:</td>
+<td style="width: 85%;">7.20am to 3.00pm</td>
+</tr>
+<tr>
+<td style="width: 15%;">Venue:</td>
+<td style="width: 85%;">Multi-Purpose Hall (MPH)</td>
+</tr>
+<tr>
+<td style="width: 15%;">Attire:</td>
+<td style="width: 85%;">Half School Uniform (Blue Sec 1 PE T-Shirt and Skirt/Shorts)</td>
+</tr>
+</tbody>
+</table>
+<p>Things to bring along:</p>
+<ul>
+<li>Writing materials</li>
+<li>Water bottle</li>
+<li>Personal medication (if needed)</li>
+<li>Money for recess breaks</li>
+</ul>
+<p>Please refer to the announcement sent via Parents Gateway on&nbsp;<strong>23 December 2022&nbsp;</strong>for more information.</p>
+<p><strong>Registration Process</strong></p>
+<p>For registration, please complete the following:<br>1. Complete registration form&nbsp;<a rel="noopener" href="https://form.gov.sg/63a02b6e4fe3f20012d496e7">here&nbsp;</a>(<a rel="noopener" href="https://form.gov.sg/63a02b6e4fe3f20012d496e7">https://form.gov.sg/63a02b6e4fe3f20012d496e7</a>)&nbsp;<br>by <strong>22 December 2022, 4pm</strong>.</p>
+<p>2. <strong>Acknowledge the Registration Day&nbsp;</strong>message that will be posted on Parents Gateway for the Secondary 1 Registration by&nbsp;<strong>23 December 2022, 2pm.</strong></p>
+<p>Please check out the other subpages for Secondary 1 matters.</p>
+<ol>
+<li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/books-n-uniforms">Books &amp; Uniform</a></li>
+<li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/sec-1-orientation-programme">Sec 1 Orientation Programme</a></li>
+<li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/subject-based-banding">Subject Based Banding</a></li>
+<li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/moe-fas">MOE-FAS</a></li>
+<li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/appeal">Appeal</a></li>
+<li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/other-enquiries">Other Enquiries</a></li>
+</ol>
