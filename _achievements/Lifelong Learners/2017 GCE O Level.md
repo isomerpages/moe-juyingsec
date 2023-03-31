@@ -4,7 +4,6 @@ permalink: /achievements/lifelong-learners/2017-gce-o-level/
 description: ""
 third_nav_title: Lifelong Learners
 ---
-### **2017 GCE O-level**
 Our heartiest congratulations to the class of 2017 for their excellent achievements in the 2017 GCE O Level Examinations. Together with the Sec 4 Normal Academic and 4 Normal Technical, the Sec 4 Express and Sec 5 have achieved sustained value-added results!
 
 <img src="/images/2017%20o%20level.jpg" style="width:85%">
