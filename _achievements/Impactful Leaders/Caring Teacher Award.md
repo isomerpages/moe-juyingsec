@@ -4,8 +4,6 @@ permalink: /achievements/impactful-leaders/caring-teacher-award/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **Caring Teacher Award**
-
 | Award | Year | Staff |
 |:---:|:---:|:---:|
 | Caring Teachers Award | 2020 | Soh Joon Wei |
@@ -29,4 +27,3 @@ third_nav_title: Impactful Leaders
 | Caring Teachers Award | 2014 | Mr Cai Zhiwen |
 | Caring Teachers Award | 2014 | Mrs Amy Yeo |
 |
-
