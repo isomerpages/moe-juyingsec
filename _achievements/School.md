@@ -18,16 +18,22 @@ description: ""
 | National Arts Education  | GLOW Award |
 | Environment | Community in Bloom Award  (Gold Award) |
 | Environment  | IXORA Award |
-| Building & Environment | Building Construction Authority (BCA) Award  |
+| Building &amp; Environment | Building Construction Authority (BCA) Award  |
 |
 
-<img src="/images/achievement1.jpg" style="width:25%" align=left>
-<img src="/images/achievement2.jpg" style="width:25%" align=left>
-<img src="/images/achievement3.jpg" style="width:20%" align=left>
-<img src="/images/achievement4.jpg" style="width:20%" align=left>
-
-<br clear="left">
-
-<img src="/images/achievement5.jpg" style="width:21%" align=left>
-<img src="/images/achievement6.jpg" style="width:25%" align=left>
-<img src="/images/achievement7.jpg" style="width:25%" align=left>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/achievement1.jpg" style="width:100%"></td>
+<td style="width: 25%;"><img src="/images/achievement2.jpg" style="width:100%"></td>
+<td style="width: 25%;"><img src="/images/achievement3.jpg" style="width:100%"></td>
+<td style="width: 25%;"><img src="/images/achievement4.jpg" style="width:100%"></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/achievement5.jpg" style="width:100%"></td>
+<td style="width: 25%;"><img src="/images/achievement6.jpg" style="width:100%"></td>
+<td style="width: 25%;"><img src="/images/achievement7.jpg" style="width:100%"></td>
+<td style="width: 25%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
