@@ -3,8 +3,6 @@ title: Purposeful Partnership
 permalink: /achievements/purposeful-partnership/
 description: ""
 ---
-### **Purposeful Partnership**
-
 #### **Partners Award (Individual)**
 
 JPSG Partnership Award Recipients
