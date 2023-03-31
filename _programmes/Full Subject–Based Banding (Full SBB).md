@@ -3,16 +3,13 @@ title: Full Subject–Based Banding (Full SBB)
 permalink: /programmes/full-subject-based-banding-full-sbb/
 description: ""
 ---
-### **Full Subject-Based Banding (Full SBB)**
 #### **Subject-based Banding**
 Subject-Based Banding (SBB) allows students of the Normal Academic and Normal Technical stream to take up subjects of varying difficulty levels that are suited to their pace of learning.&nbsp;&nbsp;  
   
 If your child/ward is eligible to take a subject at a higher academic level, you will be informed by your child/ward’s form teacher and receive a notification via Parents Gateway (PG).  
   
-You will need to accept or reject the SBB offer via PG. Please take note that you only need to indicate a response for subjects that your child/ward is eligible for.&nbsp;&nbsp;  
+You will need to accept or reject the SBB offer via PG. Please take note that you only need to indicate a response for subjects that your child/ward is eligible for.
   
-Deadline for Acceptance of SBB Offer:&nbsp;&nbsp;**29 December 2021, 12pm**
-
 
 
 #### **Full Subject-Based Banding**
