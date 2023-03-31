@@ -4,7 +4,6 @@ permalink: /programmes/student-leadership/
 description: ""
 third_nav_title: Student Leadership
 ---
-### **Student Leadership**
 #### **Student Leadership Development Programme**
 Here at Juying, our Student Leadership Development Programme is based on the belief that every JY student leader has the courage to serve as they lead and make R2IGHT choices to positively influence others and bring about changes. We believe&nbsp;**_every JYian can be a values-driven leader_**&nbsp;and contributing citizen and we encourage our leaders to seize the opportunities available to them and strive for personal growth, so that they can&nbsp;**_S.H.I.N.E_**&nbsp;in his/ her own way.
 
@@ -62,5 +61,5 @@ At Juying, there are many additional opportunities for Jyians to develop themsel
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [2020](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/student-leadership/2020-projects/) | [2021](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/student-leadership/2021-projects/) | [2022](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/student-leadership/2022-projects/) |
+| [2020](/programmes/student-leadership/2020-projects/) | [2021](/programmes/student-leadership/2021-projects/) | [2022](/programmes/student-leadership/2022-projects/) |
 |
