@@ -4,7 +4,6 @@ permalink: /achievements/alumni-excellence/
 description: ""
 third_nav_title: Alumni Excellence
 ---
-### **Alumni Excellence**
 Excellence Beyond Life@Juying.  
   
 Equipped with Juying R2IGHT values and a keen sense for lifelong learning, JYians continue to excel beyond their education at Juying Secondary School.   
