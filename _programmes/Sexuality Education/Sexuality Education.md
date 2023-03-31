@@ -38,3 +38,43 @@ third_nav_title: Sexuality Education
 <p><a href="/files/2023%20Sex-Ed%20S3.pdf">2023 Sex-Ed Secondary3.pdf</a></p>
 <p><a href="/files/2023%20Sex-Ed%20S4.pdf">2023 Sex-Ed Secondary4.pdf</a></p>
 <p><a href="/files/2023%20Sex-Ed%20S5.pdf">2023 Sex-Ed Secondary5.pdf</a></p>
+<p>*Note: The time period provided for the lessons may be shifted if there may be a need to do so depending on the changes in the CCE curriculum.</p>
+<h4><strong>eTeens&nbsp;Programme:</strong></h4>
+<p><em>8. eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+<p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.The desired outcome of the <em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p>At Juying Secondary School, the eTeens programme will be implemented as follows in 2023:</p>
+<table><colgroup><col width="168"><col width="387"><col width="133"></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Topics/Lessons</strong></td>
+<td style="text-align: center;"><strong>Programme Learning Objectives</strong></td>
+<td style="text-align: center;"><strong>Time Period</strong></td>
+</tr>
+<tr>
+<td>Mass Talk by HPB appointed vendor</td>
+<td>
+<ul>
+<li aria-level="1" dir="ltr">Awareness of the different STIs and HIV/AIDS</li>
+<li aria-level="1" dir="ltr">Modes of transmission</li>
+<li aria-level="1" dir="ltr">Modes of protection, specifically on how the condom is used</li>
+<li aria-level="1" dir="ltr">Consequences and impact of STIs/HIV</li>
+</ul>
+</td>
+<td>Term 1 Week 10</td>
+</tr>
+<tr>
+<td>Classroom-based Lesson</td>
+<td>
+<ul>
+<li aria-level="1" dir="ltr">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
+</ul>
+</td>
+<td>Term 1 Week 10</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Information for Parents</strong></h4>
+<p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/63b3d86fa2c29900111bf450">here</a> (<a href="https://form.gov.sg/63b3d86fa2c29900111bf450">https://form.gov.sg/63b3d86fa2c29900111bf450</a>). The completed form is to be submitted by 13/01/2023.</p>
+<p>12. Parents who wish to opt their children out of the <strong><em>eTeens </em>P</strong><strong>rogramme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/63b3df76f9882200112ac6da">here</a> (<a href="https://form.gov.sg/63b3df76f9882200112ac6da">https://form.gov.sg/63b3df76f9882200112ac6da</a>). The completed form is to be submitted by 13/01/2023.</p>
+<p>13. Parents can contact the school at <a href="mailto:juying_ss@moe.edu.sg">juying_ss@moe.edu.sg</a> or call <u>6308 9898</u> for discussion or to seek clarification about the school’s Sexuality Education Programme.</p>
