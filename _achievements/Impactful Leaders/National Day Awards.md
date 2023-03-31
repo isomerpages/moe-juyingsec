@@ -4,8 +4,6 @@ permalink: /achievements/impactful-leaders/national-day-awards/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **National Day Awards**
-
 | Year | Staff | Award Type |
 |:---:|:---:|:---:|
 | 2022 | Mr Tan Meng Hui  | National Day Commendation Award |
