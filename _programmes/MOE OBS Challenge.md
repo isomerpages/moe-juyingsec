@@ -3,7 +3,6 @@ title: MOE OBS Challenge
 permalink: /programmes/moe-obs-challenge/
 description: ""
 ---
-### **MOE OBS Challenge**
 #### **OBS Challenge - An Experience for a Lifetime**
 The video below shows the highlights of the experience during the MOE OBS Challenge.
 
