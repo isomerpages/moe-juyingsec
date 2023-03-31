@@ -3,7 +3,6 @@ title: Achievers Programme
 permalink: /programmes/achievers-programme/
 description: ""
 ---
-### **Achievers Programme**
 The **Juying Achievers Programme** is offered to the **top 10% of students in our Secondary 1 to 3 cohorts** based on their academic achievements.
 
 It focuses on the holistic development of our high-achieving students, and aims to provide exposure and different opportunities to stretch their potential to the fullest by fostering critical thinking, effective communication, intrinsic motivation and self-directed learning.
