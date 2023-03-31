@@ -1,32 +1,26 @@
 ---
-title: Books & Uniforms
+title: Books &amp; Uniforms
 permalink: /information/administrative-information/secondary-1-registration/books-n-uniforms/
 description: ""
 third_nav_title: Secondary 1 Registration 2022
 ---
-### **Books & Uniforms**
-#### **Purchase of Books and Uniform**
-
-The school will be opened for Sec 1 students to purchase their books and uniform from **23 December 2021 onwards.**
-
-##### **Safe Management Measures**
-* To prevent over-crowding of the school premises on 23 Dec 2021, parents/guardians should visit the school by appointment on this day. We seek your understanding that priority will be given to those who have booked appointments. Students should be accompanied by at most one parent/guardian.
-* All visitors must complete SafeEntry check in and take their temperature at the foyer.
-* Please maintain safe distancing of 1m at all times.
-* Please note that no parking is provided. You can park at the nearest HDB carparks 
-
-##### **SBB Matters**
-Students who are offered Subject-Based Banding (SBB) will be contacted by the school. Please refer to this [page](https://staging.d1o9rele4xczce.amplifyapp.com/information/dsa/sec1-registration-2022/subject-based-banding/)  for more information.
-
-##### **Financial Assistance Scheme (FAS) Application and Collection of FAS Items**
-*   Students under FAS are permitted to visit the school during office hours from 22 December 2021 onwards. No appointment is needed.
-*   Students under FAS shall proceed to the General Office to receive their FAS approval letter and the collection forms before heading to the bookstore and other counters.
-*   A queue number will be issued to the student at the General Office counter.
-
-##### **Books and Uniform Purchase**
-*   To ensure timely delivery of all online orders, the last order date for online orders is  
-    **29 December 2021 (2359 hours).**
-*   For physical purchase of books and uniforms, online booking of an appointment is strongly encouraged. You may book your appointment [here](https://jysssec1prebookappt.as.me/schedule.php). 
-*   Parents who visit the school with no appointment may face a long waiting time if the limit for pre-booked visitors is reached at any given time-slot, **between 8.30am to 3.30pm, on 23 December 2021 (Wednesday).**
-*   The bookstore will not be opened on **22 December and 30 December 2021.**
-*   Please refer to the [Sec 1 Booklist 2022](/files/Sec%201%20Booklist%202022.pdf) (Insert Booklist Attachment) for more information.
+<h4><strong>Purchase of Books and Uniform</strong></h4>
+<p>The school will be opened for Sec 1 students to purchase their books and uniform from<br><strong>22 December 2022 onwards.</strong></p>
+<p>Please note that parking is not provided. You can park at the HDB carparks near the school.</p>
+<p><strong><u>Books and Uniform Purchase</u></strong></p>
+<p>For physical purchase of books and uniforms, you may book your appointment&nbsp;<a rel="noopener" href="https://jysssec1prebookappt.as.me/">here</a>.</p>
+<p>Parents who visit the school with no appointment may experience a longer waiting time on<br><strong>22 December 2022.</strong></p>
+<p>Please download the Sec 1 Booklist&nbsp;<a rel="noopener" href="https://drive.google.com/file/d/17wDeXkglYBPKSFSOiOlgjsPsqrQlR7on/view?usp=share_link">here</a>.</p>
+<p>Please take note that the bookstore will not be opened on<br><strong>21 December 2022 and 29 December 2022.</strong></p>
+<p>For more information about online purchase, operating hours and dates, please refer to the Sec 1 Booklist.</p>
+<p><strong><u>SBB Matters</u></strong></p>
+<p>Students who are offered Subject-Based Banding (SBB) at G2 or G3 levels will be contacted by the school. Please refer to the Sec1&nbsp;<a href="/information/administrative-information/secondary-1-registration/subject-based-banding">SBB subpage</a><br>(<a rel="noopener" href="/information/administrative-information/secondary-1-registration/subject-based-banding">https://juyingsec.moe.edu.sg/information/administrative-information/secondary-1-registration/subject-based-banding</a>)&nbsp;for more information.</p>
+<p>Please take note that in the event that you and your child/ward are still considering the SBB offer, it is recommended that you do not purchase the books for the SBB subject/s until your decision has been confirmed.</p>
+<p><strong><u>Financial Assistance Scheme (FAS) Application and Collection of FAS Items</u></strong></p>
+<ul>
+<li>Students under FAS can visit the school during office hours from&nbsp;<strong>21 December 2022 onwards</strong>.</li>
+<li>No appointment is needed.</li>
+<li>Students under FAS shall proceed to the General Office to receive their FAS approval letter and the collection forms before heading to the bookstore and other counters.</li>
+<li>Please bring along the student’s Ez-link card.</li>
+<li>A queue number will be issued to the student at the General Office counter.</li>
+</ul>
