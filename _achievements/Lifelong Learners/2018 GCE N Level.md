@@ -4,8 +4,6 @@ permalink: /achievements/lifelong-learners/2018-gce-n-level/
 description: ""
 third_nav_title: Lifelong Learners
 ---
-### **2018 GCE N-level**
-
 <img src="/images/2018%20n%20level.jpg" style="width:85%">
 
 Congratulations to our 2018 4NA &amp; 4NT JYians and their parents!  
