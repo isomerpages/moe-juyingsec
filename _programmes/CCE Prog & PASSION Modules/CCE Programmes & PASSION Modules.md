@@ -4,8 +4,6 @@ permalink: /programmes/cce-programmes-passion-modules/
 description: ""
 third_nav_title: CCE Prog &amp; PASSION Modules
 ---
-### **CCE Programmes / PASSION Modules**
-
 #### **1. Strategic Thrust 1&amp;2**
 
 **ST 1:&nbsp; Lifelong Learners<br>
