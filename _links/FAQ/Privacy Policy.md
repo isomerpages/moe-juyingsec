@@ -4,7 +4,6 @@ permalink: /links/faq/privacy-policy/
 description: ""
 third_nav_title: FAQ
 ---
-### **Privacy Policy**
 #### **Privacy Statement**
 This is the official website for Juying Secondary School (JYSS).&nbsp;  
   
