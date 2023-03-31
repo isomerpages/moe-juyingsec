@@ -4,7 +4,6 @@ permalink: /links/faq/terms-of-use/
 description: ""
 third_nav_title: FAQ
 ---
-### **Terms of Use**
 #### **General**
 1\. Thank you for visiting the official JUYING SECONDARY SCHOOL Web Site. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
@@ -16,7 +15,7 @@ third_nav_title: FAQ
 4\. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by JUYING SECONDARY SCHOOL.
 
 #### **Privacy Policy**
-5\. Click here to review this Web Site [Privacy Policy.](https://staging.d1o9rele4xczce.amplifyapp.com/links/faq/privacy-policy/)
+5\. Click here to review this Web Site [Privacy Policy.](/links/faq/privacy-policy/)
 
 #### **Restrictions on Use of Materials**
 6\. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of JUYING SECONDARY SCHOOL. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.  
@@ -53,7 +52,3 @@ third_nav_title: FAQ
 
 #### **Governing Law**
 19\. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
-
-
-
-
