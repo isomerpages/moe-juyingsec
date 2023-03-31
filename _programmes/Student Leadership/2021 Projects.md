@@ -4,9 +4,7 @@ permalink: /programmes/student-leadership/2021-projects/
 description: ""
 third_nav_title: Student Leadership
 ---
-### **2021 Projects**
-Student Leadership
-
+#### **Student Leadership**
 #### **LEAD Camp 2021**
 <img src="/images/2021%20projects%201.png" style="width:85%">
 
