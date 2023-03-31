@@ -4,7 +4,6 @@ permalink: /programmes/personalised-digital-learning-programme-pdlp/pdlp-useful-
 description: ""
 third_nav_title: PDLP
 ---
-### **PDLP Useful Links**
 Here are some useful resources to help your child make use of the PLD safely and effectively.
 
 | Item | Contacts/Resource |
