@@ -4,11 +4,9 @@ permalink: /programmes/student-leadership/2020-projects/
 description: ""
 third_nav_title: Student Leadership
 ---
-### **2020 Projects**
-Student Leadership
-
+### **Student Leadership**
 #### **Legacy Projects by the Juying Secondary Student Council (JYSC)**
-The inaugural legacy project was launched in January 2020, titled ‘Delivering Kindness’. These student-led initiatives included hosting the Chinese New Year Appreciation Lunch for janitors, desiging gratitude cards, distributing   oranges to JYians as well as care fruit baskets and snacks for staff and janitors.
+The inaugural legacy project was launched in January 2020, titled ‘Delivering Kindness’. These student-led initiatives included hosting the Chinese New Year Appreciation Lunch for janitors, desiging gratitude cards, distributing &nbsp;&nbsp;oranges to JYians as well as care fruit baskets and snacks for staff and janitors.
 
 **2020 – Delivering Kindness**
 <img src="/images/2020%20project%201.png" style="width:45%">
