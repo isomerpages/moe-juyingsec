@@ -4,8 +4,6 @@ permalink: /achievements/impactful-leaders/prestigious-individual-awards/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **Prestigious Individual Awards**
-
 | Award | Staff | Year |
 |:---:|:---:|:---:|
 | President's Award for Teachers (PAT) | Mrs Amy Yeo (finalist) | 2015 |
