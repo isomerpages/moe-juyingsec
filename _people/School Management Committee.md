@@ -134,7 +134,7 @@ description: ""
 </tr>
 <tr>
 <td>Ms&nbsp;Wong Lye Peng Christina</td>
-<td>AdministrationManager</td>
+<td>Administration Manager</td>
 </tr>
 <tr>
 <td>Mr&nbsp;Chong Kim</td>
