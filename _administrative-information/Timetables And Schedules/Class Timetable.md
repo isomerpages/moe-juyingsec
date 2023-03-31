@@ -4,11 +4,6 @@ permalink: /information/administrative-information/timetables-n-schedules/class-
 description: ""
 third_nav_title: Timetables And Schedules
 ---
-### **Class Timetable**
-**Dear JYians and Parents,**
-
-The **2022** Class Timetable for **Semester 2**  is now available.
-  
-Click the link below to view or download a softcopy of the timetable.
-
-[JYSS 2022 Sem 2 Term 3 (230622) Class TT.pdf](/files/JYSS%202022%20Sem%202%20Term%203%20230622%20Class%20TT.pdf)
+<p><strong>Dear JYians and Parents,</strong></p>
+<p>The&nbsp;<strong>2023</strong>&nbsp;Class Timetable for&nbsp;<strong>Semester 1</strong>&nbsp;is now available.</p>
+<p>For each class, there is a Timetable A and Timetable B.<br><br>Click the link below to view or download softcopies of the timetables.<br><br>Timetable A | <a href="/files/2023%20Sem%201%20Class%20Timetables_TT%20A_27%20Dec%2022.pdf">2023 Sem 1 Class Timetables_TT A_27 Dec 22.pdf</a><br>Timetable B |&nbsp;<a href="/files/2023%20Sem%201%20Class%20Timetables_TT%20B_27%20Dec%2022.pdf">2023 Sem 1 Class Timetables_TT B_27 Dec 22.pdf</a></p>
