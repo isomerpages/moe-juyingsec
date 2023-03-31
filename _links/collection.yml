@@ -2,13 +2,13 @@ collections:
   links:
     output: true
     order:
-      - Student Learning Space.md
+      - Useful Links/.keep
       - Useful Links/Staff.md
       - Useful Links/Students.md
       - Useful Links/Parents.md
-      - Useful Links/.keep
+      - Student Learning Space.md
+      - FAQ/.keep
       - FAQ/FAQ.md
       - FAQ/Privacy Policy.md
       - FAQ/Terms of Use.md
-      - FAQ/.keep
       - Parents Gateway.md
