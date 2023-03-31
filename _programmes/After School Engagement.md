@@ -3,8 +3,6 @@ title: After School Engagement
 permalink: /programmes/after-school-engagement/
 description: ""
 ---
-
-
 #### **Objective**
 To meet the Social Emotional (SE) needs of students by creating an environment for students to build social skills through interaction with peers and teachers through activities.  
 
