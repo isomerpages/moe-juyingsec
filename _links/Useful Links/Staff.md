@@ -24,7 +24,7 @@ third_nav_title: Useful Links
 | <img src="/images/useful%20link%20staff%2016.jpg" style="width:85%"> | [iExams*](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)  |
 | <img src="/images/useful%20link%20staff%2017.jpg" style="width:85%"> | [www.hpb.gov.sg](http://www.hpb.gov.sg/)  |
 | <img src="/images/useful%20link%20staff%2018.png" style="width:45%"> | [JYSS ICT Equipment Loan Microsite](https://sites.google.com/s/1WJg6cklbKxubTwjP4pgg1Gp4MPpJEfX8/p/1Q3pEIditGDOX9uafwzIoI0BrX_zuks6A/edit)<br>For JYSS staff only<br>(requires ICON login) |
-|  <img src="/images/useful%20link%20staff%2019.png" style="width:85%"> | Fault Reporting Form<br>[http://go.gov.sg/jyss-defect-report](http://go.gov.sg/jyss-defect-report)]  |
+|  <img src="/images/useful%20link%20staff%2019.png" style="width:85%"> | Fault Reporting Form<br>[http://go.gov.sg/jyss-defect-report](http://go.gov.sg/jyss-defect-report)  |
 |
 
 \*Some links requires SSOE network or VPN to access the link.
