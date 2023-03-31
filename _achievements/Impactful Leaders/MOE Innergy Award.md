@@ -4,7 +4,6 @@ permalink: /achievements/impactful-leaders/moe-innergy-award/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **MOE Innergy Award**
 #### **2020**
 
 | Award | Staff Name |
