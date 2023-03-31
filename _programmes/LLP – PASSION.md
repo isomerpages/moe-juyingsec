@@ -3,7 +3,6 @@ title: LLP – PASSION
 permalink: /programmes/llp-passion/
 description: ""
 ---
-### **LLP - PASSION**
 #### **Learning for Life Programme**
 In Juying Secondary School, our Learning for Life Programme (LLP) is in PASSION and we aim to&nbsp;**Develop Self-Directed and Intrinsically Motivated Learners through PASSION.**
 
