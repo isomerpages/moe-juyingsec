@@ -4,8 +4,6 @@ permalink: /achievements/lifelong-learners/2020-gce-n-level/
 description: ""
 third_nav_title: Lifelong Learners
 ---
-### **2020 GCE N-level**
-
 #### **GCE NA Top Students**
 <img src="/images/2020%20n%20level%201.jpg" style="width:85%">
 
