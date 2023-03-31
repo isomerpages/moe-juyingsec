@@ -4,8 +4,6 @@ permalink: /achievements/impactful-leaders/outstanding-contribution-award-oca/
 description: ""
 third_nav_title: Impactful Leaders
 ---
-### **Outstanding Contribution Award (OCA)**
-
 #### **2020**
 
 <figure>
