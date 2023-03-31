@@ -4,7 +4,6 @@ permalink: /achievements/lifelong-learners/2018-gce-o-level/
 description: ""
 third_nav_title: Lifelong Learners
 ---
-### **2018 GCE O-level**
 <img src="/images/2018%20o%20level.jpg" style="width:55%">
 
 Congratulations to our 2018 GCE 'O' Level JYian candidates and parents!
