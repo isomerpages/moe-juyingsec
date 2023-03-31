@@ -6,6 +6,12 @@ third_nav_title: Impactful Leaders
 ---
 ### **MOE Service Excellence Awards**
 
+#### **2022**
+
+| Award Category | Staff Name |
+|:---:|:---:|
+| Platinum | Mdm Gan Hui Yee |
+
 #### **2021**
 
 | Award Category | Staff Name |
