@@ -3,8 +3,6 @@ title: School
 permalink: /achievements/school/
 description: ""
 ---
-### **School**
-
 | CATEGORY | AWARD |
 |---|---|
 | Academic Value-Added | Achievement Award for the Normal Academic Stream |
