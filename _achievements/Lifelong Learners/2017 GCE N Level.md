@@ -4,7 +4,6 @@ permalink: /achievements/lifelong-learners/2017-gce-n-level/
 description: ""
 third_nav_title: Lifelong Learners
 ---
-### **2017 GCE N-level**
 Congratulations to our 2017 4NA &amp; 4NT JYians and their parents! &nbsp;  
   
 We have done exceptionally well this year! 76% of our 4NA students qualify for Sec 5, comparable to the national average. Considering that our mean PSLE score of 164 is lower than the national average, it is an excellent performance indeed by our students!
