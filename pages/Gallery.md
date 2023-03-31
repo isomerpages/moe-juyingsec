@@ -11,5 +11,11 @@ description: ""
 <td style="width: 50%;"><a href="https://www.youtube.com/channel/UCiQpfTXaxMLuFHPQC8qPrWw/feed"><img src="/images/juyingyt.png" style="width: 50%;"></a>
 </td>
 </tr>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="https://www.flickr.com/photos/106251112@N04/sets/">Juying Gallery</a>
+</td>
+<td style="width: 50%; text-align: center;"><a href="https://www.youtube.com/channel/UCiQpfTXaxMLuFHPQC8qPrWw/feed">Juying Youtube</a>
+</td>
+</tr>
 </tbody>
 </table>
