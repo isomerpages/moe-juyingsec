@@ -4,7 +4,5 @@ permalink: /information/administrative-information/timetables-n-schedules/post-e
 description: ""
 third_nav_title: Timetables And Schedules
 ---
-### **Post-Exam Timetable**
-Information on the Post-Exam timetable will be updated nearer the date.  
-  
-For parents, do look out for information sent out via Parents' Gateway.
+<p>Information on the Post-Exam timetable will be updated nearer the date.</p>
+<p>For parents, do look out for information sent out via Parents' Gateway.</p>
