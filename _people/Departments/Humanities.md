@@ -60,14 +60,24 @@ Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the visio
 </figure>
 
 ##### **Sec 1 Geographical Investigation - Lower Seletar Reservoir**
-<img src="/images/humanities2.jpg" style="width:49%" align="left">
-<img src="/images/humanities3.jpg" style="width:49%" align="right">
-![](/images/humanities%20caption%201.jpg)
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities2.jpg">Discussing results for analysis</td>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities3.jpg">GI at Lower Seletar Reservoir</td>
+</tr>
+</tbody>
+</table>
 
 ##### **Sec 2 Geographical Investigation - Nanyang Community**
-<img src="/images/humanities4.jpg" style="width:49%" align="left">
-<img src="/images/humanities5.jpg" style="width:49%" align="right">
-![](/images/humanities%20caption%202.jpg)
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities4.jpg">Interviewing resident about Nanyang Community</td>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities5.jpg">Ready to do survey</td>
+</tr>
+</tbody>
+</table>
 
 ##### **Sec 3 Geographical Investigation - Chinatown**
 <figure>
@@ -105,9 +115,14 @@ Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the visio
  </figcaption>
 </figure>
 
-<img src="/images/humanities14.jpg" style="width:49%" align="left">
-<img src="/images/humanities15.jpg" style="width:49%" align="right">
-![](/images/humanities%20caption%203.jpg)
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities14.jpg">Sec 1 students listening to the facilitator</td>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities15.jpg">Sec 1 students doing water testing during GI</td>
+</tr>
+</tbody>
+</table>
 
 <figure>
 <img src="/images/humanities16.jpg" style="width:49%" align="left">
@@ -117,6 +132,12 @@ Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the visio
  </figcaption>
 </figure>
 
-<img src="/images/humanities18.jpg" style="width:52%" align="left">
-<img src="/images/humanities19.jpg" style="width:35%" align="middle">
-![](/images/humanities%20caption%204.jpg)
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities18.jpg">Upper Sec students at Hospitality Race</td>
+<td style="width: 50%; text-align: center;"><img src="/images/humanities19.jpg" style="width: 65%;">Sec 2 students collecting data during HI</td>
+</tr>
+</tbody>
+</table>
+
