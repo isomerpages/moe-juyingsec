@@ -4,7 +4,6 @@ permalink: /people/departments/craft-n-technology/
 description: ""
 third_nav_title: Departments
 ---
-### **Craft &amp; Technology**
 <figure>
 <img style="width:100%" src="/images/craftntech%20dept.png">  Craft &amp; Technology Department
 </figure>
