@@ -22,7 +22,7 @@ English Language Week is aimed to encourage students to develop a love for readi
 3\.  To achieve value – added results in English Language
 
 **Collaboration with ALP**<br>
-Together with ALP, the English Language Department has embarked on a school-wide public speaking programme. These public speaking platforms aim to develop every JYian into confident and competent speakers of the English language.&nbsp; More details are available on the&nbsp;[Applied Learning Programme (ALP) webpage](https://staging.d1o9rele4xczce.amplifyapp.com/programmes/alp/).
+Together with ALP, the English Language Department has embarked on a school-wide public speaking programme. These public speaking platforms aim to develop every JYian into confident and competent speakers of the English language.&nbsp; More details are available on the&nbsp;[Applied Learning Programme (ALP) webpage](/programmes/alp-public-speaking).
 
 **EL Reading Programme and English Language Week**<br>
 The department has continued to encourage students to read to help them develop their general knowledge and instil good reading habits by subscribing to various magazines and providing in-house reading material monthly.
@@ -37,8 +37,6 @@ The department also embarked on a series of topical enrichment lectures to equip
 
 **Offering Literature as an Elective in Secondary 3**<br>
 In addition, English Department continues to offer Upper Secondary English Literature as an Elective subject for Secondary 3 Express students. The inaugural class of 10 students study&nbsp;_Hook and Eye: Stories from the Margins,_&nbsp;and&nbsp;unseen&nbsp;poetry. Students will be embarking on a new novel,&nbsp;_Kindred_, next year. Literature students understand themselves and others better in a multicultural and interconnected world by exploring the depth and breadth of the human experience through works of literature.
-
-#### **Secondary Three ALP – Debating Training Workshop**
 
 <figure>
 <img src="/images/sec3%20alp1.jpeg" style="width:75%">
