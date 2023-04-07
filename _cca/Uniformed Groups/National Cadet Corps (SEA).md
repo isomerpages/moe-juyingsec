@@ -36,7 +36,7 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 #### **Organisation Chart**
 ##### **Teachers In-Charge**
 
-| Commanding Officer |
+| **Commanding Officer** |
 |:---:|
 |  MAJ (NCC) Khoo Woei Lin |
 | **Junior Cadets Teacher Officer** |
