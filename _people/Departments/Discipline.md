@@ -4,8 +4,6 @@ permalink: /people/departments/discipline/
 description: ""
 third_nav_title: Departments
 ---
-### **Discipline**
-
 #### **Vision**
 Self-disciplined JYians Who Demonstrate the Strength of Character.
 
