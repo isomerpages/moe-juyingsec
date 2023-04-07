@@ -4,7 +4,6 @@ permalink: /people/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-### **Humanities**
 <figure>
 <img src="/images/humanities%20dept.png" style="width:85%">
 <figcaption> Humanities Department
@@ -41,7 +40,6 @@ Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the visio
 | Mr Dayan Tan | HOD (Aesthetics) |
 | Mr Kartik Aravind Raj | Teacher |
 | Ms Elydia Azman | Teacher |
-| Ms Lam Hiu Yan | Teacher |
 | Ms Chang Sze May  | Teacher |
 | Mr Adrian Nyoe | Teacher  |
 | Ms Guo Binglian | Teacher  |
