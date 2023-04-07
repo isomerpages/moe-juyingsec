@@ -3,7 +3,6 @@ title: Education and Career Guidance
 permalink: /people/departments/student-development-team/education-and-career-guidance/
 description: ""
 ---
-### **Education and Career Guidance**
 #### **ECG Curriculum for Secondary Students**
 **Our Goal**<br>
 To deepen students’ understanding of self and relate schooling to different education and career pathways.
