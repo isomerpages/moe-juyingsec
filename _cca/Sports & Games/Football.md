@@ -39,7 +39,7 @@ Indeed, we hope for our footballers to have the skill &amp; fitness to play, the
 
 | Teachers-In-Charge |
 |:---:|
-| Mr Senthil Silvarajoo (IC)Mr Ho Sing Charn |
+| Mr Senthil Silvarajoo (IC)<br>Mr Ho Sing Charn |
 |
 
 | Coach |
@@ -49,7 +49,8 @@ Indeed, we hope for our footballers to have the skill &amp; fitness to play, the
 |
 
 | Executive Committee |
-| --- |
+|  |  |
+|---|---|
 | Captain | Muhammad Raiyan Kurniawan Bin Sabri&nbsp;(3A1) |
 | Vice-Captain | Danish Syafizuan Bin Shamsul&nbsp;(3T1) |
 |
