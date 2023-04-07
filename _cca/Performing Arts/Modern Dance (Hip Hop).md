@@ -7,22 +7,22 @@ third_nav_title: Performing Arts
 ### **Modern Dance (Hip Hop)**
 
 <figure>
-<img src="/images/hiphop%201.jpg" 
-     style="width:85%">
+<img src="/images/hiphop%201.jpg" style="width:85%">
 <figcaption>  Juying School Leaders with Hip Hop CCA Leaders
  </figcaption>
 </figure>
 
 <figure>
-<img src="/images/hiphop%202.jpg" 
-     style="width:85%">
+<img src="/images/hiphop%202.jpg" style="width:85%">
 <figcaption>  NutzCrew receiving a plaque and token of appreciation for their National Day performance.
  </figcaption>
 </figure>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/YnqzO_ZgPt4" title="Hip Hop NDP Performance 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/YnqzO_ZgPt4" title="Hip Hop NDP Performance 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p style="text-align: center;">Juying NutzCrew NDP 2021 Performance</p>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/LZQIJVi4bIY" title="SYF 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/LZQIJVi4bIY" title="SYF 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p style="text-align: center;">NutzCrew performing at Singapore Youth Festival 2021</p>
 
 #### **Vision**
 A healthy community of passionate dancers that display humility, creativity and appreciation of the work they do
@@ -36,13 +36,13 @@ One NutzCrew, One Family
 #### **Overview**
 The dynamic Juying Secondary School's Modern Dance Team, otherwise more affectionately known as the NutzCrew, exhibits hard work and perseverance in their performances that aspire to both spread cheer and entertainment to their audience. This year, the NutzCrew brought home the Certificate of Distinction award at the Singapore Youth Festival Arts Presentation 2021, reflecting their sheer tenacity to overcome the many challenges and unprecedented restrictions leading up to the final performance. The NutzCrew also got the chance to fly the Juying Secondary School’s flag high when we were one of the few schools that was chosen to perform for the National Day Parade Online Showcase 2021.
 
-Despite the Covid-19 restrictions, the NutzCrew have persevered and pushed through. They also found joy and camaraderie in their online CCA sessions. The Secondary Two dancers rose up to the challenge to showcase their skills as they put up an upbeat and meaningful Chinese New Year performance online. Meanwhile, the Secondary One dancers showcased a Hari Raya Aidilfitri performance choreographed by two of the Secondary Three dancers. The Secondary Three dancers also performed a National Day item online for the school’s National Day Celebration. During the Teachers’ Day Celebration, NutzCrew also put up a fabulous online performance to express their gratitude for their teachers. The K-Pop performance reflects the indescribable magic that dance possesses to brighten up lives. 
+Despite the Covid-19 restrictions, the NutzCrew have persevered and pushed through. They also found joy and camaraderie in their online CCA sessions. The Secondary Two dancers rose up to the challenge to showcase their skills as they put up an upbeat and meaningful Chinese New Year performance online. Meanwhile, the Secondary One dancers showcased a Hari Raya Aidilfitri performance choreographed by two of the Secondary Three dancers. The Secondary Three dancers also performed a National Day item online for the school’s National Day Celebration. During the Teachers’ Day Celebration, NutzCrew also put up a fabulous online performance to express their gratitude for their teachers. The K-Pop performance reflects the indescribable magic that dance possesses to brighten up lives.&nbsp;
 
 Even though NutzCrew enjoys learning and performing, we did not forget to give back to the society with the skills that we have. NutzCrew collaborated with Pioneer Primary School to teach 13 of the primary 6 students a dance item so that they can perform this item during their graduation day. Besides that, NutzCrew also participated in the Nanyang Sayang Program. They imparted positive body image lessons through dance by teaching a group of students from Nanyang Estate.
 
 All in all, every member of the NutzCrew is deeply humbled by all the victories we have brought home and are grateful for the guidance, help and instruction from the teachers and instructors. We pledge to continue to do our very best to deliver excellence both on and off stage
 
-#### **Competitions & Events**
+#### **Competitions &amp; Events**
 
 |  |  |
 |---|---|
@@ -73,7 +73,7 @@ All in all, every member of the NutzCrew is deeply humbled by all the victories 
 
 | Teachers-In-Charge |
 |:---:|
-| Ms Nur Wahidah (OIC)<br>Ms Wong Zhimin Lynette Mr Ng Wei Sheng Martin |
+| Ms Nur Wahidah (OIC)<br>Ms Wong Zhimin Lynette<br>Mr Ng Wei Sheng Martin |
 |  |
 
 |  Dance Instructors  |
