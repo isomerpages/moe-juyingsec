@@ -48,9 +48,8 @@ Indeed, we hope for our footballers to have the skill &amp; fitness to play, the
 | Mr Sies Senan |
 |
 
-| Executive Committee |
-|  |  |
-|---|---|
+| Executive Committee |  |
+|:---:|:---:|
 | Captain | Muhammad Raiyan Kurniawan Bin Sabri&nbsp;(3A1) |
 | Vice-Captain | Danish Syafizuan Bin Shamsul&nbsp;(3T1) |
 |
