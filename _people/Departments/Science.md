@@ -99,7 +99,7 @@ Science department started year, celebrating the fruits of our exciting lessons 
 <td style="width: 50%; text-align: center;"><img src="/images/science12.jpg">Sec 1s trying out the interactive exhibits at the Art Science Museum.</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/science13.jpg">Sec 2s soaking in the sights and sounds of animal and plant life at Sungei Buloh Wetland Reserve. </td>
+<td style="width: 50%; text-align: center;"><img src="/images/science13.jpg">Sec 2s soaking in the sights and sounds of animal and plant life at Sungei Buloh Wetland Reserve. </td>
 <td style="width: 50%; text-align: center;"><img src="/images/science14.jpg">Sec 3s Biology students observing intertidal organisms up close during a coastal walk at Changi.</td>
 </tr>
 </tbody>
