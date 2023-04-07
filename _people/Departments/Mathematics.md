@@ -4,8 +4,6 @@ permalink: /people/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---
-### **Mathematics**
-
 <figure>
 <img src="/images/math%20dept.jpg" style="width:85%">
 <figcaption> Mathematics Department
@@ -24,7 +22,7 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 #### **Programmes**
 1\.  Providing Learning Experiences to engage and motivate learners.<br>
 2\.  Bridging sessions to boost confidence and skills in numeracy and mathematical thinking.<br>
-3\.  PDLP to promote self-directed learners with intrinsic motivation.<br>
+3\.  PDLP to promote self-directed learners with intrinsic&nbsp;motivation.<br>
 4\.  Incorporating STEM education to promote students who are curious, creative and who aspires to be the change.<br>
 5\.  Incorporating computational thinking to develop problem thinking skills.
 
@@ -73,7 +71,7 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 #### **Long Term Goals**
 *   To inspire a love for Mathematics in JYians  
 *   To inculcate confidence in JYians to apply Mathematics to real world problems  
-*   To impact the lives of students to be  Reflective, Self-directed and Collaborative learners.
+*   To impact the lives of students to be &nbsp;Reflective, Self-directed and Collaborative learners.
 
 #### **Organisation Chart**
 
