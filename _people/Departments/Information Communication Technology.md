@@ -4,7 +4,6 @@ permalink: /people/departments/information-communication-technology/
 description: ""
 third_nav_title: Departments
 ---
-### **Information Communication Technology**
 <figure>
 <img src="/images/ict%20dept.jpg" style="width:85%">
 <figcaption>ICT Department
@@ -31,41 +30,49 @@ Through the use of technology, we hope maximise every learning opportunity by be
 #### **Programmes &amp; Activities**
 ##### **Microbit Programming**
 
-<img src="/images/ict1.jpg" style="width:49%" align="left">
-<img src="/images/ict2.jpg" style="width:49%" align="right">
-![](/images/ict%20caption%201.jpg)
-		 
-<img src="/images/ict3.jpg" style="width:49%" align="left">
-<img src="/images/ict4.jpg" style="width:49%" align="right">
-![](/images/ict%20caption%202.jpg)
-
-<img src="/images/ict5.jpg" style="width:49%" align="left">
-<img src="/images/ict6.jpg" style="width:49%" align="right">
-![](/images/ict%20caption%203.jpg)
-
-<img src="/images/ict7.jpg" style="width:49%" align="left">
-![](/images/ict%20caption%204.jpg)
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/ict1.jpg">Coding microbits with breakout boards</td>
+<td style="width: 50%; text-align: center;"><img src="/images/ict2.jpg">Future programmers in the making</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/ict3.jpg">Scissors, Paper, Stone - on micro:bit</td>
+<td style="width: 50%; text-align: center;"><img src="/images/ict4.jpg">Learning Engagement</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/ict5.jpg">Fun with Coding</td>
+<td style="width: 50%; text-align: center;"><img src="/images/ict6.jpg">Thumbs up for ITP lessons!</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/ict7.jpg">Collaborative work</td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 ##### **Code For Fun &amp; Google Cloud Skills**
 
-<img src="/images/ict%208.jpg" style="width:50%;margin-right:15px;" align="left">Students working on a Scratch project learnt during the ITP lessons.<br>
-Visual Programming with Scratch are part of the Code for Fun modules that have been created by MOE to develop interest in coding. The Code For Fun Programme also exposes students in planning and coding their own scripts to develop their own animations and games.
-<br clear="left">
-
-<img src="/images/ict%209.jpg" style="width:49%" align="left">
-<img src="/images/ict%2010.jpg" style="width:49%" align="right">
-		 
-<br clear="left">		 
-
-<img src="/images/ict%2011.jpg" style="width:49%" align="left">
-<img src="/images/ict%2012.jpg" style="width:49%" align="right">
-		 
-<br clear="left">		 
-
-<img src="/images/ict%2013.jpg" style="width:49%" align="left">
-<img src="/images/ict%2014.jpg" style="width:49%" align="right">		 
-		 
-<br clear="left">		 
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ict%208.jpg"></td>
+<td style="width: 50%;">Students working on a Scratch project learnt during the ITP lessons.<br><br>Visual Programming with Scratch are part of the Code for Fun&nbsp;modules that have been created by MOE to develop interest in coding. The Code For Fun Programme also exposes students in planning and coding their own scripts to develop their own animations and games.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ict%209.jpg"></td>
+<td style="width: 50%;"><img src="/images/ict%2010.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ict%2011.jpg"></td>
+<td style="width: 50%;"><img src="/images/ict%2012.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ict%2013.jpg"></td>
+<td style="width: 50%;"><img src="/images/ict%2014.jpg"></td>
+</tr>
+</tbody>
+</table>
 
 #### **Organization Chart**
 
@@ -73,10 +80,8 @@ Visual Programming with Scratch are part of the Code for Fun modules that have b
 |---|---|
 | Mr Tan Meng Hwee | HOD (Information Communication Technology) |
 | Mr Rudie Asmara | Subject Head (Computer Applications) |
-| Mrs Sophia Ang  | Training Coordinator |
 | Mrs Tee-Ong Xian Qing | Teacher |
-| Mr Samuel Cho | Teacher |
-| Mr Elvinardy Bin Darwin  | ICT Associate / Manager  |
+| Mdm Rosnah | Teacher |
 | Ms Adilah | Desktop Engineer |
 | Mr Jian Wei | Desktop Engineer |
 |
