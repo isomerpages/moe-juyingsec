@@ -4,8 +4,6 @@ permalink: /people/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
 ---
-### **Mother Tongue**
-
 <figure>
 <img src="/images/mother%20tongue%20dept.jpg" style="width:85%">
 <figcaption> Mother Tongue Department
