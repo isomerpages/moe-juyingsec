@@ -4,10 +4,8 @@ permalink: /people/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-### **Science**
-
 <figure>
-<img src="/images/science%20dept.png" style="width:85%">
+<img style="width:85%" src="/images/science%20dept.png">
 <figcaption>Science Department
  </figcaption>
 </figure>
@@ -24,7 +22,7 @@ The Science Department strives to inculcate the joy of learning in our students 
 
 #### **Science@Juying Secondary**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/ImFw4zd4nSA" title="Science - Juying Secondary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Science - Juying Secondary" src="https://www.youtube.com/embed/ImFw4zd4nSA" height="350" width="700"></iframe>
 
 #### **Juying Science Newsfeed**
 Explore current issues. Enrich your minds.  
@@ -60,48 +58,56 @@ Science department started year, celebrating the fruits of our exciting lessons 
 
 #### **Programmes &amp; Activities**
 
-<img src="/images/science1.jpg" style="width:49%" align="left">
-<img src="/images/science2.jpg" style="width:35%" align="middle">
-![](/images/science%20caption%201.jpg)
-
-<img src="/images/science3.jpg" style="width:44%" align="left">
-<img src="/images/science4.jpg" style="width:49%" align="right">
-![](/images/science%20caption%202.jpg)
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/science1.jpg">Layering juices and syrups to create<br>a unique and delicious mocktail!</td>
+<td style="width: 50%; text-align: center;"><img style="width:50%" src="/images/science2.jpg">Illustrating different types of wounds using household items in the Derma Rouge Challenge</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/science3.jpg">Exploring the Sungei Buloh Wetland Reserve</td>
+<td style="width: 50%; text-align: center;"><img src="/images/science4.jpg">Exploring Chek Jawa</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/science5.jpg"></td>
+<td style="width: 50%;"><img src="/images/science6.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Putting their forensic skills to the test to solve a murder crime</p>
 
 <figure>
-<img src="/images/science5.jpg" style="width:49%" align="left">
-<img src="/images/science6.jpg" style="width:49%" align="right">
-<br clear="left">	
-<figcaption>  Putting their forensic skills to the test to solve a murder crime
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/science7.jpg" style="width:85%">
+<img style="width:85%" src="/images/science7.jpg">
 <figcaption> Sec 2 students sharing about their learning journey to Sungei Buloh Wetland Reserve
  </figcaption>
 </figure>
 
 <figure>
-<img src="/images/science8.jpg" style="width:85%">
+<img style="width:85%" src="/images/science8.jpg">
 <figcaption>  Our Champion team at the ignITE Skills Challenge. Well done!
  </figcaption>
 </figure>
 
-<img src="/images/science9.jpg" style="width:49%" align="left">
-<img src="/images/science10.jpg" style="width:49%" align="right">
-![](/images/science%20caption%203.jpg)
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/science9.jpg">The team’s winning work Rafflestinction for ignITE, using chromatography.</td>
+<td style="width: 50%; text-align: center;"><img src="/images/science10.jpg">NUS Crystal-growing Challenge</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img src="/images/science11.jpg">Presentation of crystal at NUS, after one semester of crystal-growing work.</td>
+<td style="width: 50%; text-align: center;"><img src="/images/science12.jpg">Sec 1s trying out the interactive exhibits at the Art Science Museum.</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/science13.jpg">Sec 2s soaking in the sights and sounds of animal and plant life at Sungei Buloh Wetland Reserve. </td>
+<td style="width: 50%; text-align: center;"><img src="/images/science14.jpg">Sec 3s Biology students observing intertidal organisms up close during a coastal walk at Changi.</td>
+</tr>
+</tbody>
+</table>
 
-<img src="/images/science11.jpg" style="width:44%" align="left">
-<img src="/images/science12.jpg" style="width:49%" align="right">
-![](/images/science%20caption%204.jpg)
-
-<img src="/images/science13.jpg" style="width:49%" align="left">
-<img src="/images/science14.jpg" style="width:49%" align="right">
-![](/images/science%20caption%205.jpg)
 
 <figure>
-<img src="/images/science15.jpg" style="width:85%">
+<img style="width:85%" src="/images/science15.jpg">
 <figcaption> Sec 3s Physics students visiting a power station at Jurong Island.
  </figcaption>
 </figure>
