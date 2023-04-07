@@ -101,3 +101,10 @@ Under the guidance of their form teachers, students prepare their presentation a
 <figcaption> Ms Roslin &amp; Ms Hong updating the parent on their child's progress
  </figcaption>
 </figure>
+
+#### **Student Development Team**
+<ul>
+<li><a href="/people/departments/student-development-team/education-and-career-guidance">Education and Career Guidance</a></li>
+<li><a href="/people/departments/student-development-team/sexuality-education">Sexuality Education</a></li>
+<li><a href="/people/departments/student-development-team/counselling-services">Counselling Services</a></li>
+</ul>
