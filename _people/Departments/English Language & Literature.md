@@ -4,8 +4,6 @@ permalink: /people/departments/english-language-n-literature/
 description: ""
 third_nav_title: Departments
 ---
-### **English Language &amp; Literature**
-
 <img src="/images/english%20dept.jpg" style="width:85%">
 
 #### **Vision**
