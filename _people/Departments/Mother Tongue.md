@@ -37,10 +37,10 @@ MT Fortnight activities for our Sec One to Three students will be carried out in
 
 | Name | Designation |
 |---|---|
-| Mdm Maslinni Abdul Malik | HOD (Mother Tongue) |
-| Mdm Gan Hui Yee | Subject Head (Chinese Language) |
+| Mdm Gan Hui Yee | HOD (Mother Tongue) |
 | Ms Lau Jia Yun | Senior Teacher (Mother Tongue) |
 | Mr Lee Lian Hui Roy | Year Head (Lower Sec)  |
+| Mdm Maslinni Abdul Malik | Teacher |
 | Ms Lim Siew Yin | Teacher |
 | Ms Chen Yonghua | Teacher |
 | Mdm Rozana Salleh | Teacher |
