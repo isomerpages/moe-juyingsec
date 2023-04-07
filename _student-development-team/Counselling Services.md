@@ -3,7 +3,6 @@ title: Counselling Services
 permalink: /people/departments/student-development-team/counselling-services/
 description: ""
 ---
-### **Counselling Services**
 #### **Who are the School Counsellors?**
 The school counsellors are there to:  
 *   Listen to you &nbsp; &nbsp; &nbsp; &nbsp;
