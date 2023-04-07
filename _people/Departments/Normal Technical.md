@@ -4,7 +4,6 @@ permalink: /people/departments/normal-technical/
 description: ""
 third_nav_title: Departments
 ---
-### **Normal Technical**
 #### **Vision**
 Empowering the Normal (Technical) student for success.
 
