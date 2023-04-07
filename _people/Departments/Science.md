@@ -123,7 +123,6 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Mdm Irene Lim  | Coordinator (Chemistry) |
 | Mdm Khairiani  | Coordinator (FCE) |
 | Mr Senthil Silvarajoo  | Subject Head (CCE)  |
-| Ms Ng May Ling  | Senior Teacher (Special Education) / Biology |
 | Mdm Soo Mei Hui | Teacher (Sec 2 Coordinator) |
 | Dr Tan Ying Shan | Teacher  |
 | Mr Yee Jen Siong | Teacher |
