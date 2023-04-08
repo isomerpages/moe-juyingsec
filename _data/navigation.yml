@@ -16,34 +16,7 @@ links:
   - title: People
     collection: people
   - title: Programmes
-    url: /programmes/llp/
-    sublinks:
-      - title: LLP - PASSION
-        url: /programmes/llp-passion
-      - title: ALP - Public Speaking
-        url: /programmes/alp-public-speaking
-      - title: Student Leadership
-        url: /programmes/student-leadership
-      - title: Achievers Programme
-        url: /programmes/achievers-programme/
-      - title: Full Subject-Based Banding
-        url: /programmes/full-subject-based-banding-full-sbb
-      - title: NE / VIA / TIE
-        url: /programmes/ne-via-tie/
-      - title: After School Engagement
-        url: /programmes/after-school-engagement
-      - title: Sexuality Education
-        url: /programmes/sexuality-education
-      - title: MOE OBS Challenge
-        url: /programmes/moe-obs-challenge
-      - title: CCE Programmes / PASSION
-        url: /programmes/cce-programmes-passion-modules
-      - title: Kindness & Gratitude Movement
-        url: /programmes/kindness-n-gratitude-movement
-      - title: Home-Based Learning (HBL)
-        url: /programmes/home-based-learning-hbl
-      - title: Personalised Digital Learning
-        url: /programmes/personalised-digital-learning-programme-pdlp
+    collection: programmes
   - title: Achievements
     url: /achievements/school/
     sublinks:
@@ -52,7 +25,7 @@ links:
       - title: Lifelong Learners
         url: /achievements/lifelong-learners/
       - title: Strength of Character
-        url: /achievements/strength-of-character/
+        url: /achievements/strength-of-character/2021
       - title: Impactful Leaders
         url: /achievements/impactful-leaders/
       - title: Purposeful Partnership
@@ -64,18 +37,18 @@ links:
       - title: ECHA
         url: /achievements/echa/
   - title: CCA
-    url: /CCA/performing-arts/
+    url: /cca/performing-arts/choir
     sublinks:
       - title: Performing Arts
-        url: /CCA/performing-arts/
+        url: /cca/performing-arts/choir
       - title: Uniformed Groups
-        url: /CCA/uniformed-groups/
+        url: /cca/uniformed-groups/national-cadet-corps-sea
       - title: Sports & Games
-        url: /CCA/sports-and-games/
+        url: /cca/sports-n-games/badminton
       - title: Clubs & Societies
-        url: /CCA/clubs-and-societies/
+        url: /cca/clubs-n-societies/art-n-craft-club
       - title: Grading System
-        url: /CCA/grading-system/
+        url: /cca/grading-system/overview-of-leaps-2-0
   - title: Links
     url: /links/useful-links/staff
     sublinks:
