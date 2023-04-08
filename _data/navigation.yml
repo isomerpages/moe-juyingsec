@@ -1,26 +1,7 @@
 logo: /images/school logo.svg
 links:
   - title: Information
-    url: /information/principals-message/principals-message-2023
-    sublinks:
-      - title: Principal's Message
-        url: /information/principals-message/principals-message-2023
-      - title: School Overview
-        url: /information/school-overview/school-history
-      - title: Administrative Information
-        url: /information/administrative-information/
-      - title: Students' Welfare
-        url: /information/students-welfare/counselling-services
-      - title: Contact Us
-        url: /information/contact-us
-      - title: Why choose Juying Secondary?
-        url: /information/why-choose-juying-secondary
-      - title: Direct School Admission (DSA)
-        url: /information/direct-school-admission/
-      - title: Examination Schedules
-        url: /timetables-n-schedules/examination-timetable/semester-2-weighted-assessments
-      - title: Student Handbook
-        url: /information/student-handbook
+    collection: information
   - title: Happenings
     url: /happenings/news/
     sublinks:
@@ -29,26 +10,11 @@ links:
       - title: School Calender
         url: /happenings/school-calender/
       - title: School Yearbook
-        url: /happenings/school-yearbook/
+        url: /happenings/school-yearbook/2022
       - title: Events
-        url: /happenings/events/
+        url: /happenings/events/2023
   - title: People
-    url: /people/school-management-committee/
-    sublinks:
-      - title: School Management Committee
-        url: /people/school-management-committee/
-      - title: Departments
-        url: /people/departments/
-      - title: Our Partners
-        url: /people/our-partners/
-      - title: Lifelong Learners
-        url: /people/lifelong-learners/
-      - title: Strength of Character
-        url: /people/strength-of-character/
-      - title: Form Teachers
-        url: /people/form-teachers/
-      - title: Executive & Admin Staff
-        url: /people/executive-and-administrative-staff/
+    collection: people
   - title: Programmes
     url: /programmes/llp/
     sublinks:
