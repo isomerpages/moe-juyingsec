@@ -4,7 +4,6 @@ permalink: /people/our-partners/parents-support-group/
 description: ""
 third_nav_title: Our Partners
 ---
-### **Parents Support Group**
 #### **Juying Parents Support Group (JPSG)**
 
 <img src="/images/psg1.jpg" style="width:85%">
