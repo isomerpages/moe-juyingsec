@@ -30,7 +30,7 @@ sections:
   - infobar:
       title: What Our Students Say
       button: click here for more info
-      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2021/ariel-s4
+      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2022/charis-king-s4
   - infobar:
       title: What Our Alumni Say
       button: click here for more info
