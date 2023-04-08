@@ -4,8 +4,6 @@ permalink: /people/our-partners/school-advisory-committee/
 description: ""
 third_nav_title: Our Partners
 ---
-### **School Advisory Committee**
-
 |  |  |  |
 |:---:|:---:|:---:|
 |  | <img src="/images/sac1.jpg" style="width:95%"><br>**Chairman**<br>Mr Andy Koh |  |
