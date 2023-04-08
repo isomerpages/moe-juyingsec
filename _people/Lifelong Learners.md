@@ -3,7 +3,6 @@ title: Lifelong Learners
 permalink: /people/lifelong-learners/
 description: ""
 ---
-### **Lifelong Learners**
 #### **Background**
 **The School's Strategic Thrust 1:**&nbsp;Lifelong Learners aims to develop Every JYian to become a passionate and confident learner who strives for academic excellence.
 
