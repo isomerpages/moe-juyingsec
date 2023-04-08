@@ -4,7 +4,6 @@ permalink: /people/our-partners/alumni/
 description: ""
 third_nav_title: Our Partners
 ---
-### **Alumni**
 The JYian Alumni serves as a link between past students and the school. It enables past students to gather and interact, preserving and renewing old friendships, and provides an opportunity for past students to give something back to the school which has nurtured them.  
   
 &nbsp;Our JYian Alumnus are role models and a source of inspiration to present pupils to strive towards success.  
