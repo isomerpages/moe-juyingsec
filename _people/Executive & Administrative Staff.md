@@ -30,12 +30,8 @@ description: ""
 <td>Corporate Support Officer</td>
 </tr>
 <tr>
-<td>Ms Yogeswari D/O Muthiah&nbsp;</td>
+<td>Ms Veron Lee Wai Leng&nbsp;</td>
 <td>Corporate Support Officer</td>
-</tr>
-<tr>
-<td>Ms Joei Chok</td>
-<td>Admin Assistant</td>
 </tr>
 <tr>
 <td>Mr Roslee</td>
