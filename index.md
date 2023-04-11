@@ -36,19 +36,15 @@ sections:
       button: click here for more info
       url: https://sites.google.com/view/juyingtestimonials/alumni/huang-rui-jia
   - infopic:
-      title: Photo Gallery
-      subtitle: Juying Gallery
-      button: click here to view
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Juying Gallry
+      subtitle: Juying Photo Gallery
+      description: The Juying Story
+      button: Click here
       url: https://www.flickr.com/photos/106251112@N04/sets/
-      image: /images/btn_photo.png
-      alt: Image alt text
-      description: Join us at our Photo Gallery
-  - infopic:
-      title: Youtube
-      subtitle: Juying Youtube
-      button: click here to view
-      url: https://www.youtube.com/channel/UCiQpfTXaxMLuFHPQC8qPrWw/feed
-      image: /images/btn-ytube.png
-      alt: Image alt text
-      description: Juying Secondary on Youtube
 ---
