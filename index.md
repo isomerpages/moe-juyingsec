@@ -42,7 +42,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: Juying Gallry
+      title: Juying Gallery
       subtitle: Juying Photo Gallery
       description: The Juying Story
       button: Click here
