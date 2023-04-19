@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/heroshot_every_jyian_2023.png
+      background: /images/heroshot_every_jyian_2023_orange.png
       key_highlights:
         - title: Vision & Mission
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: Programmes
           description: ""
           url: /programmes/llp-passion/
+      title: Juying Secondary School
   - infobar:
       title: Latest News
       button: click here for more info
