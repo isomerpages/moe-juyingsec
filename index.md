@@ -15,9 +15,9 @@ sections:
         - title: Values
           description: ""
           url: /information/school-overview/core-values/
-        - title: News & Achievements
+        - title: Programmes
           description: ""
-          url: /happenings/news/
+          url: /programmes/llp-passion/
   - infobar:
       title: Latest News
       button: click here for more info
