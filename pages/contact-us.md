@@ -2,31 +2,42 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Juying Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 33, Jurong West Street 91
+      - Singapore 649038
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: School Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6308 9898
+      - email: juying_ss@moe.edu.sg
+      - other: ""
+    title: Contact Details
+  - content:
+      - phone: +65 6793 2835
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Bus Services: 99, 241"
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Nearest MRT Station: Boon Lay (Bus 241), Pioneer (Bus 241)  "
+    title: Nearest MRT Station
+  - content:
+      - phone: ""
+      - email: ""
+      - other: If you did not find the information you were looking for on our site or
+          if you have any other questions regarding our school or services, feel
+          free to contact us, either by phone or email. We will be happy to
+          provide you with a detailed answer as quickly as we can.
+    title: General Enquiries & Feedback
 ---

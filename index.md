@@ -1,32 +1,50 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Juying Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/school logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Juying Secondary School
+      background: /images/heroshot_every_jyian_2023.png
+      key_highlights:
+        - title: Vision & Mission
+          description: ""
+          url: /information/school-overview/vision-and-mission/
+        - title: Values
+          description: ""
+          url: /information/school-overview/core-values/
+        - title: News & Achievements
+          description: ""
+          url: /happenings/news/
+  - infobar:
+      title: Latest News
+      button: click here for more info
+      url: /latest-news/
+  - infobar:
+      title: What Our Parents Say
+      button: click here for more info
+      url: https://sites.google.com/view/juyingtestimonials/parents-testimonials/2021/mdm-nancy-lim
+  - infobar:
+      title: What Our Students Say
+      button: click here for more info
+      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2022/charis-king-s4
+  - infobar:
+      title: What Our Alumni Say
+      button: click here for more info
+      url: https://sites.google.com/view/juyingtestimonials/alumni/huang-rui-jia
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Juying Gallery
+      subtitle: Juying Photo Gallery
+      description: The Juying Story
+      button: Click here
+      url: https://www.flickr.com/photos/106251112@N04/sets/
 ---
-
