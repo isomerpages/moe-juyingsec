@@ -40,11 +40,12 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 |:---:|
 |  MAJ (NCC) Khoo Woei Lin |
 | **Junior Cadets Teacher Officer** |
-| CPT (NCC) Ong Xian Qing |
+| LTA (NCC) Yee Jen Siong |
+| LTA (NCC) Muhmmmad Syazwan B Mohd Shaha |
 | **Senior Cadets Teacher Officer** |
-| MAJ (NCC) Khoo Woei Lin |
+| LTA (NCC) Eliana Bte Amiruddin |
 | **Cadet Leaders Teacher Officer** |
-| LTA (NCC) Mr Chung Zhiwen<br>Mr Yee Jen Siong |
+| CPT (NCC) Ong Xian Ching
 |
 
 | Unit Sergeant Major |
