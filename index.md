@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Juying Secondary School
-      background: /images/01-selected.jpg
+      background: /images/heroshot_every_jyian_2023.png
       key_highlights:
         - title: Vision & Mission
           description: ""
