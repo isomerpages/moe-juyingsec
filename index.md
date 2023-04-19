@@ -35,12 +35,6 @@ sections:
       title: What Our Alumni Say
       button: click here for more info
       url: https://sites.google.com/view/juyingtestimonials/alumni/huang-rui-jia
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - infobar:
       title: Juying Gallery
       subtitle: Juying Photo Gallery
