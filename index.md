@@ -19,6 +19,7 @@ sections:
           description: ""
           url: /programmes/llp-passion/
       title: Juying Secondary School
+      subtitle: TOGETHER WE WILL SUCCEED
   - infobar:
       title: Latest News
       button: click here for more info
