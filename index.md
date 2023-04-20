@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/heroshot_every_jyian_2023_orange.png
+      background: /images/01hero_orange_white_centre01.png
       key_highlights:
         - title: Vision & Mission
           description: ""
