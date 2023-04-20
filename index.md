@@ -27,7 +27,7 @@ sections:
   - infobar:
       title: The Juying Story
       subtitle: Juying Photo Gallery
-      description: "Memorable Moments At Juying "
+      description: Memorable Moments That Matter
       button: Click here
       url: https://www.flickr.com/photos/106251112@N04/sets/
   - infobar:
