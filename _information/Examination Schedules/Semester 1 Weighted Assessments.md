@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Examination Schedules
 ---
 <p><strong>Dear Parents and Students</strong></p>
-<p>The 2023 Semester 1 Weighted Assessment 2 schedules and topics are as follows:</p>
+<p>The 2023 Semester 1 Weighted Assessment 2 (WA2) schedules and topics are as follows:</p>
 <p>
 </p>
 <p><a href="https://drive.google.com/file/d/1K9Fj4vXAg5l2f6voce2AwndP8J2RW11D/view?usp=share_link">Secondary 1 WA2 Schedule</a></p>
