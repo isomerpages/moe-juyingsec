@@ -21,13 +21,14 @@ sections:
       title: Juying Secondary School
       subtitle: TOGETHER WE WILL SUCCEED
   - infobar:
-      title: Latest News
+      title: Latest Highlights
       button: click here for more info
       url: /latest-news/
+      description: Latest News, Updates & Announcements
   - infobar:
       title: The Juying Story
       subtitle: Juying Photo Gallery
-      description: Memorable Moments At Juying
+      description: Our Memorable Moments
       button: Click here
       url: https://www.flickr.com/photos/106251112@N04/sets/
   - infobar:
