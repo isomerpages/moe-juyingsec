@@ -5,10 +5,20 @@ description: ""
 third_nav_title: Examination Schedules
 ---
 <p><strong>Dear Parents and Students</strong></p>
-<p>The 2023 Semester 1 Weighted Assessment schedules and topics are as follows:</p>
-<p><a href="/files/2023%20Sem%201%20WA%20Schedule%20%20Topics%20%20For%20Students_%20Sec%201_13%20Jan.pdf">2023 Sem 1 WA Schedule Topics For Students_ Sec 1_13 Jan.pdf</a></p>
-<p><a href="/files/2023%20Sem%201%20WA%20Schedule%20%20Topics%20%20For%20Students_%20Sec%202%20_30%20Jan.pdf">2023 Sem 1 WA Schedule Topics For Students_ Sec 2 _30 Jan.pdf</a></p>
-<p><a href="/files/2023%20Sem%201%20WA%20Schedule%20%20Topics%20%20For%20Students_%20Sec%203%20_30%20Jan.pdf">2023 Sem 1 WA Schedule Topics For Students_ Sec 3 _30 Jan.pdf</a></p>
-<p><a href="/files/2023%20Sem%201%20WA%20Schedule%20%20Topics%20%20For%20Students_Sec4_5_13%20Jan.pdf">2023 Sem 1 WA Schedule Topics For Students_Sec4_5_13 Jan.pdf</a></p>
+<p>The 2023 Semester 1 Weighted Assessment 2 schedules and topics are as follows:</p>
+<p>
+</p>
+<p><a href="https://drive.google.com/file/d/1K9Fj4vXAg5l2f6voce2AwndP8J2RW11D/view?usp=share_link">Secondary 1 WA2 Schedule</a></p>
+<p></p>
+
+<p><a href="https://drive.google.com/file/d/1bubTcqqKt8TZymn6h_GxGNnUbbME8yrl/view?usp=share_link">Secondary 2 WA2 Schedule</a></p>
+<p></p>
+
+<p><a href="https://drive.google.com/file/d/1c52MBGoyD0nKslRnsAbTyAZn59CsPVOe/view?usp=share_link">Secondary 3 WA2 Schedule</a></p>
+<p></p>
+
+<p><a href="https://drive.google.com/file/d/1TA5r4MFSk5CSO6lfnBertkHdxEqPqJ4K/view?usp=share_link">Secondary 4/5 WA2 Schedule</a></p>
+<p></p>
+
 <p>All the best for the upcoming assessments.</p>
-<p>Note: Secondary 2 and Secondary 3 schedules have been updated to version 30 Jan.</p>
+
