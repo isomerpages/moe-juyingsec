@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/heroshot_every_jyian_2023_orange.png
+      background: /images/hero_orange_white_centre02.png
       key_highlights:
         - title: Vision & Mission
           description: ""
@@ -25,6 +25,12 @@ sections:
       button: click here for more info
       url: /latest-news/
   - infobar:
+      title: The Juying Story
+      subtitle: Juying Photo Gallery
+      description: Memorable Moments At Juying
+      button: Click here
+      url: https://www.flickr.com/photos/106251112@N04/sets/
+  - infobar:
       title: What Our Students Say
       button: click here for more info
       url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2022/charis-king-s4
@@ -36,10 +42,4 @@ sections:
       title: What Our Alumni Say
       button: click here for more info
       url: https://sites.google.com/view/juyingtestimonials/alumni/huang-rui-jia
-  - infobar:
-      title: Juying Gallery
-      subtitle: Juying Photo Gallery
-      description: The Juying Story
-      button: Click here
-      url: https://www.flickr.com/photos/106251112@N04/sets/
 ---
