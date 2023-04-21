@@ -21,4 +21,3 @@ third_nav_title: Examination Schedules
 <p></p>
 
 <p>All the best for the upcoming assessments.</p>
-
