@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero_orange_white_centre02.png
+      background: /images/hero_orange_white_centre03.png
       key_highlights:
         - title: Vision & Mission
           description: ""
@@ -18,8 +18,6 @@ sections:
         - title: Programmes
           description: ""
           url: /programmes/llp-passion/
-      title: Juying Secondary School
-      subtitle: TOGETHER WE WILL SUCCEED
   - infobar:
       title: Latest Highlights
       button: click here for more info
