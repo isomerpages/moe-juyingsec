@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Vision & Mission
           description: ""
-          url: /information/school-overview/vision-and-mission/
+          url: /information/school-overview/vision-n-mission/
         - title: Values
           description: ""
           url: /information/school-overview/core-values/
