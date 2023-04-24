@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero_orange_white_centre03.png
+      background: /images/hero_orange_white_centre01n.png
       key_highlights:
         - title: Vision & Mission
           description: ""
