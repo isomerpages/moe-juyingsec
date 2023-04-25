@@ -6,12 +6,12 @@ third_nav_title: Useful Links
 ---
 |  |  |
 |---|:---:|
-| <img src="/images/useful%20link%20staff%201.jpg" style="width:85%"> | [intranet.moe.gov.sg*](intranet.moe.gov.sg) |
-| <img src="/images/useful%20link%20staff%202.jpg" style="width:85%"> | ICON<br>[icon.moe.edu.sg](icon.moe.edu.sg) |
-| <img src="/images/useful%20link%20staff%203.png" style="width:65%"> | SC Mobile<br> [https://scmobile.moe.edu.sg/](https://scmobile.moe.edu.sg/) |
+| <img src="/images/useful%20link%20staff%201.jpg" style="width:85%"> | [intranet.moe.gov.sg*](https://intranet.moe.gov.sg/Pages/Home.aspx) |
+| <img src="/images/useful%20link%20staff%202.jpg" style="width:85%"> | ICON<br>[icon.moe.edu.sg](https://icon.moe.edu.sg) |
+| <img src="/images/useful%20link%20staff%203.png" style="width:65%"> | SC Mobile<br> [https://scmobile.moe.edu.sg/](https://scmobile.moe.edu.sg/login) |
 | <img src="/images/useful%20link%20staff%204.png" style="width:75%"> | [teacher.blocksi.net/](teacher.blocksi.net/) |
-| <img src="/images/useful%20link%20staff%205.jpg" style="width:85%"> | School Cockpit<br>[schoolcockpit.moe.edu.sg*](schoolcockpit.moe.edu.sg)<br>Marks Key-In (Results Management)<br>[Chrome Compatible] |
-| <img src="/images/useful%20link%20staff%206.jpg" style="width:85%"> | School Cockpit<br>[schoolcockpit.moe.gov.sg *](schoolcockpit.moe.gov.sg)<br>gov version |
+| <img src="/images/useful%20link%20staff%205.jpg" style="width:85%"> | School Cockpit<br>[schoolcockpit.moe.edu.sg*](https://schoolcockpit.moe.gov.sg/academic)<br>Marks Key-In (Results Management)<br>[Chrome Compatible] |
+| <img src="/images/useful%20link%20staff%206.jpg" style="width:85%"> | School Cockpit<br>[schoolcockpit.moe.gov.sg *](https://schoolcockpit.moe.gov.sg/CP/scapp/security)<br>gov version |
 | <img src="/images/useful%20link%20staff%207.png" style="width:85%"> | [iAMS 2.0](https://access.moe.edu.sg/login/login.jsp)<br>For Resetting of SSOE accounts<br>  |
 | <img src="/images/useful%20link%20staff%208.png" style="width:85%">  | [HRP *](https://www.hrp.gov.sg/hrp/#/)<br>WOG HR &amp; Payroll<br>For Annual Declaration |
 | <img src="/images/useful%20link%20staff%209.jpg" style="width:85%"> | [HR Online*](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)  |
