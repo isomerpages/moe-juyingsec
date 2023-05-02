@@ -17,17 +17,21 @@ Every JYian possess an analytical and inquisitive mindset
 To nurture JYians to be concerned global citizens who are passionate about the Humanities.  
 
 #### **Overview**
-Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the vision of the Humanities Department. This is in line with the school’s vision of a gracious community of lifelong learners with strength of character. In building a community of gracious and lifelong learners, we envision to develop all JYians into well-informed and responsible citizens with a global perspective. We work towards engaging students actively to develop them into confident, self-directed, critical and reflective thinkers. In order to achieve these aims, it is important that students develop competence in three areas: knowledge and understanding, skills and processes, values and attitudes. We strongly believe in learning which extends beyond the four walls of the classroom and our learning journeys prove that there is no boundary to our quest for knowledge.&nbsp;
+'Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the vision of the Humanities Department. This is in line with the school’s vision of a gracious community of lifelong learners with strength of character. Our JYSS Humanities Programme aims to to develop our JYians into well-informed and responsible citizens with a global perspective. The programme also encourages active engagement so that our JYians will become confident, self-directed, critical, and reflective thinkers. 
+
+To achieve our goal, the programme develops our JYians’ competence in three areas: knowledge and understanding, skills and processes, values, and attitudes. We strongly believe in learning which extends beyond the four walls of the classroom as there is no boundary to our quest for knowledge.&nbsp;
 
 #### **Programme and Activities**
-*   Learning Journey to Universal Studios Singapore
-*   Learning Journey to Vivocity
-*   Virtual Learning Journey to Westgate
-*   Sungei Buloh Geographical Investigation Field Trip
-*   Toa Payoh HDB Hub Geographical Field Trip
-*   Gardens by the Bay Sustainability Race
-*   Battlebox Historical Investigation Field Trip
-*   Colonial Singapore Historical Investigation Field Trip
+* Sec 1 Historical Investigation: British Singapore – Living with the Early Migrants
+* Sec 2 Historical Investigation: WWII in Singapore – Surviving Syonan-to
+* Sec 3 EBS Learning Journey @ Jewel Changi: Effective Business Management  
+* Sec 3 POA Learning Trail @ Vivocity: Sustainable Business Models 
+* Sec 1 Geographical Investigation @ Bishan Park: Developing Sustainable Water Store 
+* Sec 2 Geographical Investigation @ URA: Building Sustainable Cities 
+* Sec 3 Geographical Investigation @ Sentosa: Thinking Geographically with Singapore
+* Sec 4/5 Geographical Investigation @ Chinatown: Exploring Tourism
+* Sec 3 Social Studies Investigation @ URA: Governing through Urban Planning   
+
 
 #### **Organization Chart**
 
@@ -38,17 +42,17 @@ Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the visio
 | Mr Karamjeet Singh | HOD (NT) |
 | Ms Shynn Lim | HOD (CCE) |
 | Mr Dayan Tan | HOD (Aesthetics) |
-| Mr Kartik Aravind Raj | Teacher |
-| Ms Elydia Azman | Teacher |
-| Ms Chang Sze May  | Teacher |
-| Mr Adrian Nyoe | Teacher  |
-| Ms Guo Binglian | Teacher  |
-| Mr Martin Ng | Teacher  |
-| Ms Yee Jie Ying  | Teacher  |
-| Ms Charlotte Ho | Teacher |
-| Ms Siti Balqis Masroni | Teacher |
-| Ms Chew Kiat Lian | Teacher |
-|
+| Ms Elina Amiruddin | History/Geography Teacher |
+| Mr Kartik Aravind Raj | Social Studies Teacher |
+| Ms Elydia Azman | Geography Teacher |
+| Ms Chang Sze May  | Principles of Accounts Teacher |
+| Ms Chew Kiat Lian | Principles of Accounts Teacher |
+| Mr Adrian Nyoe | Geography/Social Studies Teacher  |
+| Mr Martin Ng | Geography/Social Studies Teacher  |
+| Ms Charlotte Ho | History/Social Studies Teacher  |
+| Ms Siti Balqis Masroni  | History/Social Studies Teacher  |
+| Ms Yee Jie Ying | Geography/Social Studies Teacher |
+| Ms Trina Tan | History/Social Studies Teacher |
 
 #### **Programme &amp; Activities**
 ##### **Race to Sustainability - Gardens By The Bay**
@@ -140,4 +144,3 @@ Every JYian possesses an analytical and inquisitive mindset’&nbsp;is the visio
 </tr>
 </tbody>
 </table>
-
