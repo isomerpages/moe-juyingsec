@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /information/administrative-information/direct-school-admission/
 description: ""
 ---
-<h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2023)</h4>
+<h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2024)</h4>
 <h4 style="text-align: center;"><strong>JOIN US via DSA</strong></h4>
 <p>Dear P6 students, <br>Juying Secondary School (JYSS)&nbsp;invites you to apply for&nbsp;Direct School Admission (DSA)&nbsp;to&nbsp;Secondary One (2023)&nbsp;at JYSS!</p>
 <p>For the 2022 DSA-Secondary Exercise, Juying Secondary School (JYSS) can admit up to&nbsp;20% of our 2023 Secondary 1&nbsp;intake via the DSA-Secondary Exercise. You can apply to be directly admitted to Secondary 1 (2023) in Juying Secondary School via the DSA pathway in place of the year-end Secondary 1 Posting Exercise.</p>
