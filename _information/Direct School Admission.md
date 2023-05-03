@@ -33,7 +33,7 @@ Apply now to JYSS via DSA!
 <strong>*Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</strong></td>
 <td>Shortlisted Applicants:<br>
 <ul>
-<li>Will be invited for an interview in July 2022.</li>
+<li>Will be invited for an interview in July 2023.</li>
 <li>Share their relevant achievements and experiences in public speaking.</li>
 <li>Present a speech of between 1 to 2 minutes on a current affairs topic of their choice.</li>
 </ul>
@@ -50,7 +50,7 @@ Apply now to JYSS via DSA!
 *Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.&nbsp;</td>
 <td>Shortlisted Applicants:<br>
 <ul>
-<li>Will be invited for an interview in July 2022.</li>
+<li>Will be invited for an interview in July 2023.</li>
 <li>Share their relevant achievements and experiences in the dance form.</li>
 </ul>
 <p>Present a dance choreography of between 1 to 2 minutes.</p>
@@ -67,7 +67,7 @@ Apply now to JYSS via DSA!
 <em><strong>*Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</strong></em></td>
 <td>Shortlisted Applicants:<br>
 <ul>
-<li>Will be invited for an interview in July 2022.</li>
+<li>Will be invited for an interview in July 2023.</li>
 <li>Share their achievements and experiences in badminton.</li>
 <li>Showcase level of proficiency in executing 3 tasks relating to service, footwork and stroke during the trial.</li>
 </ul>
@@ -84,7 +84,7 @@ Apply now to JYSS via DSA!
 <em><strong>*Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</strong></em></td>
 <td>Shortlisted Applicants:<br>
 <ul>
-<li>Will be invited for an interview in July 2022.</li>
+<li>Will be invited for an interview in July 2023.</li>
 <li>Share their achievements and experiences on leadership and/or community projects.</li>
 <li>Present a speech of between 1 to 2 minutes on a moral value of their choice and its importance to a leader.</li>
 </ul>
@@ -93,7 +93,7 @@ Apply now to JYSS via DSA!
 </tbody>
 </table>
 <p style="text-align: center;"><strong>APPLICATION PROCEDURE:</strong></p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.<br>The application is free-of-charge and will be opened from <strong>5 May 2022, 11am to 1 June 2022, 3pm</strong></p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.<br>The application is free-of-charge and will be opened from <strong>4 May 2023, 11am to 31 May 2023, 3pm</strong></p>
 <p style="text-align: center;">For more details, please refer to MOE website<br><a href="https://www.moe.gov.sg/secondary/dsa">https://www.moe.gov.sg/secondary/dsa</a><br>OR<br>the following useful MOE weblinks</p>
 <table>
 <tbody>
@@ -174,7 +174,7 @@ Apply now to JYSS via DSA!
 <tbody>
 <tr>
 <td style="width: 694px;" colspan="2">
-<p><strong>KEY DATES 2022</strong></p>
+<p><strong>KEY DATES 2023</strong></p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ Apply now to JYSS via DSA!
 <td style="width: 578.062px;"><strong>Remarks</strong></td>
 </tr>
 <tr>
-<td style="width: 109.938px;"><strong>5 May 2022, 11am</strong></td>
+<td style="width: 109.938px;"><strong>4 May 2023, 11am</strong></td>
 <td style="width: 578.062px;">
 <ul>
 <li>P6 pupils may start registering your DSA Application to Juying Secondary School at&nbsp;the central&nbsp;<strong>MOE DSA-Sec Portal<br></strong><strong><u><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener">https://www.moe.gov.sg/secondary/dsa</a></u><br></strong><u></u></li>
@@ -190,7 +190,7 @@ Apply now to JYSS via DSA!
 </td>
 </tr>
 <tr>
-<td style="width: 109.938px;"><strong>1 June 2022, 3pm</strong></td>
+<td style="width: 109.938px;"><strong>31 May 2023, 3pm</strong></td>
 <td style="width: 578.062px;">
 <ul>
 <li>Closing date of DSA Applications</li>
@@ -198,15 +198,15 @@ Apply now to JYSS via DSA!
 </td>
 </tr>
 <tr>
-<td style="width: 109.938px;"><strong>27 June to 12<br>September 2022</strong></td>
+<td style="width: 109.938px;"><strong>26 June to 11<br>September 2023</strong></td>
 <td style="width: 578.062px;">
 <ul>
-<li>Selection Stage (Please note that our Selection Period is from 12 July to 22 July)</li>
+<li>Selection Stage (Please note that our Selection Period is from 10 July to 28 July)</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td style="width: 109.938px;"><strong>By 12 September 2022</strong></td>
+<td style="width: 109.938px;"><strong>By 12 September 2023</strong></td>
 <td style="width: 578.062px;">
 <ul>
 <li>Schools will issue letters to all DSA-Sec applicants to inform them of the outcome:&nbsp;<strong>Confirmed Offer (CO), Wait List (WL)</strong> or <strong>Unsuccessful</strong>. Students given a CO are guaranteed a place in the school provided that they accept the offer and qualify for an academic course offered by the school. i.e. Express, Normal (Academic) or Normal (Technical) based on their PSLE results.</li>
