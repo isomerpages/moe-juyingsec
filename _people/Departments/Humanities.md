@@ -55,92 +55,70 @@ To achieve our goal, the programme develops our JYians’ competence in three ar
 | Ms Trina Tan | History/Social Studies Teacher |
 
 #### **Programme &amp; Activities**
-##### **Race to Sustainability - Gardens By The Bay**
+##### **Secondary 1 Geographical Investigation @ Bishan Park**
 
 <figure>
-<img src="/images/humanities1.jpg" style="width:85%">
-<figcaption> A race to remember
+<img src="/images/sec%201%20geo%20investigation%20-%20bishan%20park.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Secondary 1 Historical Investigation @ Sultan Mosque**
+
+<figure>
+<img src="/images/sec%201%20hist%20investigation%20-%20sultan%20mosque.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Secondary 1 Historical Investigation @ Thian Hock Keng Temple**
+
+<figure>
+<img src="/images/sec%201%20hist%20investigation%20-%20thian%20hock%20keng%20temple.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+
+##### **Secondary 2 Geographical Investigation using Design Thinking**
+<figure>
+<img src="/images/sec%202%20geo%20investigation%20-%20design%20thinking.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Secondary 2 Historical Investigation @ Fort Siloso**
+<figure>
+<img src="/images/sec%202%20hist%20investigation%20-%20fort%20siloso.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Secondary 2 Historical Investigation @ Kranji War Memorial**
+<figure>
+<img src="/images/sec%202%20hist%20investigation%20-%20kranji%20war%20memorial.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Sec 3 Geographical Investigation @ Little Guilin**
+<figure>
+<img src="/images/sec%203%20geo%20investigation%20-%20little%20guilin.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Sec 3 Social Studies Investigation @ URA**
+<figure>
+<img src="/images/sec%203%20ss%20investigation%20-%20ura.jpg" style="width:100%">
+<figcaption>
+	</figcaption>
+</figure>
+
+##### **Sec 4/5 Geography Investigation @ Science Center**
+<figure>
+<img src="/images/sec%204_5%20geo%20investigation%20-%20science%20center.jpg" style="width:100%">
+<figcaption> 
  </figcaption>
 </figure>
 
-##### **Sec 1 Geographical Investigation - Lower Seletar Reservoir**
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities2.jpg">Discussing results for analysis</td>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities3.jpg">GI at Lower Seletar Reservoir</td>
-</tr>
-</tbody>
-</table>
-
-##### **Sec 2 Geographical Investigation - Nanyang Community**
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities4.jpg">Interviewing resident about Nanyang Community</td>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities5.jpg">Ready to do survey</td>
-</tr>
-</tbody>
-</table>
-
-##### **Sec 3 Geographical Investigation - Chinatown**
-<figure>
-<img src="/images/humanities6.jpg" style="width:49%" align="left">
-<img src="/images/humanities7.jpg" style="width:49%" align="right">
-<br clear="left">	
-<figcaption>Survey Interviews 
- </figcaption>
-</figure>
-
-<img src="/images/humanities8.jpg" style="width:85%">
-
-##### **Sec 2 Historical Investigation - National Museum of Singapore**
-<figure>
-<img src="/images/humanities9.jpg" style="width:49%" align="left">
-<img src="/images/humanities10.jpg" style="width:49%" align="right">
-<br clear="left">	
-<figcaption>   Watching one of the video displays on development of Singapore in the 1960s. 
- </figcaption>
-</figure>
-
-##### **Sec 3 Historical Investigation - Trick Eye Museum**
-<figure>
-<img src="/images/humanities11.jpg" style="width:85%">
-<figcaption> Who trick who?
- </figcaption>
-</figure>
-
-##### **Outdoor Learning Journeys**
-<figure>
-<img src="/images/humanities12.jpg" style="width:49%" align="left">
-<img src="/images/humanities13.jpg" style="width:49%" align="right">
-<br clear="left">	
-<figcaption> Sec 2 students conducting an interview during GI
- </figcaption>
-</figure>
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities14.jpg">Sec 1 students listening to the facilitator</td>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities15.jpg">Sec 1 students doing water testing during GI</td>
-</tr>
-</tbody>
-</table>
-
-<figure>
-<img src="/images/humanities16.jpg" style="width:49%" align="left">
-<img src="/images/humanities17.jpg" style="width:49%" align="right">
-<br clear="left">	
-<figcaption> Sec 1 students doing field sketching during GI 
- </figcaption>
-</figure>
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities18.jpg">Upper Sec students at Hospitality Race</td>
-<td style="width: 50%; text-align: center;"><img src="/images/humanities19.jpg" style="width: 65%;">Sec 2 students collecting data during HI</td>
-</tr>
-</tbody>
-</table>
