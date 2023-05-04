@@ -214,7 +214,7 @@ Apply now to JYSS via DSA!
 </td>
 </tr>
 <tr>
-<td style="width: 109.938px;"><strong>Late November 2022<br>(subject to change)</strong></td>
+<td style="width: 109.938px;"><strong>Late November 2023<br>(subject to change)</strong></td>
 <td style="width: 578.062px;">
 <ul>
 <li><strong>DSA-SEC Allocation Results Release&nbsp;<br></strong>(Day of release of PSLE Results)</li>
