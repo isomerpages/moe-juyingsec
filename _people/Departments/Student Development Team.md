@@ -11,24 +11,19 @@ third_nav_title: Departments
 | Committee Members |  |
 |---|---|
 | Ms Shynn Lim | HOD (CCE) |
+| Ms Maybellina Lim | Year Head |
 | Mr Senthil Silvarajoo | Subject Head (CCE) |
-| Ms Maybellina Lim | PASSION Teacher |
-| Mr Cai Zhiwen | Year Head (Upper Sec) |
-| Mr Wang Woon Keat |  Asst. Year Head (Lower Sec) |
-| Mr Roy Lee |  Year Head (Lower Sec)  |
+| Mr Wang Woon Keat |  Asst. Year Head (Upper Sec) |
 | Ms Nor Diana | Education and Career Guidance (ECG) Coordinator |
 | Mr Chuah Soon Ann | Local Values-in-Action (VIA)  |
-| Ms Serene Tan | Cyber Wellness Coordinator  |
 | Mr Yee Jen Siong | Cyber Wellness Coordinator |
 | Mdm Khairiani | Sexuality Ed Coordinator  |
 | Ms Chen Yong Hua | IS Integration  |
 | Mr Wang Woon Keat | Positive School Climate |
-| Mr Cai Zhiwen | Positive School Climate |
-| Mr Ashraff  | School Counsellor |
-| Ms Wint Wah Kyaw | School Counsellor |
+| Mdm Nur Raihanah Binte Rahmat | School Counsellor |
 | Mr  Terrance Woo  |  Student Welfare Officer |
+|Ms Huang Wei Wei | SEN Officer |
 | Ms Ho Sing Ern | Committee Member |
-| Ms Lau Jia Yun | Committee Member |
 | Mr Adrian Nyoe | Committee Member |
 |
 
