@@ -82,7 +82,6 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 | Ms Koh Shu Jiun | School Staff Developer |
 | Mdm Mak Wai Han | Senior Teacher (Mathematics) |
 | Mr Wang Woon Keat | Asst. Year Head (Upper Sec)  |
-| Mr Chung Zhiwen  | Subject Head (Student Management)  |
 | Mr Albert Lui  | Teacher |
 | Mrs Tee-Ong Xian Qing | Teacher |
 | Ms Khoo Woei Lin | Teacher |
@@ -92,5 +91,5 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 | Mrs Yap Wai Ling  | Teacher |
 | Ms Wee Khim Leng  | Teacher  |
 | Mr Ow Wee Chiang | Teacher |
-| Mr Anisha Asilvatham  | Teacher |
+| Mr Elisha Asilvatham  | Teacher |
 |
