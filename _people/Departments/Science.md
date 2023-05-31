@@ -132,7 +132,6 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Ms Goh Shu Han  | Teacher  |
 | Mr Teo Seng Leong John  | Teacher  |
 | Mr Ow Wee Chiang  | Teacher |
-| Mr Jeffrey Ang | Teacher  |
 | Mdm Zareena Beham | OSO |
 | Mrs Seow Ratnakumari | TSO (Lab Technician) |
 | Mdm Chua Bee Teng | TSO (Lab Technician) |
