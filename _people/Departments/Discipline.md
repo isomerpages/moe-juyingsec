@@ -67,8 +67,7 @@ We implement stiff yet logical consequences for offences to bring about true lea
 |---|---|
 | Mrs Amy Yeo | Head of Department (Student Management) |
 | Mr Karamjeet Singh  | Head of Department (NT) |
-| Mr Chung Zhiwen | Subject Head (Student Management) |
-| Ms Lim Siew Yin | Level Discipline (Sec 1) |
+| Ms Lim Siew Yin | SH(CL)/Level Discipline (Sec 1) |
 | Ms Elydia | Level Discipline (Sec 2) |
 | Mr Choong Guo Wei | Level Discipline (Sec 3) |
 | Mr Soh Wei Qiang | Level Discipline (Sec 4/5) |
