@@ -1,5 +1,5 @@
 ---
-title: English Language &amp; Literature
+title: English Language & Literature
 permalink: /people/departments/english-language-n-literature/
 description: ""
 third_nav_title: Departments
@@ -80,11 +80,8 @@ In addition, English Department continues to offer Upper Secondary English Liter
 | Mr Yee Jen Siong | Teacher |
 | Ms Amanda Foo | Teacher |
 | Ms Serena Xu | Teacher |
-| Ms Serene Tan | Teacher |
 | Mr Mohammad Fauzul | Teacher |
 | Ms Hema Lata | Teacher |
 | Ms Goh Wan Ru |  Teacher |
-| Mr Darren Subramaniam | Teacher |
-| Au Wei Li Wesley  |  Teacher |
 | Mr Lim Teck Siong |  Teacher |
 |
