@@ -25,7 +25,6 @@ In our Juying Secondary Aesthetics Department, we believe that at the heart of e
 |---|---|
 | Mr Dayan Tan Ying Peng | HOD Aesthetics, ALP, LLP |
 | Ms Hema Latta | Art Lower Sec Coordinator |
-| Ms Sabirah Husnah | Art Upper Sec Coordinator |
 | Mr Jeshrei Toh | Music Coordinator |
 |
 

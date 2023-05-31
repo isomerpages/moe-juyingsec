@@ -46,7 +46,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Choong Guo Wei</td>
-<td>Assistant Year Head (S3) (internal)</td>
+<td>Assistant Year Head</td>
 </tr>
 <tr>
 <td>Ms Amanda Foo Limin</td>
@@ -123,6 +123,10 @@ description: ""
 <tr>
 <td>Mr Soh Joon Wei</td>
 <td>Subject Head (Science)&nbsp;</td>
+</tr>
+<tr>
+<td>Ms Lim Siew Yin</td>
+<td>Subject Head (Chinese)&nbsp;</td>
 </tr>
 <tr>
 <td>Mr Rudie Asmara</td>

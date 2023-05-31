@@ -118,9 +118,7 @@ Science department started year, celebrating the fruits of our exciting lessons 
 |---|---|
 | Ms Yang Wenqing | HOD (Science) |
 | Mr Soh Joon Wei | Subject Head (Science)  |
-| Ms Linda Tan | Senior Teacher (Biology) |
 | Mr Lee Hon Yen  | Lead Teacher (Physics) |
-| Mdm Irene Lim  | Coordinator (Chemistry) |
 | Mdm Khairiani  | Coordinator (FCE) |
 | Mr Senthil Silvarajoo  | Subject Head (CCE)  |
 | Mdm Soo Mei Hui | Teacher (Sec 2 Coordinator) |
@@ -132,10 +130,8 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Mr Mohammad Fauzul | Teacher |
 | Mr Samuel Cho | Teacher |
 | Ms Goh Shu Han  | Teacher  |
-| Ms Lin I Chen  | Teacher |
 | Mr Teo Seng Leong John  | Teacher  |
 | Mr Ow Wee Chiang  | Teacher |
-| Mr Jeffrey Ang | Teacher  |
 | Mdm Zareena Beham | OSO |
 | Mrs Seow Ratnakumari | TSO (Lab Technician) |
 | Mdm Chua Bee Teng | TSO (Lab Technician) |

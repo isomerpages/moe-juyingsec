@@ -1,5 +1,5 @@
 ---
-title: Physical Education &amp; CCA
+title: Physical Education & CCA
 permalink: /people/departments/physical-education-n-cca/
 description: ""
 third_nav_title: Departments
@@ -63,5 +63,4 @@ To create an environment where students Learn in an Inclusive Values Environment
 | Mr Soh Wei Qiang | Teacher |
 | Mr Choong Guo Wei | Teacher |
 | Ms Tay Wen Hui  | Teacher |
-| Mr Asyari Bin Muhammad Salleh | Teacher |
 |
