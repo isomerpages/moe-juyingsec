@@ -1,5 +1,5 @@
 ---
-title: Craft &amp; Technology
+title: Craft & Technology
 permalink: /people/departments/craft-n-technology/
 description: ""
 third_nav_title: Departments
@@ -29,7 +29,6 @@ C&amp;T department is proud to celebrate with our JYians who have done better th
 *   Talented F&amp;N students will be sent to represent school for Nam Cheong Sandwich Making (or other national cooking) Competition.
 *   Talented D&amp;T students will be sent to represent school for Tan Kah Kee, Toy Design (or other national D&amp;T) Competitions
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/dvNbKR3eG24" title="Stop motion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Our C&amp;T programme adopts the E3 approach (Excite, Engage and Enrich) in the teaching of Art, D&amp;T and F&amp;N through simple yet meaningful hands-on and minds-on activities. Students are excited, engaged and enriched through the experiential learning by working in both indoor and outdoor settings and incorporate their art, design and culinary skills into real life cultural events as well as participation in internal and external competitions. An example is the accompanying stop-motion animation video by 3A2.
 
@@ -71,4 +70,5 @@ To nurture an informed&nbsp;**awareness and appreciation**&nbsp;of the visual ar
 | Ms Khoo Woei Lin | D&amp;T  Teacher / Mobile Robotics  |
 | Mr Ho Sing Charn  | D&amp;T Teacher |
 | Mr Ko Kok Kheong | TSO (Workshop Instructor) |
+| Mr Roslee Bin Nadi | TSO (Workshop Instructor) |
 |
