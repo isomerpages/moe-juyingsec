@@ -21,9 +21,8 @@ third_nav_title: Departments
 | Ms Chen Yong Hua | IS Integration  |
 | Mr Wang Woon Keat | Positive School Climate |
 | Mdm Nur Raihanah Binte Rahmat | School Counsellor |
-| Mr  Terrance Woo  |  Student Welfare Officer |
+| Mr Terrance Woo  |  Student Welfare Officer |
 |Ms Huang Wei Wei | SEN Officer |
-| Ms Ho Sing Ern | Committee Member |
 | Mr Adrian Nyoe | Committee Member |
 |
 

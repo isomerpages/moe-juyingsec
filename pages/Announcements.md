@@ -1,6 +1,6 @@
 ---
-title: Latest News
-permalink: /latest-news/
+title: Announcements
+permalink: /announcements/
 description: ""
 ---
 <p><strong>2023 Welcome Back to Semester 2</strong></p>

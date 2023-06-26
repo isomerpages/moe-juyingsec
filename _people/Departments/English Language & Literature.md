@@ -79,7 +79,6 @@ In addition, English Department continues to offer Upper Secondary English Liter
 | Ms Teoh Cheng Ling | Teacher |
 | Mr Yee Jen Siong | Teacher |
 | Ms Amanda Foo | Teacher |
-| Ms Serena Xu | Teacher |
 | Mr Mohammad Fauzul | Teacher |
 | Ms Hema Lata | Teacher |
 | Ms Goh Wan Ru |  Teacher |

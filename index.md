@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: Latest Highlights
       button: click here for more info
-      url: /latest-news/
+      url: /announcements/
       description: Latest News, Updates & Announcements
   - infobar:
       title: The Juying Story
