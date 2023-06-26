@@ -92,4 +92,7 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 | Ms Wee Khim Leng  | Teacher  |
 | Mr Ow Wee Chiang | Teacher |
 | Mr Elisha Asilvatham  | Teacher |
+| Mrs Loo Pek Har  | Teacher |
+| Mr Chow Chao Dong  | Teacher |
+| Mr Ong Bee Hong  | Teacher |
 |
