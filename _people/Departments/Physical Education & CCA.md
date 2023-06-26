@@ -62,5 +62,4 @@ To create an environment where students Learn in an Inclusive Values Environment
 | Mr Chuah Soon Ann | Senior Teacher (PE) |
 | Mr Soh Wei Qiang | Teacher |
 | Mr Choong Guo Wei | Teacher |
-| Ms Tay Wen Hui  | Teacher |
 |
