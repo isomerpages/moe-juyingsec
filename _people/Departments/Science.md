@@ -130,8 +130,12 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Mr Mohammad Fauzul | Teacher |
 | Mr Samuel Cho | Teacher |
 | Ms Goh Shu Han  | Teacher  |
+| Ms Ng May Ling  | Teacher  |
 | Mr Teo Seng Leong John  | Teacher  |
 | Mr Ow Wee Chiang  | Teacher |
+| Ms Subash Chandra Bose Swati  | Teacher |
+
+
 | Mdm Zareena Beham | OSO |
 | Mrs Seow Ratnakumari | TSO (Lab Technician) |
 | Mdm Chua Bee Teng | TSO (Lab Technician) |
