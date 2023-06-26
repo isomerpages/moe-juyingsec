@@ -1,5 +1,5 @@
 ---
-title: Secondary 4&amp;5 Form Teachers
+title: Secondary 4&5 Form Teachers
 permalink: /people/form-teachers/secondary-4-5-form-teachers/
 description: ""
 third_nav_title: Form Teachers

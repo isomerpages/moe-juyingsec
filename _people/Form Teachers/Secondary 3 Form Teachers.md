@@ -13,7 +13,7 @@ third_nav_title: Form Teachers
 <td>Mr Choong Guo Wei<br>Class 3A1 Form Teacher<br></td>
 </tr>
 <tr>
-<td>Ms Balqis<br>Class 3A2 Form Teacher</td>
+<td>Ms Ng Mei Ling<br>Class 3A2 Form Teacher</td>
 </tr>
 <tr>
 <td>Mr Ong Hock Beng<br>Class 3A2 Form Teacher<br></td>
@@ -26,11 +26,7 @@ third_nav_title: Form Teachers
 <div>Class 3E1 Form Teacher</div>
 </td>
 </tr>
-<tr>
-<td>Ms Lau Jia Yun<br>Class 3E2 Form Teacher<br></td>
-</tr>
-<tr>
-<td>Mr Albert Lui<br>Class 3E2 Form Teacher</td>
+<tr><td>Mr Albert Lui<br>Class 3E2 Form Teacher</td>
 </tr>
 <tr>
 <td>Mr Yee Jen Siong<br>Class 3E2 Form Teacher</td>
@@ -49,9 +45,6 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td>Mdm Diyana<br>Class 3T1 Form Teacher</td>
-</tr>
-<tr>
-<td>Ms Serene Tan<br>Class 3T1 Form Teacher</td>
 </tr>
 <tr>
 <td>Mr Muhd Syazwan<br>Class 3T1 Form Teacher</td>

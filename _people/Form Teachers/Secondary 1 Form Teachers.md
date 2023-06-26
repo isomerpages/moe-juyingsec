@@ -13,9 +13,6 @@ third_nav_title: Form Teachers
 </td>
 </tr>
 <tr>
-<td>Ms Tay Wen Hui<br>Class 1-P Form Teacher</td>
-</tr>
-<tr>
 <td>Mr Soh Joon Wei<br>Class 1-P Form Teacher</td>
 </tr>
 <tr>
