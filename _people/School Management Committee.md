@@ -4,7 +4,7 @@ permalink: /people/school-management-committee/
 description: ""
 ---
 <figure>
-<img src="/images/sch%20committee.jpg" style="width:85%">
+<img src="/images/smc-fresh-2023.jpg" style="width:85%">
 <figcaption>  School Management Committee
  </figcaption>
 </figure>
