@@ -35,8 +35,8 @@ Counselling Room (Level 1), opposite Chillax Room
 **If you are outside school:**<br>
 Call the General Office @ 63089898 and ask them to transfer you to:&nbsp;
 
-*   Mr Mohamed Ashraff&nbsp;
-*   Ms Wint Wah Kyaw : ext 111  
+*   Mr Huang Wei Wei&nbsp;
+*   Ms Raihanah
 *   Mr Terrance Woo
 
 Or leave your name and contact number for us to get back to you.

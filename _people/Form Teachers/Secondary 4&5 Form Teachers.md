@@ -30,7 +30,7 @@ third_nav_title: Form Teachers
 <td>Mrs Wong-Chia Pei San<br>Class 4E1 Form Teacher</td>
 </tr>
 <tr>
-<td>Ms Linda Tan<br>Class 4E1 Form Teacher</td>
+<td>Ms Nor Diana<br>Class 4E1 Form Teacher</td>
 </tr>
 <tr>
 <td>Mr Lee Hon Yen<br>Class 4E2&nbsp;Form Teacher<br></td>
