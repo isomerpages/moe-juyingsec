@@ -3,6 +3,10 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>2023 Semester 2 WA Dates (Secondary 1 - Secondary 3)</strong></p>
+<p>2023-07-26<br>The 2023 Semester 2 Weighted Assessment schedules and topics are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-2-weighted-assessments/">here</a></p>
+<hr>
+
 <p><strong>2023 Welcome Back to Semester 2</strong></p>
 <p>2023-06-26<br>Wishing all JYians a successful academic Semester 2 ahead!</p>
 <hr>
