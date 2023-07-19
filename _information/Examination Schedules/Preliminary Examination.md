@@ -5,8 +5,10 @@ description: ""
 third_nav_title: Examination Schedules
 ---
 <p><strong>Dear Parents and Students</strong></p>
-<p>The 2023 4N(A)/N(T) Preliminary Examination schedules are now available [here](/files/2023%20n%20level%20prelims_for%20students_final.pdf)
+<p>The 2023 N-level Preliminary Examination schedule is now available.
+
+<a href="https://drive.google.com/file/d/1JCQ83Z_kfIuvbf-1CwXw806yJ7WmS8Qe/view?usp=drive_link">2023 N-level Prelim Examinations Schedule_for_Students.pdf</a>
 
 
 
-</p><p>Wishing all JYians all the best in your upcoming Preliminary Examinations.</p>
+</p><p>Wishing all JYians all the very best in your upcoming Preliminary Examinations.</p>
