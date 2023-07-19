@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 ---
 <p><strong>2023 4N Preliminary Exam Dates </strong></p>
-<p>2023-07-26<br>The 2023 4NA/NT Preliilexam schedules and topics are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-2-weighted-assessments/">here  </a></p>
+<p>2023-07-26<br>The 2023 4NA/NT Preliminary Examinations schedules are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-2-weighted-assessments/">here  </a></p>
 <hr>
 
 <p><strong>2023 Semester 2 WA Dates (Sec 1, Sec 2, Sec 3)</strong></p>
