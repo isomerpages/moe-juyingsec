@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 ---
 <p><strong>HBL Term 3 Week 5</strong></p>
-<p>2023-07-20<br>The next HBL has been scheduled to will be in Term 3 Week 5 (Wed 26 Jul 2023). </p>
+<p>2023-07-20<br>Please take note that all levels will be having HBL Day on Wed 26 July 2023 including 4E5N. </p>
 <hr>
 
 <p><strong>2023 4N Preliminary Examinations Schedule </strong></p>
