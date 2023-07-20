@@ -3,8 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>HBL Term 3 Week 5</strong></p>
+<p>2023-07-20<br>The next HBL will be in Term 3 Week 5 Wednesday 26 Jul 2023. </p>
+<hr>
+
 <p><strong>2023 4N Preliminary Examinations Schedule </strong></p>
-<p>2023-07-26<br>The 2023 4NA/NT Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
+<p>2023-07-17<br>The 2023 4NA/NT Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
 <hr>
 
 <p><strong>2023 Semester 2 WA Schedules (Sec 1, Sec 2, Sec 3)</strong></p>
