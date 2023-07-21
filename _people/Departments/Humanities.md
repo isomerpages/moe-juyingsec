@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img src="https://file.go.gov.sg/jyhumanities23.jpg" style="width:85%">
+<img src="https://file.go.gov.sg/jyhumanities233.jpg" style="width:85%">
 <figcaption> Humanities Department
  </figcaption>
 </figure>
