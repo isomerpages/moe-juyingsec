@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img src="/images/humanities%20dept.png" style="width:85%">
+<img src="https://file.go.gov.sg/jyhumanities23.jpg" style="width:85%">
 <figcaption> Humanities Department
  </figcaption>
 </figure>
 
 #### **Vision**
-Every JYian possess an analytical and inquisitive mindset  
+Every JYian Possess an Analytical and Inquisitive Mindset.  
 
 #### **Mission**
 To nurture JYians to be concerned global citizens who are passionate about the Humanities.  
@@ -121,4 +121,3 @@ To achieve our goal, the programme develops our JYians’ competence in three ar
 <figcaption> 
  </figcaption>
 </figure>
-
