@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img src="/images/mother%20tongue%20dept.jpg" style="width:85%">
+<img src="https://file.go.gov.sg/jymt23.jpg" style="width:85%">
 <figcaption> Mother Tongue Department
  </figcaption>
 </figure>
