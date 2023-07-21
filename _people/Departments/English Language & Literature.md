@@ -4,7 +4,9 @@ permalink: /people/departments/english-language-n-literature/
 description: ""
 third_nav_title: Departments
 ---
-<img src="/images/english%20dept.jpg" style="width:85%">
+<img src="https://file.go.gov.sg/jyenglish23.jpg" style="width:85%">
+
+<p></p><center>  English Department</center><p></p>
 
 #### **Vision**
 Every JYian an effective communicator using Standard English.
