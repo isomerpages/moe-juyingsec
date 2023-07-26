@@ -3,12 +3,16 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>2023 O-level Preliminary Examinations Schedule </strong></p>
+<p>2023-07-26<br>The 2023 GCE(O) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
+<hr>
+
 <p><strong>HBL Term 3 Week 5</strong></p>
 <p>2023-07-21<br>Please take note that all levels will be having HBL Day on Wed 26 July 2023 including 4E5N. </p>
 <hr>
 
-<p><strong>2023 4N Preliminary Examinations Schedule </strong></p>
-<p>2023-07-21<br>The 2023 4NA/NT Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
+<p><strong>2023 N-level Preliminary Examinations Schedule </strong></p>
+<p>2023-07-21<br>The 2023 GCE(N) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
 <hr>
 
 <p><strong>2023 Semester 2 WA Schedules (Sec 1, Sec 2, Sec 3)</strong></p>
