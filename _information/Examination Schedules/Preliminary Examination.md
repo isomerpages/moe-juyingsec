@@ -10,7 +10,7 @@ third_nav_title: Examination Schedules
 	
 </p><p>
 	
-<a href="https://drive.google.com/file/d/19HMZIXcopkCZYe3hydkJlFchDi0MhyOi/view?usp=drive_link">2023 O-level Prelim Examinations Schedule_for_Students.pdf</a>
+<a href="https://drive.google.com/file/d/19HMZIXcopkCZYe3hydkJlFchDi0MhyOi/view?usp=drive_link">2023 O-level Preliminary Examinations Schedule_for_Students.pdf</a>
 </p>
 	
 <p></p><p>
