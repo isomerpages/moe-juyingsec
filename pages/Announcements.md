@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-<p><strong>2023 GCE(O) Preliminary Examinations Schedule </strong></p>
+<p><strong>2023 GCE(O) Levels Preliminary Examinations Schedule </strong></p>
 <p>2023-07-26<br>The 2023 GCE(O) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
 <hr>
 
@@ -11,7 +11,7 @@ description: ""
 <p>2023-07-21<br>Please take note that all levels will be having HBL Day on Wed 26 July 2023 including 4E5N. </p>
 <hr>
 
-<p><strong>2023 GCE(N) Preliminary Examinations Schedule </strong></p>
+<p><strong>2023 GCE(N) Levels Preliminary Examinations Schedule </strong></p>
 <p>2023-07-21<br>The 2023 GCE(N) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
 <hr>
 
