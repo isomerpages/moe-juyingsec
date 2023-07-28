@@ -59,7 +59,7 @@ To create an environment where students Learn in an Inclusive Values Environment
 | Name | Designation |
 |---|---|
 | Mdm Lian Chuen Pei | HOD / PE &amp; CCA |
+| Mr Soh Wei Qiang | Subject Head / PE &amp; CCA |
 | Mr Chuah Soon Ann | Senior Teacher (PE) |
-| Mr Soh Wei Qiang | Teacher |
-| Mr Choong Guo Wei | Teacher |
-|
+| Mr Choong Guo Wei | Teacher / AYH (Lower Sec) |
+| Mdm Denise Wong | Teacher |
