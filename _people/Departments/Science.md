@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img style="width:85%" src="/images/science%20dept.png">
+<img style="width:85%" src="science_dept23.jpeg">
 <figcaption>Science Department
  </figcaption>
 </figure>
