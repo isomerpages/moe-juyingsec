@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img src="/images/ict%20dept.jpg" style="width:85%">
+<img src="/images/ict_dept23.jpeg" style="width:85%">
 <figcaption>ICT Department
  </figcaption>
 </figure>
