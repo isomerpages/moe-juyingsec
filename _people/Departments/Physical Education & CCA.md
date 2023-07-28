@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img style="width:100%" src="/images/pe.jpg">  Physical Education &amp; CCA Department
+<img style="width:100%" src="images/staff-pe-dept.PNG">  Physical Education &amp; CCA Department
 </figure>
 
 #### **Vision**
