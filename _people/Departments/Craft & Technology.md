@@ -56,7 +56,6 @@ To nurture an informed&nbsp;**awareness and appreciation**&nbsp;of the visual ar
 |  ![](/images/craftntech6.jpg) | MasterChef Junior Competition |
 |  ![](/images/craftntech7.jpg) | Learning Journey to NTUC |
 |  ![](/images/craftntech8.jpg) | Our Art Room - Where we derive our inspiration from |
-|  ![](/images/craftntech9.jpg) | VP Ms Wong presenting a Batik artwork by our student |
 |  ![](/images/craftntech10.jpg) |  Active engagement in D&amp;T lesson |
 |
 
