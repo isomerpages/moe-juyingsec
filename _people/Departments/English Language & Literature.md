@@ -4,7 +4,7 @@ permalink: /people/departments/english-language-n-literature/
 description: ""
 third_nav_title: Departments
 ---
-<img src="https://file.go.gov.sg/jyenglish23.jpg" style="width:85%">
+<img src="/images/englishdept233.jpg" style="width:85%">
 
 <p></p><center>  English Department</center><p></p>
 
