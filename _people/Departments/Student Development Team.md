@@ -4,7 +4,7 @@ permalink: /people/departments/student-development-team/
 description: ""
 third_nav_title: Departments
 ---
-<img src="/images/student%20development%20team.jpg" style="width:85%">
+<img src="/images/sdt234.jpg" style="width:85%">
 
 #### **Organisation Chart**
 
