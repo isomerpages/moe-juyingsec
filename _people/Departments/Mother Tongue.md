@@ -50,8 +50,8 @@ MT Fortnight activities for our Sec One to Three students will be carried out in
 | Mdm Koh Hui Sze | Teacher |
 | Mr Ma Yaping | Teacher |
 | Ms Lek Hui Ying | Teacher |
-| Ms Crystal Gan | Teacher |
-|
+| Ms Stephanie Chew | Teacher |
+| Ms Crystal Gan | Teacher
 
 #### **Achievements**
 
