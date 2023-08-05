@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <figure>
-<img src="/images/math%20dept.jpg" style="width:85%">
+<img src="/images/mathsdept23.jpg" style="width:85%">
 <figcaption> Mathematics Department
  </figcaption>
 </figure>
