@@ -4,7 +4,7 @@ permalink: /people/departments/aesthetics/
 description: ""
 third_nav_title: Departments
 ---
-![](/images/aesthetics.jpg)
+![](/images/aesthetics23.jpg)
 
 #### **Vision**
 Every JYian An Artist Within
