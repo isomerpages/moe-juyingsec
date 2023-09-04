@@ -4,7 +4,8 @@ permalink: /announcements/
 description: ""
 ---
 <p><strong>2023 End-of-Year Examinations Schedules &amp; Topics </strong></p>
-<p>2023-08-04<br>The 2023 End-of-Year Examinations Schedules &amp; Topics are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here  </a></p>
+<p>2023-08-04<br>The 2023 End-of-Year Examinations Schedules &amp; Topics are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here. 
+  </a></p>
 <hr>
 
 <p><strong>2023 GCE(O) Levels Preliminary Examinations Schedule </strong></p>
@@ -17,6 +18,7 @@ description: ""
 
 <p><strong>2023 GCE(N) Levels Preliminary Examinations Schedule </strong></p>
 <p>2023-07-21<br>The 2023 GCE(N) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
+<p>All the Best!</p>
 <hr>
 
 <p><strong>2023 Semester 2 WA Schedules (Sec 1, Sec 2, Sec 3)</strong></p>
