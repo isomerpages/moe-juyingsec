@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Examination Schedules
 ---
 <p><strong>Dear Parents and Students</strong></p>
-<p>The 2023 End-of-Year (EOY) Examination Schedules and Topics are as follows.</p>
+<p>The 2023 End-of-Year (EOY) Examination Schedules and Topics are as follows:</p>
 <p></p>
 
 * <p><a href="https://drive.google.com/file/d/1EL8ZTAj_N-V8g_qaiwJm3JWPJ6WHkMD_/view?usp=drive_link">Secondary 1 EOY Examination Schedule &amp; Topics</a></p>
