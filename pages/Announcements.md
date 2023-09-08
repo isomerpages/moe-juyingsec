@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 ---
 <p><strong>2023 End-of-Year Examinations Schedules &amp; Topics </strong></p>
-<p>2023-08-04<br>The 2023 End-of-Year Examinations Schedules &amp; Topics are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here. 
+<p>2023-08-04<br>The 2023 End-of-Year Examinations Sec 1 - Sec 3 Schedules  are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here. 
   </a></p>
 <hr>
 
