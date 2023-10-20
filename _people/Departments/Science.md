@@ -133,7 +133,7 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Ms Ng May Ling  | Teacher  |
 | Mr Teo Seng Leong John  | Teacher  |
 | Mr Ow Wee Chiang  | Teacher |
-| Ms Subash Chandra Bose Swati  | Teacher |
+| Ms Kyra Joyce Yeo Jun Yi | Teacher |
 
 
 | Mdm Zareena Beham | OSO |

@@ -2,7 +2,7 @@
 title: CCE Programmes &amp; PASSION Modules
 permalink: /programmes/cce-programmes-passion-modules/
 description: ""
-third_nav_title: CCE Prog &amp; PASSION Modules
+third_nav_title: CCE Prog & PASSION Modules
 ---
 #### **1. Strategic Thrust 1&amp;2**
 
