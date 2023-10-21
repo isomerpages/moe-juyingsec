@@ -39,6 +39,6 @@ Developing Creative, Appreciative and Passionate Learners through Aesthetics
 | ![Enjoying a Virtual Museum Learning Tour during Art Lesson](/images/aesthetics-23-2.jpg)[](/images/aesthetics2.jpg) | Enjoying a Virtual Museum Learning Tour during Art Lesson |
 | ![Hip Hop Modern Dance Aesthetics Assembly Show](/images/aesthetics-23-3.jpg) | Hip Hop Modern Dance Aesthetics Assembly Show  |
 | ![Keppel Nights Aesthetics Excursion to Esplanade Concert Hall](/images/aesthetics-23-4.jpg)| Keppel Nights Aesthetics Excursion to Esplanade Concert Hall  |
-| ![](/images/aesthetics5.jpg) | Nanyang CC CNY Performance by our Performing Arts CCAs |
+| ![Nanyang CC CNY Performance by our Performing Arts CCAs](/images/aesthetics-23-5.jpg) | Nanyang CC CNY Performance by our Performing Arts CCAs |
 | ![](/images/aesthetics6.jpg) | Showcase of our JYian's Artwork at National Gallery Singapore  |
 | ![](/images/aesthetics7.jpg) | Showcase of our JYian's Artwork for Live On Design Competition |
