@@ -15,9 +15,7 @@ Click&nbsp;[HERE](/files/alp%20form.pdf) to download the application form if you
 #### **Applied Learning Programme**
 **Developing Confident, Competent &amp; Empathetic Communicators**
 
-The school’s&nbsp;**Applied Learning Programme (ALP)**&nbsp;aims to ‘**Develop Confident, Competent and Empathetic Communicators’**. The ALP has a holistic framework that focuses on the&nbsp;**5Es – ‘Engage, Excite, Explore, Enrich and Empower’.**
-
-Regardless of the tier of the&nbsp;**E**ngage programmes, they seek to&nbsp;**E**xcite all JYians to have the joy of communicating, allow them to&nbsp;**E**xplore and discover their style as a speaker,&nbsp;**E**nrich them by sharpening their oracy skills and&nbsp;**E**mpower them to advocate for positive changes, be it in school or in the community.
+<p>Our Applied Learning Programme (ALP) in oracy aims to ‘Develop Confident, Competent and Empathetic Communicators’. Our ALP has a holistic framework that focuses on the 5Es – Engage, Excite, Explore, Enrich and Empower. All our ALP activities aim to engage the heads, hearts and hands of our students, excite them and inculcate in them the joy of communicating, allow them to explore and discover their style as a speaker, enrich them by sharpening their oracy skills and empower them to advocate for positive changes, be it in school or in the community.</p>
 
 <figure>
 	<figcaption>ALP: Developing Confident, Competent &amp; Empathetic Communicators
