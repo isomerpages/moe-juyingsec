@@ -35,12 +35,10 @@ Developing Creative, Appreciative and Passionate Learners through Aesthetics
 
 | | |
 |:---:|:---:|
-| ![](/images/aesthetics1.jpg) | Art Lesson Facilitation with Art Master Teacher |
-| ![](/images/aesthetics2.jpg) | Art Learning in Action! |
-| ![](/images/aesthetics3.jpg) | Our JYians' Artwork for MOE Corporate Gifts for Foreign Delegates  |
-| ![](/images/aesthetics4.jpg) | Our Principal and Lion Club Partners with Selected Peace Poster Artworks  |
-| ![](/images/aesthetics5.jpg) | Juying Aesthetics Foyer Showcase  |
-| ![](/images/aesthetics6.jpg) | Juying Aesthetics Wall Showcase (2D Medium Artwork)  |
-| ![](/images/aesthetics7.jpg) | Juying Aesthetics Pedestal Showcase (3D Medium Artwork)  |
-| ![](/images/aesthetics8.jpg) | Juying Aesthetics Staircase Showcase  |
-|
+| ![](/images/aesthetics1.jpg) | Award Winners for Lions International Peace Poster Contest |
+| ![](/images/aesthetics2.jpg) | Enjoying a Virtual Museum Learning Tour during Art Lesson |
+| ![](/images/aesthetics3.jpg) | Hip Hop Modern Dance Aesthetics Assembly Show  |
+| ![](/images/aesthetics4.jpg) | Keppel Nights Aesthetics Excursion to Esplanade Concert Hall  |
+| ![](/images/aesthetics5.jpg) | Nanyang CC CNY Performance by our Performing Arts CCAs |
+| ![](/images/aesthetics6.jpg) | Showcase of our JYian's Artwork at National Gallery Singapore  |
+| ![](/images/aesthetics7.jpg) | Showcase of our JYian's Artwork for Live On Design Competition |
