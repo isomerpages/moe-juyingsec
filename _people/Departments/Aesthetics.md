@@ -35,7 +35,7 @@ Developing Creative, Appreciative and Passionate Learners through Aesthetics
 
 | | |
 |:---:|:---:|
-| ![](/images/aesthetics1.jpg) | Award Winners for Lions International Peace Poster Contest |
+| ![Award Winners for Lions International Peace Poster Contest](/images/1%20award%20winners%20for%20lions%20international%20peace%20poster%20contest.jpg) | Award Winners for Lions International Peace Poster Contest |
 | ![](/images/aesthetics2.jpg) | Enjoying a Virtual Museum Learning Tour during Art Lesson |
 | ![](/images/aesthetics3.jpg) | Hip Hop Modern Dance Aesthetics Assembly Show  |
 | ![](/images/aesthetics4.jpg) | Keppel Nights Aesthetics Excursion to Esplanade Concert Hall  |
