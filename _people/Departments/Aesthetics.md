@@ -36,7 +36,7 @@ Developing Creative, Appreciative and Passionate Learners through Aesthetics
 | | |
 |:---:|:---:|
 | ![Award Winners for Lions International Peace Poster Contest](/images/1%20award%20winners%20for%20lions%20international%20peace%20poster%20contest.jpg) | Award Winners for Lions International Peace Poster Contest |
-| ![](/images/aesthetics2.jpg) | Enjoying a Virtual Museum Learning Tour during Art Lesson |
+| ![Enjoying a Virtual Museum Learning Tour during Art Lesson](/images/aesthetics-23-2.jpg)[](/images/aesthetics2.jpg) | Enjoying a Virtual Museum Learning Tour during Art Lesson |
 | ![](/images/aesthetics3.jpg) | Hip Hop Modern Dance Aesthetics Assembly Show  |
 | ![](/images/aesthetics4.jpg) | Keppel Nights Aesthetics Excursion to Esplanade Concert Hall  |
 | ![](/images/aesthetics5.jpg) | Nanyang CC CNY Performance by our Performing Arts CCAs |
