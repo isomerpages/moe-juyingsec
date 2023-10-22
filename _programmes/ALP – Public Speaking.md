@@ -17,6 +17,8 @@ Click&nbsp;[HERE](/files/alp%20form.pdf) to download the application form if you
 
 <p>Our Applied Learning Programme (ALP) in oracy aims to ‘Develop Confident, Competent and Empathetic Communicators’. Our ALP has a holistic framework that focuses on the 5Es – Engage, Excite, Explore, Enrich and Empower. All our ALP activities aim to engage the heads, hearts and hands of our students, excite them and inculcate in them the joy of communicating, allow them to explore and discover their style as a speaker, enrich them by sharpening their oracy skills and empower them to advocate for positive changes, be it in school or in the community.</p>
 
+![ALP Framework](/images/alp-framework.PNG)
+
 <p>To enhance the competency of our students, annually, we organise a series of workshops for each cohort. Our secondary four and five students will go through their interview and EAE/DSA preparatory training for them to get their application write-ups and e-portfolios ready and ace their interviews. Our secondary three cohort goes through their research and presentation skills training and have hands-on experience to practise how to give an effective speech and create effective slides. This year, our secondary twos and ones went through our ALP team’s in-house ‘show and tell’ training and had the opportunity to design and deliver their speech in class during PASSION period.</p>
 
 
