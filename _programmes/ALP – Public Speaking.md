@@ -7,9 +7,6 @@ description: ""
 <img style="width:85%" src="/images/alp.jpg">
 </a></p>
 
-#### **Application Form**
-Click&nbsp;[HERE](/files/alp%20form.pdf) to download the application form if your child is interested to join this programme.
-
 #### **Applied Learning Programme**
 **Developing Confident, Competent &amp; Empathetic Communicators**
 
