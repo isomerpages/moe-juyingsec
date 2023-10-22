@@ -28,11 +28,7 @@ Click&nbsp;[HERE](/files/alp%20form.pdf) to download the application form if you
 </p><p>To build our students’ confidence and empathy, we provide various authentic application opportunities, such as Juying Orator’s Trophy oracy competition, TED Talk sharing by the Talent Pool, SPARK! Day project showcase and ambassadorship opportunities. Last year, the Ministry of Education (MOE) validated the work of our ALP and invited the team to share our good practices with the other MOE ALP schools. The media also featured our ALP to highlight the programmes that we have to develop our students’ oracy dispositions this year. Moreover, our JYian Ryan Lee (4E2) from the ALP Talent Development Programme made it into the Grand Finals of the ARTiculation Prize Singapore Oracy Competition that was organised by National Gallery Singapore and Singapore Art Museum. This is a great achievement by our ALP team over the years!</p><p>
 
 
-</p><figure>
-	<figcaption>ALP: Developing Confident, Competent &amp; Empathetic Communicators
- </figcaption>
-<img src="/images/alp1.jpg" style="width:85%">
-</figure>
+</p>
 
 #### **ALP Tier 1**
 The school's ALP Tier 1 Engage Programmes to include&nbsp;**cohort training workshops, multi-disciplinary ‘Stand &amp; Deliver’ sharing, and advocacy opportunities via CCE-PASSION projects**. Students are exposed to different oracy skills as they progress from Secondary 1 to Secondary 4/5.&nbsp;  
@@ -59,18 +55,6 @@ The Tier 2+ Engage programmes focus on a small group of students with potential 
 
 The ALP committee continues to seek out&nbsp;**partnerships with industry practitioners**&nbsp;to provide our JYians with the link and awareness of possible career and educational options that align with their interests and tap on this essential skill of oracy.  
   
-
-#### **ALP Activities**
-
-<img src="/images/alp6.jpg" style="width:48.5%" align="left">
-<img src="/images/alp7.jpg" style="width:49%" align="right">
-
-![](/images/alp%20caption%201.jpg)
-
-<img src="/images/alp8.jpg" style="width:46%" align="left">
-<img src="/images/alp9.jpg" style="width:49%" align="right">
-
-![](/images/alp%20caption%202.jpg)
 
 #### **ALP Programme**
 
