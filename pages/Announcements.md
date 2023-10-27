@@ -5,21 +5,19 @@ description: ""
 ---
 <p><strong>Juying P6 Publicity Booklet</strong></p>
 <p>2023-10-24<br>A publication by Juying Secondary featuring Juying's unique programmes and numerous testimonials by students &amp;  parents who have benefited from the Juying Experience. <br>
-Download a copy today
-<a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link>here. 
-  </a></p>
+Download a copy of the Juying P6 Publicity Booklet <a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link"></a></p><a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link">
 <hr>
 
 
 <p><strong>SPARK! Day 2023</strong></p>
-<p>2023-10-24<br>A culmination of learning via PASSION Projects by JYIans for the entire year.<br>
+</a><p><a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link">2023-10-24<br>A culmination of learning via PASSION Projects by JYIans for the entire year.<br>
 You may revisit the photos of the event  
-<a href=">here. 
+</a><a href=">here. 
   </a></p>
 <hr>
 
 <p><strong>2023 End-of-Year Examinations Schedules &amp; Topics </strong></p>
-<p>2023-08-04<br>The 2023 End-of-Year Examinations Sec 1 - Sec 3 Schedules  are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here. 
+<p>2023-08-04<br>The 2023 End-of-Year Examinations Sec 1 - Sec 3 Schedules  are now available and can be downloaded <a href=">here. 
   </a></p>
 <hr>
 
@@ -45,11 +43,11 @@ You may revisit the photos of the event
 <hr>
 
 <p><strong><a href="/information/administrative-information/timetables-n-schedules/class-timetable">Class Timetables 2023 Semester 2</a></strong></p>
-<p>2023-06-23<br>Click <a rel="noopener" href="/information/administrative-information/timetables-n-schedules/class-timetable">here</a> to view and download the class timetables for 2023 Semester 2.</p>
+<p>2023-06-23<br>Click <a href="/information/administrative-information/timetables-n-schedules/class-timetable" rel="noopener">here</a> to view and download the class timetables for 2023 Semester 2.</p>
 <hr>
 
 <p><strong>Juying's PDLP Programme</strong></p>
-<p>2023-01-17<br>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a rel="noopener" href="/programmes/personalised-digital-learning-programme-pdlp">here</a>.&nbsp;</p>
+<p>2023-01-17<br>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a href="/programmes/personalised-digital-learning-programme-pdlp" rel="noopener">here</a>.&nbsp;</p>
 <hr>
 
 <p><strong>Well Wishes 2023</strong></p>
