@@ -5,26 +5,14 @@ description: ""
 ---
 <p><strong>Juying P6 Publicity Booklet</strong></p>
 <p>2023-10-24<br>A publication by Juying Secondary featuring Juying's unique programmes and numerous testimonials by students &amp;  parents who have benefited from the Juying Experience. <br>
-Download a copy today
-<a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link>here. 
-  </a></p>
+Download a copy of the Juying P6 Publicity Booklet
+<a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link">here</a></p>
 <hr>
 
 
 <p><strong>SPARK! Day 2023</strong></p>
-<p>2023-10-24<br>A culmination of learning via PASSION Projects by JYIans for the entire year.<br>
-You may revisit the photos of the event  
-<a href=">here. 
-  </a></p>
-<hr>
-
-<p><strong>2023 End-of-Year Examinations Schedules &amp; Topics </strong></p>
-<p>2023-08-04<br>The 2023 End-of-Year Examinations Sec 1 - Sec 3 Schedules  are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here. 
-  </a></p>
-<hr>
-
-<p><strong>2023 GCE(O) Levels Preliminary Examinations Schedule </strong></p>
-<p>2023-07-26<br>The 2023 GCE(O) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
+2023-10-24<br>A culmination of learning via PASSION Projects by JYIans for the entire year.<br>
+You may revisit the photos of the event  <a href="https://www.flickr.com/photos/106251112@N04/albums/72177720312149975">here</a>. <p></p>
 <hr>
 
 <p><strong>HBL Term 3 Week 5</strong></p>
