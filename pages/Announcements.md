@@ -3,6 +3,13 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>SPARK! Day 2023</strong></p>
+<p>2023-10-24<br>A culmination of learning via PASSION Projects by JYIans for the entire year.<br>
+You may revisit the photos of the event  
+<a href="https://www.flickr.com/photos/106251112@N04/albums/72177720312149975/">here. 
+  </a></p>
+<hr>
+
 <p><strong>2023 End-of-Year Examinations Schedules &amp; Topics </strong></p>
 <p>2023-08-04<br>The 2023 End-of-Year Examinations Sec 1 - Sec 3 Schedules  are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/">here. 
   </a></p>
