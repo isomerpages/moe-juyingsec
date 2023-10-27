@@ -3,6 +3,14 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>Juying P6 Publicity Booklet</strong></p>
+<p>2023-10-24<br>A publication by Juying Secondary featuring Juying's unique programmes and numerous testimonials by students &amp;  parents who have benefited from the Juying Experience. <br>
+Download a copy today
+<a href="https://www.flickr.com/photos/106251112@N04/albums/72177720312149975/">here. 
+  </a></p>
+<hr>
+
+
 <p><strong>SPARK! Day 2023</strong></p>
 <p>2023-10-24<br>A culmination of learning via PASSION Projects by JYIans for the entire year.<br>
 You may revisit the photos of the event  
