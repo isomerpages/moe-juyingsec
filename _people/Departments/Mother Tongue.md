@@ -56,6 +56,24 @@ MT Fortnight activities for our Sec One to Three students will be carried out in
 
 #### **Achievements**
 
+<b>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</b> 
+
+![](/images/2023_cny_poetry.jpg)
+
+| Name | Class | Achievements |
+|---|---|---|
+| Sia Jia Lin (2-0) | 2-O  | Certificate of Commendation |
+| Wong Jing Wen | 3E2  | Certificate of Participation |
+| Yang Xuanhao | 3E2  | Certificate of Participation |
+| Ng Shi Ting | 2S2  | Certificate of Participation |
+| Tee Wen Xuan | 2S2  | Certificate of Participation |
+| Wong Loke Yau | 2S2  | Certificate of Participation |
+| Chuo Jia Wei | 2P  | Certificate of Participation |
+| Goh Zi Shan| 2P  | Certificate of Participation |
+<br>
+
+
+
 <img src="/images/mtl1.jpg" style="width:35%;margin-right:15px;" align="left">
 “新蕾奖 XIN LEI JIANG” 19th<br>
 National Secondary School<br>
