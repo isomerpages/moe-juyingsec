@@ -2,13 +2,13 @@
 title: Netball
 permalink: /cca/sports-n-games/netball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 ### **Netball**
 
 <figure>
 <img src="/images/netball1.jpg" style="width:85%">
-<figcaption>  Juying School Leaders with Badminton CCA Leaders
+<figcaption>  Juying School Leaders with Netball CCA Leaders
  </figcaption>
 </figure>
 
@@ -29,32 +29,34 @@ In 2020 and 2021,&nbsp;National Competitions were suspended due to COVID-19 SMM 
 
 | Training Venue | Training Day |
 |:---:|:---:|
-| Indoor Sports Hall / Lower Deck | Friday 2:30 pm - 5:30 pm |
+| Pioneer Primary School Indoor Sports Hall | Friday 2:30 pm - 5:30 pm |
 |
 
 #### **Organisation Chart**
 
 | Teachers-In-Charge |
 |:---:|
-| Ms Tay Wen Hui (IC)<br>Ms Lim Siew Yin<br>Ms Linda Tan<br>Ms Serena Xu<br>Ms Tay Wen Hui |
+| <br>Ms Serena Xu Jia'en (OIC)<br>Ms Lim Siew Yin<br> |
 |
 
 | Coach |
 |:---:|
-| Ms Chiam Siew Khim |
+| Ms Wee Bee Tin Gena |
 |
 
-| Executive Committee |  |
-|:---:|:---:|
-| Captain  | Low Jia Yi Selina (3E1) |
-| Vice-Captain | Ng Yu Tong (3E2) |
-|
 
 #### **Achievements**
-**In 2020, National Competitions were suspended due to COVID-19 and are pending to resume in 2021.**
 
 | Year | Competition | Achievement |
 |:---:|---|---|
+| 2023 | National School Games West Zone C Division Girls Championships | Participation |
+| 2023 | National School Games West Zone B Division Girls Championships | Participation |
+| 2023| Deliotte Pesta Sukan Tournament C-Division | 2nd Runner-Up
+| 2023| Deliotte Pesta Sukan Tournament B-Division | Participation
+| 2022 | National School Games West Zone C Division Girls Championships | 3rd Runner-Up |
+| 2022 | National School Games West Zone B Division Girls Championships | Participation |
+| 2022| Deliotte Pesta Sukan Tournament C-Division | 3rd Runner-Up
+| 2022| Deliotte Pesta Sukan Tournament B-Division | Participation
 | 2019 | National School Games West Zone C Division Girls Championships | Second Round |
 | 2019 | National School Games West Zone B Division Girls Championships | Participation |
 | 2019 | M1 Schools Challenge League C Division | 3rd position in Group 4 |
