@@ -3,8 +3,23 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+<p><strong>Juying Open House 2023</strong></p>
+2023-10-24<br>
+
+![](/images/2023-open_house_banner-01.png)
+
+
+
+Visit Us at the <b>Juying Open House 2023</b> on <b>Saturday, 18 Nov 2023 from 8am to 12 noon</b> to learn more about the Juying Experience first hand from our students ambassadors.<br>
+
+<hr>
+
 <p><strong>Juying P6 Publicity Booklet</strong></p>
-<p>2023-10-24<br>A publication by Juying Secondary featuring Juying's unique programmes and numerous testimonials by students &amp;  parents who have benefited from the Juying Experience. <br>
+<p>2023-10-24<br>
+	
+![P6 Publicity Booklet (Special Edition)](/images/2023%20p6%20booklet.PNG)	
+
+A publication by Juying Secondary featuring Juying's unique programmes and numerous testimonials by students &amp;  parents who have benefited from the Juying Experience. <br>
 Download a copy of the Juying P6 Publicity Booklet
 <a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=drive_link">here</a></p>
 <hr>
