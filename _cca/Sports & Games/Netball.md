@@ -29,7 +29,7 @@ In 2020 and 2021,&nbsp;National Competitions were suspended due to COVID-19 SMM 
 
 | Training Venue | Training Day |
 |:---:|:---:|
-| Indoor Sports Hall / Lower Deck | Friday 2:30 pm - 5:30 pm |
+| Pioneer Primary School Indoor Sports Hall | Friday 2:30 pm - 5:30 pm |
 |
 
 #### **Organisation Chart**
@@ -41,7 +41,7 @@ In 2020 and 2021,&nbsp;National Competitions were suspended due to COVID-19 SMM 
 
 | Coach |
 |:---:|
-| Ms Chiam Siew Khim |
+| Ms Wee Bee Tin Gena |
 |
 
 
