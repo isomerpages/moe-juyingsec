@@ -58,6 +58,8 @@ MT Fortnight activities for our Sec One to Three students will be carried out in
 
 <b>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</b> 
 
+![](/images/2023_cny_poetry.jpg)
+
 | Name | Class | Achievements |
 |---|---|---|
 | Sia Jia Lin (2-0) | 2-O  | Certificate of Commendation |
