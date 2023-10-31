@@ -62,7 +62,7 @@ MT Fortnight activities for our Sec One to Three students will be carried out in
 
 | Name | Class | Achievements |
 |---|---|---|
-| Sia Jia Lin (2-0) | 2-O | Certificate of Commendation |
+| Sia Jia Lin | 2-O | Certificate of Commendation |
 | Wong Jing Wen | 3E2 | Certificate of Participation |
 | Yang Xuanhao | 3E2 | Certificate of Participation |
 | Ng Shi Ting | 2S2 | Certificate of Participation |
