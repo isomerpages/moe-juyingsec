@@ -3,6 +3,7 @@ title: National Civil Defence Cadet Corps (NCDCC)
 permalink: /cca/uniformed-groups/national-civil-defence-cadet-corps-ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### **National Civil Defence Cadet Corps (NCDCC)**
 
@@ -42,10 +43,6 @@ These are testaments of the growth of the cadets to be role models of excellence
 | Mr Benjamin Goh Qi Xuan |
 |
 
-| Upper Sec Executive Committee |  |
-|:---:|:---:|
-| Unit Sergeant Major | Muhammad Irfan Azhari Bin Mohd Farid |
-| 
 
 #### **CCA Schedule**
 
