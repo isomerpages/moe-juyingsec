@@ -3,6 +3,7 @@ title: National Cadet Corps (SEA)
 permalink: /cca/uniformed-groups/national-cadet-corps-sea/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### **National Cadet Corps (SEA)**
 
@@ -25,7 +26,7 @@ To develop responsible, respectful and resilient cadets to face the challenges o
 To nurture committed cadets who are resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
 
 #### **Overview**
-The NCC (SEA) Unit attained the Distinction Award for Unit Recognition (UR) for 2021.  
+The NCC (SEA) Unit attained the Distinction Award for Unit Recognition (UR) for 2021 and 2022. 
   
 The CCA received a chance to visit IMDEX Asia at Changi Naval Base. They were given a tour of the local and foreign warships. The opportunity to visit different booths at the Changi Exhibition Centre allowed them to learn more about courses related to the area of maritime.  
   
@@ -48,12 +49,6 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 | CPT (NCC) Ong Xian Ching
 |
 
-| Unit Sergeant Major |
-|:---:|
-| Ho Qian Yi Eleanor 3E1 |
-| **Assistant Unit Sergeant Major** |
-| Bong Shi Jia 3E2 |
-| 
 
 #### **CCA Schedule**
 
@@ -67,7 +62,7 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 |  |  |
 |---|---|
 | <img src="/images/nccsea%203.jpeg" style="width:65%"> | All ready to roar down Kallang in their dragonboats |
-| <img src="/images/nccsea%204.jpeg" style="width:65%"> | NCC family with Best Unit Competition Award 2021 |
+| <img src="/images/nccsea%204.jpeg" style="width:65%"> | NCC family with Best Unit Competition Award 2021, 2022 |
 | <img src="/images/nccsea%205.jpeg" style="width:65%"> |  Getting ready to clean up the shore in their kayaks |
 | <img src="/images/nccsea%206.jpeg" style="width:65%"> | Clean Up on Kayak Leadership Programme (Cadets with their “finds” for the day) |
 | <img src="/images/nccsea%207.jpeg" style="width:65%"> | Dragon Boat Regatta Team  |
