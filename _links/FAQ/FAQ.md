@@ -30,7 +30,7 @@ variant: markdown
 </div>
 <div>
 <ul>
-<li><strong>Where can I find out more about Direct School Admission (DSA) to Juying Secondary School?<br><br></strong>Click&nbsp;<u><a rel="noopener" href="/information/administrative-information/direct-school-admission-exercise">HERE</a></u>&nbsp;to find out more</li>
+<li><strong>Where can I find out more about Direct School Admission (DSA) to Juying Secondary School?<br><br></strong>Click&nbsp;<u><a rel="noopener" href="https://www.juyingsec.moe.edu.sg/information/administrative-information/direct-school-admission/">HERE</a></u>&nbsp;to find out more</li>
 </ul>
 <p><strong>Finance Matters:</strong></p>
 <ul>
