@@ -3,6 +3,7 @@ title: FAQ
 permalink: /links/faq/
 description: ""
 third_nav_title: FAQ
+variant: markdown
 ---
 <p><strong>General:</strong></p>
 <ul>
@@ -24,12 +25,12 @@ third_nav_title: FAQ
 
 <div>
 <ul>
-<li><strong>When are the School terms / School holidays?<br><br></strong>Click&nbsp;<a rel="noopener" href="https://www.moe.gov.sg/news/press-releases/20200817-school-terms-and-holidays-for-2021"><u>HERE</u></a>&nbsp;to find out more (MOE)</li>
+<li><strong>When are the School terms / School holidays?<br><br></strong>Click&nbsp;<a rel="noopener" href="https://www.moe.gov.sg/calendar"><u>HERE</u></a>&nbsp;to find out more (MOE)</li>
 </ul>
 </div>
 <div>
 <ul>
-<li><strong>Where can I find out more about Direct School Admission (DSA) to Juying Secondary School?<br><br></strong>Click&nbsp;<u><a rel="noopener" href="/information/administrative-information/direct-school-admission-exercise">HERE</a></u>&nbsp;to find out more</li>
+<li><strong>Where can I find out more about Direct School Admission (DSA) to Juying Secondary School?<br><br></strong>Click&nbsp;<u><a rel="noopener" href="https://www.juyingsec.moe.edu.sg/information/administrative-information/direct-school-admission/">HERE</a></u>&nbsp;to find out more</li>
 </ul>
 <p><strong>Finance Matters:</strong></p>
 <ul>
