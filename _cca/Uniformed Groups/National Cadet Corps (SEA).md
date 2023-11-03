@@ -62,7 +62,7 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 |  |  |
 |---|---|
 | <img src="/images/nccsea%203.jpeg" style="width:65%"> | All ready to roar down Kallang in their dragonboats |
-| <img src="/images/nccsea%204.jpeg" style="width:65%"> | NCC family with Best Unit Competition Award 2021 |
+| <img src="/images/nccsea%204.jpeg" style="width:65%"> | NCC family with Best Unit Competition Award 2021, 2022 |
 | <img src="/images/nccsea%205.jpeg" style="width:65%"> |  Getting ready to clean up the shore in their kayaks |
 | <img src="/images/nccsea%206.jpeg" style="width:65%"> | Clean Up on Kayak Leadership Programme (Cadets with their “finds” for the day) |
 | <img src="/images/nccsea%207.jpeg" style="width:65%"> | Dragon Boat Regatta Team  |
