@@ -25,7 +25,7 @@ variant: markdown
 
 <div>
 <ul>
-<li><strong>When are the School terms / School holidays?<br><br></strong>Click&nbsp;<a rel="noopener" href="https://www.moe.gov.sg/news/press-releases/20200817-school-terms-and-holidays-for-2023"><u>HERE</u></a>&nbsp;to find out more (MOE)</li>
+<li><strong>When are the School terms / School holidays?<br><br></strong>Click&nbsp;<a rel="noopener" href="https://www.moe.gov.sg/calendar"><u>HERE</u></a>&nbsp;to find out more (MOE)</li>
 </ul>
 </div>
 <div>
