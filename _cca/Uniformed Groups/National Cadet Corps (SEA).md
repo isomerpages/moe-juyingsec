@@ -26,7 +26,7 @@ To develop responsible, respectful and resilient cadets to face the challenges o
 To nurture committed cadets who are resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.
 
 #### **Overview**
-The NCC (SEA) Unit attained the Distinction Award for Unit Recognition (UR) for 2021.  
+The NCC (SEA) Unit attained the Distinction Award for Unit Recognition (UR) for 2021 and 2022. 
   
 The CCA received a chance to visit IMDEX Asia at Changi Naval Base. They were given a tour of the local and foreign warships. The opportunity to visit different booths at the Changi Exhibition Centre allowed them to learn more about courses related to the area of maritime.  
   
