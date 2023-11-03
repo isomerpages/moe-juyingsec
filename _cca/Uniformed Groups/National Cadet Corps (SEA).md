@@ -3,6 +3,7 @@ title: National Cadet Corps (SEA)
 permalink: /cca/uniformed-groups/national-cadet-corps-sea/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### **National Cadet Corps (SEA)**
 
@@ -48,12 +49,6 @@ NCC SEA cadets are also given the opportunity to be the offcial school flag bear
 | CPT (NCC) Ong Xian Ching
 |
 
-| Unit Sergeant Major |
-|:---:|
-| Ho Qian Yi Eleanor 3E1 |
-| **Assistant Unit Sergeant Major** |
-| Bong Shi Jia 3E2 |
-| 
 
 #### **CCA Schedule**
 
