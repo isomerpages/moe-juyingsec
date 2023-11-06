@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /people/school-management-committee/
 description: ""
+variant: markdown
 ---
 <figure>
 <img src="/images/smc-fresh-2023.jpg" style="width:85%">
@@ -134,7 +135,7 @@ description: ""
 </tr>
 <tr>
 <td>Ms Elydia Azman</td>
-<td>Subject Head (Student Management) (internal)</td>
+<td>Subject Head (Student Management)</td>
 </tr>
 <tr>
 <td>Ms&nbsp;Wong Lye Peng Christina</td>
