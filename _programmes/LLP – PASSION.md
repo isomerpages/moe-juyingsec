@@ -2,6 +2,7 @@
 title: LLP – PASSION
 permalink: /programmes/llp-passion/
 description: ""
+variant: markdown
 ---
 #### **Learning for Life Programme**
 In Juying Secondary School, our Learning for Life Programme (LLP) is in PASSION and we aim to&nbsp;**Develop Self-Directed and Intrinsically Motivated Learners through PASSION.**
@@ -19,3 +20,8 @@ By the time they reach Secondary Four/Five, students will be applying what they 
 Selected groups of Secondary Two students will be able to join the PASSION Experts Training, whereby they will undergo a developmental programme to train them to become buddy mentors to selected Secondary One and/or Two students. PASSION internship attachment opportunities will also be offered as part of the LLP Tier 2 programmes.
 
 <img src="/images/llp2.png" style="width:85%">
+
+![](/images/01_LLP_ALP.jpg)
+Our ALP &amp; LLP Champions Leading the Class Discussion
+
+
