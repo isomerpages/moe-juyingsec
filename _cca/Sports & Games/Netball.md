@@ -22,7 +22,7 @@ Active and Gracious Netballers with Excellent Sportsmanship.
 To develop a driven and committed team competent in netball skills and leadership qualities, in a caring and supportive environment.
 
 #### **Overview**
-2023 had been amazing as our Netball C division girls clinched 3rd position in Netball Deloitte Tournament and also made it to 2nd round in the West Zone Inter-school Championship 2023. These achievements have definitely strengthen our team’s belief that Juying Netball is a force to be reckoned with!  
+2023 had been amazing as our Netball C division girls clinched 3rd position in Deloitte Netball Tournament and also made it to 2nd round in the West Zone Inter-school Championship 2023. These achievements have definitely strengthen our team’s belief that Juying Netball is a force to be reckoned with!  
   
 
 #### **CCA Schedule**
