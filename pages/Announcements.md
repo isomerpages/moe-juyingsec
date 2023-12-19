@@ -2,7 +2,19 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
+<p><strong>Well Wishes 2024</strong></p>
+<p>Here's to a successful and fulfilling school year ahead full of growth, learning and new opportunities.</p>
+<hr>
+
+<p><strong>GCE N-level Results Release</strong></p>
+<p>2023-12-18<br>The GCE N-level results will be released at the MPH at 2:30pm. Please be seated early. Report to school in full school attire and approved, proper haircut.
+<br> Wishing all JYians all the best for their results and future endeavours.
+</p>
+<hr>
+
+
 <p><strong>Juying Open House 2023</strong></p>
 2023-10-24<br>
 
@@ -50,12 +62,6 @@ You may revisit the photos of the event  <a href="https://www.flickr.com/photos/
 <hr>
 
 <p><strong>Juying's PDLP Programme</strong></p>
-<p>2023-01-17<br>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a rel="noopener" href="/programmes/personalised-digital-learning-programme-pdlp">here</a>.&nbsp;</p>
+<p>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a rel="noopener" href="/programmes/personalised-digital-learning-programme-pdlp">here</a>.&nbsp;</p>
 <hr>
 
-<p><strong>Well Wishes 2023</strong></p>
-<p>2023-01-01<br>Here's to a successful and fulfilling school year ahead full of growth, learning and new opportunities.</p>
-<hr>
-
-<p><strong>Principal's Message 2023</strong></p>
-<p>2023-01-01<br>Goodbye 2022 Welcome 2023 ... Read Mdm Soh's Principal's Message 2023 <a href="/information/principals-message/principals-message-2023">here</a>.</p>
