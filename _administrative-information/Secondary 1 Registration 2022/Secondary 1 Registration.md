@@ -41,12 +41,12 @@ variant: markdown
 </ul>
 <p>Please refer to the announcement sent via Parents Gateway on&nbsp;<strong>21 December 2023&nbsp;</strong> for more information.</p>
 <p><strong>Registration Process</strong></p>
-<p>For registration, please log into Parents Gateway to view the announcement and complete the following:<br>1.&nbsp; Provide contact details<br>
+<p>For registration, please log into Parents Gateway to view the announcement and complete the following:</p>1.&nbsp; Provide contact details<br>
 2.&nbsp; Complete brief questionnaire<br>
 3.&nbsp; Select 'Yes' to complete the registration
 
 <strong>Registration period:&nbsp;  21 december 2023, 8am to 22 December 2023, 2pm</strong>
-</p><p>For other information pertaining to Secondary 1 matters, you may refer to the following subpages:</p>
+<p>For other information pertaining to Secondary 1 matters, you may refer to the following subpages:</p>
 <ol>
 <li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/books-n-uniforms">Books &amp; Uniform</a></li>
 <li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/sec-1-orientation-programme">Sec 1 Orientation Programme</a></li>
