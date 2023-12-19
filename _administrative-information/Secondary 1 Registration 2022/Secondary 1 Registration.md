@@ -43,7 +43,7 @@ variant: markdown
 <p><strong>Registration Process</strong></p>
 <p>For registration, please log into Parents Gateway to view the announcement and complete the following:</p>1.&nbsp; Provide contact details<br>
 2.&nbsp; Complete brief questionnaire<br>
-3.&nbsp; Select 'Yes' to complete the registration <p></p>
+3.&nbsp; Select 'Yes' to complete the registration<p></p>
 
 <br><strong>Registration period:&nbsp;  21 december 2023, 8am to 22 December 2023, 2pm</strong>
 <p>For other information pertaining to Secondary 1 matters, you may refer to the following subpages:</p>
