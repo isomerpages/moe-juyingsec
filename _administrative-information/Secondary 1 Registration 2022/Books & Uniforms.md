@@ -1,11 +1,12 @@
 ---
-title: Books &amp; Uniforms
+title: Books & Uniforms
 permalink: /information/administrative-information/secondary-1-registration/books-n-uniforms/
 description: ""
 third_nav_title: Secondary 1 Registration 2022
+variant: markdown
 ---
 <h4><strong>Purchase of Books and Uniform</strong></h4>
-<p>The school will be opened for Sec 1 students to purchase their books and uniform from<br><strong>22 December 2022 onwards.</strong></p>
+<p>The school will be opened for Sec 1 students to purchase their books and uniform from<br><strong>21 December 2023 onwards.</strong></p>
 <p>Please note that parking is not provided. You can park at the HDB carparks near the school.</p>
 <p><strong><u>Books and Uniform Purchase</u></strong></p>
 <p>For physical purchase of books and uniforms, you may book your appointment&nbsp;<a rel="noopener" href="https://jysssec1prebookappt.as.me/">here</a>.</p>
