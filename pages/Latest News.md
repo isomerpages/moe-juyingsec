@@ -10,7 +10,7 @@ variant: markdown
 
 
 <p><strong>2023 GCE N-levels Results Release</strong></p>
-<p>2023-12-18<br>GCE N-level candidates may collect their results at the MPH at 2:30pm. Please report in full school attire with proper haircut. </p>
+<p>2023-12-18<br>GCE N-level candidates may collect their results at the MPH at 2:30pm. Please report in full school attire with proper, approved haircut. <br> Wishinn JYians All the best for your results and future endeavours!</p>
 <hr>
 
 <p><strong>2023 Welcome Back to Semester 2</strong></p>
