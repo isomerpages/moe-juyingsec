@@ -49,18 +49,6 @@ You may revisit the photos of the event  <a href="https://www.flickr.com/photos/
 <p>All the Best!</p>
 <hr>
 
-<p><strong>2023 Semester 2 WA Schedules (Sec 1, Sec 2, Sec 3)</strong></p>
-<p>2023-07-07<br>The 2023 Semester 2 Weighted Assessment schedules and topics are now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-2-weighted-assessments/">here</a></p>
-<hr>
-
-<p><strong>2023 Welcome Back to Semester 2</strong></p>
-<p>2023-06-26<br>Wishing all JYians a successful academic Semester 2 ahead!</p>
-<hr>
-
-<p><strong><a href="/information/administrative-information/timetables-n-schedules/class-timetable">Class Timetables 2023 Semester 2</a></strong></p>
-<p>2023-06-23<br>Click <a rel="noopener" href="/information/administrative-information/timetables-n-schedules/class-timetable">here</a> to view and download the class timetables for 2023 Semester 2.</p>
-<hr>
-
 <p><strong>Juying's PDLP Programme</strong></p>
 <p>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a rel="noopener" href="/programmes/personalised-digital-learning-programme-pdlp">here</a>.&nbsp;</p>
 <hr>
