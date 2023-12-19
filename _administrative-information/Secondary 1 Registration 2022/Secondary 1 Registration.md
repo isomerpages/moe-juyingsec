@@ -45,7 +45,7 @@ variant: markdown
 2.&nbsp; Complete brief questionnaire<br>
 3.&nbsp; Select 'Yes' to complete the registration<p></p>
 
-<br><strong>Registration period:&nbsp;  21 december 2023, 8am to 22 December 2023, 2pm</strong>
+<strong>Registration period:&nbsp;  21 december 2023, 8am to 22 December 2023, 2pm</strong>
 <p>For other information pertaining to Secondary 1 matters, you may refer to the following subpages:</p>
 <ol>
 <li><a rel="noopener" href="/information/administrative-information/secondary-1-registration/books-n-uniforms">Books &amp; Uniform</a></li>
