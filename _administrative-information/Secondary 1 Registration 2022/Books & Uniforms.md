@@ -8,6 +8,7 @@ variant: markdown
 <h4><strong>Purchase of Books and Uniform</strong></h4>
 <p>The school will be opened for Sec 1 students to purchase their books and uniform from<br><strong>21 December 2023 onwards.</strong></p>
 <p>Please note that parking is not provided. You can park at the HDB carparks near the school.</p>
+<p>You can download the Sec 1 Booklist&nbsp;<a rel="noopener" href="https://drive.google.com/file/d/1CK1MxxPQIL1FHPQzsqrf6fHSfk7jyKe3/view?usp=drive_link/">here</a>.</p>
 <p><strong><u>Books and Uniform Purchase</u></strong></p>
 <p>For physical purchase of books and uniforms, you may book your appointment&nbsp;<a rel="noopener" href="https://jysssec1prebookappt.as.me/">here</a>.</p>
 <p>Parents who visit the school with no appointment may experience a longer waiting time on<br><strong>22 December 2022.</strong></p>
