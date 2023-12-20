@@ -15,13 +15,13 @@ variant: markdown
 <p>For online purchase of uniforms and booking of appointments, you may do so&nbsp;<a rel="noopener" href="https://finestuniform.com/collections/juying-secondary-school/">here</a>.</p>
 <p>The online order passcode is: JYSS22b</p>
 
-
 <p><strong><u>SBB Matters</u></strong></p>
+
 <p>Students who are offered Subject-Based Banding (SBB) at G2 or G3 levels will be contacted by the school. Please refer to the Sec1&nbsp;<a href="/information/administrative-information/secondary-1-registration/subject-based-banding">SBB subpage</a><br>(<a rel="noopener" href="/information/administrative-information/secondary-1-registration/subject-based-banding">https://juyingsec.moe.edu.sg/information/administrative-information/secondary-1-registration/subject-based-banding</a>)&nbsp;for more information.</p>
 <p>Please take note that in the event that you and your child/ward are still considering the SBB offer, it is recommended that you do not purchase the books for the SBB subject/s until your decision has been confirmed.</p>
 <p><strong><u>Financial Assistance Scheme (FAS) Application and Collection of FAS Items</u></strong></p>
 <ul>
-<li>Students under FAS can visit the school during office hours from&nbsp;<strong>21 December 2022 onwards</strong>.</li>
+<li>Students under FAS can visit the school during office hours from&nbsp;<strong>20 December 2023 onwards</strong>.</li>
 <li>No appointment is needed.</li>
 <li>Students under FAS shall proceed to the General Office to receive their FAS approval letter and the collection forms before heading to the bookstore and other counters.</li>
 <li>Please bring along the student’s Ez-link card.</li>
