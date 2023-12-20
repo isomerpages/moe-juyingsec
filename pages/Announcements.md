@@ -8,6 +8,13 @@ variant: markdown
 <p>Here's to a successful and fulfilling school year ahead full of growth, learning and new opportunities.</p>
 <hr>
 
+<p><strong>Welcome Secondary 1 JYians</strong></p>
+<p>Welcoming all new Secondary 1 JYian and parents. 
+<br>For Secondary 1 Registration and other information, please click on this <a href="https://www.juyingsec.moe.edu.sg/information/administrative-information/secondary-1-registration">link</a></p>.
+<hr>
+
+
+
 <p><strong>GCE N-level Results Release</strong></p>
 <p>2023-12-18<br>The GCE N-level results will be released at the MPH at 2:30pm. Please be seated early. Report to school in full school attire and approved, proper haircut.
 <br> Wishing all JYians all the best for their results and future endeavours.
@@ -52,4 +59,3 @@ You may revisit the photos of the event  <a href="https://www.flickr.com/photos/
 <p><strong>Juying's PDLP Programme</strong></p>
 <p>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a rel="noopener" href="/programmes/personalised-digital-learning-programme-pdlp">here</a>.&nbsp;</p>
 <hr>
-
