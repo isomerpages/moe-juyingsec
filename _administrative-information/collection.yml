@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - Secondary 1 Registration/Other Enquiries.md
       - Secondary 1 Registration/Subject Based Banding.md
       - Secondary 1 Registration/MOE–FAS.md
       - Secondary 1 Registration/Appeal.md
