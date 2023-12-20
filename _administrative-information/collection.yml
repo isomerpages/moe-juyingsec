@@ -2,7 +2,6 @@ collections:
   administrative-information:
     output: true
     order:
-      - Secondary Registration 2023/.keep
       - Secondary 1 Registration 2022/.keep
       - Secondary 1 Registration 2022/Secondary 1 Registration.md
       - Secondary 1 Registration 2022/Books & Uniforms.md
