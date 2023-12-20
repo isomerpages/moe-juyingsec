@@ -32,7 +32,7 @@ sections:
   - infobar:
       title: What Our Students Say
       button: click here for more info
-      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2022/charis-king-s4
+      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2023/charis-king-s4
   - infobar:
       title: What Our Parents Say
       button: click here for more info
