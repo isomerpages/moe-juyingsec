@@ -1,10 +1,11 @@
 ---
-title: Bookshop &amp; Booklists
+title: Bookshop & Booklists
 permalink: /information/administrative-information/bookshop-booklists/
 description: ""
+variant: markdown
 ---
 <h4><strong>Booklists (for year 2023)</strong></h4>
-<p><strong>For Secondary 2-5 students (2023)</strong><br>Click&nbsp;<a rel="noopener" href="https://drive.google.com/drive/folders/1eqjzw_tHeOVkJ_xQs6NnpE7vMz2DQkrt?usp=sharing">here</a>&nbsp;for all Secondary 2 to Secondary 4 booklists.<br>Download the correct booklist for your respective 2023 classes and banding.<br><br><strong>Note</strong>:<br>SBB = Subject Based Banding<br>OOS = Out of Stream</p>
+<p><strong>For Secondary 2-4 students (2024)</strong><br>Click&nbsp;<a rel="noopener" href="https://drive.google.com/drive/folders/1g_adlNxgNLqyTV-2Nl-Rv1A3z9npLSrL?usp=drive_link">here</a>&nbsp;for all Secondary 2 to Secondary 4 booklists.<br>Download the correct booklist for your respective 2023 classes and banding.<br><br><strong>Note</strong>:<br>SBB = Subject Based Banding<br>OOS = Out of Stream</p>
 <h4><strong>Online Book Store Orders</strong></h4>
 <p>Website for online orders:&nbsp;<a rel="noopener" href="http://www.actlink.com.sg/">http://www.actlink.com.sg</a></p>
 <hr>
