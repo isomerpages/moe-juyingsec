@@ -47,14 +47,6 @@ Download a copy of the Juying P6 Publicity Booklet
 You may revisit the photos of the event  <a href="https://www.flickr.com/photos/106251112@N04/albums/72177720312149975">here</a>. <p></p>
 <hr>
 
-<p><strong>HBL Term 3 Week 5</strong></p>
-<p>2023-07-21<br>Please take note that all levels will be having HBL Day on Wed 26 July 2023 including 4E5N. </p>
-<hr>
-
-<p><strong>2023 GCE(N) Levels Preliminary Examinations Schedule </strong></p>
-<p>2023-07-21<br>The 2023 GCE(N) Preliminary Examinations schedule is now available and can be downloaded <a href="https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/preliminary-examination/">here  </a></p>
-<p>All the Best!</p>
-<hr>
 
 <p><strong>Juying's PDLP Programme</strong></p>
 <p>Parents and students can access the latest information on Juying's Personalised Digital Learning Programme (PDLP) <a rel="noopener" href="/programmes/personalised-digital-learning-programme-pdlp">here</a>.&nbsp;</p>

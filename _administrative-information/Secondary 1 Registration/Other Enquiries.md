@@ -2,7 +2,7 @@
 title: Other Enquiries
 permalink: /information/administrative-information/secondary-1-registration/other-enquiries/
 description: ""
-third_nav_title: Secondary 1 Registration 2022
+third_nav_title: Secondary 1 Registration
 variant: markdown
 ---
 <p>If you have any other questions or concerns regarding Sec 1 Registration,<br>you may contact the school:</p>
