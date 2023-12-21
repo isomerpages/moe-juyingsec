@@ -2,6 +2,7 @@
 title: School
 permalink: /achievements/school/
 description: ""
+variant: markdown
 ---
 | CATEGORY | AWARD |
 |---|---|
@@ -35,3 +36,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+<img src="/images/achievement5.jpg" style="width:100%">
