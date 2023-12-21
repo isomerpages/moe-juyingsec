@@ -2,13 +2,13 @@ collections:
   administrative-information:
     output: true
     order:
-      - Secondary 1 Registration 2023/.keep
-      - Secondary 1 Registration 2023/Secondary 1 Registration.md
-      - Secondary 1 Registration 2023/Books & Uniforms.md
-      - Secondary 1 Registration 2023/Appeal.md
-      - Secondary 1 Registration 2023/MOE–FAS.md
-      - Secondary 1 Registration 2023/Subject Based Banding.md
-      - Secondary 1 Registration 2023/Other Enquiries.md
+      - Secondary 1 Registration/.keep
+      - Secondary 1 Registration/Secondary 1 Registration.md
+      - Secondary 1 Registration/Books & Uniforms.md
+      - Secondary 1 Registration/Appeal.md
+      - Secondary 1 Registration/MOE–FAS.md
+      - Secondary 1 Registration/Subject Based Banding.md
+      - Secondary 1 Registration/Other Enquiries.md
       - School Routines & Procedures.md
       - Bookshop & Booklists.md
       - e–Learning.md
