@@ -7,8 +7,6 @@ variant: markdown
 ---
 <img src="/images/sch%20history.jpg" style="width:75%">
 
-<img src="/images/sch%20history.jpg" style="width:75%">
-
 \[Click&nbsp;[here](https://www.youtube.com/watch?v=kvi6JVgkNNw&amp;feature=emb_logo)&nbsp;to watch the Juying Secondary 25th Anniversary video\]  
 
 Juying Secondary School was founded in December 1994 with the appointment of Mrs Lee Yin Ling as its pioneer principal. With an initial Secondary One cohort on 12 June 1995, the students and teachers move into the present premises, then partially retrofitted, formerly occupied by Jurong Institute.  
