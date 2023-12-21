@@ -36,5 +36,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-<img src="/images/achievement5.jpg" style="width:100%">
