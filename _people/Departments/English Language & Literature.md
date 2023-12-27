@@ -84,5 +84,3 @@ In addition, English Department continues to offer Upper Secondary English Liter
 | Mr Mohammad Fauzul | Teacher |
 | Ms Hema Lata | Teacher |
 | Ms Goh Wan Ru |  Teacher |
-| Mr Lim Teck Siong |  Teacher |
-|
