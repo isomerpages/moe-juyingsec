@@ -3,6 +3,7 @@ title: Information Communication Technology
 permalink: /people/departments/information-communication-technology/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <figure>
 <img src="/images/ict_dept23.jpeg" style="width:85%">
@@ -79,9 +80,8 @@ Through the use of technology, we hope maximise every learning opportunity by be
 | Name | Designation |
 |---|---|
 | Mr Tan Meng Hwee | HOD (Information Communication Technology) |
-| Mr Rudie Asmara | Subject Head (Computer Applications) |
 | Mrs Tee-Ong Xian Qing | Teacher |
 | Mdm Rosnah | Teacher |
-| Ms Adilah | Desktop Engineer |
+| Ms Adilah | ICT Associate |
 | Mr Jian Wei | Desktop Engineer |
 |
