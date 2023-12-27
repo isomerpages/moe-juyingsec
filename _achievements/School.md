@@ -2,6 +2,7 @@
 title: School
 permalink: /achievements/school/
 description: ""
+variant: markdown
 ---
 | CATEGORY | AWARD |
 |---|---|
