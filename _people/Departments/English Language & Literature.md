@@ -77,7 +77,7 @@ In addition, English Department continues to offer Upper Secondary English Liter
 |---|---|
 | Mdm P Manimegalai | HOD (English Language &amp; Literature) |
 | Ms Lynette Wong | Subject Head (English Language &amp; Literature) |
-| Ms Maybellina Lim | Assistant Year Head (Secondary 2) |
+| Ms Maybellina Lim | Year Head (Lower Sec) |
 | Ms Teoh Cheng Ling | Teacher |
 | Mr Yee Jen Siong | Teacher |
 | Ms Amanda Foo | Teacher |
