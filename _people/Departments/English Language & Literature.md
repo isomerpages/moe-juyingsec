@@ -3,6 +3,7 @@ title: English Language & Literature
 permalink: /people/departments/english-language-n-literature/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <img src="/images/englishdept233.jpg" style="width:85%">
 
@@ -76,13 +77,10 @@ In addition, English Department continues to offer Upper Secondary English Liter
 |---|---|
 | Mdm P Manimegalai | HOD (English Language &amp; Literature) |
 | Ms Lynette Wong | Subject Head (English Language &amp; Literature) |
-| Ms Shynn Lim | HOD (Character &amp; Citizenship Education) |
-| Ms Maybellina Lim | Covering Assistant Year Head (Secondary 2) |
+| Ms Maybellina Lim | Year Head (Lower Sec) |
 | Ms Teoh Cheng Ling | Teacher |
 | Mr Yee Jen Siong | Teacher |
 | Ms Amanda Foo | Teacher |
 | Mr Mohammad Fauzul | Teacher |
 | Ms Hema Lata | Teacher |
 | Ms Goh Wan Ru |  Teacher |
-| Mr Lim Teck Siong |  Teacher |
-|
