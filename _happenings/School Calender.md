@@ -2,6 +2,9 @@
 title: School Calender
 permalink: /happenings/school-calender/
 description: ""
+variant: markdown
 ---
-<p></p>
-<p>Click on the&nbsp;<strong>+ sign at the bottom right&nbsp;</strong>of the&nbsp;<strong>Google Calendar</strong>&nbsp;to add the Juying Calendar to your device.</p>
+<b>JUYING SECONDARY SCHOOL CALENDAR</b>
+<p>To view the Juying Secondary School Calendar on Google Calendar, please click on the following link</p>
+
+[Juying Secondary Calendar](https://calendar.google.com/calendar/u/0?cid=Y190NzBkdWc5cHRldW12NG5vNzF0cTkzdDA2b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
