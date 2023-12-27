@@ -3,6 +3,7 @@ title: Student Development Team
 permalink: /people/departments/student-development-team/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <img src="/images/sdt234.jpg" style="width:85%">
 
@@ -10,9 +11,8 @@ third_nav_title: Departments
 
 | Committee Members |  |
 |---|---|
-| Ms Shynn Lim | HOD (CCE) |
+| Ms Senthil Silvarajoo | HOD (CCE) |
 | Ms Maybellina Lim | Year Head |
-| Mr Senthil Silvarajoo | Subject Head (CCE) |
 | Mr Wang Woon Keat |  Asst. Year Head (Upper Sec) |
 | Ms Nor Diana | Education and Career Guidance (ECG) Coordinator |
 | Mr Chuah Soon Ann | Local Values-in-Action (VIA)  |
