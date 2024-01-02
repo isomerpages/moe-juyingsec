@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p><strong>Dear JYians and Parents,</strong></p>
 <p>The&nbsp;<strong>2024</strong>&nbsp;Class Timetable for&nbsp;<strong>Semester 1</strong>&nbsp;is now available.</p>
-<p>For each class, there is a Timetable A and Timetable B.<br><br>Click the link below to view or download softcopies of the timetables.<br><br>Timetable A | <a href="https://drive.google.com/drive/folders/1vepltGEhK8FHOVnEKZnBQVawcxGjpj4Pusp=drive_link">2024 Sem 1 Class Timetables_TTA.pdf</a><br>Timetable B |&nbsp;<a href="https://drive.google.com/drive/folders/1vepltGEhK8FHOVnEKZnBQVawcxGjpj4P">2024 Sem 1 Class Timetables_TT B.pdf</a></p><br>
+<p>For each class, there is a Timetable A and Timetable B.<br><br>Click the link below to view or download softcopies of the timetables.<br><br>Timetable A | <a href="https://drive.google.com/drive/folders/1vepltGEhK8FHOVnEKZnBQVawcxGjpj4P">2024 Sem 1 Class Timetables_TTA.pdf</a><br>Timetable B |&nbsp;<a href="https://drive.google.com/drive/folders/1vepltGEhK8FHOVnEKZnBQVawcxGjpj4P">2024 Sem 1 Class Timetables_TT B.pdf</a></p><br>
 
 
 
