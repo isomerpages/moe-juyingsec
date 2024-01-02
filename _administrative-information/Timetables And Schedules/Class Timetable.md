@@ -12,5 +12,3 @@ variant: markdown
 
 
 
-<p><strong></strong></p>
-<p>The&nbsp;<strong>HBL 2024 Schedule</strong>&nbsp;<strong></strong>&nbsp;is now available.&nbsp;<strong>Uses Time-Table B when in-force.</strong></p><br>Click the link below to view or download softcopies of the HBL 2024 Schedule.<br><br><br>HBL 2024 Schedule | <a href="https://drive.google.com/file/d/1ct4zrzrDtb7PiH3WvY0uCsWieU3iShhB/view?usp=sharing">HBL 2024 Schedule.pdf</a><br><p></p>
