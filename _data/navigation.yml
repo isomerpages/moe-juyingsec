@@ -1,0 +1,64 @@
+logo: /images/school logo.svg
+links:
+  - title: Information
+    collection: information
+  - title: Happenings
+    url: /happenings/news/
+    sublinks:
+      - title: News
+        url: /happenings/news/
+      - title: School Calender
+        url: /happenings/school-calender/
+      - title: School Yearbook
+        url: /happenings/school-yearbook/2022
+      - title: Events
+        url: /happenings/events/2023
+  - title: People
+    collection: people
+  - title: Programmes
+    collection: programmes
+  - title: Achievements
+    url: /achievements/school/
+    sublinks:
+      - title: School
+        url: /achievements/school/
+      - title: Lifelong Learners
+        url: /achievements/lifelong-learners/
+      - title: Strength of Character
+        url: /achievements/strength-of-character/2021
+      - title: Impactful Leaders
+        url: /achievements/impactful-leaders/
+      - title: Purposeful Partnership
+        url: /achievements/purposeful-partnership/
+      - title: Alumni Excellence
+        url: /achievements/alumni-excellence/
+      - title: I-Star Award
+        url: /achievements/istar-award/
+      - title: ECHA
+        url: /achievements/echa/
+  - title: CCA
+    url: /cca/performing-arts/choir
+    sublinks:
+      - title: Performing Arts
+        url: /cca/performing-arts/choir
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/national-cadet-corps-sea
+      - title: Sports & Games
+        url: /cca/sports-n-games/badminton
+      - title: Clubs & Societies
+        url: /cca/clubs-n-societies/art-n-craft-club
+      - title: Grading System
+        url: /cca/grading-system/overview-of-leaps-2-0
+  - title: Links
+    url: /links/useful-links/staff
+    sublinks:
+      - title: Useful Links
+        url: /links/useful-links/staff
+      - title: Student Learning Space
+        url: https://www.learning.moe.edu.sg/sls/index.html
+      - title: FAQ
+        url: /links/faq/
+      - title: Parents Gateway
+        url: /links/parents-gateway/
+  - title: Gallery
+    url: /gallery

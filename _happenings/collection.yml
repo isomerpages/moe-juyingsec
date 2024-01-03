@@ -1,0 +1,27 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - News/.keep
+      - News/News.md
+      - News/2022.md
+      - News/2021.md
+      - News/2020.md
+      - News/2019.md
+      - News/2018.md
+      - News/2017.md
+      - School Calender.md
+      - School Yearbook/2023.md
+      - School Yearbook/2022.md
+      - School Yearbook/2021.md
+      - School Yearbook/2020.md
+      - School Yearbook/2019.md
+      - School Yearbook/2018.md
+      - School Yearbook/2017.md
+      - School Yearbook/.keep
+      - Events/2023.md
+      - Events/.keep
+      - Events/2022.md
+      - Events/2021.md
+      - Events/2020.md
+      - Events/2019.md

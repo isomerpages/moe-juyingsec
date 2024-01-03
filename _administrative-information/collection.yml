@@ -1,0 +1,31 @@
+collections:
+  administrative-information:
+    output: true
+    order:
+      - Secondary 1 Registration/.keep
+      - Secondary 1 Registration/Secondary 1 Registration.md
+      - Secondary 1 Registration/Books & Uniforms.md
+      - Secondary 1 Registration/Appeal.md
+      - Secondary 1 Registration/MOE–FAS.md
+      - Secondary 1 Registration/Subject Based Banding.md
+      - Secondary 1 Registration/Other Enquiries.md
+      - School Routines & Procedures.md
+      - Bookshop & Booklists.md
+      - e–Learning.md
+      - Timetables And Schedules/.keep
+      - Timetables And Schedules/Class Timetable.md
+      - Timetables And Schedules/Examination Timetable.md
+      - Timetables And Schedules/June Bridging Schedules.md
+      - Timetables And Schedules/September Bridging Schedule.md
+      - Timetables And Schedules/FGC Schedules.md
+      - Timetables And Schedules/CCA Schedule.md
+      - Timetables And Schedules/Post–Exam Timetable.md
+      - Timetables And Schedules/Orientation Week Timetable.md
+      - Forms/.keep
+      - Forms/Health Declaration Form.md
+      - Forms/Travel Declaration From.md
+      - Forms/ECHA Nomination Form.md
+      - School Rules.md
+      - Joint or Early Admission Exercise.md
+      - Direct School Admission Exercise.md
+      - Cyberwellness.md

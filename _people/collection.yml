@@ -1,0 +1,30 @@
+collections:
+  people:
+    output: true
+    order:
+      - School Management Committee.md
+      - Departments/English Language & Literature.md
+      - Departments/Mother Tongue.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Humanities.md
+      - Departments/Aesthetics.md
+      - Departments/Information Communication Technology.md
+      - Departments/Physical Education & CCA.md
+      - Departments/Normal Technical.md
+      - Departments/Craft & Technology.md
+      - Departments/Student Development Team.md
+      - Departments/Discipline.md
+      - Departments/.keep
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Parents Support Group.md
+      - Our Partners/Alumni.md
+      - Our Partners/.keep
+      - Lifelong Learners.md
+      - Strength of Character.md
+      - Form Teachers/Secondary 1 Form Teachers.md
+      - Form Teachers/Secondary 2 Form Teachers.md
+      - Form Teachers/Secondary 3 Form Teachers.md
+      - Form Teachers/Secondary 4&5 Form Teachers.md
+      - Form Teachers/.keep
+      - Executive & Administrative Staff.md

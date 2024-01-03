@@ -1,0 +1,30 @@
+collections:
+  information:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Overview/.keep
+      - School Overview/School History.md
+      - School Overview/Vision & Mission.md
+      - School Overview/Core Values.md
+      - School Overview/Strategic Thrusts.md
+      - School Overview/The School Crest, Motto and Song.md
+      - School Overview/H E A R T S Ethos.md
+      - Administrative Information.md
+      - Students' Welfare/.keep
+      - Students' Welfare/Counselling Services.md
+      - Students' Welfare/Financial Assistance.md
+      - Contact Us.md
+      - Why Choose Juying Secondary?/.keep
+      - Why Choose Juying Secondary?/Why Choose Juying Secondary?.md
+      - Why Choose Juying Secondary?/What Do Our Parents Say About Us?.md
+      - Why Choose Juying Secondary?/What Do Our Students Say About Us?.md
+      - Why Choose Juying Secondary?/Juying Publicity Booklets.md
+      - Direct School Admission.md
+      - Examination Schedules/.keep
+      - Examination Schedules/End of Year Examination.md
+      - Examination Schedules/GCE O & N level Information.md
+      - Examination Schedules/Preliminary Examination.md
+      - Examination Schedules/Semester 2 Weighted Assessments.md
+      - Examination Schedules/Semester 1 Weighted Assessments.md
+      - Student Handbook.md

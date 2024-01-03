@@ -1,0 +1,43 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - School.md
+      - Lifelong Learners/Lifelong Learners.md
+      - Lifelong Learners/2021 GCE N Level.md
+      - Lifelong Learners/2020 GCE O Level.md
+      - Lifelong Learners/2020 GCE N Level.md
+      - Lifelong Learners/2019 GCE O Level.md
+      - Lifelong Learners/2019 GCE N Level.md
+      - Lifelong Learners/2018 GCE O Level.md
+      - Lifelong Learners/2018 GCE N Level.md
+      - Lifelong Learners/2017 GCE O Level.md
+      - Lifelong Learners/2017 GCE N Level.md
+      - Lifelong Learners/.keep
+      - Strength of Character/2021.md
+      - Strength of Character/2020.md
+      - Strength of Character/2019.md
+      - Strength of Character/2018.md
+      - Strength of Character/2017.md
+      - Strength of Character/2016.md
+      - Strength of Character/.keep
+      - Impactful Leaders/Impactful Leaders.md
+      - Impactful Leaders/MOE Service Excellence Awards.md
+      - Impactful Leaders/Caring Teacher Award.md
+      - Impactful Leaders/National Day Awards.md
+      - Impactful Leaders/Prestigious Individual Awards.md
+      - Impactful Leaders/Outstanding Contribution Award (OCA).md
+      - Impactful Leaders/i3 Award (School).md
+      - Impactful Leaders/MOE Innergy Award.md
+      - Impactful Leaders/R2IGHT Award (School).md
+      - Impactful Leaders/.keep
+      - Purposeful Partnership.md
+      - Alumni Excellence/Alumni Excellence.md
+      - Alumni Excellence/2021.md
+      - Alumni Excellence/2020.md
+      - Alumni Excellence/2019.md
+      - Alumni Excellence/2018.md
+      - Alumni Excellence/2017.md
+      - Alumni Excellence/.keep
+      - I–Star Award.md
+      - ECHA.md
