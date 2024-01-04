@@ -2,12 +2,13 @@
 title: Joint or Early Admission Exercise
 permalink: /information/administrative-information/joint-early-admission-exercise/
 description: ""
+variant: markdown
 ---
-<h4><strong>2018 Application Date</strong></h4>
-<p>Poly EAE application timelines for admission to the AY2019 polytechnic intake are as follows:</p>
+<h4><strong>2024 Application Dates</strong></h4>
+<p>Poly EAE application timelines for admission to the AY2024 Polytechnic intake are as follows:</p>
 <ul>
-<li>ITE students: 7-June-2018 14:00hrs to 13-June-2018 23:59hrs</li>
-<li>O Level students: 21-Jun-2018 14:00hrs to 27-Jun-2018 23:59hrs</li>
+<li>ITE students: </li>
+<li>O Level students: </li>
 </ul>
 <p>O-Level students&nbsp;applying via&nbsp;Poly EAE&nbsp;will go through the following process:</p>
 <table cellpadding="0" cellspacing="0" width="80%" border="1">
@@ -18,19 +19,19 @@ description: ""
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Application Stage</td>
-<td style="text-align: center;">21 Jun (Thu) to 27 Jun (Wed)</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Selection Stage</td>
-<td style="text-align: center;">2 Jul (Mon) to 21 Aug (Tue)</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Offer &amp; Acceptance Stage</td>
-<td style="text-align: center;">27 Aug (Mon) to 30 Aug (Thu)</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Withdrawal Stage</td>
-<td style="text-align: center;">31 Aug (Fri) to 5 oct (Fri)</td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -43,19 +44,19 @@ description: ""
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Application Stage</td>
-<td style="text-align: center;">7 Jun (Thu) to 13 Jun (Wed)</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Selection Stage</td>
-<td style="text-align: center;">9 Jul (Mon) to 21 Aug (Tue)</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Offer &amp; Acceptance Stage</td>
-<td style="text-align: center;">27 Aug (Mon) to 30 Aug (Thu)</td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td height="33" style="text-align: center;">Withdrawal Stage</td>
-<td style="text-align: center;">31 Aug (Fri) to 5 oct (Fri)</td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
