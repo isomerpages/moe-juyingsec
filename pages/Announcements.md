@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+<p><strong>Class Timetable 2024</strong></p>
+<p>The 2024 Class Timetables for Semester 1  can now be found <a href="https://www.juyingsec.moe.edu.sg/information/administrative-information/timetables-n-schedules/class-timetable/">here</a>.</p>
+<hr>
+
 <p><strong>Well Wishes 2024</strong></p>
 <p>Here's to a successful and fulfilling school year ahead full of growth, learning and new opportunities.</p>
 <hr>
