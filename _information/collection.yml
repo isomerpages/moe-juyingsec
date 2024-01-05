@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - AdministrativeInformation.md
       - Principal's Message.md
       - School Overview/.keep
       - School Overview/School History.md
