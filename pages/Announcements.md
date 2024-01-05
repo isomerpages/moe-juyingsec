@@ -19,8 +19,8 @@ variant: markdown
 
 
 
-<p><strong>GCE N-level Results Release</strong></p>
-<p>2023-12-18<br>The GCE N-level results will be released at the MPH at 2:30pm. Please be seated early. Report to school in full school attire and approved, proper haircut.
+<p><strong>GCE O-level Results Release</strong></p>
+<p>2024-01-11<br>The GCE O-level results will be released at the MPH at 2:30pm. Please be seated early. Report to school in full school attire and approved, proper haircut.
 <br> Wishing all JYians all the best for their results and future endeavours.
 </p>
 <hr>
