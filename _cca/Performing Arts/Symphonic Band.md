@@ -104,25 +104,3 @@ JYSB strives to give every member the opportunity to learn something outside of 
 |:---:|
 | Mr Jasen How |
 |  |
-
-| Executive Committee |  |
-|:---:|:---:|
-| Asst Band Major | Stephen Teo Shao Hong (3E3) |
-| Drum Major | Jia Xi (3E3) |
-|  Asst Band Major | Choo Yu Han (2E2) |
-| Asst Drum Major | Meuthia Dzahirah (2E4) |
-|
-
-#### **Band Talent Development Programme**
-
-| Year | Programme | Organiser |
-|:---:|---|---|
-| 2017 | Band Student Conductor Camp | Arts Education Branch |
-| 2017 | Drum Major Camp | Arts Education Branch |
-| 2017 | Rudimental Drumming Workshop | Singapore Armed Forces |
-| 2017 | Chingay | People’s Association |
-| 2016 | Band Student Conductor Camp |  Arts Education Branch |
-| 2016 | Mobile Music Making Competition | Republic Polytechnic |
-| 2016 | Drum Major Camp | Arts Education Branch |
-| 2016 | Rudimental Drumming Workshop | Singapore Armed Forces |
-|
