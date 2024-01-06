@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### **Choir**
 
@@ -22,18 +23,12 @@ Through these key events where our choir members were nurtured under the support
 
 | Teachers-In-Charge |
 |:---:|
-| Mr Jeshrei Toh (IC)<br>Ms Lau Jia Yun<br>Mr Samuel Cho<br>Ms Goh Shu Han |
+| Mr Jeshrei Toh (IC)<br>Mr Samuel Cho<br>Ms Goh Shu Han |
 |
 
 | Instructors  |
 |:---:|
 | **Vocals:** Ms Irene Jansen<br>**Dance:** Mr Gino Babagay |
-|
-
-| Executive Committee |  |
-|:---:|:---:|
-| Chairperson | Gao Xin Ying (3E2) |
-|  Vice-Chairperson |  Ong Eelyn (3A2) |
 |
 
 <img src="/images/choir2.jpg" style="width:85%">
