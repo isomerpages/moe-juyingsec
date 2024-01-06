@@ -3,6 +3,7 @@ title: Symphonic Band
 permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### **Symphonic Band**
 
@@ -15,9 +16,9 @@ One Band, One Sound.
 To develop musical and character excellence, a love for music and a sense of camaraderie in members of the symphonic band.
 
 #### **Overview**
-The Juying Symphonic Band (JYSB) aims to develop in pour members the values of responsibility and resilience, confident appreciation for music and team spirit through performance and involvement in a thriving musical community. As such, the Symphonic Band participated in events to build up their exposure to the music scene. 
+The Juying Symphonic Band (JYSB) aims to develop in our members values of responsibility and resilience, confident appreciation for music and team spirit through performance and involvement in a thriving musical community. As such, the Symphonic Band participated in events to build up their exposure to the music scene. 
 
-As with many other school bands in Singapore, the JYSB has to cope with the limitations due to the ongoing Covid-19 pandemic. At the same time, we also want to continue to give our students the opportunity to perform at the Singapore Youth Festival (SYF) Arts Presentation. As such, the school sent in 2 teams to participate in the recently concluded SYF Arts presentation 2021. The focus of the JYSS Symphonic Band was on performing well at the Singapore Youth Festival (SYF) 2021.
+The Juying Symphonic Band also continue to give our students the opportunity to participate at the Singapore Youth Festival (SYF) Arts Presentation.  
 
 JYSB strives to give every member the opportunity to learn something outside of a classroom setting, and to give them a new skill. The members also learn to persevere in times of adversity, becomes more passionate about music playing and also learn to work in harmony as a team with the other members of JYSB, so as to create music together. 
 
