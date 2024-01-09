@@ -3,6 +3,7 @@ title: Personalised Digital Learning Programme (PDLP)
 permalink: /programmes/personalised-digital-learning-programme-pdlp/
 description: ""
 third_nav_title: PDLP
+variant: tiptap
 ---
 #### **National Digital Literacy Programme (NDLP)**
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy&nbsp;Programme&nbsp;(NDLP) for our schools to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the&nbsp;Personalised&nbsp;Digital Learning&nbsp;Programme&nbsp;(PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.

@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### **Choir**
 
@@ -12,7 +13,7 @@ third_nav_title: Performing Arts
 One Choir One Voice.
 
 #### **Overview**
-The Juying Choir performed passionately in the Singapore Youth Festival 2021 and was awarded the Certificate of Accomplishment. In the B-Dazzled Show Choir Competition, our strong teamwork and efforts were paid off with the Bronze Medal.&nbsp;  
+The Juying Choir performed passionately in the Singapore Youth Festival 2023 and was awarded the Certificate of Accomplishment. In the B-Dazzled Show Choir Competition, our strong teamwork and efforts were paid off with the Bronze Medal.&nbsp;  
 
 Amidst the COVID-19 Pandemic, the choir has been unable to sing face-to-face to adhere to the MOE guidelines. However, this has not stopped the choir from coming up with various virtual performances for SYF, National Day as well as Teachers Day!  
   
@@ -22,18 +23,7 @@ Through these key events where our choir members were nurtured under the support
 
 | Teachers-In-Charge |
 |:---:|
-| Mr Jeshrei Toh (IC)<br>Ms Lau Jia Yun<br>Mr Samuel Cho<br>Ms Goh Shu Han |
-|
-
-| Instructors  |
-|:---:|
-| **Vocals:** Ms Irene Jansen<br>**Dance:** Mr Gino Babagay |
-|
-
-| Executive Committee |  |
-|:---:|:---:|
-| Chairperson | Gao Xin Ying (3E2) |
-|  Vice-Chairperson |  Ong Eelyn (3A2) |
+| Mr Jeshrei Toh (IC)<br>Mr Samuel Cho<br>Ms Goh Shu Han |
 |
 
 <img src="/images/choir2.jpg" style="width:85%">
