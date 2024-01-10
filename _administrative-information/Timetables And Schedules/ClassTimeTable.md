@@ -10,7 +10,7 @@ third_nav_title: Timetables And Schedules
 	
 </p><p>For each class, there is a Timetable A and Timetable B. &nbsp;Click the link below to view or download softcopies of the timetables.</p><br>
 	
-	
+
  <a href="https://drive.google.com/file/d/1qFL4aaaWYjyAcdLPBAn67FyshwrM7iT-/view?usp=sharing">TimeTable A | 2024 Sem 1 Class Timetable_TT A.pdf</a>.
 
  <a href="https://drive.google.com/file/d/1BYKR2b4qr6lmq9qGfCre9_V5isaiK6P4/view?usp=sharing">TimeTable B | 2024 Sem 1 Class Timetable_TT B.pdf</a>
