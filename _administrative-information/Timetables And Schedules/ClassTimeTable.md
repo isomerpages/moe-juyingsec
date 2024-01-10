@@ -8,7 +8,7 @@ third_nav_title: Timetables And Schedules
 <p><strong>Dear JYians and Parents,</strong></p>
 <p>The&nbsp;2024&nbsp;Class Timetable for&nbsp;Semester 1&nbsp;is now available.
 	
-</p><p>For each class, there is a Timetable A and Timetable B. &nbsp;Click the link below to view or download softcopies of the timetables.
+</p><p>For each class, there is a Timetable A and Timetable B. &nbsp;Click the link below to view or download softcopies of the timetables.<br>
 	
 	
  <a href="https://drive.google.com/file/d/1qFL4aaaWYjyAcdLPBAn67FyshwrM7iT-/view?usp=sharing">TimeTable A | 2024 Sem 1 Class Timetable_TT A.pdf</a>.</p>
