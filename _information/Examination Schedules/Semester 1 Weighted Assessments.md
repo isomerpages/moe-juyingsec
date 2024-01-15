@@ -9,7 +9,7 @@ variant: markdown
 <p>The 2024 Semester 1 Weighted Assessment  (WA) schedules and topics are as follows:</p>
 <p>
 </p>
-<p><a href="https://drive.google.com/file/d/1wCtK1HrothT9dShoMJDs6uhtNQ0-CEUo/view?usp=sharing">Secondary 1 WA Schedule</a></p>
+<p><a href="https://drive.google.com/file/d/121RVNB_CkNUObW_NkT_uLeB143BEcY-G/view?usp=sharing">Secondary 1 WA Schedule</a></p>
 <p></p>
 
 <p><a href="https://drive.google.com/file/d/1e148wR7eFBClvniHu-vOekoGRYvtqO98/view?usp=sharing">Secondary 2 WA Schedule</a></p>
