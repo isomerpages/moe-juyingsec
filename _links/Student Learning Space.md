@@ -2,5 +2,6 @@
 title: Student Learning Space
 permalink: /links/student-learning-space/
 description: ""
+variant: tiptap
 ---
-<a href="https://www.learning.moe.edu.sg/sls/index.html">External Link</a>
+<p><a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">External Link</a></p>
