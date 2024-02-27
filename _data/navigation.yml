@@ -1,8 +1,8 @@
 logo: /images/school logo.svg
 links:
-  - title: Information
+  - title: About JYSS
     collection: information
-  - title: Happenings
+  - title: Key Information
     url: /happenings/news/
     sublinks:
       - title: News
@@ -13,9 +13,9 @@ links:
         url: /happenings/school-yearbook/2022
       - title: Events
         url: /happenings/events/2023
-  - title: People
+  - title: Our People
     collection: people
-  - title: Programmes
+  - title: Our Programmes
     collection: programmes
   - title: Achievements
     url: /achievements/school/
