@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCE/.keep
       - LLP – PASSION.md
       - ALP – Public Speaking.md
       - Student Leadership/Student Leadership.md
