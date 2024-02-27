@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCE/Secondary 1.md
       - CCE/Sexuality Education.md
       - CCE/LLP – PASSION.md
       - CCE/Kindness & Gratitude Movement.md
