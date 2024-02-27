@@ -84,25 +84,3 @@ variant: markdown
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1OrFh1hzFd79Af0201QuQ7TdleHamdg_X/view?usp=sharing">here</a> . The completed form is to be submitted by 10/01/2024.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens </em>P</strong><strong>rogramme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1yocs1qle0f_S_egrGfVCxCc-NrMUnAAV/view?usp=sharing">here</a> . The completed form is to be submitted by 10/01/2024.</p>
 <p>13. Parents can contact the school at <a href="mailto:juying_ss@moe.edu.sg">juying_ss@moe.edu.sg</a> or call <u>6308 9898</u> for discussion or to seek clarification about the school’s Sexuality Education Programme.</p>
-
-
-<p><strong>At Juying Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2024</u>:</strong></p>
-<p style="text-align: center;"><strong>CCE 2024 Theme: Making Choices</strong></p>
-<p style="text-align: center;"><strong>SECONDARY 1</strong></p>
-<p style="text-align: center;"><a href="https://drive.google.com/file/d/1qgMVwTS-GnsdtdzJHoRixTyFhnTZkLi9/view?usp=sharing">2024 Sex-Ed Secondary 1.pdf</a></p>
-
-
-<p style="text-align: center;"><strong>SECONDARY 2</strong></p>
-<p style="text-align: center;"><a href="https://drive.google.com/file/d/1yhDoV8jl48IjIt0ru_qch_h5eaBAOtbL/view?usp=sharing">2024 Sex-Ed Secondary 2.pdf</a></p>
-
-
-<p style="text-align: center;"><strong>SECONDARY 3</strong></p>
-<p style="text-align: center;"><a href="https://drive.google.com/file/d/1B94bih65x2vs9aKPr5dUxiIR9i0grbaD/view?usp=sharing">2024 Sex-Ed Secondary 3.pdf</a></p>
-
-<p style="text-align: center;"><strong>SECONDARY 4</strong></p>
-<p style="text-align: center;"><a href="https://drive.google.com/file/d/1wa5548a9-Qx6yxumIzZpCD04Q58muf4V/view?usp=sharing">2024 Sex-Ed Secondary 4.pdf</a></p>
-
-<p style="text-align: center;"><strong>SECONDARY 5</strong></p>
-<p style="text-align: center;"><a href="https://drive.google.com/file/d/1vDqPrwdyClhRlif9WL6kT-tw9DjIKruj/view?usp=sharing">2024 Sex-Ed Secondary 5.pdf</a></p>
-
-<p>*Note: The time period provided for the lessons may be shifted if there may be a need to do so depending on the changes in the CCE curriculum.</p>
