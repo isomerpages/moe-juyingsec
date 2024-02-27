@@ -90,8 +90,19 @@ variant: markdown
 <p style="text-align: center;"><strong>CCE 2024 Theme: Making Choices</strong></p>
 <p style="text-align: center;"><strong>SECONDARY 1</strong></p>
 <p style="text-align: center;"><a href="https://drive.google.com/file/d/1qgMVwTS-GnsdtdzJHoRixTyFhnTZkLi9/view?usp=sharing">2024 Sex-Ed Secondary 1.pdf</a></p>
-<p>*Note: The time period provided for the lessons may be shifted if there may be a need to do so depending on the changes in the CCE curriculum.</p>
+
 
 <p style="text-align: center;"><strong>SECONDARY 2</strong></p>
 <p style="text-align: center;"><a href="https://drive.google.com/file/d/1yhDoV8jl48IjIt0ru_qch_h5eaBAOtbL/view?usp=sharing">2024 Sex-Ed Secondary 2.pdf</a></p>
+
+
+<p style="text-align: center;"><strong>SECONDARY 3</strong></p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1B94bih65x2vs9aKPr5dUxiIR9i0grbaD/view?usp=sharing">2024 Sex-Ed Secondary 3.pdf</a></p>
+
+<p style="text-align: center;"><strong>SECONDARY 4</strong></p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1wa5548a9-Qx6yxumIzZpCD04Q58muf4V/view?usp=sharing">2024 Sex-Ed Secondary 4.pdf</a></p>
+
+<p style="text-align: center;"><strong>SECONDARY 5</strong></p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1vDqPrwdyClhRlif9WL6kT-tw9DjIKruj/view?usp=sharing">2024 Sex-Ed Secondary 5.pdf</a></p>
+
 <p>*Note: The time period provided for the lessons may be shifted if there may be a need to do so depending on the changes in the CCE curriculum.</p>
