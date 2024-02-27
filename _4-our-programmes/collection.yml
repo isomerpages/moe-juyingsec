@@ -2,7 +2,6 @@ collections:
   4-our-programmes:
     output: true
     order:
-      - CCE/Sexuality Education.md
       - CCE/Secondary 5.md
       - CCE/Secondary 4.md
       - CCE/Secondary 3.md
