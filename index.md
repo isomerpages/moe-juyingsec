@@ -12,10 +12,10 @@ sections:
         - title: Administration for Students
           description: ""
           url: https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-1-weighted-assessments/
-        - title: Juying Gallery
+        - title: The Juying Gallery
           description: ""
           url: https://www.juyingsec.moe.edu.sg/gallery/
-        - title: Juying Experience
+        - title: The Juying Experience
           description: ""
           url: https://sites.google.com/view/juyingtestimonials/home?authuser=0
   - infobar:
