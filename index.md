@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/hero_orange_white_centre03.png
       key_highlights:
-        - title: Vision & Mission
+        - title: Administration for Students
           description: ""
-          url: /information/school-overview/vision-n-mission/
-        - title: Values
+          url: https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-1-weighted-assessments/
+        - title: Juying Gallery
           description: ""
-          url: /information/school-overview/core-values/
-        - title: Programmes
+          url: https://www.juyingsec.moe.edu.sg/gallery/
+        - title: Juying Experience
           description: ""
-          url: /programmes/llp-passion/
+          url: https://sites.google.com/view/juyingtestimonials/home?authuser=0
   - infobar:
       title: Latest Highlights
       button: click here for more info
