@@ -1,5 +1,5 @@
 collections:
-  administrative-information:
+  2-key-information:
     output: true
     order:
       - Secondary 1 Registration/.keep

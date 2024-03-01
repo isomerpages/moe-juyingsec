@@ -1,7 +1,8 @@
 ---
-title: Kindness &amp; Gratitude Movement
+title: Kindness & Gratitude Movement
 permalink: /programmes/kindness-n-gratitude-movement/
 description: ""
+third_nav_title: CCE
 ---
 <img src="/images/kindness%20movement%201.png" style="width:85%">
 

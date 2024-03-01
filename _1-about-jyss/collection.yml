@@ -1,5 +1,5 @@
 collections:
-  information:
+  1-about-jyss:
     output: true
     order:
       - Principal's Message.md
