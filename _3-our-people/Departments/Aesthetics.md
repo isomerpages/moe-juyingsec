@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /people/departments/aesthetics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### **Vision**
 Every JYian An Artist Within
@@ -29,7 +30,7 @@ Developing Creative, Appreciative and Passionate Learners through Aesthetics
 | Mr Dayan Tan Ying Peng | HOD Aesthetics, ALP, LLP |
 | Ms Hema Latta | Art Lower Sec Coordinator |
 | Mr Jeshrei Toh | Music Coordinator |
-|
+| Mdm Linda Lim | Art Teacher
 
 #### **Activities**
 

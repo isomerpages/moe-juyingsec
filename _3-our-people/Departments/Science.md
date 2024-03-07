@@ -3,6 +3,7 @@ title: Science
 permalink: /people/departments/science/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <figure>
 <img style="width:85%" src="/images/sciencedept555.jpg">
@@ -120,8 +121,8 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Mr Soh Joon Wei | Subject Head (Science)  |
 | Mr Lee Hon Yen  | Lead Teacher (Physics) |
 | Mdm Khairiani  | Coordinator (FCE) |
-| Mr Senthil Silvarajoo  | Subject Head (CCE)  |
-| Mdm Soo Mei Hui | Teacher (Sec 2 Coordinator) |
+| Mr Senthil Silvarajoo  | HOD(CCE)  |
+| Mdm Soo Mei Hui | Teacher  |
 | Dr Tan Ying Shan | Teacher  |
 | Mr Yee Jen Siong | Teacher |
 | Ms Raudhah Mohd Rizal | Teacher |
@@ -133,10 +134,8 @@ Science department started year, celebrating the fruits of our exciting lessons 
 | Ms Ng May Ling  | Teacher  |
 | Mr Teo Seng Leong John  | Teacher  |
 | Mr Ow Wee Chiang  | Teacher |
-| Ms Kyra Joyce Yeo Jun Yi | Teacher |
-
-
+| Ms Jannah Binte Johari | (Lab Technician) |
+| Mdm Chua Bee Teng  |(Lab Technician) |
 | Mdm Zareena Beham | OSO |
-| Mrs Seow Ratnakumari | TSO (Lab Technician) |
-| Mdm Chua Bee Teng | TSO (Lab Technician) |
+| Mdm Indradevi | OSO |
 |

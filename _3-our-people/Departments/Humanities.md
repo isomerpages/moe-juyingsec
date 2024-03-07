@@ -3,6 +3,7 @@ title: Humanities
 permalink: /people/departments/humanities/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <figure>
 <img src="https://file.go.gov.sg/jyhumanities233.jpg" style="width:85%">
@@ -40,8 +41,6 @@ To achieve our goal, the programme develops our JYians’ competence in three ar
 | Mr Edwin Fu Jizheng | HOD (Humanities) |
 | Mrs Amy Yeo  | HOD (Student Management)  |
 | Mr Karamjeet Singh | HOD (NT) |
-| Ms Shynn Lim | HOD (CCE) |
-| Mr Dayan Tan | HOD (Aesthetics) |
 | Ms Elina Amiruddin | History/Geography Teacher |
 | Mr Kartik Aravind Raj | Social Studies Teacher |
 | Ms Elydia Azman | Geography Teacher |
@@ -49,8 +48,6 @@ To achieve our goal, the programme develops our JYians’ competence in three ar
 | Ms Chew Kiat Lian | Principles of Accounts Teacher |
 | Mr Adrian Nyoe | Geography/Social Studies Teacher  |
 | Mr Martin Ng | Geography/Social Studies Teacher  |
-| Ms Charlotte Ho | History/Social Studies Teacher  |
-| Ms Siti Balqis Masroni  | History/Social Studies Teacher  |
 | Ms Yee Jie Ying | Geography/Social Studies Teacher |
 | Ms Trina Tan | History/Social Studies Teacher |
 
