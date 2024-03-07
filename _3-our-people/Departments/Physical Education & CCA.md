@@ -3,6 +3,7 @@ title: Physical Education & CCA
 permalink: /people/departments/physical-education-n-cca/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <figure>
 <img style="width:100%" src="/images/staff-pe-2023jpg.jpg">  Physical Education &amp; CCA Department
