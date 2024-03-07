@@ -2,7 +2,6 @@ collections:
   1-about-jyss:
     output: true
     order:
-      - Achievements/.keep
       - Principal's Message.md
       - School Overview/.keep
       - School Overview/School History.md
@@ -11,6 +10,7 @@ collections:
       - School Overview/Strategic Thrusts.md
       - School Overview/The School Crest, Motto and Song.md
       - School Overview/H E A R T S Ethos.md
+      - Achievements/.keep
       - Administrative Information.md
       - Students' Welfare/.keep
       - Students' Welfare/Counselling Services.md
