@@ -1,7 +1,8 @@
 ---
-title: Executive &amp; Administrative Staff
+title: Executive & Administrative Staff
 permalink: /people/executive-n-administrative-staff/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -9,10 +10,8 @@ description: ""
 <th>Name</th>
 <th>Designation</th>
 </tr>
-<tr>
-<td>Mr Chong Kim</td>
-<td>Operations Manager</td>
-</tr>
+
+
 <tr>
 <td>Mr Mohter Amat Amin</td>
 <td>Operations Manager</td>
@@ -58,8 +57,35 @@ description: ""
 <td>Operations Support Officer</td>
 </tr>
 <tr>
-<td>Mdm Shareefah</td>
+<td>Mdm Azizah Binte Rashid </td>
 <td>School Library Assistant</td>
+</tr>
+	<tr><td>Mdm Chua Bee Teng </td>
+<td>Lab Technician</td>
+</tr>
+<tr><td>Mdm Jannah Binte Johari</td>
+<td>Lab Technician</td>
+</tr>
+<tr><td>Mdm Indradevi  </td>
+<td>OSO - Lab</td>
+</tr>
+<tr><td>Mdm Zareena </td>
+<td>OSO-Lab</td>
+</tr>
+<tr><td>Mdm Hui Loow Tai </td>
+<td>OSO</td>
+</tr>
+<tr><td>Mdm Lim Keng Hoi </td>
+<td>OSO</td>
+</tr>
+<tr><td>Mr Loh Chor Kui Thomas </td>
+<td>OSO</td>
+</tr>
+<tr><td>Mr Ng Poh Huat </td>
+<td>OSO</td>
+</tr>
+<tr><td>Mdm Tan Ah Mooi </td>
+<td>OSO</td>
 </tr>
 </tbody>
 </table>
