@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /people/departments/mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <figure>
 <img src="/images/mathsdept23.jpg" style="width:85%">
@@ -81,7 +82,7 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 | Mrs Wong-Chia Pei San | Subject Head (Mathematics) |
 | Ms Koh Shu Jiun | School Staff Developer |
 | Mdm Mak Wai Han | Senior Teacher (Mathematics) |
-| Mr Wang Woon Keat | Asst. Year Head (Upper Sec)  |
+| Mr Wang Woon Keat | Asst. Year Head (Lower Sec)  |
 | Mr Albert Lui  | Teacher |
 | Mrs Tee-Ong Xian Qing | Teacher |
 | Ms Khoo Woei Lin | Teacher |
@@ -93,6 +94,4 @@ The Mathematics Department aims to promote the joy of learning Mathematics and t
 | Mr Ow Wee Chiang | Teacher |
 | Mr Elisha Asilvatham  | Teacher |
 | Mrs Loo Pek Har  | Teacher |
-| Mr Chow Chao Dong  | Teacher |
-| Mr Ong Bee Hong  | Teacher |
-|
+
