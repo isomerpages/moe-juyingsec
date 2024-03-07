@@ -2,6 +2,7 @@
 title: I–Star Award
 permalink: /achievements/i-star-award/
 description: ""
+third_nav_title: Achievements
 ---
 <p>Introduced by Juying's principal Mdm Soh Beng Mui since 2019, the prestigious I-STAR Award accords recognition to well deserving students who achieve academic excellence, demonstrate and espouse the school R2IGHT values and are considered role models for all others in the school.&nbsp; It is awarded to a deserving student of each level at the end of the year.</p>
 <h4><strong>2022</strong></h4>

@@ -16,4 +16,3 @@ variant: markdown
 <li><a href="/information/administrative-information/direct-school-admission-exercise">Direct School Admission Exercise</a></li>
 <li><a href="/information/administrative-information/cyberwellness">Cyberwellness</a></li>
 </ul>
-
