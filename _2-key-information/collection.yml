@@ -2,10 +2,6 @@ collections:
   2-key-information:
     output: true
     order:
-      - Student Welfare/Financial Assistance.md
-      - Student Welfare/Counselling Services.md
-      - Student Welfare/.keep
-      - Direct School Admission.md
       - Administrative Information.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
@@ -17,8 +13,8 @@ collections:
       - School Routines & Procedures.md
       - Bookshop & Booklists.md
       - e–Learning.md
-      - Timetables And Schedules/ClassTimeTable.md
       - Timetables And Schedules/.keep
+      - Timetables And Schedules/ClassTimeTable.md
       - Timetables And Schedules/Examination Timetable.md
       - Timetables And Schedules/June Bridging Schedules.md
       - Timetables And Schedules/September Bridging Schedule.md
@@ -32,5 +28,9 @@ collections:
       - Forms/ECHA Nomination Form.md
       - School Rules.md
       - Joint or Early Admission Exercise.md
+      - Direct School Admission.md
       - Direct School Admission Exercise.md
       - Cyberwellness.md
+      - Student Welfare/.keep
+      - Student Welfare/Financial Assistance.md
+      - Student Welfare/Counselling Services.md
