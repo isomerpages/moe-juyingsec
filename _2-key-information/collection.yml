@@ -2,7 +2,6 @@ collections:
   2-key-information:
     output: true
     order:
-      - Student Welfare/Financial Assistance.md
       - Student Welfare/Counselling Services.md
       - Student Welfare/.keep
       - Direct School Admission.md
