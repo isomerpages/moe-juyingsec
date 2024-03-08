@@ -2,6 +2,8 @@ collections:
   2-key-information:
     output: true
     order:
+      - HOME BASED LEARNING & PDLP/Personalised Digital Learning Programme
+        (PDLP).md
       - HOME BASED LEARNING & PDLP/.keep
       - Administrative Information.md
       - Secondary 1 Registration/.keep
