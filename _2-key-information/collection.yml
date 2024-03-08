@@ -2,11 +2,10 @@ collections:
   2-key-information:
     output: true
     order:
-      - HOME BASED LEARNING & PDLP/PDLP Useful Links.md
-      - HOME BASED LEARNING & PDLP/PDLP Issue Reporting.md
-      - HOME BASED LEARNING & PDLP/Personalised Digital Learning Programme
-        (PDLP).md
-      - HOME BASED LEARNING & PDLP/.keep
+      - PDLP/PDLP Useful Links.md
+      - PDLP/PDLP Issue Reporting.md
+      - PDLP/Personalised Digital Learning Programme (PDLP).md
+      - PDLP/.keep
       - Administrative Information.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
