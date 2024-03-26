@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - PDLP Issue Reporting.md
+      - PDLP/Personalised Digital Learning Programme (PDLP).md
       - PDLP/PDLP Useful Links.md
       - PDLP/.keep
       - Principal's Message.md
