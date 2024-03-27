@@ -2,7 +2,7 @@
 title: Preliminary Examination
 permalink: /timetables-n-schedules/examination-timetable/preliminary-examination/
 description: ""
-third_nav_title: Examination Schedules
+third_nav_title: Timetables And Schedules
 ---
 <p><strong>Dear Students &amp; Parents,</strong></p>
 <p>The 2023 O &amp; N-level Preliminary Examinations schedules are now available.

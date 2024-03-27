@@ -2,7 +2,7 @@
 title: End of Year Examination
 permalink: /timetables-n-schedules/examination-timetable/end-of-year-examination/
 description: ""
-third_nav_title: Examination Schedules
+third_nav_title: Timetables And Schedules
 ---
 <p><strong>Dear Parents and Students</strong></p>
 <p>The 2023 End-of-Year (EOY) Examination Schedules are as follows:</p>
