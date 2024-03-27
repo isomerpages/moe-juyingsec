@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - Examination Schedules/Semester 1 Weighted Assessments.md
       - Examination Schedules/Semester 2 Weighted Assessments.md
       - Examination Schedules/Preliminary Examination.md
       - Examination Schedules/GCE O & N level Information.md
