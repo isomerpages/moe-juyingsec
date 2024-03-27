@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - Examination Schedules/GCE O & N level Information.md
       - Examination Schedules/End of Year Examination.md
       - Examination Schedules/.keep
       - Administrative Information.md
