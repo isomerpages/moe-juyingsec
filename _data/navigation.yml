@@ -6,13 +6,27 @@ links:
     url: /information/administrative-information
     sublinks:
       - title: Sec 1 Registration
-        url: /information/administrative-information
+        url: /information/administrative-information/secondary-1-registration/
       - title: School Routines and Procedure
-        url: /information/administrative-information
+        url: /information/administrative-information/school-routines-n-procedures/
       - title: Bookshop and Booklist
-        url: /information/administrative-information
+        url: /information/administrative-information/bookshop-booklists/
       - title: Timetable and Schedules
-        url: /information/administrative-information
+        url: administrative-information/timetables-and-schedules/classtime-table/
+      - title: Home-Based Learning
+        url: /programmes/home-based-learning-hbl/
+      - title: PDLP
+        url: /programmes/personalised-digital-learning-programme-pdlp/pdlp-issue-reporting/
+      - title: Full-Subject Based Banding
+        url: /programmes/full-subject-based-banding-full-sbb/
+      - title: Direct School Admission
+        url: /information/administrative-information/direct-school-admission/
+      - title: Early Admission Exercise
+        url: /information/administrative-information/joint-early-admission-exercise/
+      - title: Forms
+        url: /information/administrative-information/forms/health-declaration-form/
+      - title: Student Welfare
+        url: /information/students-welfare/financial-assistance/
   - title: Our People
     collection: 3-our-people
   - title: Our Programmes
