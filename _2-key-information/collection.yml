@@ -2,7 +2,6 @@ collections:
   2-key-information:
     output: true
     order:
-      - Home Based Learning (HBL).md
       - Administrative Information.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
@@ -13,7 +12,6 @@ collections:
       - Secondary 1 Registration/Other Enquiries.md
       - School Routines & Procedures.md
       - Bookshop & Booklists.md
-      - e–Learning.md
       - Timetables And Schedules/.keep
       - Timetables And Schedules/ClassTimeTable.md
       - Timetables And Schedules/Examination Timetable.md
@@ -23,18 +21,20 @@ collections:
       - Timetables And Schedules/CCA Schedule.md
       - Timetables And Schedules/Post–Exam Timetable.md
       - Timetables And Schedules/Orientation Week Timetable.md
+      - Home Based Learning (HBL).md
+      - PDLP/.keep
+      - PDLP/PDLP Useful Links.md
+      - PDLP/Personalised Digital Learning Programme (PDLP).md
+      - PDLP/PDLP Issue Reporting.md
+      - e–Learning.md
+      - Full Subject–Based Banding (Full SBB).md
       - Forms/.keep
       - Forms/Health Declaration Form.md
       - Forms/Travel Declaration From.md
       - Forms/ECHA Nomination Form.md
-      - Joint or Early Admission Exercise.md
-      - Direct School Admission.md
-      - Full Subject–Based Banding (Full SBB).md
-      - Cyberwellness.md
       - Student Welfare/.keep
       - Student Welfare/Financial Assistance.md
       - Student Welfare/Counselling Services.md
-      - PDLP/PDLP Useful Links.md
-      - PDLP/Personalised Digital Learning Programme (PDLP).md
-      - PDLP/PDLP Issue Reporting.md
-      - PDLP/.keep
+      - Joint or Early Admission Exercise.md
+      - Direct School Admission.md
+      - Cyberwellness.md
