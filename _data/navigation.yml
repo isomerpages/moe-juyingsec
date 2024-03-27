@@ -3,7 +3,7 @@ links:
   - title: About Jyss
     collection: 1-about-jyss
   - title: Key Information
-    url: /happenings/news/
+    url: /information/administrative-information
     sublinks:
       - title: News
         url: /happenings/news/
