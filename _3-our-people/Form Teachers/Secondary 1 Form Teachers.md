@@ -9,8 +9,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Shu Han (LDM Sec1)
-<br>Class 1-P Form Teacher</p>
+<p>Ms Goh Shu Han
+<br>Class 1-P Form Teacher
+<br>Level Discipline Master</p>
 </td>
 </tr>
 <tr>
