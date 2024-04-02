@@ -33,19 +33,6 @@ links:
     collection: 3-our-people
   - title: Our Programmes
     collection: 4-our-programmes
-  - title: CCA
-    url: /cca/performing-arts/choir
-    sublinks:
-      - title: Performing Arts
-        url: /cca/performing-arts/choir
-      - title: Uniformed Groups
-        url: /cca/uniformed-groups/national-cadet-corps-sea
-      - title: Sports & Games
-        url: /cca/sports-n-games/badminton
-      - title: Clubs & Societies
-        url: /cca/clubs-n-societies/art-n-craft-club
-      - title: Grading System
-        url: /cca/grading-system/overview-of-leaps-2-0
   - title: Links
     url: /links/useful-links/staff
     sublinks:
