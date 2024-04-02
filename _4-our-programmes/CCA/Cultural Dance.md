@@ -2,7 +2,7 @@
 title: Cultural Dance
 permalink: /cca/performing-arts/cultural-dance/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: CCA
 ---
 ### **Cultural Dance**
 

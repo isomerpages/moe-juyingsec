@@ -2,7 +2,7 @@
 title: Infocomm Technology Club
 permalink: /cca/clubs-n-societies/infocomm-technology-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: CCA
 ---
 ### **Infocomm Technology Club**
 

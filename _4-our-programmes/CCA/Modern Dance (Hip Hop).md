@@ -2,7 +2,7 @@
 title: Modern Dance (Hip Hop)
 permalink: /cca/performing-arts/modern-dance-hip-hop/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: CCA
 ---
 ### **Modern Dance (Hip Hop)**
 

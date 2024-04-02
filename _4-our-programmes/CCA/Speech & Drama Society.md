@@ -1,8 +1,8 @@
 ---
-title: Speech &amp; Drama Society
+title: Speech & Drama Society
 permalink: /cca/clubs-n-societies/speech-n-drama-society/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: CCA
 ---
 ### **Speech &amp; Drama Society**
 

@@ -2,7 +2,7 @@
 title: Badminton
 permalink: /cca/sports-n-games/badminton/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: CCA
 ---
 ### **Badminton**
 

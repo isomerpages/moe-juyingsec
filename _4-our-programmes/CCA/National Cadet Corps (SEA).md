@@ -2,7 +2,7 @@
 title: National Cadet Corps (SEA)
 permalink: /cca/uniformed-groups/national-cadet-corps-sea/
 description: ""
-third_nav_title: Uniformed Groups
+third_nav_title: CCA
 variant: markdown
 ---
 ### **National Cadet Corps (SEA)**

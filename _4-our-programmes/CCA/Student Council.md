@@ -2,7 +2,7 @@
 title: Student Council
 permalink: /cca/clubs-n-societies/student-council/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: CCA
 ---
 ### **Student Council**
 

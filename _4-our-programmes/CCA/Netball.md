@@ -2,7 +2,7 @@
 title: Netball
 permalink: /cca/sports-n-games/netball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: CCA
 variant: markdown
 ---
 ### **Netball**

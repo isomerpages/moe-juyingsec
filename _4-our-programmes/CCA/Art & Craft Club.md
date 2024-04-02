@@ -1,8 +1,8 @@
 ---
-title: Art &amp; Craft Club
+title: Art & Craft Club
 permalink: /cca/clubs-n-societies/art-n-craft-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: CCA
 ---
 ### **Art &amp; Craft Club**
 

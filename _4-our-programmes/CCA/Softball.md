@@ -2,7 +2,7 @@
 title: Softball
 permalink: /cca/sports-n-games/softball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: CCA
 ---
 ### **Softball**
 

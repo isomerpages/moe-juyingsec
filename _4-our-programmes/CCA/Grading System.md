@@ -2,6 +2,7 @@
 title: Grading System
 permalink: /CCA/grading-system/
 description: ""
+third_nav_title: CCA
 ---
 ### **Overview of LEAPS 2.0**
 
