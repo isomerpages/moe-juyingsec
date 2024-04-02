@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCA/Cultural Dance.md
       - CCA/Symphonic Band.md
       - CCA/Choir.md
       - CCA/.keep
