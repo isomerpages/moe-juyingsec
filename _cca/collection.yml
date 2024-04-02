@@ -1,9 +1,0 @@
-collections:
-  cca:
-    output: true
-    order:
-      - Performing Arts/.keep
-      - Uniformed Groups/.keep
-      - Sports & Games/Football.md
-      - Sports & Games/.keep
-      - Clubs & Societies/.keep
