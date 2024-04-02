@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Choir.md
       - Performing Arts/Symphonic Band.md
       - Performing Arts/Cultural Dance.md
       - Performing Arts/Modern Dance (Hip Hop).md
