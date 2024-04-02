@@ -33,25 +33,6 @@ links:
     collection: 3-our-people
   - title: Our Programmes
     collection: 4-our-programmes
-  - title: Achievements
-    url: /achievements/school/
-    sublinks:
-      - title: School
-        url: /achievements/school/
-      - title: Lifelong Learners
-        url: /achievements/lifelong-learners/
-      - title: Strength of Character
-        url: /achievements/strength-of-character/2021
-      - title: Impactful Leaders
-        url: /achievements/impactful-leaders/
-      - title: Purposeful Partnership
-        url: /achievements/purposeful-partnership/
-      - title: Alumni Excellence
-        url: /achievements/alumni-excellence/
-      - title: I-Star Award
-        url: /achievements/istar-award/
-      - title: ECHA
-        url: /achievements/echa/
   - title: CCA
     url: /cca/performing-arts/choir
     sublinks:
