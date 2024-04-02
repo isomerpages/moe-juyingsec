@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCA/Symphonic Band.md
       - CCA/Choir.md
       - CCA/.keep
       - Cyberwellness.md
