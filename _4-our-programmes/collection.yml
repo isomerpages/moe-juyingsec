@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCA/Art & Craft Club.md
       - CCA/Softball.md
       - CCA/Football.md
       - CCA/Netball.md
