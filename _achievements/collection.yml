@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - CCA/.keep
       - Lifelong Learners/Lifelong Learners.md
       - Lifelong Learners/2021 GCE N Level.md
       - Lifelong Learners/2020 GCE O Level.md
