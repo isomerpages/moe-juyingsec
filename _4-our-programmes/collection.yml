@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCA/National Cadet Corps (SEA).md
       - CCA/Modern Dance (Hip Hop).md
       - CCA/Cultural Dance.md
       - CCA/Symphonic Band.md
