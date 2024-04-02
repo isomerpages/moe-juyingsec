@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Modern Dance (Hip Hop).md
       - Performing Arts/.keep
       - Uniformed Groups/National Cadet Corps (SEA).md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
