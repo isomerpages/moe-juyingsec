@@ -69,9 +69,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elydia</p>
-<p>Class 4E4 Form Teacher</p>
-<p>Level Discipline Master (Upper Sec)</p>
+<p>Ms Elydia
+<br>Class 4E4 Form Teacher
+<br>Level Discipline Master (Upper Sec)</p>
 </td>
 </tr>
 <tr>
@@ -100,8 +100,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kartik</p>
-<p>Class 5A1 Form Teacher</p>
+<p>Mr Kartik
+<br>Class 5A1 Form Teacher</p>
 </td>
 </tr>
 </tbody>
