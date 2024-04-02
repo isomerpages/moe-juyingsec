@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCA/Infocomm Technology Club.md
       - CCA/Art & Craft Club.md
       - CCA/Softball.md
       - CCA/Football.md
