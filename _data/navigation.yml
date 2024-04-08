@@ -12,7 +12,7 @@ links:
       - title: Bookshop and Booklist
         url: /information/administrative-information/bookshop-booklists/
       - title: Timetable and Schedules
-        url: administrative-information/timetables-and-schedules/classtime-table/
+        url: /timetables-n-schedules/examination-timetable/preliminary-examination/
       - title: Home-Based Learning
         url: /programmes/home-based-learning-hbl/
       - title: PDLP
@@ -27,8 +27,6 @@ links:
         url: /information/administrative-information/forms/health-declaration-form/
       - title: Student Welfare
         url: /information/students-welfare/financial-assistance/
-      - title: Examination Schedules
-        url: /timetables-n-schedules/examination-timetable/preliminary-examination/
   - title: Our People
     collection: 3-our-people
   - title: Our Programmes
