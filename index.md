@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/JYSS_Hero.png
+      background: /images/JYSS_HERO.png
       key_highlights:
         - title: Administration for Students
           description: ""
