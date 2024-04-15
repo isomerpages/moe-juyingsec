@@ -3,7 +3,7 @@ title: ClassTimeTable
 permalink: /administrative-information/timetables-and-schedules/classtime-table/
 variant: markdown
 description: ""
-third_nav_title: Timetables And Schedules
+third_nav_title: TimeTables & Examinations
 ---
 <p><strong>Dear JYians and Parents,</strong></p>
 <p>The&nbsp;2024&nbsp;Class Timetable for&nbsp;Semester 1&nbsp;is now available.

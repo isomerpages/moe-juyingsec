@@ -2,7 +2,7 @@
 title: GCE O & N level Information
 permalink: /timetables-n-schedules/examination-timetable/gce-o-n-level-information/
 description: ""
-third_nav_title: Timetables And Schedules
+third_nav_title: TimeTables & Examinations
 ---
 <p>Dear JYSS Parents and Students,</p>
 <p>Please click on the following links to access the general information and examination timetables for the upcoming&nbsp;<strong>Singapore-Cambridge General Certificate of Education Examination.</strong></p>
