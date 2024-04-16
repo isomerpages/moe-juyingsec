@@ -22,8 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Lin</p>
-<p>Class 1-P Form Teacher</p>
+<p>Ms Lin Lin
+<br>Class 1-P Form Teacher</p>
 </td>
 </tr>
 <tr>
