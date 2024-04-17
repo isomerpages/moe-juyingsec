@@ -3,104 +3,539 @@ title: Symphonic Band
 permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-### **Symphonic Band**
-
-<img src="/images/band%201.jpg" style="width:85%">
-
-#### **Vision**
-One Band, One Sound.
-
-#### **Mission**
-To develop musical and character excellence, a love for music and a sense of camaraderie in members of the symphonic band.
-
-#### **Overview**
-The Juying Symphonic Band (JYSB) aims to develop in our members values of responsibility and resilience, confident appreciation for music and team spirit through performance and involvement in a thriving musical community. As such, the Symphonic Band participated in events to build up their exposure to the music scene. 
-
-The Juying Symphonic Band also continue to give our students the opportunity to participate at the Singapore Youth Festival (SYF) Arts Presentation.  
-
-JYSB strives to give every member the opportunity to learn something outside of a classroom setting, and to give them a new skill. The members also learn to persevere in times of adversity, becomes more passionate about music playing and also learn to work in harmony as a team with the other members of JYSB, so as to create music together. 
-
-#### **Activities**
-
-| Period | Activity / Performance |
-|:---:|---|
-| Jan | Juying Open House |
-| Jan | Juying Secondary School Performing Arts Showcase  |
-| Feb | Gek Poh Ville Community Club Chinese New Year Gala Dinner  |
-| Mar | Band Music Outreach Programme  |
-| Mar | Singapore Youth Festival Arts Presentation |
-| Mar | Exchange Program |
-| Mar | NIE Band Mentorship Experience  |
-| Apr | SYF Military Band Arts Presentation Show |
-| June | Annual Band Camp |
-| July | Singapore International Band Festival Competition   |
-| Aug | Symphony by the Gardens Performance @ Singapore Botanic Gardens |
-| Aug | Teachers’ &amp; EAS Day Performance |
-| Aug | Juying Secondary School National Day Parade  |
-| Aug | National Day Concert Performance at Pioneer |
-|
-
-#### **Club Activities**
-
-| | |
-|---|---|
-| <img src="/images/band%202.jpg" style="width:65%"> | eCCA  Band Practice |
-| <img src="/images/band%203.jpg" style="width:65%"> | Section rehearsal during CCA |
-| <img src="/images/band%204.jpg" style="width:65%"> | Section rehearsal during CCA |
-| <img src="/images/band%205.jpg" style="width:65%"> |  Section rehearsal during CCA |
-| <img src="/images/band%206.jpg" style="width:65%"> |  Section rehearsal during CCA |
-| <img src="/images/band%207.jpg" style="width:65%"><br><img src="/images/band%208.jpg" style="width:65%"> | Chinese New Year performance at Gek Poh Ville Community Club |
-| <img src="/images/band%209.jpg" style="width:65%"><br><img src="/images/band%2010.jpg" style="width:65%"> | Band Music Outreach Programme at Bukit Batok Community Club |
-|
-
-##### **2021**
-
-|  |  |
-|---|---|
-| <img src="/images/band%2011.jpeg" style="width:65%"> | SYF Arts Presentation 2021 |
-| 
-
-##### **2019**
-
-|  |  |
-|---|---|
-| <img src="/images/band%2012.jpg" style="width:65%"> | Bonding during band camp 2019 |
-| <img src="/images/band%2013.jpg" style="width:65%"> | Performance at Singapore Botanical Gardens 2019 |
-| <img src="/images/band%2014.jpg" style="width:65%"> | Performance at Singapore Botanical Gardens 2019 |
-| <img src="/images/band%2015.jpg" style="width:65%"> | Preparation for Performance at Singapore Botanical Gardens |
-| <img src="/images/band%2016.jpg" style="width:65%"> | Singapore Youth Festival (SYF) 2019 Main Band Members |
-| <img src="/images/band%2017.jpg" style="width:65%"> | Singapore Youth Festival (SYF) 2019: Support from Alumni |
-|
-
-#### **Achievements**
-
-| Year | Competition | Achievement |
-|:---:|---|---|
-| 2023  | Singapore Youth Festival Arts Presentation  | Certificate of Accomplishment |
-| 2021  | Singapore Youth Festival Arts Presentation  | Certificate of Accomplishment |
-| 2019 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-| 2016 | 5th Singapore International Band Festival (SIBF) Competition | Certificate of Participation |
-| 2015 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-|
-
-#### **CCA Schedule**
-
-| Practice Venue | Practice Day |
-|:---:|:---:|
-| Band Room / AVA Room | Friday 2.30pm - 5.30pm |
-|
-
-#### **Organisation Chart**
-
-| Teachers-In-Charge |
-|:---:|
-| Mr Albert Lui (IC)<br>Mdm Rozana Salleh<br>Ms Chen Yonghua<br>Mdm Raudhah Rizal |
-|  |
-
-| Resident Conductor  |
-|:---:|
-| Mr Jasen How |
-|  |
+<h3><strong>Symphonic Band</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/band%201.jpg">
+</div>
+<h4><strong>Vision</strong></h4>
+<p>One Band, One Sound.</p>
+<h4><strong>Mission</strong></h4>
+<p>To develop musical and character excellence, a love for music and a sense
+of camaraderie in members of the symphonic band.</p>
+<h4><strong>Overview</strong></h4>
+<p>The Juying Symphonic Band (JYSB) aims to develop in our members values
+of responsibility and resilience, confident appreciation for music and
+team spirit through performance and involvement in a thriving musical community.
+As such, the Symphonic Band participated in events to build up their exposure
+to the music scene.</p>
+<p>The Juying Symphonic Band also continue to give our students the opportunity
+to participate at the Singapore Youth Festival (SYF) Arts Presentation.</p>
+<p>JYSB strives to give every member the opportunity to learn something outside
+of a classroom setting, and to give them a new skill. The members also
+learn to persevere in times of adversity, becomes more passionate about
+music playing and also learn to work in harmony as a team with the other
+members of JYSB, so as to create music together.</p>
+<h4><strong>Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity / Performance</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Juying Open House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Juying Secondary School Performing Arts Showcase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gek Poh Ville Community Club Chinese New Year Gala Dinner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Music Outreach Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exchange Program</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIE Band Mentorship Experience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Military Band Arts Presentation Show</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Band Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore International Band Festival Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Symphony by the Gardens Performance @ Singapore Botanic Gardens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ &amp; EAS Day Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Juying Secondary School National Day Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Concert Performance at Pioneer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Club Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%202.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>eCCA Band Practice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%203.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section rehearsal during CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%204.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section rehearsal during CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%205.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section rehearsal during CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%206.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section rehearsal during CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%207.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%208.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year performance at Gek Poh Ville Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%209.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2010.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Music Outreach Programme at Bukit Batok Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>2021</strong></h5>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2011.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>2019</strong></h5>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2012.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bonding during band camp 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2013.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance at Singapore Botanical Gardens 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2014.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance at Singapore Botanical Gardens 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2015.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preparation for Performance at Singapore Botanical Gardens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2016.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2019 Main Band Members</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/band%2017.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2019: Support from Alumni</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th Singapore International Band Festival (SIBF) Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Schedule</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Practice Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Practice Day</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band Room / AVA Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 2.30pm - 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Organisation Chart</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Albert Lui (IC)
+<br>Mdm Rozana Salleh
+<br>Ms Stephanie Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Resident Conductor</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jasen How</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
