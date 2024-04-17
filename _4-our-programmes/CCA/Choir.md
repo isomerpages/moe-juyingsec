@@ -33,14 +33,14 @@ performing challenges ahead to showcase their talents to the world.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Samuel Cho (IC)
-<br>Ms Goh Shu Han</p>
-<p>Ms Chen Yong Hua</p>
+<br>Ms Goh Shu Han
+<br>Ms Chen Yong Hua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Conductor: Ms Lee Fooi Pin</p>
-<p>Pianist: Mr Betrand Lee</p>
+<p>Conductor: Ms Lee Fooi Pin
+<br>Pianist: Mr Betrand Lee</p>
 </td>
 </tr>
 </tbody>
