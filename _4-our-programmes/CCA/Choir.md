@@ -5,4 +5,470 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h3><strong>Choir</strong></h3><div class="isomer-image-wrapper"><img style="width:85%" height="auto" width="100%" src="/images/choir1.jpg"></div><h4><strong>Vision</strong></h4><p>One Choir One Voice.</p><h4><strong>Overview</strong></h4><p>The Juying Choir performed passionately in the Singapore Youth Festival 2023 and was awarded the Certificate of Commendation. &nbsp;</p><p>Amidst the COVID-19 Pandemic, the choir has been unable to sing face-to-face to adhere to the MOE guidelines. However, this has not stopped the choir from coming up with various virtual performances for SYF, National Day as well as Teachers Day!</p><p>Through these key events where our choir members were nurtured under the supportive care of their teachers, trainers and peers - they developed their vocal and dance skills to greater heights to take on more exciting performing challenges ahead to showcase their talents to the world.</p><h4><strong>Organisation Chart</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-In-Charge</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Samuel Cho (IC)<br>Ms Goh Shu Han</p><p>Ms Chen Yong Hua</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>CCA Schedule</strong></h4><table><tbody><tr><td rowspan="1" colspan="1"><p>Music Room</p></td><td rowspan="1" colspan="1"><p>Friday 2.30 pm - 5.30 pm</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Club Activities</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>SYF 2023</p></td></tr><tr><td rowspan="1" colspan="1"><p>National Day Performance 2023 at Nanyang CC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Choir Exchange Education with Pioneer and Corporation</p></td></tr><tr><td rowspan="1" colspan="1"><p>Juying Open House 2023</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Achievements</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Competition</p></th><th rowspan="1" colspan="1"><p>Achievement</p></th></tr><tr><td rowspan="1" colspan="1"><p>2023</p></td><td rowspan="1" colspan="1"><p>Singapore Youth Festival Arts Presentation</p></td><td rowspan="1" colspan="1"><p>Certificate of Commendation</p></td></tr><tr><td rowspan="1" colspan="1"><p>2021</p></td><td rowspan="1" colspan="1"><p>Singapore Youth Festival Arts Presentation</p></td><td rowspan="1" colspan="1"><p>Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019</p></td><td rowspan="1" colspan="1"><p>Singapore Youth Festival Arts Presentation</p></td><td rowspan="1" colspan="1"><p>Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019</p></td><td rowspan="1" colspan="1"><p>B-Dazzled Singapore Show Choir Festival</p></td><td rowspan="1" colspan="1"><p>Emerald Award</p></td></tr><tr><td rowspan="1" colspan="1"><p>2018</p></td><td rowspan="1" colspan="1"><p>B-Dazzled Singapore Show Choir Festival</p></td><td rowspan="1" colspan="1"><p>Diamond Award</p></td></tr><tr><td rowspan="1" colspan="1"><p>2017</p></td><td rowspan="1" colspan="1"><p>Singapore Youth Festival Arts Presentation</p></td><td rowspan="1" colspan="1"><p>Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2016</p></td><td rowspan="1" colspan="1"><p>B-Dazzled Singapore Show Choir Festival</p></td><td rowspan="1" colspan="1"><p>Platinum Award (Team)Best Costumes Award (Team)<br>Emerald Award (Solo)</p></td></tr><tr><td rowspan="1" colspan="1"><p>2015</p></td><td rowspan="1" colspan="1"><p>Singapore Youth Festival Arts Presentation</p></td><td rowspan="1" colspan="1"><p>Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2014</p></td><td rowspan="1" colspan="1"><p>B-Dazzled Singapore Show Choir Festival</p></td><td rowspan="1" colspan="1"><p>Platinum Award</p></td></tr><tr><td rowspan="1" colspan="1"><p>2013</p></td><td rowspan="1" colspan="1"><p>Associated Board of the Royal Schools of Music (ABRSM) Exam</p></td><td rowspan="1" colspan="1"><p>Pass with Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p>2012</p></td><td rowspan="1" colspan="1"><p>Associated Board of the Royal Schools of Music (ABRSM) Exam</p></td><td rowspan="1" colspan="1"><p>Pass with Merit</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Activities</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Period</p></th><th rowspan="1" colspan="1"><p>Activity / Performance</p></th></tr><tr><td rowspan="1" colspan="1"><p>Jan</p></td><td rowspan="1" colspan="1"><p>Exchange Programme</p></td></tr><tr><td rowspan="1" colspan="1"><p>Feb</p></td><td rowspan="1" colspan="1"><p>Chinese New Year School Concert Performance</p></td></tr><tr><td rowspan="1" colspan="1"><p>Feb</p></td><td rowspan="1" colspan="1"><p>Gek Poh Ville Community Club Chinese New Year Gala Dinner</p></td></tr><tr><td rowspan="1" colspan="1"><p>July</p></td><td rowspan="1" colspan="1"><p>Exchange Programme</p></td></tr><tr><td rowspan="1" colspan="1"><p>July</p></td><td rowspan="1" colspan="1"><p>B-Dazzled Soloist Grand Finals Concert</p></td></tr><tr><td rowspan="1" colspan="1"><p>July</p></td><td rowspan="1" colspan="1"><p>B-Dazzled Singapore Show Choir Festival</p></td></tr><tr><td rowspan="1" colspan="1"><p>Aug</p></td><td rowspan="1" colspan="1"><p>Nanyang National Day Observance Ceremony</p></td></tr><tr><td rowspan="1" colspan="1"><p>Aug</p></td><td rowspan="1" colspan="1"><p>Arts and Health Festival at Jurong Health Campus</p></td></tr><tr><td rowspan="1" colspan="1"><p>Aug</p></td><td rowspan="1" colspan="1"><p>Lion King Musical</p></td></tr><tr><td rowspan="1" colspan="1"><p>Aug</p></td><td rowspan="1" colspan="1"><p>Teacher’s Day Musical Concert</p></td></tr><tr><td rowspan="1" colspan="1"><p>Nov</p></td><td rowspan="1" colspan="1"><p>Annual Choir Camp</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4><strong>Events</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/choir13.jpg"></div></td><td rowspan="1" colspan="1"><p>Performing parts of the B-Dazzled Show Choir Competition piece in school</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/choir14.jpg"></div></td><td rowspan="1" colspan="1"><p>Received the Bronze trophy from school principal, Mdm Soh</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/choir15.jpg"></div></td><td rowspan="1" colspan="1"><p>Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/choir16.jpg"></div></td><td rowspan="1" colspan="1"><p>Performed for Singapore Youth Festival (SYF)</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/choir17.jpg"></div></td><td rowspan="1" colspan="1"><p>Aftermath of SYF performance</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/choir18.jpg"></div></td><td rowspan="1" colspan="1"><p>All dolled up and rehearsing for one last time with the instructor before the B-Dazzled Show Choir Competition</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<h3><strong>Choir</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/choir1.jpg">
+</div>
+<h4><strong>Vision</strong></h4>
+<p>One Choir One Voice.</p>
+<h4><strong>Overview</strong></h4>
+<p>The Juying Choir performed passionately in the Singapore Youth Festival
+2023 and was awarded the Certificate of Commendation. &nbsp;</p>
+<p>Amidst the COVID-19 Pandemic, the choir has been unable to sing face-to-face
+to adhere to the MOE guidelines. However, this has not stopped the choir
+from coming up with various virtual performances for SYF, National Day
+as well as Teachers Day!</p>
+<p>Through these key events where our choir members were nurtured under the
+supportive care of their teachers, trainers and peers - they developed
+their vocal and dance skills to greater heights to take on more exciting
+performing challenges ahead to showcase their talents to the world.</p>
+<h4><strong>Organisation Chart</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samuel Cho (IC)
+<br>Ms Goh Shu Han</p>
+<p>Ms Chen Yong Hua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Conductor: Ms Lee Fooi Pin</p>
+<p>Pianist: Mr Betrand Lee</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Schedule</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 2.30 pm - 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Club Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Performance 2023 at Nanyang CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir Exchange Education with Pioneer and Corporation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Juying Open House 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Singapore Show Choir Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emerald Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Singapore Show Choir Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diamond Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Singapore Show Choir Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award (Team)Best Costumes Award (Team)
+<br>Emerald Award (Solo)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Singapore Show Choir Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associated Board of the Royal Schools of Music (ABRSM) Exam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pass with Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associated Board of the Royal Schools of Music (ABRSM) Exam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pass with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity / Performance</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exchange Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year School Concert Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gek Poh Ville Community Club Chinese New Year Gala Dinner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exchange Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Soloist Grand Finals Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Singapore Show Choir Festival</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arts and Health Festival at Jurong Health Campus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lion King Musical</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher’s Day Musical Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Choir Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Events</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/choir13.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing parts of the B-Dazzled Show Choir Competition piece in school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/choir14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Received the Bronze trophy from school principal, Mdm Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/choir15.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/choir16.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performed for Singapore Youth Festival (SYF)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/choir17.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aftermath of SYF performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/choir18.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>All dolled up and rehearsing for one last time with the instructor before
+the B-Dazzled Show Choir Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
