@@ -76,6 +76,11 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Choir Exchange with Boon Lay Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SYF 2023</p>
 </td>
 </tr>
