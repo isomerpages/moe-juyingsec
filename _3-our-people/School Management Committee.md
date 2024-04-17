@@ -77,15 +77,15 @@ variant: tiptap
 <p>Mr Choong Guo Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Lower Sec)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Foo Limin</p>
+<p>Ms Tricia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (S2) (internal)</p>
+<p>Assistant Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
