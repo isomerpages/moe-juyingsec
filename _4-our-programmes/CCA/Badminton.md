@@ -3,116 +3,651 @@ title: Badminton
 permalink: /cca/sports-n-games/badminton/
 description: ""
 third_nav_title: CCA
+variant: tiptap
 ---
-### **Badminton**
-
-<figure>
-<img src="/images/badminton1.jpg" style="width:85%">
-<figcaption>  Juying School Leaders with Badminton CCA Leaders
- </figcaption>
-</figure>
-
-<img src="/images/badminton2.jpg" style="width:85%">
-		 
-#### **Vision**
-Motivated sportsperson&nbsp;who strive for excellence.
-
-#### **Mission**
-To nurture sportsmanship in our players through trainings&nbsp;and competitions.
-
-#### **Overview**
-The badminton teams have displayed grit and graciousness while competing with other schools. Juying Badminton Team also hosted friendly matches for the School’s Sports Carnival. The learning and experience the team has gained from participating and running tournaments has helped to mould their leadership skills and enhance their teamwork.  
-  
-In response to the COV1D-19 situation,&nbsp; all National competitions were ceased temporarily in 2020 and 2021.
-
-#### **CCA Schedule**
-
-| Training Venue | Team | Training Day One | Training Day Two |
-|:---:|:---:|:---:|:---:|
-| Multi-Purpose Hall | Boys | Wednesday 4 pm - 6 pm | Friday 3 pm - 6 pm |
-| Multi-Purpose Hall | Girls | Tuesday 4 pm - 6 pm | Thursday 4 pm - 6 pm |
-|
-
-#### **Organisation Chart**
-
-| Teachers-In-Charge |
-|:---:|
-| Mdm Diyana (OIC) <br>Mr Chuah Soon Ann<br>Ms Rachel Tham<br>Mdm (Dr) Tan Ying Shan |
-|
-
-| Coaches |
-|:---:|
-| Mr Wong Poh Yung Jeron |
-|
-
-| Executive Committee (Boys Team) |  |
-|:---:|:---:|
-| Captain | Brendon Chew Feng Yi (3E2) |
-| Vice-Captain | Justin Kwok Xuiyi (3E1) |
-|
-
-| Executive Committee (Girls Team) |  |
-|:---:|:---:|
-| Captain | May Thu Kin (3E3) |
-| Vice-Captain | Isabel Goh Shi Yun (3E2) |
-|
-
-#### **Achievements**
-In response to the COV1D-19 situation,&nbsp; all National Competitions were ceased temporarily in 2020.
-
-| Year | Competition | Achievement |
-|:---:|---|---|
-| 2019 | National School Games West Zone B Boys Badminton Championships | First Round |
-| 2019 | National School Games West Zone C Boys Badminton Championships | Second Preliminary Round |
-| 2019 | National School Games West Zone B Girls Badminton Championships | Second Preliminary Round |
-| 2019 | National School Games West Zone C Girls Badminton Championships | Second Preliminary Round |
-| 2018 | National School Games West Zone B Girls Badminton Championships | Second Preliminary Round |
-| 2018 | National School Games West Zone C Boys Badminton Championships | Second Preliminary Round |
-| 2018 | Wee Kim Wee Badminton Challenge Trophy | Girls Team (Quarter Finals) |
-| 2017 | National School Games West Zone C Girls Badminton Championships | Second Preliminary Round |
-| 2017 | Decathlon Tampines West CSC Badminton Tournament | Boys U14 Singles - Champion Girls U16 Singles - Runner up<br>Boys U14 Singles - <br>2nd Runner up |
-| 2016 | Cashew Badminton Competition (Women's Single) | 1st Place |
-| 2016 | Singapore National Games | 2nd Runner up |
-| 2015 | National School Games West Zone B Boys Badminton Championships  | Second Preliminary Round |
-|
-
-#### **Activities**
-
-| Period | Activity |
-|:---:|---|
-| Jan - Feb | National School Games West Zone Badminton Championships |
-| June | Wee Kim Wee Badminton Challenge Trophy |
-| Nov | Annual Badminton Camp |
-|
-
-#### **Activities**
-
-|  |  |
-|---|---|
-| <img src="/images/badminton3.jpg" style="width:85%"> | Battle of the Captains |
-| <img src="/images/badminton4.jpg" style="width:85%"> | Brandon and Min in action |
-| <img src="/images/badminton5.jpg" style="width:85%"> | Coach Opu coaching the Sec 1s  |
-| <img src="/images/badminton6.jpg" style="width:85%"> | Fight on! Think of possible ways to overcome your opponent |
-| <img src="/images/badminton7.jpg" style="width:85%"> | Jack and Ivan in action |
-| <img src="/images/badminton8.jpg" style="width:85%"> | Jian Yang in action |
-| <img src="/images/badminton9.jpg" style="width:85%"> | The boys taking a short break from training |
-| <img src="/images/badminton10.jpg" style="width:85%"> |  Sec 4s leading the physical activities |
-| <img src="/images/badminton11.jpg" style="width:85%"> | Fayth and Angel in action in the West Zone competition |
-| <img src="/images/badminton12.jpg" style="width:85%"> | Jiaxuan and Coach Jeron during the West Zone competition |
-| <img src="/images/badminton13.jpg" style="width:85%"> | Girls Team 1 in the Wee Kim Wee Badminton Challenge Trophy |
-| <img src="/images/badminton14.jpg" style="width:85%"> | Girls Team 2 in the Wee Kim Wee Badminton Challenge Trophy |
-| <img src="/images/badminton15.jpg" style="width:85%"> | Farewell for Senior Girls |
-|
-
-#### **Activities**
-
-|  |  |
-|---|---|
-| <img src="/images/badminton16.jpg" style="width:85%"> | C Div Girls Team for West Zone Competition |
-| <img src="/images/badminton17.jpg" style="width:85%"> | Ice breaking team bonding |
-| <img src="/images/badminton18.jpg" style="width:85%"> | Ice breaking team bonding |
-| <img src="/images/badminton19.jpg" style="width:85%"> | Foundation training |
-| <img src="/images/badminton20.jpg" style="width:85%"> | We can do it! |
-| <img src="/images/badminton21.jpg" style="width:85%"> | Student Leaders leading training |
-| <img src="/images/badminton22.jpg" style="width:85%"> | Encouraging seniors |
-|
+<h3><strong>Badminton</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton1.jpg">
+</div>
+<p>Juying School Leaders with Badminton CCA Leaders</p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton2.jpg">
+</div>
+<h4><strong>Vision</strong></h4>
+<p>Motivated sportsperson&nbsp;who strive for excellence.</p>
+<h4><strong>Mission</strong></h4>
+<p>To nurture sportsmanship in our players through trainings&nbsp;and competitions.</p>
+<h4><strong>Overview</strong></h4>
+<p>The badminton teams have displayed grit and graciousness while competing
+with other schools. Juying Badminton Team also hosted friendly matches
+for the School’s Sports Carnival. The learning and experience the team
+has gained from participating and running tournaments has helped to mould
+their leadership skills and enhance their teamwork.</p>
+<p>In response to the COV1D-19 situation,&nbsp; all National competitions
+were ceased temporarily in 2020 and 2021.</p>
+<h4><strong>CCA Schedule</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Day One</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Day Two</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday 4 pm - 6 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 3 pm - 6 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday 4 pm - 6 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday 4 pm - 6 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Organisation Chart</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Diyana (OIC)
+<br>Mr Ow Wee Chiang
+<br>Mr Ho Sing Charn
+<br>Mdm (Dr) Tan Ying Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Coaches</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Poh Yung Jeron</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Executive Committee (Boys Team)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brendon Chew Feng Yi (3E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Justin Kwok Xuiyi (3E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Executive Committee (Girls Team)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May Thu Kin (3E3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isabel Goh Shi Yun (3E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<p>In response to the COV1D-19 situation,&nbsp; all National Competitions
+were ceased temporarily in 2020.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Team (Quarter Finals)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Decathlon Tampines West CSC Badminton Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys U14 Singles - Champion Girls U16 Singles - Runner up
+<br>Boys U14 Singles -
+<br>2nd Runner up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew Badminton Competition (Women's Single)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore National Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan - Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone Badminton Championships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Badminton Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Battle of the Captains</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brandon and Min in action</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coach Opu coaching the Sec 1s</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fight on! Think of possible ways to overcome your opponent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jack and Ivan in action</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jian Yang in action</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The boys taking a short break from training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4s leading the physical activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fayth and Angel in action in the West Zone competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jiaxuan and Coach Jeron during the West Zone competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton13.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Team 1 in the Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Team 2 in the Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton15.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Farewell for Senior Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton16.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Div Girls Team for West Zone Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton17.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ice breaking team bonding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton18.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ice breaking team bonding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton19.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foundation training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>We can do it!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton21.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leaders leading training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/badminton22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Encouraging seniors</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
