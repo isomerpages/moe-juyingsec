@@ -133,9 +133,57 @@ seen in our everyday heroes!</p>
 <p>Ms Nur Atika Binte Mawan</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LIEW ZE RUI (LU ZERUI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMANDA LEONG ZEE YEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR SHAREENA IZZLYN BINTE MOHD SAIFUDDIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAYLEE MARLENE ROACH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oracy Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOW HE YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHONG HWEE HUEN RAINIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Production Manager</p>
 </td>
 </tr>
 </tbody>

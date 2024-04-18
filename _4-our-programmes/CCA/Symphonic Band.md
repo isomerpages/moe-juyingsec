@@ -538,4 +538,59 @@ members of JYSB, so as to create music together.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAPHAEL LIM ZI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUO JIA WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drum Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHENG XIUYIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOH YOU EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Quartermaster</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YONG XUE LUCAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Welfare</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CONSTANCE CHEW KER EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Librarian</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>

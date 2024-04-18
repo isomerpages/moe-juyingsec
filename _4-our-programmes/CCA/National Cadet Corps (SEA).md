@@ -58,12 +58,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LTA (NCC) Yee Jen Siong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LTA (NCC) Muhmmmad Syazwan B Mohd Shaha</p>
+<p>CPT (NCC) Ong Xian Ching</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +69,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LTA (NCC) Elina Bte Amiruddin</p>
+<p>LTA (NCC) Yee Jen Siong</p>
 </td>
 </tr>
 <tr>
@@ -85,12 +80,92 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CPT (NCC) Ong Xian Ching</p>
+<p>LTA (NCC) Muhmmmad Syazwan B Mohd Shaha</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD FAKHRUSY SYAKIRIN BIN MOHAMAD YUSOF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>USM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MUHAMMAD SYAZWIE AKID BIN MOHAMAD EZRIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAELYNN NEO JIAXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platoon IC (Junior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NEELASHENE SURESH RAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platoon IC (Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ERIQ DANIEL BIN MOHAMAD ZULKARNAIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platoon IC (Leaders)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZWE MIN SAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seamanship IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHANG YE SIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Training IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUSFIRAH BINTE MUHAMMED BASEER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drills Squad IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ERNEST HENG YOU KHENG (WANG YAOQING)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOEL TAY EE YANG (ZHENG YUYANG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration IC</p>
 </td>
 </tr>
 </tbody>
@@ -112,14 +187,6 @@ flag bearers at every National Day Observance Ceremony.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 2.30pm - 5pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -286,13 +353,13 @@ the day)</p>
 <p>Knowledge Challenge (2022)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Cadets</strong>
+<p><strong>Junior Cadets</strong> 
 <br>1st - ETHAN TAN YI BIN (1S1)
 <br>
 <br><strong>Senior Cadets</strong> 
 <br>Top 10 (10th) - NURDYRAH ELLIAYU BINTE ROZANI (2A2)
 <br>
-<br><strong>Cadet Leaders</strong>
+<br><strong>Cadet Leaders</strong> 
 <br>Top 10 (10th) - LUCAS CHEW YAN YU (3E2)</p>
 </td>
 </tr>
@@ -316,11 +383,11 @@ the day)</p>
 <p>Fitness Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Cadets Male</strong>
+<p><strong>Junior Cadets Male</strong> 
 <br>1st - ABHILASH NEERAJ (1N)
 <br>Commendation (5th) - ZWE MIN SAN (1A)
 <br>
-<br><strong>Junior Cadets Female</strong>
+<br><strong>Junior Cadets Female</strong> 
 <br>1st - TEH JIA YUAN DILYS (ZHENG JIAYUAN) (1N)
 <br>2nd - JAELYNN NEO JIAXUAN (1O)
 <br>3rd - NEELASHENE SURESH RAO (1P)
@@ -329,17 +396,17 @@ the day)</p>
 <br><strong>Senior Cadets Male</strong> 
 <br>Top 10 (9th) - ALDRICH LAU (2E3)
 <br>
-<br><strong>Senior Cadets Female</strong>
+<br><strong>Senior Cadets Female</strong> 
 <br>1st - NURDYRAH ELLIAYU BINTE ROZANI (2A2)
 <br>2nd - DESIREE LOH WAN QI (2A1)
 <br>3rd - LIEW CHUN EN (2A2)
 <br>Top 10 (6th) - ALYA NURSYAZANI BINTE MOHAMMAD SANI (2A2)
 <br>Top 10 (10th) - SIEW XUAN YING (2A2)
 <br>
-<br><strong>Cadet Leaders Male</strong>
+<br><strong>Cadet Leaders Male</strong> 
 <br>3rd - ZULHERDYAN EZAL BIN MOHAMAD HERDUAN (3T1)
 <br>
-<br><strong>Cadet Leaders Female</strong>
+<br><strong>Cadet Leaders Female</strong> 
 <br>1st - HANNIS FARHAN ASHIBLIE (3T1)
 <br>2nd - EYU JIE NI (3E2) Commendation (4th) - CHERYL LEONG JIAQI (3T1)
 <br>Top 10 (10th) - NUR NATALISA ARYANNI BINTE ABDUL RUSMANNI (3T1)</p>
@@ -364,19 +431,19 @@ the day)</p>
 <p>Sea Competition 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(1) Bands and Hitches Challenge<br>Junior Cadets District Female<br>5th placing</strong>
+<p><strong>(1) Bands and Hitches Challenge<br>Junior Cadets District Female<br>5th placing</strong> 
 <br>Alya Nursyazani Bte Mohammad Sani (1A2)
 <br>
 <br>
-<br><strong>(2) Fitness Challenge<br>Senior Cadets District Male<br>Champion</strong>
+<br><strong>(2) Fitness Challenge<br>Senior Cadets District Male<br>Champion</strong> 
 <br>Zulherdyan Ezal Bin Mohamad Herduan (2T1)
 <br>
 <br>
-<br><strong>Senior Cadets District Male<br>4th placing</strong>
+<br><strong>Senior Cadets District Male<br>4th placing</strong> 
 <br>Jaeren Huang Yu Quan (2A1)
 <br>
 <br>
-<br><strong>Senior Cadets District Female<br>Joint 1st Runner Up</strong>
+<br><strong>Senior Cadets District Female<br>Joint 1st Runner Up</strong> 
 <br>Eyu Jie Ni (2E2)</p>
 </td>
 </tr>
@@ -389,12 +456,12 @@ the day)</p>
 <br>The Singapore Discovery Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
+<p><strong>Gold Award</strong> 
 <br>Jeidy Lim Yong Bin 2E3
 <br>Ho Qian Lee Eleanor 2E4
 <br>Lim Ze Ming 2A3
 <br>
-<br><strong>Silver Award</strong>
+<br><strong>Silver Award</strong> 
 <br>Poh Cheng Hung 1E2
 <br>Lucas Chew Yan Yu 1E2
 <br>Andy Tan Xin Ming 1E4</p>
@@ -419,11 +486,11 @@ the day)</p>
 <p>Annual Sea Competition (Kayaking)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singles Girls</strong>
+<p><strong>Singles Girls</strong> 
 <br>Junior Cadet - 4th : Ho Qian Yi Eleanor 1E4Senior Cadet - 4th : Beh Penhui
 2A1Cadet Leaders - 3rd : Leong Sui Mun 3E2
 <br>
-<br><strong>Double Girls</strong>
+<br><strong>Double Girls</strong> 
 <br>Junior Cadet - 4th : Bong Shi Jia 1E2,
 <br>Naima Aqiesha Binte Rosdi 1E4
 <br>Senior Cadet - 5th : Chng Jing Ni 2E2,
@@ -497,12 +564,12 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 <p>Annual Sea Competition (Kayaking)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singles</strong>
+<p><strong>Singles</strong> 
 <br>Girls (Cadets Leaders) : 3rd
 <br>Girls (Junior Cadets) : 4th
 <br>Girls (Senior Cadets) : 4th
 <br>
-<br><strong>Doubles</strong>
+<br><strong>Doubles</strong> 
 <br>Girls (Junior Cadets) : 4th
 <br>Girls (Senior Cadets) : 5th
 <br>Girls (Cadets Leaders) : 6th</p>

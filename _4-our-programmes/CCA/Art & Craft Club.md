@@ -27,11 +27,6 @@ variant: tiptap
 <br>Ms Hema Lata</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table>
@@ -43,86 +38,60 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Abdul Kadir
-<br>Chairperson: Chua Jing Lin Zoleen 3A3
-<br>Vice Captain: Ang Jahan Keon Isidro 3A3
-<br>Secretary: Nurul Syafiqah Bte Hamzah 3A1
-<br>Welfare: Nur Umairah Bte Ahmad Mulazem 3E1
-<br>Publicity: Lim Hui Hui Emily 3A3
-<br>Logistics: Muhd Syahmi Bin Yazid 3A3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sarah Abdul Kadir</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Executive Committee</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>SANJANA DAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Jing Lin Zoleen (3A3)</p>
+<p>President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
+<p>RANJANI PRAKASH ADWITA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Jahan Keon Isidro (3A3)</p>
+<p>Vice-President</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>NURALEESYA QAISARA BINTE ABDUL HALIL</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Nurul Syafiqah Bte Hamzah (3A1)</p>
+<p>NURFAHIRA AYUNI BINTE ABDULLAH&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welfare</p>
+<p>LIM XI YA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Umairah Bte Ahmad Mulazem (3E1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Hui Hui Emily (3A3)</p>
+<p>Publicity Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistics</p>
+<p>LU XINEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhd Syahmi Bin Yazid (3A3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Logistics Manager</p>
 </td>
 </tr>
 </tbody>
@@ -454,7 +423,7 @@ their abilities.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>International Peace Poster Competition 2021</strong>
+<p><strong>International Peace Poster Competition 2021</strong> 
 <br>2nd place: Arthoven Kum Jin An
 <br>6th place: Liau Yi Wei
 <br>7th place: Nur Syahfina Binte Rohaizad
@@ -462,7 +431,7 @@ their abilities.</p>
 <br>9th place: Lim Shu Yun
 <br>10th Place: Anton Kwoh Zu Ming
 <br>
-<br><strong>featured image (left)</strong>
+<br><strong>featured image (left)</strong> 
 <br>2nd place: Arthoven Kum Jin An</p>
 </td>
 </tr>

@@ -37,14 +37,6 @@ technologies through a supportive and positive learning experience.</p>
 <p>Friday 2:30pm - 4:30pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
@@ -140,9 +132,89 @@ of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 <br>Mr Elisha</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>RINKO LEE XUE NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRISTAN TASHI TAN PIN XIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOBY KER WEN CHUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THENUJA THEWMINA DE SILVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>QUEK ROU YI ZOEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN ANG DING YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>POH KANG MING, HERMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROIX JOYSON TEO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DARRELL CARSTEN LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN KAI ZIT, KAIZER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
 </td>
 </tr>
 </tbody>

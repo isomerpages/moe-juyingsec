@@ -71,6 +71,59 @@ School.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EVELYN BOON XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANNABELLE TONG RUI EN (CHEN RUI'EN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PUROBI CHAKROBORTY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIOK YING QI, ALICIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Outreach</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DEWI NASHYRAH BINTE MUHAMMAD ISA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Partnership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THAQIF MIRZA BIN MOHAMMAD NAZRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Partnership</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Schedule</strong></h4>
 <table>
 <tbody>
@@ -108,7 +161,7 @@ These events are the annual Students’ Conversation and the Teachers &amp;
 EAS’s Day. The Student Councillors will plan and execute these projects
 from start to finish, working with other student leaders in the school
 and encourage inter and intra-cohort collaboration.</p>
-<p><strong>1.Students’ Conversation</strong>
+<p><strong>1.Students’ Conversation</strong> 
 <br>Students’ Conversation is JYSC’s signature event that provides a platform
 to amplify our JYians’ voices. The Student Councillors hold Focused Group
 Discussions with student representatives from various cohorts and CCAs
@@ -116,7 +169,7 @@ to hear the concerns of students on the ground. They will address these
 concerns by brainstorming possible solutions and presenting it to the school
 management. The Students’ Conversation is the event in which JYSC’s role
 as the voice of the student body can best be seen.</p>
-<p><strong>2.Teachers’ &amp; EAS’s Day</strong>
+<p><strong>2.Teachers’ &amp; EAS’s Day</strong> 
 <br>The Juying Student Council drives a part of School’s Gratitude Movement
 through the planning and execution of our school’s yearly Teachers &amp;
 EAS’s Day Celebration. The Student Councillors spearhead the planning process

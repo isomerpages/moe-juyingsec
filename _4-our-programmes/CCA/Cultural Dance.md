@@ -68,48 +68,52 @@ talents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teng Ru Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Quek Jiang Da</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Executive Committee</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>SIA JIA LIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Shi Yun Shermaine (3E3)</p>
+<p>President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
+<p>FLORENCE CHONG WEN YU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alicia Chua Sze Hann (3E3)</p>
+<p>Vice-President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JANA KEE ZHI EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AMIRAH HUDA BINTE ABDULL RAHMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH ZI SHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager</p>
 </td>
 </tr>
 </tbody>

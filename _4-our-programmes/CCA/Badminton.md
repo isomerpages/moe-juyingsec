@@ -128,6 +128,145 @@ were ceased temporarily in 2020 and 2021.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders (Girls)</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AINAA ZAWANAH BINTE ZULKIFLEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHANANYA SAXENA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICOLE ANG KAI EN (HONG KAI'EN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELAINE TEOH YO MUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistic Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIA KIA HEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOELLE CHEW MEI XIN (ZHOU MEIXIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publicity Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAZKIA MAISARA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Manager (US)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR CHLOE IMANI BINTE MOHAMAD NAZIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Manager (LS)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders (Boys)</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG JUN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GABRIEL LOW YU KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZAIRE TAN JUN YU (CHEN JUNYU)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THIRUMURUGAN KARTHIKEYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KANG ZI YI JAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REY NEW HONG KAI (LIANG HONGKAI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publicity Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TING WEI KIAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Manager (US)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA WEI YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Manager (LS)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Achievements</strong></h4>
 <p>In response to the COV1D-19 situation,&nbsp; all National Competitions
 were ceased temporarily in 2020.</p>
