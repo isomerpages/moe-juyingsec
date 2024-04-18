@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Student Council</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lMhpBpAOsBw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-4JGr_qE5YU?si=fblopo5UarNGJfP6"></iframe>
 </div>
 <h4><strong>Vision</strong></h4>
 <p>Unyielding and Illustrious Student Leaders who Lead with Conviction.</p>
