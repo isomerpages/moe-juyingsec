@@ -43,14 +43,6 @@ with!</p>
 <p>Friday 2:30 pm - 5:30 pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
@@ -63,16 +55,12 @@ with!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ms Serena Xu Jia'en (OIC)
-<br>Ms Lin Lin
-<br>
-</p>
+<p>Ms Serena Xu Jia'en (OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Lin</p>
 </td>
 </tr>
 </tbody>
@@ -89,9 +77,57 @@ with!</p>
 <p>Ms Wee Bee Tin Gena</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NUR WANI BTE ROHAIZAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADELYN TAN JIA XIN (CHEN JIAXIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JERNISE TEE JIA XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR WARDINA BINTE NENWARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYAURAH UMAIRAH BINTE HISRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Manager (Sec 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOW EN TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cohort Manager (Sec 2)</p>
 </td>
 </tr>
 </tbody>
