@@ -32,14 +32,6 @@ variant: tiptap
 <p>Friday 2:30 pm - 5:30 pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
@@ -76,49 +68,54 @@ variant: tiptap
 <p>Mr Kuah Hiong Yong</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Executive Committee</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p>GHUI KAYDEN ELIJAH</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Wan Hoy Kit (3E1)</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>NG YEN MING</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Chua Wee Le, Ace (3T1)</p>
+<p>KEITH LEE YOU LIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MUHD QABIL SHARI BIN MOHD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM WENG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Vision</strong></h4>
 <p>Juying Basketball Club aims to develop our basketballers to be Healthy
 Bodied and Moral Minded sportsmen who strive for excellence on and off
