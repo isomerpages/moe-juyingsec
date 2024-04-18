@@ -85,11 +85,11 @@ to do our very best to deliver excellence both on and off stage</p>
 <p>2021
 <br>
 <br>1. Singapore Youth Festival Arts Presentation 2021
-<br><a href="https://youtu.be/LZQIJVi4bIY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/LZQIJVi4bIY</a>
+<br><a href="https://youtu.be/LZQIJVi4bIY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/LZQIJVi4bIY</a> 
 <br>
 <br>
 <br>2. Online Chinese New Year Celebration
-<br><a href="https://youtu.be/D_KezUCNxzU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/D_KezUCNxzU</a>
+<br><a href="https://youtu.be/D_KezUCNxzU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/D_KezUCNxzU</a> 
 <br>
 <br>3. Online Hari Raya Aidilfitri Celebration
 <br>
@@ -97,10 +97,10 @@ to do our very best to deliver excellence both on and off stage</p>
 <br>4. National Day Parade 2021 Video Showcase
 <br>
 <br>5. School Online National Day Performance
-<br><a href="https://youtu.be/GmBY2dyuSvI" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/GmBY2dyuSvI</a>
+<br><a href="https://youtu.be/GmBY2dyuSvI" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/GmBY2dyuSvI</a> 
 <br>
 <br>6. Online Teachers’ Day Performance
-<br><a href="https://youtu.be/x1qTi9Rl724" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/x1qTi9Rl724</a>
+<br><a href="https://youtu.be/x1qTi9Rl724" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/x1qTi9Rl724</a> 
 <br>
 <br>7. Sec 2 Online Dance Collaboration With Pioneer Primary School
 <br>
@@ -305,51 +305,83 @@ were ceased.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Executive Committee</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Captain</p>
+<p>VICTORIA TIANNA APLAON JOSEPH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Pei Xuan Sharnice (3T1)</p>
+<p>President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p>FAIZA NAYLA HASNAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maisarah Putri Yousri Dahlan (3E2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shwe Yadanar Win (3E3)
-<br>Nadra Asheeqa Binte Meslee (3E2)
-<br>Sng Yong Sheng (3T1)
-<br>Mohamad Fidryan El’figo Bin Mohamad Fuad (3A1)</p>
+<p>Vice-President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>DHIA DELISHA BINTE ABDULLAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AUJI ARIANA BINTE ABDILLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WOO YUTONG EVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYARIFAH ILLY ASYURAH BINTE SYED MUHAMMAD HAFIZ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publicity Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>INTAN SUMAIRAH BINTE MOHAMED SUFIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURUL DANISHA BINTE MOHAMED DHAHFIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATARA HASYA BINTE MOHAMED MUSTAFA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Training Manager</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
