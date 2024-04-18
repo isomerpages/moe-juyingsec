@@ -136,6 +136,3 @@ The objective is to score more runs than the other team.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p>sd</p>
