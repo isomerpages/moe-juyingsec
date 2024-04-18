@@ -54,14 +54,6 @@ The objective is to score more runs than the other team.</p>
 <p>Fridays, 2:30 pm - 4:30 pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
@@ -74,13 +66,12 @@ The objective is to score more runs than the other team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Weiqiang</p>
-<p>Mr Goh Kai Jie</p>
+<p>Mr Soh Weiqiang (IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Goh Kai Jie</p>
 </td>
 </tr>
 </tbody>
@@ -97,11 +88,54 @@ The objective is to score more runs than the other team.</p>
 <p>Mr Gerann Ngiam</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>IZZ FAZEEL BIN ZAREEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAO XIAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WOO REAGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRAYDEN CHEN HONGLIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publicity Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DERRICK BEH CHENG ZUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
+<p>sd</p>
