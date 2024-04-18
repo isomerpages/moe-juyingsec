@@ -58,6 +58,107 @@ to learn, lead and serve.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Student Leaders</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALIYAH DINIE NASUHA BINTE RAHMAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>USM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD DARWISY AKMAL BIN MUHAMMAD SHAHLI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURUL AMIRA NATASYA BINTE SADALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MADELEINE LAU JIA XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMED RYAN BIN MOHAMED FAIZAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROTA IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ADRIYANA CHONG BINTE KHAIRUL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROTA IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY XUAN HUANG, KAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROTA IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURUL ELLYSHA ATRISHA BINTE JOHARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fire Safety Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD DELFI HAKIMI BIN MUHAMMAD FAUZI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Response Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ADRIANA BINTE YAHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>USAR Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALYA AMIRAH BINTE MUHAMMAD BUKHORI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marine Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALIF IRSYAD BIN MOHD FARID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Quartermaster</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Schedule</strong></h4>
 <table>
 <tbody>
@@ -87,7 +188,7 @@ to learn, lead and serve.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2022</strong></h4>
+<h4><strong>Achievements</strong><br><strong>2022</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -103,7 +204,7 @@ to learn, lead and serve.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NCDCC Unit Overall Proficiency Award (UOPA)</strong>
+<p><strong>NCDCC Unit Overall Proficiency Award (UOPA)</strong> 
 <br>Mdm Soh receiving the award</p>
 </td>
 </tr>
@@ -144,7 +245,7 @@ to learn, lead and serve.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong>
+<p><strong>National Day Observance Ceremony</strong> 
 <br>NCDCC Unit</p>
 </td>
 </tr>
@@ -153,7 +254,7 @@ to learn, lead and serve.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong>
+<p><strong>National Day Observance Ceremony</strong> 
 <br>NCDCC in formation</p>
 </td>
 </tr>
@@ -162,7 +263,7 @@ to learn, lead and serve.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong>
+<p><strong>National Day Observance Ceremony</strong> 
 <br>NCDCC in formation</p>
 </td>
 </tr>
@@ -171,7 +272,7 @@ to learn, lead and serve.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong>
+<p><strong>National Day Observance Ceremony</strong> 
 <br>NCDCC in formation</p>
 </td>
 </tr>
