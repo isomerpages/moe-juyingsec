@@ -98,6 +98,51 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anna Chain Htoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Iesya Ariana&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tahtani Bahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Catherine Natalie&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Yong Jie Aayden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Section Leader</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table>
 <tbody>
