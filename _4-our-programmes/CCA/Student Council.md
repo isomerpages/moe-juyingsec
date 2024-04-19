@@ -34,7 +34,7 @@ School Pride in our peers and advocating for Good Discipline within the
 School.</p>
 <h4><strong>Organization Chart</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/student%20council%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6TH_EXECUTIVE_COMMITTEE.png">
 </div>
 <h4><strong>Student Council Teacher Advisors (SCTAs)</strong></h4>
 <table>
