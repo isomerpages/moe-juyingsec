@@ -31,20 +31,20 @@ and restoration.</p>
 JYians based on our school R3IGHT Values.</p>
 <ul>
 <li>
-<p><strong>Responsibility for Self</strong>
+<p><strong>Responsibility for Self</strong> 
 <br>Maintain good attendance and practise punctuality.</p>
 </li>
 <li>
-<p><strong>Respect for Others</strong>
+<p><strong>Respect for Others</strong> 
 <br>Respect all JYian staff and students.</p>
 </li>
 <li>
-<p><strong>Graciousness &amp; Exemplary Conduct</strong>
+<p><strong>Graciousness &amp; Exemplary Conduct</strong> 
 <br>Display exceptional behaviour in and out of school and uphold the good
 image of JYians.</p>
 </li>
 <li>
-<p><strong>Anchored by Integrity</strong>
+<p><strong>Anchored by Integrity</strong> 
 <br>Do the right thing even when no one is watching.</p>
 </li>
 </ul>
@@ -107,7 +107,7 @@ for offences to bring about true learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Shu Han</p>
+<p>Ms Goh Shu Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Discipline</p>
