@@ -10,7 +10,7 @@ variant: tiptap
 <p>Dear P6 students,
 <br>Juying Secondary School (JYSS)&nbsp;invites you to apply for&nbsp;Direct
 School Admission (DSA)&nbsp;to&nbsp;Secondary One (2025)&nbsp;at JYSS!</p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong> 
 <br>Apply now to JYSS via DSA!</p>
 <p></p>
 <table style="minWidth: 100px">
@@ -41,7 +41,7 @@ School Admission (DSA)&nbsp;to&nbsp;Secondary One (2025)&nbsp;at JYSS!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
+<p><strong>Sports &amp; Games</strong> 
 <br>Softball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
