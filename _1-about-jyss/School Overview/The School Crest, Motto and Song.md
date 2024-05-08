@@ -89,6 +89,6 @@ working harmony.</p>
 <br>Heroes of virtue and strength,
 <br>We meet and we uphold the
 <br>Motto of our school,
-<br><strong>Together We Will Succeed.</strong>
+<br><strong>Together We Will Succeed.</strong> 
 <br><strong>Together We Will Succeed.</strong>
 </p>
