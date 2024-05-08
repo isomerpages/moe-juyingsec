@@ -10,9 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Together We Will Succeed" src="/images/juyingcrest.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -92,6 +90,5 @@ working harmony.</p>
 <br>We meet and we uphold the
 <br>Motto of our school,
 <br><strong>Together We Will Succeed.</strong>
-</p>
-<p><strong>Together We Will Succeed.</strong>
+<br><strong>Together We Will Succeed.</strong>
 </p>
