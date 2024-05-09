@@ -6,11 +6,10 @@ variant: tiptap
 ---
 <h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2025)</h4>
 <p><strong>JOIN US via DSA</strong>
-</p>
-<p>Dear P6 students,
+<br>Dear P6 students,
 <br>Juying Secondary School (JYSS)&nbsp;invites you to apply for&nbsp;Direct
 School Admission (DSA)&nbsp;to&nbsp;Secondary One (2025)&nbsp;at JYSS!</p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong> 
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong>
 <br>Apply now to JYSS via DSA!</p>
 <p></p>
 <table style="minWidth: 100px">
@@ -41,7 +40,7 @@ School Admission (DSA)&nbsp;to&nbsp;Secondary One (2025)&nbsp;at JYSS!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong> 
+<p><strong>Sports &amp; Games</strong>
 <br>Softball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,10 +63,7 @@ School.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted Applicants:
-<br>
-<br>
-</p>
+<p>Shortlisted Applicants:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Will be invited for an interview in July 2024.</p>
@@ -78,6 +74,48 @@ School.</p>
 <li>
 <p>Showcase level of proficiency in executing 4 tasks relating to throwing,
 catching, batting and agility during the trial.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership &amp; Uniformed Groups</strong>
+<br>Leadership (Mixed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Council</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate exemplary conduct, keen interest and passion in advocacy,
+as well as leadership qualities in leading and serving the student body
+and the community.</p>
+</li>
+<li>
+<p>Have assumed leadership roles such as CCA Leaders, Class Committee Members,
+Student Councillors or Prefects in Primary School.</p>
+</li>
+</ul>
+<p><strong><em>* Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted Applicants:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Will be invited for an interview in July 2024.</p>
+</li>
+<li>
+<p>Share their achievements and experiences on leadership and/or community
+projects.</p>
+</li>
+<li>
+<p>Present a speech of between 1 to 2 minutes on a moral value of their choice
+and its importance to a leader.</p>
 </li>
 </ul>
 </td>
@@ -97,21 +135,10 @@ catching, batting and agility during the trial.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;APPLICATION PROCEDURE:</strong>
+<p><strong>APPLICATION PROCEDURE:</strong>
+<br><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.<strong>&nbsp;</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;Useful MOE weblinks</strong>
+<p><strong>Useful MOE weblinks</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -148,8 +175,8 @@ catching, batting and agility during the trial.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Mainstream Students)
-<br>*go live on 7 May, 11am</p>
+<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+<p>*go live on 7 May, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
@@ -158,8 +185,8 @@ catching, batting and agility during the trial.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Non-Mainstream Students)
-<br>*go live on 7 May, 11am</p>
+<p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
+<p>*go live on 7 May, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
@@ -202,13 +229,8 @@ performance not exceeding 10 mins</p>
 </li>
 <li>
 <p>For queries, you may contact Mdm Lian Chuen Pei, HOD PE CCA or Ms Christina
-Wong, Admin Manager or at&nbsp;6308 9898 or via school email at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a>
+Wong, Admin Manager at&nbsp;6308 9898 or via school email at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
-<p></p>
 <p></p>
