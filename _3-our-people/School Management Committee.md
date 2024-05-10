@@ -9,7 +9,11 @@ variant: tiptap
 </div>
 <p>School Management Committee</p>
 <h4><strong>School Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -46,7 +50,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Committee Members</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tricia</p>
+<p>Ms Trina Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Sec)</p>
