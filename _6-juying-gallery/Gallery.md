@@ -34,9 +34,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -47,17 +46,11 @@ variant: tiptap
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/juyingfb.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/Juying.Secondary/" rel="noopener noreferrer nofollow" target="_blank">Juying Facebook</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
