@@ -151,9 +151,9 @@ depth and complexity over the length of curriculum and transferability
 where students are able to put their learning into actions for internationalisation
 of values and skills.&nbsp;</p>
 <p>The learning intents for the 4/5 levels are as follows:</p>
-<p>Secondary One –&nbsp;<em>Self-Mastery</em>
+<p>Secondary One –&nbsp;<em>Self-Mastery</em> 
 <br>Secondary Two –&nbsp;<em>Relationship Mastery</em>&nbsp;&nbsp;
-<br>Secondary Three –&nbsp;<em>Leadership Skills</em>
+<br>Secondary Three –&nbsp;<em>Leadership Skills</em> 
 <br>Secondary Four and Five –&nbsp;<em>Pursuing Excellence</em>
 </p>
 <p>The learning intent of Self-Mastery is chosen for the Secondary One as
@@ -188,13 +188,13 @@ to deliberate the school R2IGHT values and serve as platforms for students’
 experience in the school’s Applied Learning Programme (ALP) and Learning
 for Life Programme (LLP).</p>
 <h4><strong>Financial Assistance Scheme</strong></h4>
-<p><strong>Support for Students who need Financial Assistance</strong>
+<p><strong>Support for Students who need Financial Assistance</strong> 
 <br>The goal of the FAS Committee is to identify students with special financial
 circumstances that may confine their holistic development and growth in
 JYSS. Throughout the year, the FAS Committee works together with the staff
 to identify and nominate students to receive suitable scholarships and
 bursaries generously given by various organisations.</p>
-<p><strong>Reading Books Presentation</strong>
+<p><strong>Reading Books Presentation</strong> 
 <br>Selected students also received a set of English reading books to assist
 them in their learning of the English Language. Together with teachers
 from the English Language department, suitable reading books were selected
@@ -203,7 +203,7 @@ all students received the motivational book, ‘The Joys and Pains of Growing
 Up… 17 Principles Every Youth Must Know!’ by Mr Peter Lau, a successful
 ex-JYian who was the world’s youngest Neuro-Semantics® Trainer in 2007
 and motivational speaker.</p>
-<p><strong>CDAC and Mendaki Tuition Programme</strong>
+<p><strong>CDAC and Mendaki Tuition Programme</strong> 
 <br>In alignment with the school’s focus on academic excellence, the school
 sought the help of teacher-volunteers from the CDAC and Mendaki tuition
 programme for our JYians in their learning of the core subjects. A total
@@ -243,7 +243,7 @@ academic performance.</p>
 </div>
 <p>Participants of a C.O.P.E Workshop with Speaker Mr Hong Chee Joo</p>
 <h4><strong>Positive School Climate (PSC) Awards</strong></h4>
-<p><strong>Objective</strong>
+<p><strong>Objective</strong> 
 <br>To give recognition to students for exhibiting the R2IGHT values.</p>
 <p>The Juying Secondary Positive School Climate (PSC) awards are a set of
 awards that give recognition to our students for exhibiting the school
