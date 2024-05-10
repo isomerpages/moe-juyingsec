@@ -2,90 +2,190 @@
 title: Executive & Administrative Staff
 permalink: /people/executive-n-administrative-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th>Name</th>
-<th>Designation</th>
-</tr>
-
-
-<tr>
-<td>Mr Mohter Amat Amin</td>
-<td>Operations Manager</td>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
 </tr>
 <tr>
-<td>Ms Christina Wong</td>
-<td>Administration Manager</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohter Amat Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
 </tr>
 <tr>
-<td>Ms Jenny Yeo</td>
-<td>Management Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Dr Thomas Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
 </tr>
 <tr>
-<td>Ms Nuraini Bte Ghani</td>
-<td>Corporate Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
 </tr>
 <tr>
-<td>Ms Veron Lee Wai Leng&nbsp;</td>
-<td>Adjunct Administrative Executive</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Roslee</td>
-<td>Workshop Instructor</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nuraini Bte Ghani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Ko Kok Kheong</td>
-<td>Workshop Instructor</td>
+<td rowspan="1" colspan="1">
+<p>Ms Veron Lee Wai Leng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Administrative Executive</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Lim Keng Hoi</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roslee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Instructor</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Hui Loow Tai&nbsp;</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ko Kok Kheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop Instructor</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Tan Ah Mooi</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Keng Hoi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Ng Poh Huat</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hui Loow Tai&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Azizah Binte Rashid </td>
-<td>School Library Assistant</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ah Mooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
-	<tr><td>Mdm Chua Bee Teng </td>
-<td>Lab Technician</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Poh Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
-<tr><td>Mdm Jannah Binte Johari</td>
-<td>Lab Technician</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azizah Binte Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Library Assistant</p>
+</td>
 </tr>
-<tr><td>Mdm Indradevi  </td>
-<td>OSO - Lab</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Bee Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lab Technician</p>
+</td>
 </tr>
-<tr><td>Mdm Zareena </td>
-<td>OSO-Lab</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jannah Binte Johari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lab Technician</p>
+</td>
 </tr>
-<tr><td>Mdm Hui Loow Tai </td>
-<td>OSO</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Indradevi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO - Lab</p>
+</td>
 </tr>
-<tr><td>Mdm Lim Keng Hoi </td>
-<td>OSO</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zareena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO-Lab</p>
+</td>
 </tr>
-<tr><td>Mr Loh Chor Kui Thomas </td>
-<td>OSO</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hui Loow Tai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
 </tr>
-<tr><td>Mr Ng Poh Huat </td>
-<td>OSO</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Keng Hoi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
 </tr>
-<tr><td>Mdm Tan Ah Mooi </td>
-<td>OSO</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Poh Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ah Mooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
