@@ -5,7 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Student Welfare
 ---
-<p> <strong>Useful Numbers</strong>
+<h3>Overview</h3>
+<p>School Counsellors provide support to students with personal or academic
+challenges while Student Welfare Officers help students with attendance
+issues to continue their schooling. Learn about the support in schools.
+<br>Counselling involves providing a safe environment for students to share
+their challenges and work through their social, emotional, behavioural
+and mental health issues with a trained counsellor.
+<br>A School Counsellor supports students by helping them learn and use strategies
+to manage and cope with their emotions or situation and enables them to
+make choices for positive change and development.</p>
+<p>Student Welfare Support refers to the work with students with attendance
+issues. These students may not attend school regularly due to their family
+or home situations, lack of motivation for learning or poor peer influence.
+<br>A Student Welfare Officer assesses the needs of students with poor school
+attendance and works with community partners, parents and teachers to address
+their needs and help them return to school.</p>
+<p></p>
+<p><strong>Useful Numbers</strong>
 </p>
 <p>Here are some useful telephone numbers for student(s)/parent(s):</p>
 <p></p>
@@ -58,7 +75,7 @@ activities while maintaining good grades</p>
 <p>
 <br>
 </p>
-<p> <strong>Anything that is important to You, is important to Us!</strong>
+<p><strong>Anything that is important to You, is important to Us!</strong>
 </p>
 <p>
 <br>
