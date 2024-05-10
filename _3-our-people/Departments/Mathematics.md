@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/mathsdept23.jpg">
 </div>
-<h3> Mathematics Department</h3>
+<h3>Mathematics Department</h3>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian a reflective learner with strong mathematical foundation to
 excel in an ever-changing world.</p>
