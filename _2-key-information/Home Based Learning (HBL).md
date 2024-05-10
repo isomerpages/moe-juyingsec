@@ -2,29 +2,89 @@
 title: Home Based Learning (HBL)
 permalink: /programmes/home-based-learning-hbl/
 description: ""
+variant: tiptap
 ---
-#### **Objectives**
-To further develop our students’ ability to be self-directed, independent, passionate and intrinsically motivated learners.
-
-#### **Information For Parents**
-Information has been sent on Parents' Gateway.
-
-Dear Parents Blended Learning (BL) is part of MOE’s efforts to further develop our students’ ability to be self-directed, independent, passionate and intrinsically motivated learners. 
-
-From Term 3 onwards, Home-Based Learning (HBL) Days will be scheduled once a fortnight to complement teaching and learning in school. In preparation, we will be piloting two HBL Days in Term 2 on Thu 29 April and Tue 18 May. 
-
-On a HBL Day, students will be engaged in learning the curriculum using less structured approaches than a typical school day. Learning will be largely asynchronous; this means that lessons may not require real-time interaction as content will be made available for students to access independently on Student Learning Space (SLS). Subject teachers could arrange for real-time interaction with their class based on students’ needs. 
-
-A key feature of BL is that learning will be seamless. When students return to school after a HBL Day, learning will continue in the classroom and feedback will be given on students’ SLS work. 
-
-On top of the various subject assignments, students will be issued a PASSION-CCE task to complete for each HBL day. This is to encourage our students to participate actively in student-initiated learning (SIL). Students can explore their interests and learn outside the curriculum based on a chosen PASSION-CCE task. 
-
-Kindly note that students who require a learning device may loan from the school by informing their FTs. Students who need more assistance in school may also be selected to complete HBL assignments in school. 
-
-The attached Parent Kit provides general information and tips on HBL Days and how you can support your child. Also attached are the briefing slides for students that set out the expectations on HBL Days and our HBL Day Schedule for 29 April. We hope to partner you by inculcating in our students the skills to self-manage and take ownership of their own learning. 
-
-Thank you.
-
-Attachments<br>
-[01 Student HBL Day Briefing Slides 2.pdf](/files/02%20Student%20HBL%20Day%20Briefing%20Slides%202.pdf)<br>
-[02 Parent Resource Kit Experiencing Blended Learning with Our Children.pdf](/files/02%20Parent%20Resource%20Kit%20Experiencing%20Blended%20Learning%20with%20Our%20Children.pdf)
+<h4><strong>Objectives</strong></h4>
+<p>Home-Based Learning (HBL) days are meant to complement, and not substitute,
+in-school learning. They provide students with more opportunities to learn
+independently and to be more self-directed in their learning. They will
+continue to have opportunities on these days to learn with and interact
+with their fellow students. Our students will thus benefit from both in-school
+and home-based modes of learning.
+<br>Having HBL days scheduled about twice a month for secondary school and
+pre-university students represents about 10% of curriculum time in an academic
+year. This is a good balance that allows students to experience HBL often
+enough to develop the skills and mindsets to become more independent and
+self-directed learners, without unduly compromising the in-person learning
+experience in schools.</p>
+<h4><strong>Information For Parents</strong></h4>
+<p>Information on home based learning days will be sent through Parents'
+Gateway at the start of the semester.</p>
+<blockquote>
+<h4><strong>Home Based Learning Days for 2024</strong></h4>
+</blockquote>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Jul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 - 25 Jul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
