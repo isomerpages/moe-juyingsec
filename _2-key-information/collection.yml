@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Administrative Information.md
+      - Direct School Admission.md
       - TimeTables & Examinations/.keep
       - TimeTables & Examinations/ClassTimeTable.md
       - TimeTables & Examinations/Semester 1 Weighted Assessments.md
@@ -17,22 +18,19 @@ collections:
       - TimeTables & Examinations/Preliminary Examination.md
       - TimeTables & Examinations/GCE O & N level Information.md
       - TimeTables & Examinations/End of Year Examination.md
-      - Direct School Admission.md
       - School Routines & Procedures.md
       - Home Based Learning (HBL).md
       - PDLP/.keep
       - PDLP/Personalised Digital Learning Programme (PDLP).md
       - PDLP/PDLP Useful Links.md
       - PDLP/PDLP Issue Reporting.md
-      - e–Learning.md
       - Full Subject–Based Banding (Full SBB).md
       - Bookshop & Booklists.md
       - Forms/.keep
-      - Forms/Health Declaration Form.md
+      - Forms/FAS Form.md
       - Forms/Travel Declaration From.md
       - Forms/ECHA Nomination Form.md
       - Student Welfare/.keep
-      - Student Welfare/Financial Assistance.md
       - Student Welfare/Counselling Services.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md

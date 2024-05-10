@@ -2,23 +2,49 @@
 title: Bookshop & Booklists
 permalink: /information/administrative-information/bookshop-booklists/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Booklists (for year 2024)</strong></h4>
-<p><strong>For Secondary 2-5 students (2024)</strong><br>Click&nbsp;<a rel="noopener" href="https://drive.google.com/drive/folders/1g_adlNxgNLqyTV-2Nl-Rv1A3z9npLSrL?usp=drive_link">here</a>&nbsp;for all Secondary 2 to Secondary 5 booklists.<br>Download the correct booklist for your respective 2024 classes and banding.<br><br><strong>Note</strong>:<br>SBB = Subject Based Banding<br>OOS = Out of Stream</p>
+<p><strong>For Secondary 2-5 students (2024)</strong>
+<br>Click&nbsp;<a href="https://drive.google.com/drive/folders/1g_adlNxgNLqyTV-2Nl-Rv1A3z9npLSrL?usp=drive_link" rel="noopener" target="_blank">here</a>&nbsp;for
+all Secondary 2 to Secondary 5 booklists.
+<br>Download the correct booklist for your respective 2024 classes and banding.
+<br>
+<br><strong>Note</strong>:
+<br>SBB = Subject Based Banding
+<br>OOS = Out of Stream</p>
 <h4><strong>Online Book Store Orders</strong></h4>
-<p>Website for online orders:&nbsp;<a rel="noopener" href="http://www.actlink.com.sg/">http://www.actlink.com.sg</a></p>
+<p>Website for online orders:&nbsp;<a href="http://www.actlink.com.sg/" rel="noopener" target="_blank">http://www.actlink.com.sg</a>
+</p>
 <hr>
 <p>Website open for online orders:</p>
-<p>Phone:&nbsp;<strong>8362 6728</strong>&nbsp;| Fax:&nbsp;<strong>6794 5400<br></strong>Enquiries:&nbsp;<strong>storders@actlink.com.sg</strong></p>
+<p>Phone:&nbsp;<strong>8362 6728</strong>&nbsp;| Fax:&nbsp;<strong>6794 5400<br></strong>Enquiries:&nbsp;<strong>storders@actlink.com.sg</strong>
+</p>
 <h4><strong>Home Delivery or Self-Collection Option (S2 ,S3, S4, S5)</strong></h4>
-<ol>
-<li>Delivery will be made to the home address within<strong>&nbsp;7 working days from the date of orde</strong>r.</li>
-<li>Islandwide delivery service is available at a charge of $10.00 per student, per delivery address (applicable when there are 1 order and above in a delivery address).</li>
-<li>Alternatively, self-collection can be made at the school bookstore on the dates stated above.</li>
+<ol data-tight="true" class="tight">
+<li>
+<p>Delivery will be made to the home address within<strong>&nbsp;7 working days from the date of orde</strong>r.</p>
+</li>
+<li>
+<p>Islandwide delivery service is available at a charge of $10.00 per student,
+per delivery address (applicable when there are 1 order and above in a
+delivery address).</p>
+</li>
+<li>
+<p>Alternatively, self-collection can be made at the school bookstore on
+the dates stated above.</p>
+</li>
 </ol>
 <h4><strong>Home Delivery or Self-Collection Option (S1)</strong></h4>
-<ol>
-<li>Home delivery service for online orders will only be made up to&nbsp;<strong>30 Dec 2022</strong>.<br>&nbsp;Delivery fee is $10.00 per student and per delivery address.</li>
-<li>After&nbsp;<strong>30 Dec 2022</strong>, books shall be collected at the school bookstore on the dates stated above. Students are advised to collect their books&nbsp;<strong>by 3 Jan 2023</strong>.</li>
+<ol data-tight="true" class="tight">
+<li>
+<p>Home delivery service for online orders will only be made up to&nbsp;<strong>30 Dec 2022</strong>.
+<br>&nbsp;Delivery fee is $10.00 per student and per delivery address.</p>
+</li>
+<li>
+<p>After&nbsp;<strong>30 Dec 2022</strong>, books shall be collected at the
+school bookstore on the dates stated above. Students are advised to collect
+their books&nbsp;<strong>by 3 Jan 2023</strong>.</p>
+</li>
 </ol>
+<p></p>
