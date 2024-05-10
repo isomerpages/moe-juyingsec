@@ -63,7 +63,11 @@ through meticulous and thorough processes.</p>
 <p>• <strong>Logical Consequences</strong> We implement stiff yet logical consequences
 for offences to bring about true learning.</p>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
