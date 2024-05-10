@@ -71,7 +71,7 @@ and passionate learners through the inculcation of the Arts.</p>
 <p>Ms Hema Lata</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Lower Sec Coordinator</p>
+<p>Art Coordinator</p>
 </td>
 </tr>
 <tr>
