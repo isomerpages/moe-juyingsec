@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Form Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ma Yan Ping
+<p>Mr Ma Yaping
 <br>Class 4E1 Form Teacher</p>
 </td>
 </tr>
