@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Management Committee.md
+      - Departments/.keep
       - Departments/English Language & Literature.md
       - Departments/Mother Tongue.md
       - Departments/Mathematics.md
@@ -11,11 +12,10 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Information Communication Technology.md
       - Departments/Physical Education & CCA.md
-      - Departments/Normal Technical.md
       - Departments/Craft & Technology.md
+      - Departments/Normal Technical.md
       - Departments/Student Development Team.md
       - Departments/Discipline.md
-      - Departments/.keep
       - Our Partners/School Advisory Committee.md
       - Our Partners/Parents Support Group.md
       - Our Partners/Alumni.md
