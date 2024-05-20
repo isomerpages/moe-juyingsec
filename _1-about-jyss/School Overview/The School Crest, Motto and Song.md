@@ -90,5 +90,12 @@ working harmony.</p>
 <br>We meet and we uphold the
 <br>Motto of our school,
 <br><strong>Together We Will Succeed.</strong> 
+</p>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/flyhlaWObU0?si=NpoSZv1Gdi1GD82Q"></iframe>
+</div>
+<p>
 <br><strong>Together We Will Succeed.</strong>
 </p>
