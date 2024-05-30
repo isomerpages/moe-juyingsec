@@ -28,7 +28,11 @@ learn to persevere in times of adversity, becomes more passionate about
 music playing and also learn to work in harmony as a team with the other
 members of JYSB, so as to create music together.</p>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,7 +165,11 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h4><strong>Club Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -264,7 +272,11 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h5><strong>2021</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -295,7 +307,11 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h5><strong>2019</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -376,7 +392,12 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h4><strong>Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -469,7 +490,11 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -498,7 +523,10 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -519,7 +547,10 @@ members of JYSB, so as to create music together.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -539,7 +570,11 @@ members of JYSB, so as to create music together.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -559,7 +594,7 @@ members of JYSB, so as to create music together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ZHENG XIUYIN</p>
+<p>CONSTANCE CHEW KER EN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary&nbsp;</p>
@@ -583,7 +618,7 @@ members of JYSB, so as to create music together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CONSTANCE CHEW KER EN</p>
+<p>ZHENG XIUYIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head Librarian</p>
