@@ -18,7 +18,5 @@ link below to view or download softcopies of the timetables.</p>
 <p></p>
 <p>Time-Table B is used when there is a HBL for that week. Do check the HBL
 days here:</p>
-<p><a href="https://www.juyingsec.moe.edu.sg/programmes/home-based-learning-hbl/" rel="noopener noreferrer nofollow" target="_blank">https://www.juyingsec.moe.edu.sg/programmes/home-based-learning-hbl/</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1hMByjhHLwj9eHmlO7YQmiqJtvQdjT6Mv/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">HBL 2024 Schedule | HBL 2024 Schedule.pdf</a>
+<p><a href="https://www.juyingsec.moe.edu.sg/programmes/home-based-learning-hbl/" rel="noopener noreferrer nofollow" target="_blank">https://www.juyingsec.moe.edu.sg/programmes/home-based-learning-hbl</a>
 </p>
