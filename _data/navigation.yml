@@ -1,7 +1,7 @@
 logo: /images/school logo.svg
 links:
-  - title: About Jyss
-    collection: about-jyss
+  - title: 1 About Jyss
+    collection: 1-about-jyss
   - title: Key Information
     url: /information/administrative-information
     sublinks:
