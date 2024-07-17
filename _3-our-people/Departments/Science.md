@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/sciencedept555.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments_and_Committees_12.jpg">
 </div>
 <h3>Science Department</h3>
 <h4><strong>Vision</strong></h4>
@@ -537,4 +538,5 @@ a coastal walk at Changi.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
