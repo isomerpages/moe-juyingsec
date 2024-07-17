@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="https://file.go.gov.sg/jyhumanities233.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Humanities_Department.jpg">
 </div>
-<h3> Humanities Department</h3>
+<h3>Humanities Department</h3>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian Possess an Analytical and Inquisitive Mindset.</p>
 <h4><strong>Mission</strong></h4>
