@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_Dept.jpg">
+</div>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian An Artist Within</p>
 <h4><strong>Mission</strong></h4>
@@ -179,4 +183,5 @@ and passionate learners through the inculcation of the Arts.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
