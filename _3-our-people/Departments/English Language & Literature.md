@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/englishdept233.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Department.jpg">
 </div>
 <h3>English Department</h3>
 <h4><strong>Vision</strong></h4>
