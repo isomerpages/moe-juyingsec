@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-<figure>
-<img src="https://file.go.gov.sg/jymt2333.jpg" style="width:85%">
+![](/images/Departments_and_Committees_08.jpg)<figure>
 <figcaption> Mother Tongue Department
  </figcaption>
 </figure>

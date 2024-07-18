@@ -9,7 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/English_Department.jpg">
 </div>
-<h3>English Department</h3>
+<p></p>
+<h4><strong>ENGLISH DEPARTMENT</strong></h4>
+<h3></h3>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian an effective communicator using Standard English.</p>
 <h4><strong>Mission</strong></h4>
