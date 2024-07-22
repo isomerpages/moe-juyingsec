@@ -120,7 +120,7 @@ of the human experience through works of literature.</p>
 <p>Ms Amanda Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Subject Head (English Language, Lower Sec)</p>
 </td>
 </tr>
 <tr>
