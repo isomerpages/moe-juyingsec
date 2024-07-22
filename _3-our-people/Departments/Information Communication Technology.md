@@ -250,7 +250,7 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adilah</p>
+<p>Ms Nur Adilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
