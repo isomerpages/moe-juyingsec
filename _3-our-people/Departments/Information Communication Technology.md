@@ -194,7 +194,7 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo</p>
+<p>Ms Khoo Woei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -202,7 +202,7 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Diana</p>
+<p>Mdm Nor Diana Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -210,7 +210,7 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong</p>
+<p>Mr Ong Hok Beng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -218,18 +218,18 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Roslee</p>
+<p>Mr Roslee Bin Nadi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TSO (Workshop Instructor)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kok</p>
+<p>Mr Ko Kok Kheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TSO (Workshop Instructor)</p>
 </td>
 </tr>
 <tr>
