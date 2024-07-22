@@ -117,10 +117,10 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teoh Cheng Ling</p>
+<p>Ms Amanda Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Subject Head (English Language, Lower Sec)</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Foo</p>
+<p>Ms Teoh Cheng Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -173,7 +173,7 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hema Lata</p>
+<p>Ms Gillian Yeong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

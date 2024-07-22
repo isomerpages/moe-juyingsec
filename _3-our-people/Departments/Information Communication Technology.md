@@ -194,6 +194,46 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Khoo Woei Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Diana Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Hok Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Roslee Bin Nadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO (Workshop Instructor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ko Kok Kheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO (Workshop Instructor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rosnah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,7 +250,7 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adilah</p>
+<p>Ms Nur Adilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
