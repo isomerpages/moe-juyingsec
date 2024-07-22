@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-![](/images/Departments_and_Committees_08.jpg)<figure>
-<figcaption> Mother Tongue Department
- </figcaption>
-</figure>
+
+![](/images/Departments_and_Committees_08.jpg)
+
+
 
 #### **Vision**
 Every Jyian an effective communicator in his/her mother tongue language, upholding his/her cultural values.  
