@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-<figure>
-<img style="width:100%" src="/images/staff-pe-2023jpg.jpg">  Physical Education &amp; CCA Department
-</figure>
+![](/images/Physical_Education_Department.jpg)
 
 #### **Vision**
 To create an environment where students Learn in an Inclusive Values Environment (L.I.V.E.) and develop a Lifelong Investment in Fitness and Exercise (L.I.F.E.)
