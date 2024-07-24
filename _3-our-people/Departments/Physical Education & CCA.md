@@ -8,6 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Physical_Education_Department.jpg">
 </div>
+<h4><strong>PE Department</strong></h4>
+<p></p>
 <h4><strong>Vision</strong></h4>
 <p>To create an environment where students Learn in an Inclusive Values Environment
 (L.I.V.E.) and develop a Lifelong Investment in Fitness and Exercise (L.I.F.E.)</p>
