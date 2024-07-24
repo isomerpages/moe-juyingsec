@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Physical_Education_Department.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Physical_Education_Department.jpg">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>To create an environment where students Learn in an Inclusive Values Environment
