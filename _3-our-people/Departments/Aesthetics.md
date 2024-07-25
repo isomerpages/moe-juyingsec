@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_Dept.jpg">
 </div>
-<h4><strong>AESTHETICS  DEPARTMENT</strong></h4>
+<h4><strong>Aesthetics Department</strong></h4>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian An Artist Within</p>
 <h4><strong>Mission</strong></h4>

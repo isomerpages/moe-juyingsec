@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments_and_Committees_08.jpg">
 </div>
 <p></p>
-<h4><strong>MOTHER TONGUE DEPARTMENT</strong></h4>
+<h4><strong>Mother Tongue Department</strong></h4>
 <h4><strong>Vision</strong></h4>
 <p>Every Jyian an effective communicator in his/her mother tongue language,
 upholding his/her cultural values.</p>
