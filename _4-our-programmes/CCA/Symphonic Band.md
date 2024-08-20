@@ -9,6 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/band%201.jpg">
 </div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Symphonic_FORMAL.jpg">
+</div>
 <h4><strong>Vision</strong></h4>
 <p>One Band, One Sound.</p>
 <h4><strong>Mission</strong></h4>
