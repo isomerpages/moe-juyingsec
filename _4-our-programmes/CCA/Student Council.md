@@ -6,6 +6,12 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>Student Council</strong></h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-4JGr_qE5YU?si=fblopo5UarNGJfP6"></iframe>
 </div>
@@ -37,7 +43,10 @@ School.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCOs.png">
 </div>
 <h4><strong>Student Council Teacher Advisors (SCTAs)</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,7 +81,11 @@ School.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,7 +138,11 @@ School.</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -207,7 +224,11 @@ express their gratitude to the teachers and EAS staff.</p>
 </li>
 </ul>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
