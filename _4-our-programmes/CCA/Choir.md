@@ -9,6 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/choir1.jpg">
 </div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Choir_FORMAL.jpg">
+</div>
 <h4><strong>Vision</strong></h4>
 <p>One Choir One Voice.</p>
 <h4><strong>Overview</strong></h4>
@@ -23,7 +27,10 @@ supportive care of their teachers, trainers and peers - they developed
 their vocal and dance skills to greater heights to take on more exciting
 performing challenges ahead to showcase their talents to the world.</p>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -46,7 +53,11 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -98,7 +109,11 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,7 +159,11 @@ performing challenges ahead to showcase their talents to the world.</p>
 </table>
 <p></p>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -165,7 +184,10 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tbody>
 </table>
 <h4><strong>Club Activities</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -240,7 +262,12 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tbody>
 </table>
 <h4><strong>Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -389,7 +416,11 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -498,7 +529,11 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tbody>
 </table>
 <h4><strong>Events</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
