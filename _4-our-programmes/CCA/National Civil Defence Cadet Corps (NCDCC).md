@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>Juying School Leaders with our NCDCC CCA Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NCDCC_FORMAL.jpg">
 </div>
 <p>Ready to respond at a moment's notice</p>
 <h4><strong>Vision</strong></h4>
@@ -29,7 +29,10 @@ a compassionate heart.</p>
 excellence for others to emulate under the guidance of the teacher officers
 to learn, lead and serve.</p>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -59,7 +62,11 @@ to learn, lead and serve.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -160,7 +167,11 @@ to learn, lead and serve.</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -189,7 +200,11 @@ to learn, lead and serve.</p>
 </tbody>
 </table>
 <h4><strong>Achievements</strong><br><strong>2022</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -287,7 +302,11 @@ to learn, lead and serve.</p>
 </tbody>
 </table>
 <h4><strong>2021</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -403,7 +422,11 @@ to learn, lead and serve.</p>
 </tbody>
 </table>
 <h4><strong>2019</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -538,7 +561,11 @@ engaging the public.</p>
 </tbody>
 </table>
 <h4><strong>2018</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -649,7 +676,12 @@ engaging the public.</p>
 </tbody>
 </table>
 <h4><strong>Competitions</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -893,7 +925,11 @@ engaging the public.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
