@@ -9,8 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/infocomm%201.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/infocomm%202.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Infocomm___Technology__FORMAL.jpg">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>Character Development Through Leadership Training, Fostering Camaraderie
@@ -19,7 +20,11 @@ variant: tiptap
 <p>To develop highly skilled individuals who are conversant with various
 technologies through a supportive and positive learning experience.</p>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -118,7 +123,10 @@ competition to put their skills to the test.&nbsp; &nbsp;&nbsp;</p>
 competitions, students are able to put into practice the school values
 of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -135,7 +143,11 @@ of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -220,7 +232,11 @@ of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -344,7 +360,12 @@ such as JYSS’s Sports Carnival</p>
 </table>
 <h4><strong>Achievements</strong></h4>
 <p>*National competitions were suspended in 2020 due to COVID-19</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -592,4 +613,5 @@ such as JYSS’s Sports Carnival</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

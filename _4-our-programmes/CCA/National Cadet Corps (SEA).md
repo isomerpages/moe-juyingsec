@@ -6,8 +6,9 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>National Cadet Corps (SEA)</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/nccsea%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NCC__Sea__FORMAL.jpg">
 </div>
 <p>The Juying NCC (SEA) cadets and teachers-in-charge looking distinguished
 and proud.</p>
@@ -37,7 +38,10 @@ as captain's ball, frisbee and soccer. &nbsp;</p>
 flag bearers at every National Day Observance Ceremony.</p>
 <h4><strong>Organisation Chart</strong></h4>
 <h5><strong>Teachers In-Charge</strong></h5>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,7 +90,11 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -171,7 +179,11 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -192,7 +204,11 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -310,7 +326,12 @@ the day)</p>
 </tbody>
 </table>
 <h4><strong>Competitions</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -751,7 +772,12 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -968,7 +994,12 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1038,7 +1069,12 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1120,7 +1156,11 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 </tbody>
 </table>
 <h4><strong>Activities/Achievements</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

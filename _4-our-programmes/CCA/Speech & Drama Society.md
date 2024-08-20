@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>Juying School Leaders with our Speech &amp; Drama CCA Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/speech%20and%20drama%202.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Speech___Drama_FORMAL.jpg">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>To nurture every Speech and Drama member into a confident and creative
@@ -30,7 +30,12 @@ seen in our everyday heroes!</p>
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bcuwWJNJb20"></iframe>
 </div>
 <h4><strong>Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -101,7 +106,10 @@ seen in our everyday heroes!</p>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -121,7 +129,10 @@ seen in our everyday heroes!</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -136,7 +147,11 @@ seen in our everyday heroes!</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -189,7 +204,11 @@ seen in our everyday heroes!</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -218,7 +237,11 @@ seen in our everyday heroes!</p>
 </tbody>
 </table>
 <h4><strong>Programme &amp; Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -340,7 +363,11 @@ Woes’</p>
 </tbody>
 </table>
 <h4><strong>2019</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>Juying School Leaders with Hip Hop CCA Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/hiphop%202.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Madern_Dance__Hip_Hop__FORMAL.jpg">
 </div>
 <p>NutzCrew receiving a plaque and token of appreciation for their National
 Day performance.</p>
@@ -65,7 +65,11 @@ victories we have brought home and are grateful for the guidance, help
 and instruction from the teachers and instructors. We pledge to continue
 to do our very best to deliver excellence both on and off stage</p>
 <h4><strong>Competitions &amp; Events</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -152,7 +156,12 @@ to do our very best to deliver excellence both on and off stage</p>
 </tbody>
 </table>
 <h4><strong>Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -235,7 +244,11 @@ were ceased.</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -264,7 +277,10 @@ were ceased.</p>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -285,7 +301,10 @@ were ceased.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -306,7 +325,11 @@ were ceased.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

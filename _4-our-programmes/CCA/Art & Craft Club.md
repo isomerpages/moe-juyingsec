@@ -11,10 +11,13 @@ variant: tiptap
 </div>
 <p>Juying School Leaders striking a pose with our Art CCA Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/artcraft2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Art_Club_FORMAL.jpg">
 </div>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -29,7 +32,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -44,7 +50,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -111,7 +121,11 @@ both traditional and modern arts.&nbsp;</p>
 to challenge our students so as to further develop their skills and showcase
 their abilities.</p>
 <h4><strong>Key Programmes</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -163,7 +177,11 @@ their abilities.</p>
 </tbody>
 </table>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -192,7 +210,12 @@ their abilities.</p>
 </tbody>
 </table>
 <h4><strong>Achievements</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -406,7 +429,11 @@ their abilities.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

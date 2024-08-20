@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>Juying School Leaders with Badminton CCA Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/badminton2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Badminton__Boy_s__FORMAL.jpg">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>Motivated sportsperson&nbsp;who strive for excellence.</p>
@@ -26,7 +26,13 @@ their leadership skills and enhance their teamwork.</p>
 <p>In response to the COV1D-19 situation,&nbsp; all National competitions
 were ceased temporarily in 2020 and 2021.</p>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,7 +93,10 @@ were ceased temporarily in 2020 and 2021.</p>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -109,7 +118,10 @@ were ceased temporarily in 2020 and 2021.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -129,7 +141,11 @@ were ceased temporarily in 2020 and 2021.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders (Girls)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -198,7 +214,11 @@ were ceased temporarily in 2020 and 2021.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders (Boys)</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -270,7 +290,12 @@ were ceased temporarily in 2020 and 2021.</p>
 <h4><strong>Achievements</strong></h4>
 <p>In response to the COV1D-19 situation,&nbsp; all National Competitions
 were ceased temporarily in 2020.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -431,7 +456,11 @@ were ceased temporarily in 2020.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -476,7 +505,11 @@ were ceased temporarily in 2020.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -627,7 +660,11 @@ were ceased temporarily in 2020.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

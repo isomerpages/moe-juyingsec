@@ -11,10 +11,14 @@ variant: tiptap
 </div>
 <p>Juying School Leaders with Basketball CCA Leaders</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/basketball2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Basketball_FORMAL.jpg">
 </div>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -35,7 +39,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,7 +63,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -71,7 +81,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -134,7 +148,12 @@ them well as it strengthens their physical and mental endurance.</p>
 <h4><strong>Achievements</strong></h4>
 <p><strong>In 2020, National Competitions were suspended due to COVID-19 and are pending to resume in 2021.</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -227,7 +246,11 @@ them well as it strengthens their physical and mental endurance.</p>
 </tbody>
 </table>
 <h4><strong>Activities</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -312,7 +335,11 @@ them well as it strengthens their physical and mental endurance.</p>
 </tbody>
 </table>
 <h4><strong>Achievements</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -438,7 +465,11 @@ with the current B Division basketball players</p>
 </tbody>
 </table>
 <h4><strong>2018</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
