@@ -9,6 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/softball1.jpg">
 </div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Softball_FORMAL.jpg">
+</div>
 <h4><strong>Vision</strong></h4>
 <p>Motivated and Resilient Softballers Who Strive for Excellence On and Off
 the Field.</p>
@@ -36,7 +40,11 @@ is a bat-and-ball sport played between two teams of 9 players. Each team
 will take turns to be the batting and fielding team for each round (inning).
 The objective is to score more runs than the other team.</p>
 <h4><strong>CCA Schedule</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,7 +65,10 @@ The objective is to score more runs than the other team.</p>
 </tbody>
 </table>
 <h4><strong>Organisation Chart</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -76,7 +87,10 @@ The objective is to score more runs than the other team.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -91,7 +105,11 @@ The objective is to score more runs than the other team.</p>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
