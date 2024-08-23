@@ -201,6 +201,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="chinese" src="/images/Picture1.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -209,6 +212,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="chinese" src="/images/Picture3.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -217,6 +223,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -225,6 +234,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -233,6 +245,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -241,6 +256,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -249,6 +267,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -257,6 +278,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -265,6 +289,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -273,6 +300,9 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture15.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -281,11 +311,13 @@ language and culture in a practical and authentic manner.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture18.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Achievements</h4>
 <p><strong>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</strong>
 </p>
@@ -469,7 +501,6 @@ language and culture in a practical and authentic manner.</p>
 <p>The Malay Language team who won 2nd place
 <br>in the Mother Tongue Language &amp; Cultural
 <br>Fiesta
-<br>
 <br>Left to right:Siti Nur Hayarah Binte Muhamed Shah (3E1)
 <br>Ryzz Adriana Bte Mohammad H (3A2)
 <br>Muhammad Syahmi Alzam Bin Sa'ad (3E2)
@@ -486,8 +517,6 @@ language and culture in a practical and authentic manner.</p>
 <p>The Chinese Language team who won 4th place
 <br>in the Mother Tongue Language &amp; Cultural
 <br>Fiesta 2018
-<br>
-<br>
 <br>Left to right:
 <br>Lee Yi Zhen (3E1)
 <br>Rachel Quek Kai En (3E1)
@@ -517,21 +546,45 @@ language and culture in a practical and authentic manner.</p>
 Secondary School</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4>Overseas Exchange Programme: </h4>
+<h4>Overseas Exchange Programme:</h4>
 <p>We believe that language and culture are best learned when experienced
 firsthand. Our overseas exchange program offers students the opportunity
 to live and study in countries where their mother tongue is spoken. This
 not only enhances language proficiency but also fosters cross-cultural
 understanding, global awareness, and personal growth.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture19.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pretrip Brief</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture20.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Welcome!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teh Tarik" src="/images/Picture21.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Teh Tarik</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
