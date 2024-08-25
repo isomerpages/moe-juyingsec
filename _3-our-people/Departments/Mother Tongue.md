@@ -587,4 +587,86 @@ understanding, global awareness, and personal growth.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flipping pratas</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wayang Kulit" src="/images/Picture23.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Wayang Kulit</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wayang Kulit" src="/images/Picture24.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Backstage</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nature walk" src="/images/Picture25.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nature walk</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Malaysia Exchange" src="/images/Picture26.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Malaysia Exchange</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Studying together" src="/images/Picture27.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Studying together</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Friendship" src="/images/Picture28.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Friendship</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Home" src="/images/Picture29.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Home</div>
+</div>
+</div>
+</div>
 <p></p>
