@@ -319,6 +319,39 @@ language and culture in a practical and authentic manner.</p>
 </tbody>
 </table>
 <h4>Achievements</h4>
+<p>We also provide opportunities for students to participate in national
+competitions. In 2024/2023, our teachers have trained and sent our students
+to take part in the following competitions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Narrative Essay Writing Competition: Syakir Zufayri, Champion</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Poem Recital Competition: Sec 2 G2 Consolation Prize</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Riddle Competition: 5th</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>6th National Text Recital Competition</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create your own Newspaper Competition</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Young Reporter News Challenge</p>
+</li>
+</ul>
 <p><strong>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -432,6 +465,7 @@ language and culture in a practical and authentic manner.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl1.jpg">
 </div>
@@ -584,4 +618,8 @@ understanding, global awareness, and personal growth.</p>
 </div>
 </div>
 </div>
-<p></p>
+<p>In conclusion, the Mother Tongue Department at Juying Secondary School
+is dedicated to empowering our students with the linguistic and cultural
+tools they need to excel in the modern world. We are committed to creating
+a dynamic and joyful learning environment where every student can thrive,
+both as a language enthusiast and a global citizen.</p>
