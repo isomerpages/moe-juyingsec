@@ -8,61 +8,39 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments_and_Committees_08.jpg">
 </div>
-<p></p>
-<h4><strong>Mother Tongue Department</strong></h4>
-<h4><strong>Vision</strong></h4>
-<p>Every Jyian an effective communicator in his/her mother tongue language,
-upholding his/her cultural values.</p>
-<h4><strong>Mission</strong></h4>
-<p>Our mission is to achieve better-quality grades and preserve values, cultures
-&amp; traditions, as well as acquire proficiency in the Mother Tongue Languages
-(MTL) for communication and in daily living.</p>
-<h4><strong>Overview</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>To equip students with Mother Tongue proficiency in four main aspects;
-listening, speaking, reading and writing.</p>
-</li>
-<li>
-<p>To develop students’ spoken and written competence in Mother Tongue Languages.</p>
-</li>
-<li>
-<p>To further develop students’ appreciation toward their Mother Tongue languages
-and culture.&nbsp;&nbsp;</p>
-</li>
-</ul>
-<h4><strong>Programmes &amp; Activities</strong></h4>
-<ul>
-<li>
-<p><strong>MT Intensive Programme (Graduating classes)</strong>
-<br>Equipping our students with specific examination skills to prepare them
-for the GCE ‘O’ and ‘N’ level examinations. Through this programme, our
-students are more confident and motivated to do well in their National
-Examination.</p>
-</li>
-<li>
-<p><strong>MT Focus Group</strong>
-<br>Bridging learning gaps through structured supplementary/remedial lessons
-for all levels.</p>
-</li>
-<li>
-<p><strong>MT Newspaper Reading Programme</strong>
-<br>Developing students’ general knowledge and instilling good reading habits
-by subscribing to the Lian He Zao Bao for CL and Berita Harian for ML.&nbsp;Through
-this programme, we are also expanding our students' proficiency in their
-learning of the MT language.</p>
-</li>
-<li>
-<p><strong>MT Fortnight Programme</strong>
-<br>Teaching MTL beyond the classroom by creating an environment that encourages
-students to use MTL and appreciate the heritage and culture through MT
-Fortnight Programme activities.
-<br>MT Fortnight activities for our Sec One to Three students will be carried
-out in October as Post Exam activities. The students will have the opportunity
-to explore, experience and exhibit their creativity and apply what they
-have learnt in their daily life.</p>
-</li>
-</ul>
+<h3><strong>Mother Tongue Department</strong></h3>
+<p>At Juying Secondary School, we take pride in nurturing joyful learners
+and proficient communicators. Our Mother Tongue Department plays a pivotal
+role in achieving this mission. Here are three key pillars that define
+our department's commitment to excellence:</p>
+<h4>1) Fostering Joyful Learners and Proficient Communicators:</h4>
+<p>At Juying Secondary School, every student is encouraged to become a joyful
+learner and proficient communicator in their mother tongue. We believe
+that language is not just a tool for communication but a gateway to understanding
+heritage and connecting with diverse cultures. Our dedicated team of educators
+strives to make language learning a delightful journey for every JYian.
+Through adoption of blended learning to design effective and engaging learning
+experience, we empower students to not just speak, read, and write proficiently
+but to also appreciate the beauty of their mother tongue.</p>
+<h4>2) Embracing the Joy of Teaching and Learning:</h4>
+<p>The Mother Tongue Department believes that the joy of teaching and learning
+is contagious. Our educators are passionate about their subjects and are
+committed to igniting that passion in our students. We understand that
+a strong foundation in one's mother tongue sets the stage for a lifetime
+of learning and success. With this belief, we create a classroom atmosphere
+that is not only educational but also fun, where students eagerly participate,
+ask questions, and explore the rich tapestry of their language and culture.</p>
+<h4>3) Authentic Learning through PASSION:</h4>
+<p>Our Mother Tongue Department goes beyond conventional learning methods.
+We anchor our approach on PASSION - learning experiences. Two of our flagship
+programs, the Mother Tongue Fortnight Programme and Overseas Exchange Programme,
+embody this philosophy.</p>
+<p>- Mother Tongue Fortnight Programme: This immersive experience allows
+students to delve deep into their mother tongue by participating in cultural
+activities, language games, and workshops which are designed and conducted
+by teachers based on students’ interests. It creates an environment where
+students can connect with their roots and discover the beauty of their
+language and culture in a practical and authentic manner.</p>
 <h4><strong>Organization Chart</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -200,7 +178,180 @@ have learnt in their daily life.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Achievements</strong></h4>
+<h4>Photos</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Photo</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>书法 / Calligraphy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="chinese" src="/images/Picture1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>勘探 / Google Earth Exploration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="chinese" src="/images/Picture3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>传统手工 / Hand-painted Fans</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>唱跳华语歌 / Language through Karaoke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>戏剧 / Language through Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>推理游戏设计 / Mystery Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>象棋 / Chinese Chess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Makanan Tradisional / Traditional Food</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Permainan Tradisional / Traditional Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Batik Painting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture15.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parkaian Tradisional / Traditional Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture18.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Achievements</h4>
+<p>We also provide opportunities for students to participate in national
+competitions. In 2024/2023, our teachers have trained and sent our students
+to take part in the following competitions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Narrative Essay Writing Competition: Syakir Zufayri, Champion</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Poem Recital Competition: Sec 2 G2 Consolation Prize</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Riddle Competition: 5th</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>6th National Text Recital Competition</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create your own Newspaper Competition</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Young Reporter News Challenge</p>
+</li>
+</ul>
 <p><strong>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -314,6 +465,7 @@ have learnt in their daily life.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl1.jpg">
 </div>
@@ -322,491 +474,152 @@ have learnt in their daily life.</p>
 <br>Chinese Creative Writing Competition</p>
 <p><strong>First Prize</strong>
 <br>Liu Hang Yi (3E3)</p>
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl2.jpg">
 </div>
-<p>National Calligraphy Competition
-<br>organised by Fo Guang Shan Singapore.</p>
+<p>National Calligraphy Competition organised by Fo Guang Shan Singapore.</p>
 <p>ZHANG YITING (4E2)</p>
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl3.jpg">
 </div>
 <p>National Calligraphy Competition
 <br>organised by Fo Guang Shan Singapore.</p>
 <p>MAY THU KHIN (2E3)</p>
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl4.jpg">
 </div>
 <p>“XIN LEI JIANG”
 <br>National Chinese Creative Writing Competition</p>
 <p>CLAUDIA SEWI YING TING (3E2)</p>
-<p>
-<br>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl5.jpg">
 </div>
 <p>National Calligraphy Competition
 <br>organised by Fo Guang Shan Singapore.</p>
 <p>TAN JING EN (1E2)</p>
-<p>
-<br>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<h4>Overseas Exchange Programme:</h4>
+<p>We believe that language and culture are best learned when experienced
+firsthand. Our overseas exchange program offers students the opportunity
+to live and study in countries where their mother tongue is spoken. This
+not only enhances language proficiency but also fosters cross-cultural
+understanding, global awareness, and personal growth.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture19.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pretrip Brief</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture20.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Welcome!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teh Tarik" src="/images/Picture21.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Teh Tarik</div>
+</div>
+</div>
+</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture22.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team Juying who took part in the
-<br>W3 Cluster Mother Tongue Language &amp;
-<br>Cultural Fiesta</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flipping pratas</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Wayang Kulit" src="/images/Picture23.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Malay Language team who won 2nd place
-<br>in the Mother Tongue Language &amp; Cultural
-<br>Fiesta
-<br>
-<br>Left to right:Siti Nur Hayarah Binte Muhamed Shah (3E1)
-<br>Ryzz Adriana Bte Mohammad H (3A2)
-<br>Muhammad Syahmi Alzam Bin Sa'ad (3E2)
-<br>Muhammad Danial Bin Aripin (3E2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Wayang Kulit</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Wayang Kulit" src="/images/Picture24.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Chinese Language team who won 4th place
-<br>in the Mother Tongue Language &amp; Cultural
-<br>Fiesta 2018
-<br>
-<br>
-<br>Left to right:
-<br>Lee Yi Zhen (3E1)
-<br>Rachel Quek Kai En (3E1)
-<br>Foong Sin Chen (3E1)
-<br>Lee Yi Qian (3E1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Backstage</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Nature walk" src="/images/Picture25.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pong Jie You (3E2) earned 2nd place in the
-<br>Position Creative Essay Writing Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nature walk</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Malaysia Exchange" src="/images/Picture26.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>W3 Cluster Mother Tongue Language &amp; Cultural Fiesta 2018 at Boon Lay
-Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Kompang Workshop</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Malaysia Exchange</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kompang%20workshop1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Studying together" src="/images/Picture27.jpg">
 </div>
-<p>
-<br>
-</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Studying together</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kompang%20workshop2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Friendship" src="/images/Picture28.jpg">
 </div>
-<p>
-<br>
-</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Friendship</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kompang%20workshop3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Home" src="/images/Picture29.jpg">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kompang%20workshop4.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Kompang Workshop for Sec 2 Malay students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Mother Tongue Fortnight (Malay Language)</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20malay%201.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Home</div>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Riddle Solving</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20malay%202.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Spelling Bee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20malay%203.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Composing Rap lyrics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20malay%204.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Kompang Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20malay%205.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Acting out characters from a scene</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20malay%206.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Final Checkpoint</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Mother Tongue Fortnight (Chinese Language)</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%201.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%202.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Chinese Character Painting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%203.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%204.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Chinese Character Painting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%205.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%206.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%207.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Chinese Character Painting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%208.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl%20chinese%209.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Team Bonding Games</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>In conclusion, the Mother Tongue Department at Juying Secondary School
+is dedicated to empowering our students with the linguistic and cultural
+tools they need to excel in the modern world. We are committed to creating
+a dynamic and joyful learning environment where every student can thrive,
+both as a language enthusiast and a global citizen.</p>
