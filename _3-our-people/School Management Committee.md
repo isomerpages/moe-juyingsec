@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Thomas Loh</p>
+<p>Mr Thomas Loh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
