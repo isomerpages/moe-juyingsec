@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/smc-fresh-2023.jpg">
 </div>
-<p>School Management Committee</p>
+<h3>School Management Committee</h3>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -77,7 +77,7 @@ variant: tiptap
 <p>Mr Wang Woon Keat&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)&nbsp;</p>
+<p>Year Head (Lower Sec)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -86,14 +86,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Trina Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
@@ -202,10 +194,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Amanda Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Lower Sec (English &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lynette Wong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English &amp; Literature)</p>
+<p>Subject Head Upper Sec (English &amp; Literature)</p>
 </td>
 </tr>
 <tr>
@@ -250,18 +250,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Mohter Amat Amin</p>
+<p>Mr Thomas Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Thomas Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operation Manager</p>
 </td>
 </tr>
 </tbody>
