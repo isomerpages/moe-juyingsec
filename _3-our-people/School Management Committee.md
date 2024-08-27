@@ -194,10 +194,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Amanda Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Lower Sec (English &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lynette Wong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English &amp; Literature)</p>
+<p>Subject Head Upper Sec (English &amp; Literature)</p>
 </td>
 </tr>
 <tr>
