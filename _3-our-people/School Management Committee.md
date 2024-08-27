@@ -77,7 +77,7 @@ variant: tiptap
 <p>Mr Wang Woon Keat&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)&nbsp;</p>
+<p>Year Head (Lower Sec)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -86,14 +86,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Trina Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
