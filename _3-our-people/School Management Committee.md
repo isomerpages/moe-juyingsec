@@ -242,6 +242,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lek Hui Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Information Communication Technology)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms&nbsp;Wong Lye Peng Christina</p>
 </td>
 <td rowspan="1" colspan="1">
