@@ -138,14 +138,6 @@ language and culture in a practical and authentic manner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Hui Sze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ma Yaping</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,6 +163,14 @@ language and culture in a practical and authentic manner.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shi Xu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
