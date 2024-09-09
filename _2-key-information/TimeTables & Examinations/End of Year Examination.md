@@ -10,7 +10,7 @@ variant: markdown
 <p></p>
 
 * <p><a href="https://drive.google.com/drive/folders/1j9SCnLnGFqSiTzPECyT7Yi5H_H-Tis7x?usp=sharing">Secondary 1 EOY Examination Topics</a></p>
-* <p><a href="https://drive.google.com/drive/folders/1l2usDqewEuNdG9ud5_63zqxJDIqy0AtG?usp=sharing">Secondary 2 EOY Examination Topics</a></p>
-* <p><a href="https://drive.google.com/drive/folders/1UXGcWHTVRi2q-wExad7YK2oDWyXUTu11?usp=sharing">Secondary 3 EOY Examination Topics</a></p>
+* <p><a href="https://drive.google.com/file/d/1kLpkA8hE5f81S437KTVD6uFW7L7REmxu/view?usp=sharing">Secondary 2 EOY Examination Topics</a></p>
+* <p><a href="https://drive.google.com/file/d/19bItcJd8RSbkG0YMWF2kHUGLvsTDsLSB/view?usp=sharing">Secondary 3 EOY Examination Topics</a></p>
 
 <p>Wishing all JYians All The Best in your upcoming exams!</p>
