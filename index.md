@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Administration for Students
           description: ""
-          url: https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/semester-2-weighted-assessments/
+          url: https://www.juyingsec.moe.edu.sg/timetables-n-schedules/examination-timetable/end-of-year-examination/
         - title: The Juying Gallery
           description: ""
           url: https://www.juyingsec.moe.edu.sg/gallery/
