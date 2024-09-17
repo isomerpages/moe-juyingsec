@@ -636,3 +636,105 @@ their abilities.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_Art___Crafts_Club_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">2024 ART &amp; CRATS CLUB</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_SYF_Submission.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">2024 SYF Submission</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_newly_appointed_EXCOs_2024_2025.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">Our newly appointed EXCOs 2024-2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Presenting_our_CCA_to_the_Sec_1s_batch_during_CCA_Fair_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">Presenting our CCA to the Sec 1 batch during CCA fair 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Saying_goodbye_to_our_graduating_batch.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">Saying goodbye to our graduating batch</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Setting_up_a_tunnel_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">Setting up the tunnel</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Air_Dry_Clay_Desserts.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">WIP - Air Dry Clay Desserts</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Students_working_on_air_dry_clay.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">WIP - Students working on air dry clay</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Working_on_our_annual_Teachers__Day_Banner_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
+<div class="isomer-card-description">Working on our annual Teacher's Day Banner</div>
+</div>
+</div>
+</div>
+<p></p>
