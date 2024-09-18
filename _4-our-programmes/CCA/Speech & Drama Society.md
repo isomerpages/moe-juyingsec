@@ -236,6 +236,76 @@ seen in our everyday heroes!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_1_Farewell_gathering_for_graduating_members.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech &amp; Drama Society</div>
+<div class="isomer-card-description">Farewell gathering for graduating members</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_2_National_Day_Concert_in_school.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech &amp; Drama Society</div>
+<div class="isomer-card-description">National Day Concert in school</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_3_International_Science_Drama_Competition_at_Science_Centre.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech &amp; Drama Society</div>
+<div class="isomer-card-description">International Science Drama Competition at Science Centre</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_4_Storytelling_Showcase_at_Jurong_West_Public_Library.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech &amp; Drama Society</div>
+<div class="isomer-card-description">Storytelling Showcase at Jurong West Public Library</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_5_Storytelling_Showcase_at_Jurong_West_Public_Library.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech &amp; Drama Society</div>
+<div class="isomer-card-description">Storytelling Showcase at Jurong West Public Library</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_6_Watching_a_play_by_Wild_Rice_at_Funan_Mall.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Speech &amp; Drama Society</div>
+<div class="isomer-card-description">Watching a play by Wild Rice at Funan Mall</div>
+</div>
+</div>
+</div>
 <h4><strong>Programme &amp; Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -481,4 +551,5 @@ for Division III!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
