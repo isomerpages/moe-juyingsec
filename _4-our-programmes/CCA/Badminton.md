@@ -13,6 +13,66 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Badminton__Boy_s__FORMAL.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Badminton</div>
+<div class="isomer-card-description">NSG “B” DIVISION BOYS GETTING READY FOR COMPETITION 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Badminton</div>
+<div class="isomer-card-description">NSG BOYS “C” DIVISION IN GAME</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Badminton</div>
+<div class="isomer-card-description">BADMINTON BOYS DURING TRAINING</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Badminton</div>
+<div class="isomer-card-description">BADMINTON GIRLS DURING BONDING TIME</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture5.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Badminton</div>
+<div class="isomer-card-description">NSG “C” DIVISION GIRLS IN GAME</div>
+</div>
+</div>
+</div>
+<p></p>
 <h4><strong>Vision</strong></h4>
 <p>Motivated sportsperson&nbsp;who strive for excellence.</p>
 <h4><strong>Mission</strong></h4>
