@@ -15,6 +15,79 @@ variant: tiptap
 </div>
 <h4><strong>Vision</strong></h4>
 <p>One Choir One Voice.</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1_preparing_for_cny.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-description">Preparing for CNY</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2_cny_perf_at_nycc.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-description">CNY performance at NYCC</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3_exchange_with_blss.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-description">Exchange with BLSS</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4_exchange_with_blss.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-description">Exchange with BLSS</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5_ndp_perf.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-description">NDP performance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/7_after_ndp_perf.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-description">After NDP performance</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Overview</strong></h4>
 <p>The Juying Choir performed passionately in the Singapore Youth Festival
 2023 and was awarded the Certificate of Commendation. &nbsp;</p>
