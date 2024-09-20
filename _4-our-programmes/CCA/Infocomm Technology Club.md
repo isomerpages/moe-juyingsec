@@ -231,6 +231,8 @@ of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <h4><strong>Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -358,6 +360,64 @@ such as JYSS’s Sports Carnival</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AVIT</div>
+<div class="isomer-card-description">Students in action for National Day 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AVIT</div>
+<div class="isomer-card-description">Student setting up for iRun</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AVIT</div>
+<div class="isomer-card-description">Students doing Events Photography</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AVIT</div>
+<div class="isomer-card-description">Student setting up sound system backstage</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AVIT</div>
+<div class="isomer-card-description">Student shooting for Event</div>
+</div>
+</div>
+</div>
 <h4><strong>Achievements</strong></h4>
 <p>*National competitions were suspended in 2020 due to COVID-19</p>
 <table style="minWidth: 75px">
@@ -613,5 +673,6 @@ such as JYSS’s Sports Carnival</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
