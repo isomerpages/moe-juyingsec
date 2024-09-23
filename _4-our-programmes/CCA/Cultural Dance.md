@@ -13,6 +13,112 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cultural_Dance_FORMAL.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1__JYians_performing_for_SYF_2023.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">JYians performing for SYF 2023</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2__Invitation_to_perform_for_SATA_Commshealth_at_Toa_Payoh_Hub.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">Invitation to perform for SATA Comms Health at Toa Payoh Hub</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3__Combined_Practice_with_Beatty_Sec_Modern_Dancers.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">Combined Practice with Beatty Sec Modern Dancers</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4__Invitation_to_perform_at_Nanyang_CC_NDP_Show.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">Invitation to perform at Nanyang CC NDP Show</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5__After_watching_a_dance_performance_in_Esplanade.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">After watching a dance performance in Esplanade</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/6__Playing_Twister_for_a_bonding_activity.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">Playing Twister for a bonding activity</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/7__JYians_all_excited_to_perform_for_Chingay_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">JYians all excited to perform for Chingay 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/8__Farewell_Party_for_Sec_4s_and_5s.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">Farewell Party for Sec 4s and 5</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/9__Group_photo_with_our_new_sec_1_members.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Dance</div>
+<div class="isomer-card-description">Group photo with our new sec 1 members</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
 <h4><strong>Vision</strong></h4>
 <p>Inculcating values through the love of arts.</p>
 <h4><strong>Mission</strong></h4>

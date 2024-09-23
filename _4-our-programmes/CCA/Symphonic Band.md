@@ -15,6 +15,33 @@ variant: tiptap
 </div>
 <h4><strong>Vision</strong></h4>
 <p>One Band, One Sound.</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Band_20241.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Symphonic Band</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Band_20247.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Symphonic Band</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
 <h4><strong>Mission</strong></h4>
 <p>To develop musical and character excellence, a love for music and a sense
 of camaraderie in members of the symphonic band.</p>
