@@ -17,10 +17,10 @@ variant: markdown
 <p>The 2024 End-of-Year (EOY) Examination Schedule are as follows:</p>
 <p></p>
 
-* <p><a href="https://drive.google.com/file/d/1HljDgzDnQDT69XH4LLXwOQHKATdiaNOp/view?usp=sharing">Secondary 1 EOY Examination Schedule</a></p>
+* <p><a href="https://drive.google.com/file/d/1MEgmLSXao8sL90PXyxj1HrktJWhX8fHy/view?usp=sharing">Secondary 1 EOY Examination Schedule</a></p>
 
-*  <p><a href="https://drive.google.com/file/d/1uyS2VdpDtpg-F3wxerIk5RsfZTFbxvSX/view?usp=sharing">Secondary 2 EOY Examination Schedule</a></p>
-*  <p><a href="https://drive.google.com/file/d/1uspG5VQec-O_DFhRvkXitAc9aAixMRUr/view?usp=sharing">Secondary 3 EOY Examination Schedule</a></p>
+*  <p><a href="https://drive.google.com/file/d/1wA1ACWHS2FxeqW0AskkpOjTDJ7lJdmYS/view?usp=sharing">Secondary 2 EOY Examination Schedule</a></p>
+*  <p><a href="https://drive.google.com/file/d/1Ye88akynYnA43qo0iuGDxB3aFyini5V4/view?usp=sharing">Secondary 3 EOY Examination Schedule</a></p>
 
 <p>
 The attire for the exams is full uniform (school Polo shirt). 
