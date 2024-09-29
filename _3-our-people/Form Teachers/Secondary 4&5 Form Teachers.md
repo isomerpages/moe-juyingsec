@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rauhdah
+<p>Ms Raudhah
 <br>Class 4A2 Form Teacher</p>
 </td>
 </tr>
