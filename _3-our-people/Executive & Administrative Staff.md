@@ -186,6 +186,14 @@ variant: tiptap
 <p>OSO</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alson Chay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
