@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.png
+      background: /images/Homepage_6.png
       key_highlights:
         - title: Administration for Students
           description: ""
