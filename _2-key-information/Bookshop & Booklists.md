@@ -4,11 +4,11 @@ permalink: /information/administrative-information/bookshop-booklists/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Booklists (for year 2024)</strong></h4>
-<p><strong>For Secondary 2-5 students (2024)</strong>
-<br>Click&nbsp;<a href="https://drive.google.com/drive/folders/1g_adlNxgNLqyTV-2Nl-Rv1A3z9npLSrL?usp=drive_link" rel="noopener" target="_blank">here</a>&nbsp;for
-all Secondary 2 to Secondary 5 booklists.
-<br>Download the correct booklist for your respective 2024 classes and banding.
+<h4><strong>Booklists (for year 2025)</strong></h4>
+<p><strong>For Secondary 1-5 students (2025)</strong>
+<br>Click&nbsp;<a href="https://drive.google.com/drive/folders/1ZZtFcR9wX4RBkPdxsN_hgXNJtWvcp6SC?usp=sharing" rel="noopener" target="_blank">here</a>&nbsp;for
+all Secondary 1 to Secondary 5 booklists.
+<br>Download the correct booklist for your respective 2025 classes and banding.
 <br>
 <br><strong>Note</strong>:
 <br>SBB = Subject Based Banding
