@@ -18,27 +18,17 @@ sections:
         - title: The Juying Experience
           description: ""
           url: https://sites.google.com/view/juyingtestimonials/home?authuser=0
+      variant: center
   - infobar:
-      title: Latest Highlights
-      button: click here for more info
-      url: /announcements/
-      description: Latest News, Updates & Announcements
-  - infobar:
-      title: The Juying Story
-      subtitle: Juying Photo Gallery
-      description: Our Memorable Moments
-      button: Click here
-      url: https://www.flickr.com/photos/106251112@N04/sets/
-  - infobar:
-      title: What Our Students Say
-      button: click here for more info
-      url: https://sites.google.com/view/juyingtestimonials/students-testimonials/2023/charis-king-s4
-  - infobar:
-      title: What Our Parents Say
-      button: click here for more info
-      url: https://sites.google.com/view/juyingtestimonials/parents-testimonials/2021/mdm-nancy-lim
-  - infobar:
-      title: What Our Alumni Say
-      button: click here for more info
-      url: https://sites.google.com/view/juyingtestimonials/alumni/huang-rui-jia
+      title: Scroll down the Juying Path
+      id: infobar
+      description: See what lies ahead!
+  - infopic:
+      title: Secondary 1
+      id: infopic
+      description: Experience new friendships in the Orientation Camp, discover your
+        passion in our PASSION ALP programme and have a blast in our Sec 1
+        Adventure Camp!
+      image: /images/sec_1.jpg
+      alt: Image alt text
 ---
