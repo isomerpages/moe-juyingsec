@@ -60,7 +60,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/juyingsecondaryschool?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" rel="noopener nofollow" target="_blank">Juying Official Instagram </a>
+<p><a href="https://www.instagram.com/juyingsecondaryschool?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" rel="noopener nofollow" target="_blank">Juying Official Instagram</a>
 </p>
 </td>
 </tr>
