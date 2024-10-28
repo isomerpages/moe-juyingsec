@@ -54,4 +54,16 @@ sections:
         through the ALP programme and hone your leadership skills in the
         prestigious LEAD camp.
       image: /images/sec_2.jpg
+  - infopic:
+      title: Secondary 3
+      id: infopic
+      description: Infopic description
+  - infopic:
+      title: Secondary 4
+      id: infopic
+      description: Infopic description
+      button: Button Text
+  - infobar:
+      subtitle: programmes subject to changes*
+      id: infobar
 ---
