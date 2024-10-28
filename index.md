@@ -60,7 +60,8 @@ sections:
       title: Secondary 3
       id: infopic
       description: Deepen your connections in the Confidence Camp, serve the community
-        during the ACT Carnival and gain new skills through APLM modules.
+        during the ACT Carnival and gain new skills through exciting APLM
+        modules.
       image: /images/Sec_3.jpg
       alt: Image alt text
   - infopic:
