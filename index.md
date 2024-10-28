@@ -26,9 +26,9 @@ sections:
   - infopic:
       title: Secondary 1
       id: infopic
-      description: Experience new friendships in the Orientation Camp, discover your
-        passion in our PASSION ALP programme and have a blast in our Sec 1
-        Adventure Camp!
+      description: Forge new friendships during the Orientation Camp, discover your
+        passion through the PASSION ALP programme and have an unforgettable Sec
+        1 Adventure Camp!
       image: /images/sec_1.jpg
       alt: Image alt text
 ---
