@@ -47,6 +47,7 @@ sections:
         passion through the PASSION ALP programme and have an unforgettable Sec
         1 Adventure Camp!
       image: /images/sec_1.jpg
+      alt: sec 1 adventure camp
   - infopic:
       title: Secondary 2
       id: infopic
@@ -54,6 +55,7 @@ sections:
         through the ALP programme and hone your leadership skills in the
         prestigious LEAD camp.
       image: /images/sec_2.jpg
+      alt: sec 2 VIA
   - infobar:
       subtitle: programmes subject to changes*
       id: infobar
