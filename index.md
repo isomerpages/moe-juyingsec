@@ -59,17 +59,17 @@ sections:
   - infopic:
       title: Secondary 3
       id: infopic
-      description: Deepen your connections in the Confidence Camp, serve the community
-        during the ACT Carnival and gain new skills through exciting APLM
+      description: Deepen your connections in the Cohort Camp, serve the community
+        during the ACT Carnival and gain new skills through exciting ApLM
         modules.
       image: /images/Sec_3.jpg
       alt: Image alt text
   - infopic:
       title: Secondary 4/5
       id: infopic
-      description: Unite with your class through bonding sessions, prepare for your
-        future with our ECG Cafes and succeed in your exams with dedicated
-        support from your teachers.
+      description: Forge strong relationships through bonding sessions, prepare for
+        your future with our ECG Cafes and succeed in your exams with support
+        from your teachers.
       image: /images/Sec_4.jpg
       alt: Image alt text
   - infobar:
