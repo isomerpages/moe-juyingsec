@@ -23,6 +23,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Launch of Official Instagram
+          date: 21 October 2024
+          announcement: Follow us @juyingsecondaryschool
+          link_text: ""
+          link_url: ""
         - title: Spark Day
           date: 24 October 2024
           announcement: Feel the PASSION as our students engage with students from various
