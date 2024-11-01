@@ -19,5 +19,18 @@ if your child is eligible.</p>
 <p><a href="https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/" rel="noopener noreferrer nofollow" target="_blank">https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/</a>
 </p>
 <p></p>
-<h3><strong>MOE FAS Application Form 2024</strong></h3>
+<h3><strong>ECHA Nomination Form </strong></h3>
+<p>The Ministry of Education has introduced the&nbsp;<strong>Edusave Character Award (ECHA)</strong> to
+enable schools to give recognition to students who are exemplary in their
+character, behaviour and actions. This award is also meant to support schools’
+efforts to nurture students of good character and sound values as active
+contributors and concerned citizens of Singapore.</p>
+<p>You are invited to nominate deserving Juying Secondary School students
+(Singapore citizens only) for the award. Nomination criteria and the forms
+are available in the school General Office, and can be downloaded from
+our school website. A copy is attached for your reference.</p>
+<p>Please submit all completed nomination forms to the General Office or
+email them to<u>&nbsp;</u><a href="mailto:juying_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>juying_ss@moe.edu.sg</u></a>.</p>
+<p>Do check out past ECHA winners <a href="https://www.juyingsec.moe.edu.sg/achievements/echa/" rel="noopener" target="_blank"><u>here</u></a>
+</p>
 <p></p>
