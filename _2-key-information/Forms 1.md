@@ -14,5 +14,7 @@ if your child is eligible.</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p></p>
-<h3><strong>Travel Declaration Form </strong></h3>
+<h3><strong>Travel Declaration Form</strong></h3>
 <p>Follow this steps below to submit your Travel Declaration</p>
+<p><a href="https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/" rel="noopener noreferrer nofollow" target="_blank">https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/</a>
+</p>
