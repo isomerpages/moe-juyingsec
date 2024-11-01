@@ -34,8 +34,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -43,13 +44,23 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/juyingfb.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/juyingfb.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Instagram_icon.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.facebook.com/Juying.Secondary/" rel="noopener noreferrer nofollow" target="_blank">Juying Facebook</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/juyingsecondaryschool?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" rel="noopener nofollow" target="_blank">Juying Official Instagram</a>
 </p>
 </td>
 </tr>
