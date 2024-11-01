@@ -15,11 +15,11 @@ if your child is eligible.</p>
 </p>
 <p></p>
 <h3><strong>Travel Declaration Form</strong></h3>
-<p>Follow this steps below to submit your Travel Declaration</p>
-<p><a href="https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/" rel="noopener noreferrer nofollow" target="_blank">https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/</a>
-</p>
+<p>Click&nbsp;<strong><a href="https://www.juyingsec.moe.edu.sg/files/Travel_Declaration%20(Juying%20Sec)2017.pdf" rel="noopener" target="_blank"><u>HERE</u></a></strong>&nbsp;to
+download the Travel Declaration Form.</p>
 <p></p>
-<h3><strong>ECHA Nomination Form </strong></h3>
+<p></p>
+<h3><strong>ECHA Nomination Form</strong></h3>
 <p>The Ministry of Education has introduced the&nbsp;<strong>Edusave Character Award (ECHA)</strong> to
 enable schools to give recognition to students who are exemplary in their
 character, behaviour and actions. This award is also meant to support schools’
