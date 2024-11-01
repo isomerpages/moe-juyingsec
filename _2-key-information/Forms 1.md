@@ -18,3 +18,6 @@ if your child is eligible.</p>
 <p>Follow this steps below to submit your Travel Declaration</p>
 <p><a href="https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/" rel="noopener noreferrer nofollow" target="_blank">https://www.juyingsec.moe.edu.sg/information/administrative-information/forms/travel-declaration-form/</a>
 </p>
+<p></p>
+<h3><strong>MOE FAS Application Form 2024</strong></h3>
+<p></p>
