@@ -5,4 +5,82 @@ description: ""
 third_nav_title: Secondary 1 Registration
 variant: tiptap
 ---
-<h4><strong>First Day of School 2024 &amp; Orientation</strong></h4><p>Dear Parents / Guardians of Sec 1 students</p><ul data-tight="true" class="tight"><li><p>the first day of school is <strong>Tuesday, 2 January 2024&nbsp;&nbsp;</strong></p></li><li><p>the <strong>Sec 1 Orientation programme</strong> will take place from <strong>2 January 2024 to 5 January 2024&nbsp;</strong>&nbsp;<br></p></li></ul><p><strong>Reporting for the first day of school:</strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p>Date:</p></td><td rowspan="1" colspan="1"><p>Tuesday, 2 January 2024</p></td></tr><tr><td rowspan="1" colspan="1"><p>Time:</p></td><td rowspan="1" colspan="1"><p>7.20am to 3.30pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue:</p></td><td rowspan="1" colspan="1"><p>Multi-Purpose Hall (MPH)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Attire:</p></td><td rowspan="1" colspan="1"><p>Half School Uniform (Yellow Sec 1 PE T-Shirt and Skirt/Shorts)</p></td></tr></tbody></table><p>Things to bring along:</p><ul data-tight="true" class="tight"><li><p>Writing materials</p></li><li><p>Water bottle</p></li><li><p>Personal medication (if needed)</p></li><li><p>Money for recess breaks</p></li></ul><p>Please refer to the announcement sent via Parents Gateway on&nbsp;<strong>21 December 2023&nbsp;</strong> for more information.</p><p><strong>Registration Process</strong></p><p>For registration, please log into Parents Gateway to view the announcement and complete the following:</p><p>1.&nbsp; Provide contact details<br>2.&nbsp; Complete brief questionnaire<br>3.&nbsp; Select 'Yes' to complete the registration</p><p></p><p><strong>Registration period:&nbsp; 21 December 2023, 8am to 22 December 2023, 2pm</strong></p><p>For other information pertaining to Secondary 1 matters, you may refer to the following subpages:</p><ol data-tight="true" class="tight"><li><p><a href="/information/administrative-information/secondary-1-registration/books-n-uniforms" rel="noopener" target="_blank">Books &amp; Uniform</a></p></li><li><p><a href="/information/administrative-information/secondary-1-registration/sec-1-orientation-programme" rel="noopener" target="_blank">Sec 1 Orientation Programme</a></p></li><li><p><a href="/information/administrative-information/secondary-1-registration/subject-based-banding" rel="noopener" target="_blank">Subject Based Banding</a></p></li><li><p><a href="/information/administrative-information/secondary-1-registration/moe-fas" rel="noopener" target="_blank">MOE-FAS</a></p></li><li><p><a href="/information/administrative-information/secondary-1-registration/appeal" rel="noopener" target="_blank">Appeal</a></p></li><li><p><a href="/information/administrative-information/secondary-1-registration/other-enquiries" rel="noopener" target="_blank">Other Enquiries</a></p></li></ol><p></p>
+<h4><strong>First Day of School 2025 &amp; Orientation</strong></h4>
+<p>Dear Parents / Guardians of Sec 1 students</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the first day of school is <strong>Tuesday, 2 January 2025&nbsp;&nbsp;</strong>
+</p>
+</li>
+<li>
+<p>the <strong>Sec 1 Orientation programme</strong> will take place from <strong>2 January 2025 to 5 January 2025&nbsp;</strong>&nbsp;
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Reporting for the first day of school:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 2 January 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.20am to 3.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Multi-Purpose Hall (MPH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Half School Uniform (Yellow Sec 1 PE T-Shirt and Skirt/Shorts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Things to bring along:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Writing materials</p>
+</li>
+<li>
+<p>Water bottle</p>
+</li>
+<li>
+<p>Personal medication (if needed)</p>
+</li>
+<li>
+<p>Money for recess breaks</p>
+</li>
+</ul>
+<p>Please refer to the announcement sent via Parents Gateway by<strong> December 2024&nbsp;</strong> for
+more information.</p>
+<p><strong>Registration Process</strong>
+</p>
+<p>For registration, please log into Parents Gateway to view the announcement
+and complete the following:</p>
+<p>1.&nbsp; Provide contact details
+<br>2.&nbsp; Complete brief questionnaire
+<br>3.&nbsp; Select 'Yes' to complete the registration</p>
