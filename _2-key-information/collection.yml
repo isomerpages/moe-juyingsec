@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - PDLP.md
       - Student Welfare.md
       - Forms.md
       - Direct School Admission.md
