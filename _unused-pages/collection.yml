@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Semester 2 Weighted Assessments.md
       - Semester 1 Weighted Assessments.md
       - End of Year Examination.md
       - ClassTimeTable.md
