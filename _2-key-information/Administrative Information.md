@@ -15,4 +15,8 @@ variant: markdown
 <li><a href="/information/administrative-information/joint-early-admission-exercise">Joint / Early Admission Exercise</a></li>
 <li><a href="/information/administrative-information/direct-school-admission-exercise">Direct School Admission Exercise</a></li>
 <li><a href="/information/administrative-information/cyberwellness">Cyberwellness</a></li>
+
+<li><a href="/information/administrative-information/forms-1">Forms 1</a></li>
+
+<li><a href="/information/administrative-information/student-welfare-1">Student Welfare 1 </a></li>
 </ul>
