@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - End of Year Examination.md
       - ClassTimeTable.md
       - Counselling Services.md
       - ECHA Nomination Form.md
