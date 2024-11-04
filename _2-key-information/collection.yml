@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - Student Welfare.md
       - Forms.md
       - Administrative Information.md
       - Direct School Admission.md
