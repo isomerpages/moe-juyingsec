@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Forms.md
       - Student Welfare.md
       - Useful Links/.keep
       - Useful Links/Staff.md
