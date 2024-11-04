@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Post–Exam Timetable.md
       - FGC Schedules.md
       - Semester 2 Weighted Assessments.md
       - Semester 1 Weighted Assessments.md
