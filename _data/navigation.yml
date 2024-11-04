@@ -23,6 +23,10 @@ links:
         url: /information/administrative-information/direct-school-admission/
       - title: Early Admission Exercise
         url: /information/administrative-information/joint-early-admission-exercise/
+      - title: Forms
+        url: /information/administrative-information/forms/
+      - title: Student Welfare
+        url: /information/administrative-information/student-welfare/
   - title: Our People
     collection: 3-our-people
   - title: Our Programmes
@@ -38,7 +42,3 @@ links:
         url: /links/faq/
       - title: Parents Gateway
         url: /links/parents-gateway/
-      - title: Forms
-        url: /links/forms/
-      - title: Student Welfare
-        url: /links/student-welfare/
