@@ -86,7 +86,7 @@ safely and effectively.</p>
 </p>
 <p>SLS User Guide [<a href="http://go.gov.sg/slsstudentguide](go.gov.sg/slsstudentguide)<br>" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/slsstudentguide](go.gov.sg/slsstudentguide)</a>
 </p>
-<p>SLS Login Troubleshooting Page | [<a href="http://go.gov.sg/slsloginhelp](go.gov.sg/slsloginhelp)" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/slsloginhelp](go.gov.sg/slsloginhelp)</a> 
+<p>SLS Login Troubleshooting Page | [<a href="http://go.gov.sg/slsloginhelp](go.gov.sg/slsloginhelp)" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/slsloginhelp](go.gov.sg/slsloginhelp)</a>
 </p>
 <p>| SLS Helpdesk | 6702 6513 or [<a href="mailto:helpdesk@sls.infinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.infinity.com</a>](mailto:
 <a href="mailto:helpdesk@sls.infinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.infinity.com</a>) Monday- Friday:4:00pm- 9:00pm (School Days),
@@ -99,6 +99,15 @@ hours only</p>
 <p>On Verifying Online Information: | [<a href="https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)</a> [
 <a href="https://go.gov.sg/factually](https://go.gov.sg/factually)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/factually](https://go.gov.sg/factually)</a>
 </p>
+<p></p>
+<p>Dear Parents, if your child encounters any technical issues pertaining
+to their PLD, he or she can approach the school's IT helpdesk thru the
+following means</p>
+<p>1. <strong>Approach any of the IT support staff at Computer Lab 1 during recess time or after school (latest by 5pm)</strong>
+</p>
+<p>Mr Tan Jian Wei (Desktop Engineer ) | Mdm Gayatri (Desktop Engineer) |
+Ms Nur Adilah (ICT Associate)</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
