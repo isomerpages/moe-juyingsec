@@ -2,7 +2,6 @@
 title: GCE O & N level Information
 permalink: /timetables-n-schedules/examination-timetable/gce-o-n-level-information/
 description: ""
-third_nav_title: TimeTables & Examinations
 variant: tiptap
 ---
 <p>Dear JYSS Parents and Students,</p>

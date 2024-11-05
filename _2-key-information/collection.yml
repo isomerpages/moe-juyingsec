@@ -2,33 +2,14 @@ collections:
   2-key-information:
     output: true
     order:
-      - Student Welfare 1.md
-      - Forms 1.md
-      - Administrative Information.md
+      - PDLP.md
+      - Student Welfare.md
+      - Forms.md
       - Direct School Admission.md
-      - TimeTables & Examinations/.keep
-      - TimeTables & Examinations/ClassTimeTable.md
-      - TimeTables & Examinations/End of Year Examination.md
-      - TimeTables & Examinations/Semester 1 Weighted Assessments.md
-      - TimeTables & Examinations/Semester 2 Weighted Assessments.md
-      - TimeTables & Examinations/FGC Schedules.md
-      - TimeTables & Examinations/Post–Exam Timetable.md
-      - TimeTables & Examinations/Preliminary Examination.md
-      - TimeTables & Examinations/GCE O & N level Information.md
       - School Routines & Procedures.md
       - Home Based Learning (HBL).md
-      - PDLP/.keep
-      - PDLP/Personalised Digital Learning Programme (PDLP).md
-      - PDLP/PDLP Useful Links.md
-      - PDLP/PDLP Issue Reporting.md
       - Full Subject–Based Banding (Full SBB).md
       - Bookshop & Booklists.md
-      - Forms/.keep
-      - Forms/FAS Form.md
-      - Forms/Travel Declaration From.md
-      - Forms/ECHA Nomination Form.md
-      - Student Welfare/.keep
-      - Student Welfare/Counselling Services.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
       - Secondary 1 Registration/Appeal.md

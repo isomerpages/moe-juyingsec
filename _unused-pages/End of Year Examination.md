@@ -2,7 +2,6 @@
 title: End of Year Examination
 permalink: /timetables-n-schedules/examination-timetable/end-of-year-examination/
 description: ""
-third_nav_title: TimeTables & Examinations
 variant: markdown
 ---
 <p><strong>Dear Parents and Students</strong></p>

@@ -2,7 +2,6 @@
 title: Semester 2 Weighted Assessments
 permalink: /timetables-n-schedules/examination-timetable/semester-2-weighted-assessments/
 description: ""
-third_nav_title: TimeTables & Examinations
 variant: tiptap
 ---
 <p><strong>Dear Parents and Students.</strong>

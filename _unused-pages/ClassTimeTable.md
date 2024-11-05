@@ -3,7 +3,6 @@ title: ClassTimeTable
 permalink: /administrative-information/timetables-and-schedules/classtime-table/
 variant: tiptap
 description: ""
-third_nav_title: TimeTables & Examinations
 ---
 <p><strong>Dear JYians and Parents,</strong>
 </p>

@@ -2,7 +2,6 @@
 title: Preliminary Examination
 permalink: /timetables-n-schedules/examination-timetable/preliminary-examination/
 description: ""
-third_nav_title: TimeTables & Examinations
 variant: markdown
 ---
 <p><strong>Dear Students &amp; Parents,</strong></p>

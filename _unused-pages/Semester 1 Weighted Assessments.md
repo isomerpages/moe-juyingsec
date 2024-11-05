@@ -2,7 +2,6 @@
 title: Semester 1 Weighted Assessments
 permalink: /timetables-n-schedules/examination-timetable/semester-1-weighted-assessments/
 description: ""
-third_nav_title: TimeTables & Examinations
 variant: markdown
 ---
 <p><strong>Dear Parents and Students</strong></p>

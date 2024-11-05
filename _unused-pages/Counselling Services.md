@@ -3,7 +3,6 @@ title: Counselling Services
 permalink: /2-key-information/permalink/
 variant: tiptap
 description: ""
-third_nav_title: Student Welfare
 ---
 <h3>Overview</h3>
 <p>School Counsellors provide support to students with personal or academic

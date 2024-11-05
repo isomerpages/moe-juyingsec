@@ -1,5 +1,5 @@
 ---
-title: Forms 1
+title: Forms
 permalink: /forms-1/
 variant: tiptap
 description: ""

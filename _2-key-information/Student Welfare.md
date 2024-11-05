@@ -1,5 +1,5 @@
 ---
-title: Student Welfare 1
+title: Student Welfare
 permalink: /student-welfare-1/
 variant: tiptap
 description: ""
