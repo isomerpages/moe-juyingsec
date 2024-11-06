@@ -2,7 +2,6 @@ collections:
   1-about-jyss:
     output: true
     order:
-      - School Yearbook 2024.md
       - Principal's Message.md
       - School Overview/.keep
       - School Overview/School History.md
@@ -12,6 +11,7 @@ collections:
       - School Overview/The School Crest, Motto and Song.md
       - School Overview/H E A R T S Ethos.md
       - Student Handbook.md
+      - School Yearbook 2024.md
       - Why Choose Juying Secondary?/.keep
       - Why Choose Juying Secondary?/Why Choose Juying Secondary?.md
       - Why Choose Juying Secondary?/What Do Our Parents Say About Us?.md
