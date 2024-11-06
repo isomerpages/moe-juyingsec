@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
+<p>Download a pdf Yearbook <a href="https://online.fliphtml5.com/xvxdz/trfx/#p=1" rel="noopener nofollow" target="_blank">here</a>
+</p>
