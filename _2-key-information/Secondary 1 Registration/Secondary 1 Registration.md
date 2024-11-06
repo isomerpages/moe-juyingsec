@@ -9,12 +9,7 @@ variant: tiptap
 <p>Dear Parents / Guardians of Sec 1 students</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>the first day of school is <strong>Tuesday, 2 January 2025&nbsp;&nbsp;</strong>
-</p>
-</li>
-<li>
-<p>the <strong>Sec 1 Orientation programme</strong> will take place from <strong>2 January 2025 to 5 January 2025&nbsp;</strong>&nbsp;
-<br>
+<p>the first day of school is <strong>Thursday, 2 January 2025&nbsp;&nbsp;</strong>
 </p>
 </li>
 </ul>
@@ -55,7 +50,7 @@ variant: tiptap
 <p>Attire:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Half School Uniform (Yellow Sec 1 PE T-Shirt and Skirt/Shorts)</p>
+<p>Half School Uniform (Sec 1 PE T-Shirt and Skirt/Shorts)</p>
 </td>
 </tr>
 </tbody>
