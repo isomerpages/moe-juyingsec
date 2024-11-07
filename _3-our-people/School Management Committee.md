@@ -198,7 +198,7 @@ variant: tiptap
 <p>Ms Amanda Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Lower Sec (English &amp; Literature</p>
+<p>Subject Head Lower Sec (English Language)</p>
 </td>
 </tr>
 <tr>
