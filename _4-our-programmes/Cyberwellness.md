@@ -2,6 +2,7 @@
 title: Cyberwellness
 permalink: /information/administrative-information/cyberwellness/
 description: ""
+variant: markdown
 ---
 #### **Cyber Wellness Information for Parents**
 <h4><strong>Cyber Wellness Information for Parents</strong></h4>
@@ -30,31 +31,22 @@ description: ""
 <p><strong>Parent Kit on Cyber Wellness for your child</strong></p>
 <ul>
 <li><a rel="noopener" href="https://go.gov.sg/moe-cyber-wellness">https://go.gov.sg/moe-cyber-wellness</a></li>
-<li><a rel="noopener" href="https://moe.gov.sg/programmes/cyber-wellness">https://moe.gov.sg/programmes/cyber-wellness</a></li>
-<li><a rel="noopener" href="https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fbetter-internet-sg&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNFDCEc0Uo3Wk65YnKjIc_-jNOIMOw">https://go.gov.sg/better-internet-sg</a></li>
 <li><a rel="noopener" href="http://sure.nlb.gov.sg/">http://sure.nlb.gov.sg</a></li>
 <li><a rel="noopener" href="http://help123.sg/">http://help123.sg</a></li>
 </ul>
 <p><strong>From External Agencies</strong></p>
 <ul>
-<li><a rel="noopener noreferrer" href="https://www.betterinternet.sg/">Media Literacy Council</a></li>
-<li><a rel="noopener noreferrer" href="https://www.scamalert.sg/resources/videos">National Crime Prevention Council</a></li>
+
 <li><a rel="noopener noreferrer" href="https://sure.nlb.gov.sg/">S.U.R.E. by National Library Board</a></li>
 <li><a rel="noopener noreferrer" href="https://csa.gov.sg/programmes/sg-cyber-safe-students">Cyber Security Agency</a></li>
 </ul>
 <p><strong>Other References</strong><br></p>
 <ol>
-<li><a rel="noopener" href="http://d1qmdf3vop2l07.cloudfront.net/eggplant-cherry.cloudvent.net/compressed/01972a9579924cbba7943c849bf159b3.pdf">Addressing Childhood Digital Milestones in A Digital Environment</a></li>
-<li><a href="/information/administrative-information/goog_1667781451">Why Parents Should Look Up From Their Phones?</a></li>
+
+
 <li><a rel="noopener" href="https://www.commonsensemedia.org/blog/how-to-raise-a-kid-with-a-conscience">How To Raise a Kid With Conscience?</a></li>
 <li><a rel="noopener" href="https://www.commonsensemedia.org/videos/helping-kids-spot-fake-news">Helping Kids Spot Fake News</a></li>
 <li><a rel="noopener" href="https://www.sciencedaily.com/releases/2017/09/170926091550.htm">School, Health &amp; Behaviour Suffer When TV &amp; Video Games Are In the Bedroom</a>&nbsp;</li>
 <li><a rel="noopener" href="https://www.saferinternet.org.uk/blog/livestreaming-top-tips-young-people">Livestreaming Habits Among Youths</a></li>
 <li><a rel="noopener" href="http://edition.cnn.com/2017/08/03/health/online-predators-parents-partner/index.html">Parents, Here's The Truth About Online Predators</a></li>
-<li><a rel="noopener" href="http://www.bbc.com/news/av/world-us-canada-41114887/how-are-smartphones-affecting-teenagers">How Are Smartphones Affecting Teenagers</a></li>
-<li><a rel="noopener" href="https://www.gov.sg/news/content/today-online---webchat-channel-aims-to-help-youths-overcome-cyber-addiction?utm_source=tr.im&amp;utm_medium=no_referer&amp;utm_campaign=tr.im%2F1jwZ5&amp;utm_content=direct_input">WebChat Channel Aims To Help Youths with Cyber Addiction</a></li>
-<li><a rel="noopener" href="https://www.esafety.gov.au/about-the-office/newsroom/blog/location-location-location?utm_source=tr.im&amp;utm_medium=no_referer&amp;utm_campaign=tr.im%2F1b5Dv&amp;utm_content=direct_input">Advice for Parents on How to Mitigate the Risks of Location-Based Services &amp; Geo Tagging App Features</a></li>
-<li><a rel="noopener" href="https://www.netsafe.org.nz/parents-bullying/">Online Bullying - Advise For Parents</a></li>
-<li><a rel="noopener" href="https://www.netsafe.org.nz/online-safety-for-parents/">10 Tips For Parenting in the Digital Age</a></li>
-<li><a rel="noopener" href="https://beinternetawesome.withgoogle.com/interland">Interland - Online Game by Google That Teaches Good Cyber Wellness Habits</a></li>
-</ol>
+<li><a rel="noopener" href="http://www.bbc.com/news/av/world-us-canada-41114887/how-are-smartphones-affecting-teenagers">How Are Smartphones Affecting Teenagers</a></li></ol>
