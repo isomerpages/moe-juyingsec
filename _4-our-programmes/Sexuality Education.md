@@ -2,6 +2,7 @@
 title: Sexuality Education
 permalink: /people/departments/student-development-team/sexuality-education/
 description: ""
+variant: markdown
 ---
 #### **Moe Sexuality Education in Schools**
 1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -17,7 +18,7 @@ description: ""
 (iii) Make responsible decisions for yourself, your family and society; and<br>
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/)&nbsp;**website unavailable**&nbsp;for more information on MOE Sexuality Education.
+
 
 #### **Overview of Juying Secondary School’s Sexuality Education Programme**
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp;
