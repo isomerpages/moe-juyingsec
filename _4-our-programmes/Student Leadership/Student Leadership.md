@@ -3,6 +3,7 @@ title: Student Leadership
 permalink: /programmes/student-leadership/
 description: ""
 third_nav_title: Student Leadership
+variant: markdown
 ---
 #### **Student Leadership Development Programme**
 Here at Juying, our Student Leadership Development Programme is based on the belief that every JY student leader has the courage to serve as they lead and make R2IGHT choices to positively influence others and bring about changes. We believe&nbsp;**_every JYian can be a values-driven leader_**&nbsp;and contributing citizen and we encourage our leaders to seize the opportunities available to them and strive for personal growth, so that they can&nbsp;**_S.H.I.N.E_**&nbsp;in his/ her own way.
@@ -41,7 +42,7 @@ Through our whole-school approach, Juying Student Leadership works closely with 
 In Juying, there are currently four leadership boards,&nbsp;_Student Councillor (SCs), CCA Leaders, Class Leaders and Peer Support Leaders_. These leaders collaborate and drive in activities and events to achieve a shared&nbsp;Positive School Culture (PSC)&nbsp;which comprises of three focus areas set out by our Principal – a&nbsp;_Gracious Community_,&nbsp;_Strong School Pride_&nbsp;and&nbsp;_Good Discipline_.
 
 ##### **1. Juying Student Council (JYSC)**
-The&nbsp;_Student Councillors_&nbsp;represent the pinnacle of student leadership in the school. They are driven individuals serve the school in various ways. They carry out strategic initiatives and activities that improves student life, leads fellow students and student leaders in organising events and student conversations that would contribute to a Positive School Culture. The Student Councillor’s journey is one that is extremely challenging, yet extremely fulfilling. Check out the&nbsp;[Student Council](https://staging.d1o9rele4xczce.amplifyapp.com/CCA/clubs-and-societies/student-council/)&nbsp;page to find out more!
+The&nbsp;_Student Councillors_&nbsp;represent the pinnacle of student leadership in the school. They are driven individuals serve the school in various ways. They carry out strategic initiatives and activities that improves student life, leads fellow students and student leaders in organising events and student conversations that would contribute to a Positive School Culture. The Student Councillor’s journey is one that is extremely challenging, yet extremely fulfilling. 
 
 <img src="/images/student%20leadership%203.jpg" style="width:85%">
 
