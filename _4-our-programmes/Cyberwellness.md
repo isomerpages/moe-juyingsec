@@ -45,7 +45,6 @@ variant: markdown
 
 
 <li><a rel="noopener" href="https://www.commonsensemedia.org/blog/how-to-raise-a-kid-with-a-conscience">How To Raise a Kid With Conscience?</a></li>
-<li><a rel="noopener" href="https://www.commonsensemedia.org/videos/helping-kids-spot-fake-news">Helping Kids Spot Fake News</a></li>
 <li><a rel="noopener" href="https://www.sciencedaily.com/releases/2017/09/170926091550.htm">School, Health &amp; Behaviour Suffer When TV &amp; Video Games Are In the Bedroom</a>&nbsp;</li>
 <li><a rel="noopener" href="https://www.saferinternet.org.uk/blog/livestreaming-top-tips-young-people">Livestreaming Habits Among Youths</a></li>
 <li><a rel="noopener" href="http://edition.cnn.com/2017/08/03/health/online-predators-parents-partner/index.html">Parents, Here's The Truth About Online Predators</a></li>

@@ -13,9 +13,6 @@ all Secondary 1 to Secondary 5 booklists.
 <br><strong>Note</strong>:
 <br>SBB = Subject Based Banding
 <br>OOS = Out of Stream</p>
-<h4><strong>Online Book Store Orders</strong></h4>
-<p>Website for online orders:&nbsp;<a href="http://www.actlink.com.sg/" rel="noopener" target="_blank">http://www.actlink.com.sg</a>
-</p>
 <hr>
 <p>Website open for online orders:</p>
 <p>Phone:&nbsp;<strong>8362 6728</strong>&nbsp;| Fax:&nbsp;<strong>6794 5400<br></strong>Enquiries:&nbsp;<strong>storders@actlink.com.sg</strong>

@@ -136,7 +136,7 @@ and its importance to a leader.</p>
 </tbody>
 </table>
 <p><strong>APPLICATION PROCEDURE:</strong>
-<br><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.<strong>&nbsp;</strong>
+<br><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
@@ -151,25 +151,28 @@ and its importance to a leader.</p>
 <p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Instructions on Application (Mainstream students)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Instructions on Application (Non-Mainstream Students)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -177,10 +180,12 @@ and its importance to a leader.</p>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
 <p>*go live on 7 May, 11am</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -189,7 +194,7 @@ and its importance to a leader.</p>
 <p>*go live on 7 May, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
@@ -198,7 +203,7 @@ and its importance to a leader.</p>
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>
@@ -207,12 +212,13 @@ and its importance to a leader.</p>
 <p>DSA-Sec School Finder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>SELECTION PHASE<br></strong>1. Interview by school selection panel.&nbsp;
 <br>2. Audition (brief demonstration of skills)&nbsp;<strong>schedule to be confirmed.</strong>
 </p>
