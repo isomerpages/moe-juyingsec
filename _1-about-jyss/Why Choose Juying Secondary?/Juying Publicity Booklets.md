@@ -17,7 +17,10 @@ variant: markdown
 <h4><strong>JUYING P6 Publicity Booklet 2023</strong></h4>
 <p>Presenting to you the JUYING P6 Publicity Booklet 2023 dedicated to P6 students &amp; their parents.</p>
 
-<a href="https://drive.google.com/file/d/1qJiddPdq2slbKnMil0-A9lvfmxVTAbq1/view?usp=share_link"><img style="width: 50%;" src="/images/jpb1.png"></a>
+<a href="https://drive.google.com/file/d/1015hYsC5YyAqH9wO1-dX9KlYsAFznDbC/view?usp=sharing"><img style="width: 50%;" src="/images/Juying_Booklet_1.png"></a>
+
+<p style="text-align: center;">Click on the artwork or click&nbsp;<u><a href="https://drive.google.com/file/d/1rNdkTGoD7wVDUe6GwQTocn7ECNj919Q0/view?usp=sharing" target="_blank" rel="noopener">here</a></u> to download a PDF copy.<br>Filesize: 33 MB<br>Recommended to be downloaded using wifi.</p>
+
 
 <h4><strong>JUYING P6 Publicity Booklet 2022</strong></h4>
 <p>Presenting to you the JUYING P6 Publicity Booklet 2022 dedicated to P6 students &amp; their parents.</p>
