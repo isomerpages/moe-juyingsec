@@ -8,10 +8,10 @@ variant: markdown
 <h4><strong>JUYING P6 Publicity Booklet 2024</strong></h4>
 <p>Presenting to you the JUYING P6 Publicity Booklet 2024 dedicated to P6 students &amp; their parents.</p>
 
-<a href="https://drive.google.com/file/d/1nAgs95iGE90Rc-5RHWonGN8a-5iFzCCZ/view?usp=sharing"><img style="width: 50%;" src="/images/Juying Booklet.png"></a>
+<a href="https://drive.google.com/file/d/1nAgs95iGE90Rc-5RHWonGN8a-5iFzCCZ/view?usp=sharing"><img style="width: 50%;" src="/images/Juying_Booklet.png"></a>
 
 
-
+<p style="text-align: center;">Click on the artwork or click&nbsp;<u><a href="https://drive.google.com/file/d/1wllE1RklsaHDcyDWprgB-4JBqxg_NQlh/view?usp=sharing" target="_blank" rel="noopener">here</a></u> to download a PDF copy.<br>Filesize: 33 MB<br>Recommended to be downloaded using wifi.</p>
 
 
 
