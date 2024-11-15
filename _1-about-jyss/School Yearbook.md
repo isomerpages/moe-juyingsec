@@ -1,5 +1,5 @@
 ---
-title: School Yearbook 2024
+title: School Yearbook
 permalink: /jyss-yearbook-2024/
 variant: tiptap
 description: ""
