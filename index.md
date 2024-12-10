@@ -23,22 +23,17 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: N-Level Results Release
+          date: 16 December 2024
+          announcement: GCE N-level candidates may collect their results in school on 16
+            Dec, Monday. Please report in full school attire with proper,
+            approved haircut, at 1.45pm. Wishing JYians All the best for your
+            results and future endeavors!
+          link_text: ""
+          link_url: ""
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool
-          link_text: ""
-          link_url: ""
-        - title: Spark Day
-          date: 24 October 2024
-          announcement: Feel the PASSION as our students engage with students from various
-            primary schools through their passion projects.
-          link_text: ""
-          link_url: ""
-        - title: Juying Open House
-          date: 16 November 2024
-          announcement: Open to all P6 students and parents.  Join us for an exciting day
-            of exploration and discovery, where you can experience firsthand
-            what makes our school a vibrant place to learn and grow.
           link_text: ""
           link_url: ""
   - infobar:
