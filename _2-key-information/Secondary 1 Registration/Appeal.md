@@ -28,12 +28,13 @@ problems.</p>
 </li>
 <li>
 <p>Severe physical impairments, such as those requiring permanent use of
-a wheelchair.</p>
+a wheelchair.
+<br>
+<br><strong>Appeal deadline: 19 December 2024, 12 pm</strong>
+</p>
 </li>
 </ul>
-<p><strong>Appeal deadline: 19 December 2024, 12 pm</strong>
-<br><strong>Appeal for School Transfer (non-medical conditions and other reasons)</strong>
-</p>
+<h4><strong>Appeal for School Transfer (non-medical conditions and other reasons)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To appeal for a <strong><u>transfer out</u></strong> of Juying Secondary
