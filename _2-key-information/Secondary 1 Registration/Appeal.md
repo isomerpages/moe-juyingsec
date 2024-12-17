@@ -64,16 +64,3 @@ submit your application using the following link (<a rel="noopener noreferrer no
 <p><strong>Appeal Deadline: 24 December 2024, 12.00pm.</strong>
 </p>
 <p></p>
-<p><strong><u>Other Enquiries (Tab)</u></strong>
-<br>If you have any other questions or concerns regarding Sec 1 Registration,
-<br>you may contact the school:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Call us at 6308 9898</p>
-</li>
-<li>
-<p>Email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a>
-</p>
-</li>
-</ul>
-<p></p>
