@@ -1,8 +1,9 @@
 ---
-title: Financial Assistance Scheme Form
-permalink: /forms-1/
+title: MOE FAS
+permalink: /moe-fas/
 variant: tiptap
 description: ""
+third_nav_title: Secondary 1 Registration
 ---
 <h3><strong>FAS Application Form 2025</strong></h3>
 <p><strong>Financial Assistance Scheme (FAS)</strong>
@@ -38,7 +39,6 @@ counters</p>
 </li>
 <li>
 <p>A queue number will be issued to the student at the General Office counter</p>
-<p></p>
 </li>
 </ul>
 <p></p>
