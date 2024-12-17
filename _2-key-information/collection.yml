@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - Secondary 1 Registration/Books & Uniform.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
       - Secondary 1 Registration/Full Subject–Based Banding (Full SBB).md
