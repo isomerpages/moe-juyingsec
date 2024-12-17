@@ -40,10 +40,10 @@ near the school.
 <br>You can download the Sec 1 Booklist <a href="https://drive.google.com/file/d/1GOwkEGMn_emPcTC1RGyL-bY3WOP-Xeaf/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong><u>Books and Uniform Purchase Online</u></strong>
 <br>For online purchase of <strong>books</strong> and booking of appointments,
-you may do so here: <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">here</a><u><br></u>You
-are required to create an account before proceeding with your online purchase.</p>
+you may do so here: <a href="http://asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a><u><br></u>You are
+required to create an account before proceeding with your online purchase.</p>
 <p>For online purchase of <strong>uniforms</strong> and booking of appointments,
-you may do so here: <a href="https://finestuniform.com/collections/juying-secondary-school" rel="noopener nofollow" target="_blank">here</a><u> <br></u>The
+you may do so here: <a href="https://finestuniform.com/collections/juying-secondary-school" rel="noopener nofollow" target="_blank">here</a><u><br></u>The
 online order passcode is: JYSS22b</p>
 <hr>
 <p><strong><u>FSBB Matters</u></strong>
