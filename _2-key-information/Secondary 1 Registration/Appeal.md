@@ -11,12 +11,12 @@ variant: tiptap
 <p>To apply for an appeal to transfer out of Juying Secondary school due
 to serious medical conditions, please prepare the supporting documents
 (i.e. medical reports, and/or letters from doctors) and file your appeal,
-in-person, at Juying Secondary School by 21 December 2023, 12pm.</p>
+in-person, at Juying Secondary School by 19 December 2024, 12 pm.</p>
 </li>
 <li>
 <p>However, if you wish to file your appeal online, you can submit your appeal
-request and supporting documents via email to Mr Wang Woon Keat, Assistant
-Year Head (<a href="mailto:wang_woon_keat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_woon_keat@moe.edu.sg</a>)</p>
+request and supporting documents via email to Mr Choong Guo Wei, Assistant
+Year Head (<a rel="noopener noreferrer nofollow" target="_blank">choong_guo_wei@schools.gov.sg</a>)</p>
 </li>
 </ul>
 <p>Appeals for serious medical conditions will only be considered for students
@@ -31,14 +31,14 @@ problems.</p>
 a wheelchair.</p>
 </li>
 </ul>
-<p><strong>Appeal deadline: 21 December 2023, 12.00pm</strong>
+<p><strong>Appeal deadline: 19 December 2024, 12 pm</strong>
+<br><strong>Appeal for School Transfer (non-medical conditions and other reasons)</strong>
 </p>
-<h4><strong>Appeal for School Transfer (non-medical conditions and other reasons)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To appeal for a transfer out of Juying Secondary School, your child/ward
-must still complete the Sec 1 Registration via Parents Gateway and attend
-school until the transfer is approved.</p>
+<p>To appeal for a <strong><u>transfer out</u></strong> of Juying Secondary
+School, your child/ward must still complete the Sec 1 Registration via
+Parents Gateway and attend school until the transfer is approved.</p>
 </li>
 <li>
 <p>Please refer to the following MOE guidelines when considering to appeal
@@ -56,6 +56,24 @@ point of the posting year.</p>
 </li>
 </ul>
 </li>
+<li>
+<p>To appeal for a <strong><u>transfer into</u></strong> Juying Secondary School,
+submit your application using the following link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss2025sec1appeal</a>).</p>
+</li>
 </ul>
-<p><strong>Appeal Deadline: 26 December 2023, 12.00pm.</strong>
+<p><strong>Appeal Deadline: 24 December 2024, 12.00pm.</strong>
 </p>
+<p></p>
+<p><strong><u>Other Enquiries (Tab)</u></strong>
+<br>If you have any other questions or concerns regarding Sec 1 Registration,
+<br>you may contact the school:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Call us at 6308 9898</p>
+</li>
+<li>
+<p>Email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
