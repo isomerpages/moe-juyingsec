@@ -4,33 +4,41 @@ permalink: /forms-1/
 variant: tiptap
 description: ""
 ---
-<h3><strong>MOE FAS Application Form 2025</strong></h3>
-<p>Singapore Citizens in financial need can get assistance from MOE on school
-fees and other expenses. This applies to government, government-aided,
-special education (SPED), specialised and some independent schools. Learn
-if your child is eligible.</p>
-<p><a href="https://drive.google.com/file/d/11-PLxuUQEw_tdFip5AxH6pzj7falywgp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/-/media/a2155de9879a4d1db7eef286a4451e2c.ashx</a>
+<h3><strong>FAS Application Form 2025</strong></h3>
+<p><strong>Financial Assistance Scheme (FAS)</strong>
+<br>To apply for FAS, you can do it through any one of the following methods:
+<br>
+<br>1.&nbsp;Download the form and submit the completed form with all supporting
+documents physically at the school’s general office. Alternatively, you
+can scan and email the completed form with all supporting documents to
+the school. Download the form <a href="https://drive.google.com/file/d/11-PLxuUQEw_tdFip5AxH6pzj7falywgp/view" rel="noopener nofollow" target="_blank">here</a>
+<br>School’s email address: <a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a>
 </p>
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
-</p>
+<p>2.&nbsp;Apply online. You may do so <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
+<br>For more information, you may contact the school’s general office or refer
+to MOE’s website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>)</p>
+<p>You are encouraged to apply by 20 December 2024 to facilitate smooth collection
+of books and uniform.</p>
 <p></p>
-<h3><strong>Travel Declaration Form</strong></h3>
-<p>Click&nbsp;<strong><a href="https://www.juyingsec.moe.edu.sg/files/Travel_Declaration%20(Juying%20Sec)2017.pdf" rel="noopener" target="_blank"><u>HERE</u></a></strong>&nbsp;to
-download the Travel Declaration Form.</p>
+<h3><strong>Financial Assistance Scheme (FAS) Application and Collection of FAS Items</strong></h3>
+<p>Students who are successful in their FAS application (approved by primary
+school) can visit the school during office hours from 18 December 2024
+onwards</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>No appointment is needed</p>
+</li>
+<li>
+<p>Please proceed to the General Office with their FAS approval letter and
+receive the collection forms before heading to the bookstore and other
+counters</p>
+</li>
+<li>
+<p>Please bring along the student’s ez-link card</p>
+</li>
+<li>
+<p>A queue number will be issued to the student at the General Office counter</p>
 <p></p>
-<p></p>
-<h3><strong>ECHA Nomination Form</strong></h3>
-<p>The Ministry of Education has introduced the&nbsp;<strong>Edusave Character Award (ECHA)</strong> to
-enable schools to give recognition to students who are exemplary in their
-character, behaviour and actions. This award is also meant to support schools’
-efforts to nurture students of good character and sound values as active
-contributors and concerned citizens of Singapore.</p>
-<p>You are invited to nominate deserving Juying Secondary School students
-(Singapore citizens only) for the award. Nomination criteria and the forms
-are available in the school General Office, and can be downloaded from
-our school website. A copy is attached for your reference.</p>
-<p>Please submit all completed nomination forms to the General Office or
-email them to<u>&nbsp;</u><a href="mailto:juying_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>juying_ss@moe.edu.sg</u></a>.</p>
-<p>Do check out past ECHA winners <a href="https://www.juyingsec.moe.edu.sg/achievements/echa/" rel="noopener" target="_blank"><u>here</u></a>
-</p>
+</li>
+</ul>
 <p></p>
