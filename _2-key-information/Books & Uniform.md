@@ -46,36 +46,16 @@ are required to create an account before proceeding with your online purchase.</
 you may do so here: <a href="https://finestuniform.com/collections/juying-secondary-school" rel="noopener nofollow" target="_blank">here</a><u> <br></u>The
 online order passcode is: JYSS22b</p>
 <hr>
-<p>Website open for online orders:
-<br>Phone:&nbsp;<strong>8362 6728</strong>&nbsp;| Fax:&nbsp;<strong>6794 5400<br></strong>Enquiries:&nbsp;<strong>storders@actlink.com.sg</strong>
-</p>
-<h4><strong>Home Delivery or Self-Collection Option (S2 ,S3, S4, S5)</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Delivery will be made to the home address within<strong>&nbsp;7 working days from the date of orde</strong>r.</p>
-</li>
-<li>
-<p>Islandwide delivery service is available at a charge of $10.00 per student,
-per delivery address (applicable when there are 1 order and above in a
-delivery address).</p>
-</li>
-<li>
-<p>Alternatively, self-collection can be made at the school bookstore on
-the dates stated above.</p>
-</li>
-</ol>
-<h4><strong>Home Delivery or Self-Collection Option (S1)</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Home delivery service for online orders will only be made up to&nbsp;<strong>30 Dec 2022</strong>.
-<br>&nbsp;Delivery fee is $10.00 per student and per delivery address.</p>
-</li>
-<li>
-<p>After&nbsp;<strong>30 Dec 2022</strong>, books shall be collected at the
-school bookstore on the dates stated above. Students are advised to collect
-their books&nbsp;<strong>by 3 Jan 2023</strong>.</p>
-</li>
-</ol>
+<p><strong><u>FSBB Matters</u></strong>
+<br>As part of Full Subject Based Banding (FSBB), students have the flexibility
+to offer subjects at different levels according to their strengths, interests
+and learning needs. Students in the Posting Group 1 or 2 and being offered
+subjects at a more demanding level (MDL) will be contacted by the school.</p>
+<p>Please refer to the <strong><u>Full Subject Based Banding</u></strong> subpage
+for more information.</p>
+<p>Please note that in the event that you and your child are still considering
+the MDL subjects, it is recommended that you do not purchase the books
+for these subjects s until your decision has been confirmed.</p>
 <p></p>
 <h4></h4>
 <p></p>
