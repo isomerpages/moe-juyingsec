@@ -5,11 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Full Subject-Based Banding</h3>
-<p>Starting from the 2024 Secondary 1 cohort, the Normal (Technical), Normal
-(Academic) and Express streams will be removed. Under Full Subject-Based
-Banding (Full SBB), students will instead be posted to secondary schools
-through Posting Groups 1, 2 and 3 respectively. As they progress through
-secondary school, they will have greater flexibility to offer subjects
-at different subject levels.</p>
-<p>Read this article for more information. <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
+<p><strong>Full Subject-Based Banding (FSBB)</strong>&nbsp;allows students
+of the G1 and G2 courses to take up subjects of varying difficulty levels
+that are suited to their pace of learning.&nbsp;</p>
+<p><strong>If your child is eligible to take a subject at a more demanding level (MDL),</strong>&nbsp;you
+will receive a notification via&nbsp;<strong>Parents Gateway (PG).</strong>
 </p>
+<p><strong>You will need to accept or reject the SBB offer via PG by 22 Dec 2024</strong>.
+&nbsp;
+<br>Please take note that you only need to indicate a response for subjects
+that your child/ward is eligible for.</p>
+<p></p>
