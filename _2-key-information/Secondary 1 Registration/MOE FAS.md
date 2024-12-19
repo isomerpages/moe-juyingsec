@@ -23,8 +23,8 @@ of books and uniform.</p>
 <p></p>
 <h3><strong>Financial Assistance Scheme (FAS) Application and Collection of FAS Items</strong></h3>
 <p>Students who are successful in their FAS application (approved by primary
-school) can visit the school during office hours from 18 December to 23
-December 2024 onwards</p>
+school) can visit the school during office hours from 23 December 2024
+onwards</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>No appointment is needed</p>
