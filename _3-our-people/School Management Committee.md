@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ashok</p>
+<p>Mr Ashok Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation manager</p>
