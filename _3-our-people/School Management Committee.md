@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Beng Mui</p>
+<p>Mr Kyris Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Ching</p>
+<p>Mr Chua Yew Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice<strong>-</strong>Principal</p>
@@ -64,14 +64,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Maybellina Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,14 +95,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Student Management)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Wenqing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Science)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +255,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ashok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation manager</p>
 </td>
 </tr>
 </tbody>
