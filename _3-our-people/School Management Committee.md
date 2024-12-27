@@ -4,9 +4,9 @@ permalink: /people/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_Members.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_27_143750.png">
 </div>
 <h3>School Management Committee</h3>
 <h4><strong>School Leaders</strong></h4>
