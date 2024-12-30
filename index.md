@@ -23,14 +23,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: N-Level Results Release
-          date: 16 December 2024
-          announcement: GCE N-level candidates may collect their results in school on 16
-            Dec, Monday. Please report in full school attire with proper,
-            approved haircut, at 1.45pm. Wishing JYians All the best for your
-            results and future endeavors!
-          link_text: ""
-          link_url: ""
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool
