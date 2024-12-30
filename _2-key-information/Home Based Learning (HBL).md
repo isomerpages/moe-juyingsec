@@ -21,7 +21,7 @@ experience in schools.</p>
 <p>Information on home based learning days will be sent through Parents'
 Gateway at the start of the semester.</p>
 <blockquote>
-<h4><strong>Home Based Learning Days for 2024</strong></h4>
+<h4><strong>Home Based Learning Days for 2025</strong></h4>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -43,40 +43,40 @@ Gateway at the start of the semester.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Jan</p>
+<p>22 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Mar</p>
+<p>26 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Jul</p>
+<p>2 Jul</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 Feb</p>
+<p>5 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Apr</p>
+<p>9 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 - 25 Jul</p>
+<p>15 - 17 Jul (Tue - Thur)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Feb</p>
+<p>19 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Jul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
