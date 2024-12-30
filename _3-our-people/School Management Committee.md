@@ -4,9 +4,10 @@ permalink: /people/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3></h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_Members.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_30_093358.png">
 </div>
 <h3>School Management Committee</h3>
 <h4><strong>School Leaders</strong></h4>
@@ -26,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Beng Mui</p>
+<p>Mr Kyris Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -42,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Ching</p>
+<p>Mr Chua Yew Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice<strong>-</strong>Principal</p>
@@ -64,14 +65,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Maybellina Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,14 +96,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Student Management)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Wenqing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Science)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +256,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ashok Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation manager</p>
 </td>
 </tr>
 </tbody>
