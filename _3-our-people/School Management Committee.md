@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h3></h3>
 <h3></h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_30_093358.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_31_102241.png">
 </div>
 <h3>School Management Committee</h3>
 <h4><strong>School Leaders</strong></h4>
