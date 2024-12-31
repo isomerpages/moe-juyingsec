@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mr Chua Yew Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice<strong>-</strong>Principal</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 </tbody>
@@ -80,6 +80,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Raba'ah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
