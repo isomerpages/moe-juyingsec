@@ -56,28 +56,28 @@ lessons are designed and enacted to provide the learning experiences to
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/pdlp1.jpg">
 </div>
-<h4><strong>Students' Experience 1 to 1 Learning</strong></h4>
-<p><strong>require video be on youtube</strong>
-</p>
+<h4></h4>
 <h4><strong>Parent Handbook</strong></h4>
-<p>Click on the link below to view or download the Parent Handbook.</p>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a PLD_2024.pdf</a> 
-<br><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a PLD_2024.pdf</a>
+<p>Click on the link below to view or download the Parent Handbook.
+<br><a href="https://drive.google.com/file/d/1xS8KL16ZMn0yh4l757wT5AcNTDPjF-HT/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook | on Learning with a PLD_2025.pdf</a>
+<br><a href="https://drive.google.com/file/d/1QSDhqpeAGfdcxWcQYHSJg178TmsFM1cz/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook | on Learning with a PLD_2025.pdf</a>
+<br>
 </p>
 <h4><strong>FAQs for the Roll-Out of the Personal Learning Devices</strong></h4>
-<p>Click on the link below to view or download the FAQ list</p>
-<p><a href="/files/set of faqs for schools reference_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Set of FAQs for schools reference_2024.pdf</a>
+<p>Click on the link below to view or download the FAQ list
+<br><a href="https://drive.google.com/file/d/1Ero9FqH9uf_RQ2QQiNZUAhtzoFforgoG/view?usp=sharing" rel="noopener nofollow" target="_blank">Set of FAQs for school reference_2025.pdf</a>
 </p>
+<p></p>
 <h4><strong>PDLP @ Juying</strong></h4>
 <p>Juying Secondary will continuously engage our students and parents/guardians
 by sharing our school’s&nbsp;approach and implementation plan for PDLP.&nbsp;
-Click the following for the Parents Engagement Slides.</p>
-<p><a href="/files/Parent%20Engagement%20Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Slides Deck.pdf</a>
+Click the following for the Parents Engagement Slides.
+<br><a href="https://drive.google.com/file/d/1CcG4Nx2_B_2V37X7wRB_ebPVfeYRfJzF/view?usp=sharing" rel="noopener nofollow" target="_blank">Parents Engagement Slides Deck_2024.pdf</a>
 </p>
+<p></p>
 <p>Here are some useful resources to help your child make use of the PLD
 safely and effectively.</p>
-<p>On Verifying Online Information: | [<a href="https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)</a> [
-<a href="https://go.gov.sg/factually](https://go.gov.sg/factually)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/factually](https://go.gov.sg/factually)</a>
+<p>On Verifying Online Information: <a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 <p></p>
 <p>Dear Parents, if your child encounters any technical issues pertaining
@@ -85,8 +85,7 @@ to their PLD, he or she can approach the school's IT helpdesk thru the
 following means</p>
 <p>1. <strong>Approach any of the IT support staff at Computer Lab 1 during recess time or after school (latest by 5pm)</strong>
 </p>
-<p>Mr Tan Jian Wei (Desktop Engineer ) | Mdm Gayatri (Desktop Engineer) |
-Ms Nur Adilah (ICT Associate)</p>
+<p>Mr Tan Jian Wei (Desktop Engineer ) | Ms Nur Adilah (ICT Associate)</p>
 <p></p>
 <p></p>
 <p></p>
