@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Insurance For Students.md
       - Administrative Information.md
       - GCE O & N level Information.md
       - Preliminary Examination.md
