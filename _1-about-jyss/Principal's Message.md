@@ -4,7 +4,7 @@ permalink: /information/principals-message/principals-message-2023/
 description: ""
 variant: tiptap
 ---
-<h3><br><strong>Goodbye 2024 and Welcome 2025</strong></h3>
+<h3><br></h3>
 <p>Dear Parents
 <br>As we step into 2025, we are navigating a world marked by rapid change
 and complexity. Circumstances continue to evolve unpredictably, requiring
