@@ -1,10 +1,10 @@
 ---
-title: Principal's Message
+title: Principal's Message 2025
 permalink: /information/principals-message/principals-message-2023/
 description: ""
 variant: tiptap
 ---
-<h3><br></h3>
+<h3><br>Principal's Message 2025</h3>
 <p>Dear Parents
 <br>As we step into 2025, we are navigating a world marked by rapid change
 and complexity. Circumstances continue to evolve unpredictably, requiring
