@@ -72,7 +72,7 @@ lessons are designed and enacted to provide the learning experiences to
 <p>Juying Secondary will continuously engage our students and parents/guardians
 by sharing our school’s&nbsp;approach and implementation plan for PDLP.&nbsp;
 Click the following for the Parents Engagement Slides.
-<br><a href="https://drive.google.com/file/d/1CcG4Nx2_B_2V37X7wRB_ebPVfeYRfJzF/view?usp=sharing" rel="noopener nofollow" target="_blank">Parents Engagement Slides Deck_2024.pdf</a>
+<br><a href="https://docs.google.com/presentation/d/1mtzF7sIos07hhTTH5mkdjDjNXMFmhN4W/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Parents Engagement Slides Deck_2025.pdf</a>
 </p>
 <p></p>
 <p>Here are some useful resources to help your child make use of the PLD
