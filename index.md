@@ -35,8 +35,8 @@ sections:
             and school pants/skirt). Bring a blue/black pen. Parents are invited
             to join. Attached materials will guide your next steps. Best of luck
             with your results!
-          link_text: Please click this link to view the next steps and emotional support.
-          link_url: https://drive.google.com/file/d/1N9oUpjbFBMbOmxcSxKN0Cf7kec7fAZYq/view?usp=sharing
+          link_text: Click this link to view Infosheets on Support for Parents & Students
+          link_url: https://drive.google.com/drive/folders/1J2eT07hVfXGLPnN7N30kU7aQRgj87osc?usp=sharing
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
