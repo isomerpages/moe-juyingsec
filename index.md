@@ -28,6 +28,15 @@ sections:
           announcement: Follow us @juyingsecondaryschool
           link_text: ""
           link_url: ""
+        - title: O-Level Results
+          date: 10 January 2025
+          announcement: Dear Jyians, The O-Level results will be released this Friday, 10
+            January. Report to MPH by 2 PM in full school uniform (Polo T-shirt
+            and school pants/skirt). Bring a blue/black pen. Parents are invited
+            to join. Attached materials will guide your next steps. Best of luck
+            with your results!
+          link_text: Click this link to view Infosheets on Support for Parents & Students
+          link_url: https://drive.google.com/drive/folders/1J2eT07hVfXGLPnN7N30kU7aQRgj87osc?usp=sharing
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
