@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Sexuality Education.md
       - Administrative Information.md
       - Insurance For Students.md
       - GCE O & N level Information.md
