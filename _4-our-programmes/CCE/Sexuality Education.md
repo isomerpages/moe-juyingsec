@@ -84,13 +84,13 @@ issues related to sexuality, which are of prime concern at this age.
 <p><strong>SECONDARY 1 - SECONDARY 5</strong>
 </p>
 <p></p>
-<p><a href="https://docs.google.com/document/d/13P0EzbiYeEQylazqXKOiL9CclGEmFEck/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary1.pdf</a>
+<p><a href="https://docs.google.com/document/d/1j4PYZptx7sV6xz1miSnFRM-RuQ5l-vHE/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary1.pdf</a>
 </p>
 <p></p>
 <p><a href="https://docs.google.com/document/d/1E-Cz849K9vuyTtGGMIGfaxyiWQTpolvk/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary2.pdf</a>
 </p>
 <p></p>
-<p><a href="https://docs.google.com/document/d/1a-nN-3-2Uhx5CQqRmW1MKLR9ZClVoVfv/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary3.pdf</a>
+<p><a href="https://docs.google.com/document/d/1Imv7NuLdRjz-Mq961ErHDzwpaH0QhlwX/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary3.pdf</a>
 </p>
 <p></p>
 <p><a href="https://docs.google.com/document/d/1aOGxZQmmqkFH0IL9TjUCLEFuGTdThZgT/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary4.pdf</a>
