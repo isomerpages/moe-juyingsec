@@ -79,7 +79,7 @@ issues related to sexuality, which are of prime concern at this age.
 <p><strong>SECONDARY 1 - SECONDARY 5</strong>
 </p>
 <p></p>
-<p><a href="https://docs.google.com/document/d/1j4PYZptx7sV6xz1miSnFRM-RuQ5l-vHE/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary1.pdf</a>
+<p><a href="https://docs.google.com/document/d/1faQQPenTrfSZQNL69LFZq_hciPG24v5J/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary1.pdf</a>
 </p>
 <p></p>
 <p><a href="https://docs.google.com/document/d/1E-Cz849K9vuyTtGGMIGfaxyiWQTpolvk/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2025 Sex-Ed Secondary2.pdf</a>
