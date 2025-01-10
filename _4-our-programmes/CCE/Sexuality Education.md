@@ -48,12 +48,7 @@ the school curriculum. The content for Sexuality Education is grouped into
 five main themes: Human Development, Interpersonal Relationships, Sexual
 Health, Sexual Behaviour, and, Culture, Society and Law.
 <br>
-<br>You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>) for more information
-on the scope of Sexuality Education in the school curriculum.
-<br>
-</p>
-<p>5.&nbsp;The subjects that incorporate topics on sexuality include:
+<br>5.&nbsp;The subjects that incorporate topics on sexuality include:
 <br>a.&nbsp; Science
 <br>b. Character and Citizenship Education (CCE)
 <br>
@@ -116,7 +111,9 @@ their family, and the importance of responsible decision-making and seeking
 help. Abstinence and upholding family values are the key messages.</p>
 <p>
 <br><strong>At Juying Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-<br><a href="https://docs.google.com/document/d/1mVXIT-Ja1_kAby1yE8NxwE8g8xyRvcME/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">eTeens Programme</a>
+<br>
+</p>
+<p><a href="https://docs.google.com/document/d/1mVXIT-Ja1_kAby1yE8NxwE8g8xyRvcME/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Click here for eTeens Programme</a>
 </p>
 <p></p>
 <p><strong>Information for Parents</strong>
@@ -125,14 +122,12 @@ lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
 by MOE-approved external providers.</p>
 <p>11.&nbsp;Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible on Parents Gateway <u>here</u> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/677cde8c3d07871a255e7362</a>) The completed form is
-to be submitted by 14/01/2025.</p>
+at the start of the year and is also accessible on Parents Gateway. <a href="https://form.gov.sg/677cde8c3d07871a255e7362" rel="noopener nofollow" target="_blank">Click here</a>
+<br>The completed form is to be submitted by 14/01/2025.</p>
 <p>12.&nbsp;Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible on Parents Gateway <u>here</u> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/677ce3643fa286e2737f5248</a>). The completed form
-is to be submitted by 14/01/2025.</p>
+at the start of the year and is also accessible on Parents Gateway. <a href="https://form.gov.sg/677ce3643fa286e2737f5248" rel="noopener nofollow" target="_blank">Click here</a>
+<br>The completed form is to be submitted by 14/01/2025.</p>
 <p>13.&nbsp;Parents can contact the school at <strong>general Office:</strong>&nbsp;6308
 9898,
 <br><strong>Email:</strong>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a> for
