@@ -199,7 +199,7 @@ variant: tiptap
 <p>Nur 'Adilah Binte Muhrisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>Adjunct ICT Associate</p>
 </td>
 </tr>
 </tbody>
