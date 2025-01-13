@@ -63,7 +63,7 @@ variant: tiptap
 <p>Ms Veron Lee Wai Leng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Administrative Executive</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
