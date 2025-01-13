@@ -35,7 +35,8 @@ sections:
             and school pants/skirt). Bring a blue/black pen. Parents are invited
             to join. Attached materials will guide your next steps. Best of luck
             with your results!
-          link_text: Click this link to view Infosheets on Support for Parents & Students
+          link_text: Click to view Infosheets on Support for (Parents & Students) & JAE
+            Application
           link_url: https://drive.google.com/drive/folders/1J2eT07hVfXGLPnN7N30kU7aQRgj87osc?usp=sharing
   - infobar:
       title: Scroll down the Juying Path
