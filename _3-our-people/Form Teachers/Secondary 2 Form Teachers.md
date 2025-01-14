@@ -13,8 +13,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs TEE ONG XIAN QING
-<br>Sec 2-P Form Teacher
-<br>Level Discipline Master</p>
+<br>Sec 2-P Form Teacher</p>
 </td>
 </tr>
 <tr>
