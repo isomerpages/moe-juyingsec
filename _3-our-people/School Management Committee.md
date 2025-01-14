@@ -227,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Wahidah Bte Sidik</p>
+<p>Mdm Nur Wahidah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Malay)</p>
