@@ -5,18 +5,21 @@ description: ""
 third_nav_title: Form Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Shu Han
+<p>Mdm KHAIRANI
 <br>Class 1-P Form Teacher
 <br>Level Discipline Master</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Xian Qing
+<p>Mr NASRI
 <br>Class 1-P Form Teacher</p>
 </td>
 </tr>
@@ -28,73 +31,73 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Samuel Cho
+<p>Ms LIM SIEW YIN
 <br>Class 1-A Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Roslin
+<p>Mr HO SING CHARN
 <br>Class 1-A Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hema
+<p>Mr ONG HOK BENG
 <br>Class 1-S1 Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Hock Beng
+<p>Ms LIN LIN
 <br>Class 1-S1 Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Martin Ng
+<p>Mrs WONG CHIA PEI SAN
 <br>Class 1-S2 Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Stephanie Chew
+<p>Mdm DIYANA
 <br>Class 1-S2 Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozana
+<p>Ms SUHANA
 <br>Class 1-I Form Teacher&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Wei Qiang
+<p>Mr SYAZWAN
 <br>Class 1-I Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fauzul
+<p>Mdm WAHIDAH
 <br>Class 1-O Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng May Ling
+<p>Ms AZYAN BTE AZAMI
 <br>Class 1-O Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Woei Lin
+<p>Mr OW WEE CHIANG
 <br>Class 1-N Form Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Sing Charn
+<p>Ms THARSINY
 <br>Class 1-N Form Teacher</p>
 </td>
 </tr>
