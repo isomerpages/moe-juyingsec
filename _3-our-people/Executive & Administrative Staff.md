@@ -20,7 +20,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohter Amat Amin</p>
+<p>Ms Christina Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Veron Lee Wai Leng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ashok Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -36,18 +52,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jenny Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -60,10 +68,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Veron Lee Wai Leng&nbsp;</p>
+<p>Nur 'Adilah Binte Muhrisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Poh Huat</p>
+<p>Mr Alson Chay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -116,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Azizah Binte Rashid</p>
+<p>Ms Siti Nardifiqah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Library Assistant</p>
@@ -143,7 +151,7 @@ variant: tiptap
 <p>Mdm Indradevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO - Lab</p>
+<p>Operations Support Officer - Lab</p>
 </td>
 </tr>
 <tr>
@@ -151,55 +159,7 @@ variant: tiptap
 <p>Mdm Zareena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO-Lab</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hui Loow Tai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Keng Hoi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Poh Huat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Ah Mooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alson Chay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur 'Adilah Binte Muhrisa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct ICT Associate</p>
+<p>Operations Support Officer - Lab</p>
 </td>
 </tr>
 </tbody>
