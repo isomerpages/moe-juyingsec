@@ -13,8 +13,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm KHAIRANI
-<br>Class 1-P Form Teacher
-<br>Level Discipline Master</p>
+<br>Class 1-P Form Teacher</p>
 </td>
 </tr>
 <tr>
