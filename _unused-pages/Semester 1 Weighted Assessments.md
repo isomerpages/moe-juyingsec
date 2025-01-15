@@ -2,22 +2,20 @@
 title: Semester 1 Weighted Assessments
 permalink: /timetables-n-schedules/examination-timetable/semester-1-weighted-assessments/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p><strong>Dear Parents and Students</strong></p>
-<p>The 2024 Semester 1 Weighted Assessment  (WA) schedules and topics are as follows:</p>
-<p>
+<p>Dear Parents and Students,
+<br>The 2024 Semester 1 Weighted Assessment&nbsp; (WA) schedules and topics
+are as follows:
+<br>
+<br>Secondary 1 WA Schedule: <a href="https://drive.google.com/file/d/10fEJcG0M5xcfpXbpU53lnR75wTW8y17B/view?usp=sharing" rel="noopener nofollow" target="_blank">https://drive.google.com/file/d/10fEJcG0M5xcfpXbpU53lnR75wTW8y17B/view?usp=sharing</a>
+<br>
+<br>Secondary 2 WA Schedule:
+<br><a href="https://drive.google.com/file/d/16G9PPie5dyNQFM4iRun7slqEXWEKWhSs/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/16G9PPie5dyNQFM4iRun7slqEXWEKWhSs/view?usp=sharing</a>
+<br>
+<br>Secondary 3 WA Schedule:
+<br><a href="https://drive.google.com/file/d/1lPt9oOr2yMfDWkqFVca1ObHwMrqa4dP8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1lPt9oOr2yMfDWkqFVca1ObHwMrqa4dP8/view?usp=sharing</a>
+<br>
+<br>Secondary 4 &amp; 5 WA Schedule:
+<br><a href="https://drive.google.com/file/d/1C5K2KFG9DV2Pk6W_e-2peAb9uW7rI1IL/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1C5K2KFG9DV2Pk6W_e-2peAb9uW7rI1IL/view?usp=sharing</a>
 </p>
-<p><a href="https://drive.google.com/file/d/121RVNB_CkNUObW_NkT_uLeB143BEcY-G/view?usp=sharing">Secondary 1 WA Schedule</a></p>
-<p></p>
-
-<p><a href="https://drive.google.com/file/d/1e148wR7eFBClvniHu-vOekoGRYvtqO98/view?usp=sharing">Secondary 2 WA Schedule</a></p>
-<p></p>
-
-<p><a href="https://drive.google.com/file/d/1Zr-0yCYfiaU0SGaqQkitKXRSBNqsmZCh/view?usp=sharing">Secondary 3 WA Schedule</a></p>
-<p></p>
-
-<p><a href="https://drive.google.com/file/d/1r-TMklX1mMOqfrlHeHgPO7312X9yK0sN/view?usp=sharing">Secondary 4/5 WA Schedule</a></p>
-<p></p>
-
-<p>All the best for the upcoming assessments.</p>
