@@ -214,7 +214,7 @@ variant: tiptap
 <p>Mr Soh Joon Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science)&nbsp;</p>
+<p>HOD (Science)&nbsp;</p>
 </td>
 </tr>
 <tr>
