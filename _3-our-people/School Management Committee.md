@@ -147,6 +147,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Soh Joon Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Science)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lian Chuen Pei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,14 +215,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Joon Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Science)&nbsp;</p>
 </td>
 </tr>
 <tr>
