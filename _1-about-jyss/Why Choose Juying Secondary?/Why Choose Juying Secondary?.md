@@ -10,7 +10,7 @@ variant: tiptap
 download the latest copy of our annual "Making the Difference" booklet
 specially dedicated to all Primary 6 students and parents.</p>
 <h4><strong>Students &amp; Parents Testimonials Website</strong></h4>
-<p>Click&nbsp;<a href="http://tinyurl.com/jyss-testimonials" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="https://sites.google.com/view/juyingtestimonials/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 reach Juying Students' &amp; Parents' Testimonials website to hear their
 Juying Experience.</p>
 <h4><strong>Juying Online Photo Gallery</strong></h4>
