@@ -1,5 +1,5 @@
 ---
-title: PDLP
+title: Student PDLP
 permalink: /pdlp/
 variant: tiptap
 description: ""
