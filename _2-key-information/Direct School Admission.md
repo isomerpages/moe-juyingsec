@@ -4,11 +4,11 @@ permalink: /information/administrative-information/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2025)</h4>
+<h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2026)</h4>
 <p><strong>JOIN US via DSA</strong>
 <br>Dear P6 students,
 <br>Juying Secondary School (JYSS)&nbsp;invites you to apply for&nbsp;Direct
-School Admission (DSA)&nbsp;to&nbsp;Secondary One (2025)&nbsp;at JYSS!</p>
+School Admission (DSA)&nbsp;to&nbsp;Secondary One (2026)&nbsp;at JYSS!</p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong>
 <br>Apply now to JYSS via DSA!</p>
 <p></p>
@@ -66,7 +66,7 @@ School.</p>
 <p>Shortlisted Applicants:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Will be invited for an interview in July 2024.</p>
+<p>Will be invited for an interview in July 2025.</p>
 </li>
 <li>
 <p>Share their achievements and experiences in softball.</p>
@@ -80,44 +80,33 @@ catching, batting and agility during the trial.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership &amp; Uniformed Groups</strong>
-<br>Leadership (Mixed)</p>
+<p><strong>Performing Arts</strong>
+<br>Modern Dance (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Student Council</strong>
+<p><strong>Modern Dance (Hip Hop)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrate exemplary conduct, keen interest and passion in advocacy,
-as well as leadership qualities in leading and serving the student body
-and the community.</p>
-</li>
-<li>
-<p>Have assumed leadership roles such as CCA Leaders, Class Committee Members,
-Student Councillors or Prefects in Primary School.</p>
-</li>
-</ul>
-<p><strong><em>* Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate proficiency of
+skills and abilities, interest and passion in Hip Hop dance</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates should have prior
+experience and a record of achievements in Hip Hop Dance during primary
+school or possess a dance background through personal lessons.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate exemplary conduct,
+keen interest and passion in dance.</p>
+<p><strong><em>*Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted Applicants:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Will be invited for an interview in July 2024.</p>
-</li>
-<li>
-<p>Share their achievements and experiences on leadership and/or community
-projects.</p>
-</li>
-<li>
-<p>Present a speech of between 1 to 2 minutes on a moral value of their choice
-and its importance to a leader.</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be invited for an interview
+in July 2025.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share their achievements and
+experiences in dance.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Come up with a 1-minute Hip
+Hop dance item to showcase their talent.</p>
 </td>
 </tr>
 </tbody>
@@ -136,7 +125,7 @@ and its importance to a leader.</p>
 </tbody>
 </table>
 <p><strong>APPLICATION PROCEDURE:</strong>
-<br><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
+<br><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal and is free-of-charge. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
