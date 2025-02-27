@@ -24,7 +24,7 @@ to an accident.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/u/0/home" rel="noopener nofollow" target="_blank">Insurance Product Fact Sheet for Group Personal Accident Insurance for Students </a>
+<p><a href="https://drive.google.com/file/d/17Fhw0BltHXARd2w01BsRcnWz7jOhnpRH/view?usp=sharing" rel="noopener nofollow" target="_blank">Insurance Product Fact Sheet for Group Personal Accident Insurance for Students </a>
 <br>This document provides an overview of the Group Personal Accident Insurance
 available for students, outlining the key details of the coverage, benefits,
 and terms.</p>
