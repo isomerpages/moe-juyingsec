@@ -32,11 +32,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Refreshments and</strong>
+<p><strong>Refreshments </strong>
 </p>
 </li>
 <li>
-<p><strong>Hot drinks (Halal)</strong>
+<p><strong>Hot drinks </strong>
 </p>
 </li>
 </ul>
@@ -48,15 +48,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Snacks</strong>
+<p><strong>Assorted Snacks and Refreshments (Halal)</strong>
 </p>
 </li>
 <li>
-<p><strong>Refreshments and</strong>
-</p>
-</li>
-<li>
-<p><strong>Hot drinks (Halal)</strong>
+<p><strong>Assorted Hot Beverages (Halal)</strong>
 </p>
 </li>
 </ul>
