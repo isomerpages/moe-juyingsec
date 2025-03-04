@@ -32,7 +32,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Refreshments and </strong>
+<p><strong>Refreshments and</strong>
 </p>
 </li>
 <li>
@@ -52,7 +52,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Refreshments and </strong>
+<p><strong>Refreshments and</strong>
 </p>
 </li>
 <li>
