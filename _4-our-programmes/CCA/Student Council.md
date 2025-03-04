@@ -222,70 +222,69 @@ express their gratitude to the teachers and EAS staff.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Student_council_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CNY_schools_helper_s_appreciation.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">CNY Schools Helper's Appreciation</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Student_council___2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Exco_Campaign_Speechmaking.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Exco Campaign Speechmaking</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Student_council_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/JYSC_nature_interest_group.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">JYSC Nature Interest Group</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Student_council_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/JYSC_sec_1_welcome_to_JYSS_project.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">JYSC SEC 1 Welcome To JYSS Project</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Student_council_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Nanyang_sayang_community_service_project.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Nanyang Sayang Community Service Project</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Student_council__6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Positive_School_Culture_Workshop.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Positive School Culture Workshop</div>
 </div>
 </div>
 </div>
-<h4><strong>Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
