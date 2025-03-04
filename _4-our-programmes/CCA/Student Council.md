@@ -283,6 +283,6 @@ express their gratitude to the teachers and EAS staff.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Positive School Culture Workshop</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://youtu.be/-4JGr_qE5YU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JYSC" src="/images/JYSC.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Council</div><div class="isomer-card-link">JYSC OPEN HOUSE 2023</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://youtu.be/-4JGr_qE5YU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JYSC" src="/images/Student_Leaders.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Council</div><div class="isomer-card-link">JYSC OPEN HOUSE 2023</div></div></a>
 </div>
 <p></p>
