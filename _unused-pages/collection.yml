@@ -2,7 +2,6 @@ collections:
   unused-pages:
     output: true
     order:
-      - Canteen Advertisement.md
       - Sexuality Education.md
       - Administrative Information.md
       - Insurance For Students.md
@@ -20,3 +19,4 @@ collections:
       - FAS Form.md
       - School Calendar.md
       - Facilities.md
+      - Canteen Advertisement.md
