@@ -5,11 +5,10 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h3><strong>Student Council</strong></h3>
+<h1><strong>Student Council</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
 </div>
-<p></p>
 <h4><strong>Vision</strong></h4>
 <p>Unyielding and Illustrious Student Leaders who Lead with Conviction.</p>
 <h4><strong>Mission</strong></h4>
@@ -33,20 +32,6 @@ to School Leaders and Teacher Advisors.&nbsp;</p>
 by helping to build a Gracious Community in Juying, developing a Strong
 School Pride in our peers and advocating for Good Discipline within the
 School.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4><strong>Organization Chart</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCOs.png">
-</div>
-<h4></h4>
-<h4></h4>
-<h4></h4>
 <h4></h4>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
@@ -252,8 +237,11 @@ express their gratitude to the teachers and EAS staff.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Organization Chart</strong></h4>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_04_104920.jpg">
+</div>
 <p></p>
 <h4><strong>Student Leaders</strong></h4>
 <table style="minWidth: 75px">
