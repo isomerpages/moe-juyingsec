@@ -23,8 +23,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Vacancy For Snack/Refreshment/Hot Drinks
-          date: 20 March 2025
+        - title: Vacancy For Snack/Refreshment/Hot Drinks | Apply by 20 March 2025
+          date: 04 March 2025
           announcement: "Type of stall: Snacks, refreshments and hot drinks (Halal) |
             STALL WITH EFFECT FROM 1 APRIL 2025 APPLICATION | CLOSING DATE: 20
             MARCH 2025 | School Address: 33 Jurong West St 91 Singapore 649038"
