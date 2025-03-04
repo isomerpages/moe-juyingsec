@@ -29,7 +29,7 @@ sections:
             STALL WITH EFFECT FROM 1 APRIL 2025 APPLICATION | CLOSING DATE: 20
             MARCH 2025 | School Address: 33 Jurong West St 91 Singapore 649038"
           link_text: Please click here for more information
-          link_url: https://staging-lite.d2bdt9mga46ewh.amplifyapp.com/canteen-advertisement/
+          link_url: https://www.juyingsec.moe.edu.sg/canteen-advertisement/
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool
