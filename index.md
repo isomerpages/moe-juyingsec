@@ -23,13 +23,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: VACANCY FOR “SNACK/REFRESHMENT/HOT DRINKS”
+        - title: Vacancy For Snack/Refreshment/Hot Drinks
           date: 20 March 2025
           announcement: "Type of stall: Snacks, refreshments and hot drinks (Halal) |
             STALL WITH EFFECT FROM 1 APRIL 2025 APPLICATION | CLOSING DATE: 20
             MARCH 2025 | School Address: 33 Jurong West St 91 Singapore 649038"
-          link_text: ""
-          link_url: ""
+          link_text: Please click here for more information
+          link_url: https://juyingsec.moe.edu.sg/canteen-advertisement/
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool
