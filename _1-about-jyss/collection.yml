@@ -2,6 +2,7 @@ collections:
   1-about-jyss:
     output: true
     order:
+      - Canteen Advertisement.md
       - Principal's Message 2025.md
       - School Overview/.keep
       - School Overview/School History.md
