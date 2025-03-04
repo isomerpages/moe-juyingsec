@@ -76,7 +76,7 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Download and complete the application form. <a href="https://docs.google.com/document/d/18Dzvg53xpFy7oY2NbJXIjmYq-RHqFkYv/edit?usp=drive_link&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/document/d/18Dzvg53xpFy7oY2NbJXIjmYq-RHqFkYv/edit?usp=drive_link&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true</a></strong>
+<p><strong>Download and complete the application form. </strong><a href="https://drive.google.com/file/d/1PLtSHrhHVgrPKf_kgPvztMhWHKnx38NK/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here</a>
 <br><strong>You may also request for a hardcopy from the School’s General Office</strong>
 </p>
 </li>
