@@ -151,31 +151,25 @@ were ceased temporarily in 2020 and 2021.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Diyana (OIC)
-<br>Mr Ow Wee Chiang
+<br>Mdm (Dr) Tan Ying Shan (2IC)
 <br>Mr Ho Sing Charn
-<br>Mdm (Dr) Tan Ying Shan</p>
+<br>Mdm Khairiani Hassan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Coaches</strong>
+</p>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Coaches</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Poh Yung Jeron</p>
+<p>Coach for Boys Team: Andrew Wong Kuan Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coach for Girls Team: Albert Yeo Meng Seng</p>
 </td>
 </tr>
 <tr>
@@ -256,6 +250,14 @@ were ceased temporarily in 2020 and 2021.</p>
 <p>Cohort Manager (LS)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Student Leaders (Boys)</strong></h4>
@@ -327,6 +329,14 @@ were ceased temporarily in 2020 and 2021.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cohort Manager (LS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
