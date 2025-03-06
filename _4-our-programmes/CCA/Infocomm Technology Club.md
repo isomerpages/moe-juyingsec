@@ -5,10 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h3><strong>Infocomm Technology Club</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/infocomm%201.jpg">
-</div>
+<h3><strong>AVIT CLUB (Audio-Visual and Infocomm Technology Club)</strong></h3>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Infocomm___Technology__FORMAL.jpg">
