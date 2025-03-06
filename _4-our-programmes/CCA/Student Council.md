@@ -9,10 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leaders.jpg">
-</div>
 <h4><strong>Vision</strong></h4>
 <p>Unyielding and Illustrious Student Leaders who Lead with Conviction.</p>
 <h4><strong>Mission</strong></h4>
