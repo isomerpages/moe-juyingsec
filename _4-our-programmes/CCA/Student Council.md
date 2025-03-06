@@ -186,27 +186,12 @@ express their gratitude to the teachers and EAS staff.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Foo (OIC)</p>
+<p>Ms Goh Shu Han (OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lek Hui Ying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Yee Ting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rachel Tham</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Shu Han</p>
+<p>Ms Yeo Yee Ting (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -219,91 +204,56 @@ express their gratitude to the teachers and EAS staff.</p>
 <p>Mr Ow Wee Chiang</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Student Leaders</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EVELYN BOON XI</p>
+<p>LIYA SHEMY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>EVELYN BOON XI</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ANNABELLE TONG RUI EN (CHEN RUI'EN)</p>
+<p>NURFATIHAH BINTE ABDULLAH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>ANNABELLE TONG RUI EN (CHEN RUI'EN)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PUROBI CHAKROBORTY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PUROBI CHAKROBORTY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHIOK YING QI, ALICIA</p>
+<p>PRIYANGAH D/O POVANESWARAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Outreach</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>CHIOK YING QI, ALICIA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DEWI NASHYRAH BINTE MUHAMMAD ISA</p>
+<p>RUKHSANA BINTI JAHANGEER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Partnership</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>DEWI NASHYRAH BINTE MUHAMMAD ISA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>THAQIF MIRZA BIN MOHAMMAD NAZRI</p>
+<p>KHONG KA YAN YVONNE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Partnership</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>THAQIF MIRZA BIN MOHAMMAD NAZRI</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
