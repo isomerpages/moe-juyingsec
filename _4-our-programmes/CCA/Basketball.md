@@ -6,10 +6,7 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>Basketball</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/basketball1.jpg">
-</div>
-<p>Juying School Leaders with Basketball CCA Leaders</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Basketball_FORMAL.jpg">
 </div>
@@ -23,8 +20,7 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">Our main players from B Div and C Div</div>
+<div class="isomer-card-title">Our main players from B Div and C Div</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -34,8 +30,7 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">Our C Boys getting invaluable tactical advice from our coach, Mr Mike
+<div class="isomer-card-title">Our C Boys getting invaluable tactical advice from our coach, Mr Mike
 Neo , during our match in the National School Games (NSG)</div>
 </div>
 </div>
@@ -46,8 +41,7 @@ Neo , during our match in the National School Games (NSG)</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">The basketball players trained diligently under the keen supervision of
+<div class="isomer-card-title">The basketball players trained diligently under the keen supervision of
 their coach</div>
 </div>
 </div>
@@ -58,8 +52,7 @@ their coach</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">And listening attentively to the coach’s feedback</div>
+<div class="isomer-card-title">And listening attentively to the coach’s feedback</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -69,8 +62,7 @@ their coach</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">The B Division Team in action @NSG</div>
+<div class="isomer-card-title">The B Division Team in action @NSG</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -80,8 +72,39 @@ their coach</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Basketball</div>
-<div class="isomer-card-description">The C Division Team in action @NSG</div>
+<div class="isomer-card-title">The C Division Team in action @NSG</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__9_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Alumni Night</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__8_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">3rd Runner Up at the ActiveSG-BAS Developmental League, B Division Competition
+2019 (Team 1)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__10_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participants of ActiveSG-BAS Developmental League, B Division Competition
+2019 (Team 2)</div>
 </div>
 </div>
 </div>
