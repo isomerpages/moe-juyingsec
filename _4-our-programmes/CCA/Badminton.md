@@ -31,8 +31,7 @@ were ceased temporarily in 2020 and 2021.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Badminton</div>
-<div class="isomer-card-description">NSG “B” DIVISION BOYS GETTING READY FOR COMPETITION 2024</div>
+<div class="isomer-card-title">NSG “B” DIVISION BOYS GETTING READY FOR COMPETITION 2024</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -42,8 +41,7 @@ were ceased temporarily in 2020 and 2021.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Badminton</div>
-<div class="isomer-card-description">NSG BOYS “C” DIVISION IN GAME</div>
+<div class="isomer-card-title">NSG BOYS “C” DIVISION IN GAME</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -53,8 +51,7 @@ were ceased temporarily in 2020 and 2021.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Badminton</div>
-<div class="isomer-card-description">BADMINTON BOYS DURING TRAINING</div>
+<div class="isomer-card-title">BADMINTON BOYS DURING TRAINING</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -64,8 +61,7 @@ were ceased temporarily in 2020 and 2021.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Badminton</div>
-<div class="isomer-card-description">BADMINTON GIRLS DURING BONDING TIME</div>
+<div class="isomer-card-title">BADMINTON GIRLS DURING BONDING TIME</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -75,13 +71,241 @@ were ceased temporarily in 2020 and 2021.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Badminton</div>
-<div class="isomer-card-description">NSG “C” DIVISION GIRLS IN GAME</div>
+<div class="isomer-card-title">NSG “C” DIVISION GIRLS IN GAME</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download_new.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Fight on! Think of possible ways to overcome your opponent</div>
 </div>
 </div>
 </div>
 <p></p>
 <h4></h4>
+<h4><strong>Achievements</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Team (Quarter Finals)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone C Girls Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Decathlon Tampines West CSC Badminton Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys U14 Singles - Champion Girls U16 Singles - Runner up
+<br>Boys U14 Singles -
+<br>2nd Runner up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cashew Badminton Competition (Women's Single)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore National Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone B Boys Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Preliminary Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan - Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone Badminton Championships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Badminton Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -342,223 +566,7 @@ were ceased temporarily in 2020 and 2021.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Achievements</strong></h4>
-<p>In response to the COV1D-19 situation,&nbsp; all National Competitions
-were ceased temporarily in 2020.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone B Boys Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone C Boys Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone B Girls Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone C Girls Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone B Girls Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone C Boys Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wee Kim Wee Badminton Challenge Trophy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Girls Team (Quarter Finals)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone C Girls Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Decathlon Tampines West CSC Badminton Tournament</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys U14 Singles - Champion Girls U16 Singles - Runner up
-<br>Boys U14 Singles -
-<br>2nd Runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cashew Badminton Competition (Women's Single)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore National Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone B Boys Badminton Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Second Preliminary Round</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Activities</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activity</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan - Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone Badminton Championships</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wee Kim Wee Badminton Challenge Trophy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Badminton Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
