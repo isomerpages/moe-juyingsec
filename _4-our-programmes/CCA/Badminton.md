@@ -6,15 +6,23 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>Badminton</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/badminton1.jpg">
-</div>
-<p>Juying School Leaders with Badminton CCA Leaders</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Badminton__Boy_s__FORMAL.jpg">
 </div>
 <p></p>
-<p></p>
+<h4><strong>Vision</strong></h4>
+<p>Motivated sportsperson&nbsp;who strive for excellence.</p>
+<h4><strong>Mission</strong></h4>
+<p>To nurture sportsmanship in our players through trainings&nbsp;and competitions.</p>
+<h4><strong>Overview</strong></h4>
+<p>The badminton teams have displayed grit and graciousness while competing
+with other schools. Juying Badminton Team also hosted friendly matches
+for the School’s Sports Carnival. The learning and experience the team
+has gained from participating and running tournaments has helped to mould
+their leadership skills and enhance their teamwork.</p>
+<p>In response to the COV1D-19 situation,&nbsp; all National competitions
+were ceased temporarily in 2020 and 2021.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -73,22 +81,10 @@ variant: tiptap
 </div>
 </div>
 <p></p>
-<h4><strong>Vision</strong></h4>
-<p>Motivated sportsperson&nbsp;who strive for excellence.</p>
-<h4><strong>Mission</strong></h4>
-<p>To nurture sportsmanship in our players through trainings&nbsp;and competitions.</p>
-<h4><strong>Overview</strong></h4>
-<p>The badminton teams have displayed grit and graciousness while competing
-with other schools. Juying Badminton Team also hosted friendly matches
-for the School’s Sports Carnival. The learning and experience the team
-has gained from participating and running tournaments has helped to mould
-their leadership skills and enhance their teamwork.</p>
-<p>In response to the COV1D-19 situation,&nbsp; all National competitions
-were ceased temporarily in 2020 and 2021.</p>
+<h4></h4>
 <h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -102,10 +98,8 @@ were ceased temporarily in 2020 and 2021.</p>
 <p>Team</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Training Day One</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Training Day Two</p>
+<p><strong>Training date and time:</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -116,30 +110,21 @@ were ceased temporarily in 2020 and 2021.</p>
 <p>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 4 pm - 6 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 3 pm - 6 pm</p>
+<p>Every Friday, 2.30 - 5.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Multi-Purpose Hall</p>
+<p>Indoor Sports Hall (ISH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday 4 pm - 6 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday 4 pm - 6 pm</p>
+<p>Every Friday, 2.30 - 5.30pm</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
