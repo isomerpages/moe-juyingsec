@@ -46,8 +46,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NCC</div>
-<div class="isomer-card-description">Presentation of Unit Recognition Award 2023</div>
+<div class="isomer-card-title">Presentation of Unit Recognition Award 2023</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -57,8 +56,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NCC</div>
-<div class="isomer-card-description">Precision Drill Squad (PDS) Training</div>
+<div class="isomer-card-title">Precision Drill Squad (PDS) Training</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -68,8 +66,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NCC</div>
-<div class="isomer-card-description">PDS Competition 2024 (Preliminaries)</div>
+<div class="isomer-card-title">PDS Competition 2024 (Preliminaries)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -79,8 +76,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NCC</div>
-<div class="isomer-card-description">PDS Competition 2024 (Grand Finals)</div>
+<div class="isomer-card-title">PDS Competition 2024 (Grand Finals)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -90,8 +86,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NCC</div>
-<div class="isomer-card-description">Dragon Boating Training</div>
+<div class="isomer-card-title">Dragon Boating Training</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -101,8 +96,57 @@ flag bearers at every National Day Observance Ceremony.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NCC</div>
-<div class="isomer-card-description">National Inter-Schools Dragon Boat Race 2024</div>
+<div class="isomer-card-title">National Inter-Schools Dragon Boat Race 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">All ready to roar down Kallang in their dragonboats</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/55.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sui Mun (3rd in Kayaking Singles)</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/44.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Standing with pride, preparing to march with the national flag</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting ready to clean up the shore in their kayaks</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/33.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">On board ship from Canberra</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/66.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Booth Visiting at Changi Exhibition</div>
 </div>
 </div>
 </div>
@@ -271,128 +315,6 @@ flag bearers at every National Day Observance Ceremony.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday 2.30pm - 5pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Activities</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%203.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>All ready to roar down Kallang in their dragonboats</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%204.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC family with Best Unit Competition Award 2021, 2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%205.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Getting ready to clean up the shore in their kayaks</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%206.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clean Up on Kayak Leadership Programme (Cadets with their “finds” for
-the day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%207.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat Regatta Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%208.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%209.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Road Relay Girls Team participants who emerged as 1st runner up.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2010.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Cadets at Sports and Games Competition (Captain’s ball)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2011.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Standing with pride, preparing to march with the national flag</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2012.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our Road Marshals for Nanyang National Day Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -843,7 +765,7 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Activities</strong></h4>
+<h4><strong>Key Programmes</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1227,129 +1149,5 @@ Shakira Ayuni Binte Abdullah 3A2</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Activities/Achievements</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2013.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Booth Visiting at Changi Exhibition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2014.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dragonboat Team (Boys)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2015.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dragonboat Team (Girls)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2016.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kayaking team (Doubles)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2017.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>On board ship from Canberra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2018.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Presenting Unit Recognition (Distinction) to Mdm Soh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2019.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ready to march in</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2020.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sports and games (Frisbee)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2021.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sui Mun (3rd in Kayaking Singles)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/nccsea%2022.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team bonding during Exercise Puncak</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
