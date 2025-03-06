@@ -25,63 +25,132 @@ both traditional and modern arts.&nbsp;</p>
 <p>The Art &amp; Crafts Club also takes part in various art competitions
 to challenge our students so as to further develop their skills and showcase
 their abilities.</p>
-<h4><strong>Key Programmes</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programmes</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Family Connectors Celebrating Families: Design-A-Postcard Competition
-<br>- Draw My Stamp Story Art Competition 2021
-<br>- Live On Festival (LOF) 2021
-<br>- Miniature Food Making Workshop 2021
-<br>- Gratitude Fund Raising Project 2021
-<br>- Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee
-(NCCC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Draw My Stamp Story Art Competition 2020
-<br>- Live On Design Competition 2020</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Draw My Stamp Story Art Competition 2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4></h4>
+<h4><strong>Activities</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_Art___Crafts_Club_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2024 ART &amp; CRATS CLUB</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_SYF_Submission.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2024 SYF Submission</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_newly_appointed_EXCOs_2024_2025.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our newly appointed EXCOs 2024-2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Presenting_our_CCA_to_the_Sec_1s_batch_during_CCA_Fair_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Presenting our CCA to the Sec 1 batch during CCA fair 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Saying_goodbye_to_our_graduating_batch.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Saying goodbye to our graduating batch</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Setting_up_a_tunnel_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Setting up the tunnel</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Air_Dry_Clay_Desserts.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WIP - Air Dry Clay Desserts</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Students_working_on_air_dry_clay.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WIP - Students working on air dry clay</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Working_on_our_annual_Teachers__Day_Banner_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Working on our annual Teacher's Day Banner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Handcrafted keychains for all our teachers for Teachers’ Day</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__4_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Art piece created by Zoleen for Live On Festival (2021)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__5_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Student’s work on their own version of Van Gogh’s Starry Night</div>
+</div>
+</div>
+</div>
+<p></p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -92,13 +161,13 @@ their abilities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Year</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Competition</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Achievement</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -288,20 +357,9 @@ their abilities.</p>
 <p>Certificate of Participation</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4><strong>Activities</strong></h4>
+<h4><br><strong>Key Programmes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -310,328 +368,40 @@ their abilities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Programmes</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft3.png">
-</div>
+<p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>International Peace Poster Competition 2021</strong> 
-<br>2nd place: Arthoven Kum Jin An
-<br>6th place: Liau Yi Wei
-<br>7th place: Nur Syahfina Binte Rohaizad
-<br>8th place: Charmaine Yeo Wei En
-<br>9th place: Lim Shu Yun
-<br>10th Place: Anton Kwoh Zu Ming
-<br>
-<br><strong>featured image (left)</strong> 
-<br>2nd place: Arthoven Kum Jin An</p>
+<p>- Family Connectors Celebrating Families: Design-A-Postcard Competition
+<br>- Draw My Stamp Story Art Competition 2021
+<br>- Live On Festival (LOF) 2021
+<br>- Miniature Food Making Workshop 2021
+<br>- Gratitude Fund Raising Project 2021
+<br>- Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee
+(NCCC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft4.jpg">
-</div>
+<p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JYian talent Zoleen receiving prizes from Mr Ng
-<br>for Live On Festival (LOF) 2021 National Competition.
-<br>Congratulations!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art piece created by Zoleen
-<br>for Live On Festival (2021)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miniature Food Making Workshop</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mini-masterpieces from the Food Making Workshop</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft8.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee (NCCC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design-A-Postcard Competition winners</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft10.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Live On Festival (LOF) 2020 Award presentation.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>3D Pop Art using recyclable materials and acrylic paint</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft12.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Concentration is key when doing observational drawing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft13.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student’s work on their own version of Van Gogh’s Starry Night</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft14.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Another masterpiece on their own adaptation of Van Gogh’s Starry Night</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft15.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>A full shot with everyone!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft16.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>At JCUBE for VIA Flag Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft17.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>T for Teamwork!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft18.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Serious mode on!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/artcraft19.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Handcrafted keychains for all our teachers for Teachers’ Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>- Draw My Stamp Story Art Competition 2020
+<br>- Live On Design Competition 2020</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_Art___Crafts_Club_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2024 ART &amp; CRATS CLUB</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_SYF_Submission.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2024 SYF Submission</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_newly_appointed_EXCOs_2024_2025.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our newly appointed EXCOs 2024-2025</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Presenting_our_CCA_to_the_Sec_1s_batch_during_CCA_Fair_2024.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Presenting our CCA to the Sec 1 batch during CCA fair 2024</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Saying_goodbye_to_our_graduating_batch.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Saying goodbye to our graduating batch</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Setting_up_a_tunnel_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Setting up the tunnel</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Air_Dry_Clay_Desserts.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">WIP - Air Dry Clay Desserts</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Students_working_on_air_dry_clay.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">WIP - Students working on air dry clay</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Working_on_our_annual_Teachers__Day_Banner_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Working on our annual Teacher's Day Banner</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Handcrafted keychains for all our teachers for Teachers’ Day</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__4_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Art piece created by Zoleen for Live On Festival (2021)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__5_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Student’s work on their own version of Van Gogh’s Starry Night</div>
-</div>
-</div>
-</div>
-<p></p>
+<p>
+<br>
+</p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
