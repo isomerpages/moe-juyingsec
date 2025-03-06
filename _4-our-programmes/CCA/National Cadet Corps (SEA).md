@@ -12,11 +12,31 @@ variant: tiptap
 </div>
 <p>The Juying NCC (SEA) cadets and teachers-in-charge looking distinguished
 and proud.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/nccsea%202.jpg">
-</div>
-<p>Juying School Leaders with our NCC (SEA) leaders.</p>
 <p></p>
+<h4><strong>Vision</strong></h4>
+<p>To develop responsible, respectful and resilient cadets to face the challenges
+of the changing world and be successful citizens.</p>
+<h4><strong>Mission</strong></h4>
+<p>To nurture committed cadets who are resourceful, responsible, resilient,
+loyal leaders and team players through fun and challenging military-related
+activities.</p>
+<h4><strong>Overview</strong></h4>
+<p>The NCC (SEA) Unit attained the Distinction Award for Unit Recognition
+(UR) for 2021 and 2022.</p>
+<p>The CCA received a chance to visit IMDEX Asia at Changi Naval Base. They
+were given a tour of the local and foreign warships. The opportunity to
+visit different booths at the Changi Exhibition Centre allowed them to
+learn more about courses related to the area of maritime.</p>
+<p>NCC SEA provides a wide range of opportunities to develop leadership competencies
+via fitness and discipline.&nbsp; These include the NCC Dragon Boat Regatta,
+Sea Competition (Kayaking), Road Relay and other sports and games such
+as captain's ball, frisbee and soccer. &nbsp;</p>
+<p>NCC SEA cadets are also given the opportunity to be the official school
+flag bearers at every National Day Observance Ceremony.</p>
+<p></p>
+<p></p>
+<p></p>
+<h4><strong>Activities</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -87,26 +107,7 @@ and proud.</p>
 </div>
 </div>
 <p></p>
-<h4><strong>Vision</strong></h4>
-<p>To develop responsible, respectful and resilient cadets to face the challenges
-of the changing world and be successful citizens.</p>
-<h4><strong>Mission</strong></h4>
-<p>To nurture committed cadets who are resourceful, responsible, resilient,
-loyal leaders and team players through fun and challenging military-related
-activities.</p>
-<h4><strong>Overview</strong></h4>
-<p>The NCC (SEA) Unit attained the Distinction Award for Unit Recognition
-(UR) for 2021 and 2022.</p>
-<p>The CCA received a chance to visit IMDEX Asia at Changi Naval Base. They
-were given a tour of the local and foreign warships. The opportunity to
-visit different booths at the Changi Exhibition Centre allowed them to
-learn more about courses related to the area of maritime.</p>
-<p>NCC SEA provides a wide range of opportunities to develop leadership competencies
-via fitness and discipline.&nbsp; These include the NCC Dragon Boat Regatta,
-Sea Competition (Kayaking), Road Relay and other sports and games such
-as captain's ball, frisbee and soccer. &nbsp;</p>
-<p>NCC SEA cadets are also given the opportunity to be the offcial school
-flag bearers at every National Day Observance Ceremony.</p>
+<h4></h4>
 <h4><strong>Organisation Chart</strong></h4>
 <h5><strong>Teachers In-Charge</strong></h5>
 <table style="minWidth: 25px">
