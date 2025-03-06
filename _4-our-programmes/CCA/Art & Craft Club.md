@@ -5,107 +5,12 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h3><strong>Art &amp; Craft Club</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/artcraft1.jpg">
-</div>
-<p>Juying School Leaders striking a pose with our Art CCA Leaders</p>
+<h3><strong>Art &amp; Crafts Club</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Art_Club_FORMAL.jpg">
 </div>
-<h4><strong>Organisation Chart</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Roslin Rahim (IC)
-<br>Ms Hema Lata</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Art Instructor</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sarah Abdul Kadir</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Student Leaders</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SANJANA DAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RANJANI PRAKASH ADWITA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NURALEESYA QAISARA BINTE ABDUL HALIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NURFAHIRA AYUNI BINTE ABDULLAH&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Welfare Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LIM XI YA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Publicity Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LU XINEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Logistics Manager</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>Vision</strong></h4>
 <p>To promote visual arts by fostering critical and creative thinking in
 every Art &amp; Crafts Club member, through artistic expression, cultural
@@ -176,39 +81,7 @@ their abilities.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CCA Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CCA Day</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 2:30 pm - 4:30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -644,8 +517,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">2024 ART &amp; CRATS CLUB</div>
+<div class="isomer-card-title">2024 ART &amp; CRATS CLUB</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -655,8 +527,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">2024 SYF Submission</div>
+<div class="isomer-card-title">2024 SYF Submission</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -666,8 +537,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">Our newly appointed EXCOs 2024-2025</div>
+<div class="isomer-card-title">Our newly appointed EXCOs 2024-2025</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -677,8 +547,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">Presenting our CCA to the Sec 1 batch during CCA fair 2024</div>
+<div class="isomer-card-title">Presenting our CCA to the Sec 1 batch during CCA fair 2024</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -688,8 +557,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">Saying goodbye to our graduating batch</div>
+<div class="isomer-card-title">Saying goodbye to our graduating batch</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -699,8 +567,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">Setting up the tunnel</div>
+<div class="isomer-card-title">Setting up the tunnel</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -710,8 +577,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">WIP - Air Dry Clay Desserts</div>
+<div class="isomer-card-title">WIP - Air Dry Clay Desserts</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -721,8 +587,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">WIP - Students working on air dry clay</div>
+<div class="isomer-card-title">WIP - Students working on air dry clay</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -732,9 +597,217 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ART &amp; CRAFTS CLUB</div>
-<div class="isomer-card-description">Working on our annual Teacher's Day Banner</div>
+<div class="isomer-card-title">Working on our annual Teacher's Day Banner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Handcrafted keychains for all our teachers for Teachers’ Day</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__4_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Art piece created by Zoleen for Live On Festival (2021)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__5_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Student’s work on their own version of Van Gogh’s Starry Night</div>
 </div>
 </div>
 </div>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CCA Day</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 2:30 pm - 4:30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Organisation Chart</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Roslin Rahim (IC)
+<br>Ms Hema Lata (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Art Instructor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rosziana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Student Leaders</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SANJANA DAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SANJANA DAS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RANJANI PRAKASH ADWITA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RANJANI PRAKASH ADWITA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURALEESYA QAISARA BINTE ABDUL HALIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURALEESYA QAISARA BINTE ABDUL HALIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURFAHIRA AYUNI BINTE ABDULLAH&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURFAHIRA AYUNI BINTE ABDULLAH&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM XI YA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publicity Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM XI YA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LU XINEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LU XINEN</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
