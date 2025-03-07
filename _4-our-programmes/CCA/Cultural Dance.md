@@ -7,15 +7,39 @@ variant: tiptap
 ---
 <h3><strong>Cultural Dance</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/cultural%20dance%201.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cultural_Dance_FORMAL.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
+<h4><strong>Vision</strong></h4>
+<p>Inculcating values through the love of arts.</p>
+<h4><strong>Mission</strong></h4>
+<p>A platform to inculcate interest and strengthen character through Cultural
+Dance.</p>
+<h4><strong>Overview</strong></h4>
+<p>The Cultural Dance has been actively involved in school&nbsp; performances
+with Chinese Contemporary Dance this year.&nbsp;</p>
+<p>This was not possible without the care and guidance from our CCA teachers-in-charge,
+Ms Ho Sing Ern, Ms Goh Wan Ru, Ms Guo Binglian and Ms Gan Hui Yee, as well
+as our instructors, Ms Teng who have led the dancers with their versatile
+dance skills, knowledge and choreography.&nbsp;</p>
+<p>The students develop and strengthen their understanding of the Chinese
+Contemporary dance skills. They are also given chances to choreograph dance
+moves for school performances.&nbsp;</p>
+<p>At the beginning of the year, our Cultural Dance members performed for
+the Chinese New Year Concert in school. During the SYF Art Presentation
+2021, we achieved a Certificate of Accomplishment for our&nbsp; Chinese
+Contemporary Dance performance. Our dancers have also performed for the
+National Day Celebration in school. Our Sec 3 dancers choreographed, planned,
+led and performed for Teacher’s Day Concert with zest and vigour!&nbsp;</p>
+<p>Our Cultural Dance bonding camp in November encouraged our students to
+learn more about each other, respecting their peers’ diversity in races
+and religion. It also provided ample opportunities for students to display
+their graciousness by looking out for others and embracing teamwork by
+sharing what they know about dance.&nbsp;</p>
+<p>Thus our CCA is definitely an established platform to support and develop
+our members in Juying Secondary School on character building and aesthetic
+talents.</p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -117,161 +141,7 @@ variant: tiptap
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<h4><strong>Vision</strong></h4>
-<p>Inculcating values through the love of arts.</p>
-<h4><strong>Mission</strong></h4>
-<p>A platform to inculcate interest and strengthen character through Cultural
-Dance.</p>
-<h4><strong>Overview</strong></h4>
-<p>The Cultural Dance has been actively involved in school&nbsp; performances
-with Chinese Contemporary Dance this year.&nbsp;</p>
-<p>This was not possible without the care and guidance from our CCA teachers-in-charge,
-Ms Ho Sing Ern, Ms Goh Wan Ru, Ms Guo Binglian and Ms Gan Hui Yee, as well
-as our instructors, Ms Teng who have led the dancers with their versatile
-dance skills, knowledge and choreography.&nbsp;</p>
-<p>The students develop and strengthen their understanding of the Chinese
-Contemporary dance skills. They are also given chances to choreograph dance
-moves for school performances.&nbsp;</p>
-<p>At the beginning of the year, our Cultural Dance members performed for
-the Chinese New Year Concert in school. During the SYF Art Presentation
-2021, we achieved a Certificate of Accomplishment for our&nbsp; Chinese
-Contemporary Dance performance. Our dancers have also performed for the
-National Day Celebration in school. Our Sec 3 dancers choreographed, planned,
-led and performed for Teacher’s Day Concert with zest and vigour!&nbsp;</p>
-<p>Our Cultural Dance bonding camp in November encouraged our students to
-learn more about each other, respecting their peers’ diversity in races
-and religion. It also provided ample opportunities for students to display
-their graciousness by looking out for others and embracing teamwork by
-sharing what they know about dance.&nbsp;</p>
-<p>Thus our CCA is definitely an established platform to support and develop
-our members in Juying Secondary School on character building and aesthetic
-talents.</p>
-<h4><strong>Organisation Chart</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Suhana Jumadi (IC)
-<br>Ms Goh Wan Ru</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Dance Instructor</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quek Jiang Da</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Student Leaders</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SIA JIA LIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FLORENCE CHONG WEN YU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JANA KEE ZHI EN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NUR AMIRAH HUDA BINTE ABDULL RAHMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wardrobe Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GOH ZI SHAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wardrobe Manager</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Practice Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Practice Day</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 2:30 pm - 4:30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Achievements</strong></h4>
+<h4><strong>Achievements</strong><br></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -358,7 +228,7 @@ talents.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Key Programmes</strong></h4>
+<h4><strong>Key Programmes</strong><br></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -396,6 +266,126 @@ talents.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Practice Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Practice Day</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance Studio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 2:30 pm - 4:30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Suhana Jumadi (IC)
+<br>Ms Goh Wan Ru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dance Instructor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quek Jiang Da</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIA JIA LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FLORENCE CHONG WEN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JANA KEE ZHI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AMIRAH HUDA BINTE ABDULL RAHMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH ZI SHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <h4><strong>Club Performances</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
