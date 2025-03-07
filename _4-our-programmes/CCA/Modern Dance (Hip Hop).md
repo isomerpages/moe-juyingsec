@@ -7,10 +7,6 @@ variant: tiptap
 ---
 <h3><strong>Modern Dance (Hip Hop)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/hiphop%201.jpg">
-</div>
-<p>Juying School Leaders with Hip Hop CCA Leaders</p>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Madern_Dance__Hip_Hop__FORMAL.jpg">
 </div>
 <p>NutzCrew receiving a plaque and token of appreciation for their National
@@ -23,44 +19,6 @@ Day performance.</p>
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LZQIJVi4bIY"></iframe>
 </div>
 <p>NutzCrew performing at Singapore Youth Festival 2021</p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/After_Melissa_Hamilton_s_Ballet_Stars_Gala.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">NutzCrew</div>
-<div class="isomer-card-description">After Melissa Hamilton's Ballet Stars Gala</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Breaking_Fast_Together_at_Esplanade.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">NutzCrew</div>
-<div class="isomer-card-description">Breaking Fast Together at Esplanade</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Super24_with_Mdm_Soh.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">NutzCrew</div>
-<div class="isomer-card-description">Super24 with Mdm Soh</div>
-</div>
-</div>
-</div>
 <p></p>
 <h4><strong>Vision</strong></h4>
 <p>A healthy community of passionate dancers that display humility, creativity
@@ -103,6 +61,46 @@ from Nanyang Estate.</p>
 victories we have brought home and are grateful for the guidance, help
 and instruction from the teachers and instructors. We pledge to continue
 to do our very best to deliver excellence both on and off stage</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/After_Melissa_Hamilton_s_Ballet_Stars_Gala.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NutzCrew</div>
+<div class="isomer-card-description">After Melissa Hamilton's Ballet Stars Gala</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Breaking_Fast_Together_at_Esplanade.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NutzCrew</div>
+<div class="isomer-card-description">Breaking Fast Together at Esplanade</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Super24_with_Mdm_Soh.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NutzCrew</div>
+<div class="isomer-card-description">Super24 with Mdm Soh</div>
+</div>
+</div>
+</div>
+<p></p>
+<h4></h4>
 <h4><strong>Competitions &amp; Events</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -215,6 +213,46 @@ to do our very best to deliver excellence both on and off stage</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Supremacy Battlegrounds Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival
+<br>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+<p>Finalist
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D:2 Dance Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner Up</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,7 +340,7 @@ were ceased.</p>
 <p>DREAMS Studio, Level 3 Classrooms at Responsibility Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday 2.30pm - 4.30pm</p>
+<p>Friday 2.30 - 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -328,9 +366,10 @@ were ceased.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Wahidah (OIC)
-<br>Ms Yee Jie Ying
-<br>Ms Tharsiny</p>
+<p>Teachers-in-Charge
+<br>Ms Nur Wahidah Binte Sidik (OIC)
+<br>Ms Azyan Binte Azami
+<br>Ms Tharsiny Balakrishnan</p>
 </td>
 </tr>
 <tr>
@@ -352,8 +391,8 @@ were ceased.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Alif Bin Rais (Alif Aircho)
-<br>Mr Bobby Prayogi</p>
+<p>Bobby Prayogi
+<br>Alif Aircho</p>
 </td>
 </tr>
 <tr>
@@ -429,14 +468,6 @@ were ceased.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NURUL DANISHA BINTE MOHAMED DHAHFIER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NATARA HASYA BINTE MOHAMED MUSTAFA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Training Manager</p>
