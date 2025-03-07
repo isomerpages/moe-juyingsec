@@ -21,6 +21,82 @@ in Deloitte Netball Tournament and also made it to 2nd round in the West
 Zone Inter-school Championship 2023. These achievements have definitely
 strengthen our team’s belief that Juying Netball is a force to be reckoned
 with!</p>
+<p></p>
+<h4><strong>Key Programmes / Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan - Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone Netball Championships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M1 Schools Challenge League</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Juying Sports Carnival</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Umpiring Workshop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Netball Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov - Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Holiday training &amp; friendly matches</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -280,80 +356,7 @@ with!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>Key Programmes </strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activity</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan - Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone Netball Championships</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>M1 Schools Challenge League</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Juying Sports Carnival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Umpiring Workshop</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Netball Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov - Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Holiday training &amp; friendly matches</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
