@@ -32,8 +32,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Choir</div>
-<div class="isomer-card-description">Preparing for CNY</div>
+<div class="isomer-card-title">Preparing for CNY</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -43,8 +42,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Choir</div>
-<div class="isomer-card-description">CNY performance at NYCC</div>
+<div class="isomer-card-title">CNY performance at NYCC</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -54,8 +52,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Choir</div>
-<div class="isomer-card-description">Exchange with BLSS</div>
+<div class="isomer-card-title">Exchange with BLSS</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -65,8 +62,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Choir</div>
-<div class="isomer-card-description">Exchange with BLSS</div>
+<div class="isomer-card-title">Exchange with BLSS</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -76,8 +72,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Choir</div>
-<div class="isomer-card-description">NDP performance</div>
+<div class="isomer-card-title">NDP performance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -87,8 +82,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Choir</div>
-<div class="isomer-card-description">After NDP performance</div>
+<div class="isomer-card-title">After NDP performance</div>
 </div>
 </div>
 </div>
