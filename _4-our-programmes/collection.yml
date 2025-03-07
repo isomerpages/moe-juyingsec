@@ -2,7 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
-      - CCA/Test.md
+      - CCA/Student Council.md
       - CCA/Grading System.md
       - CCA/Speech & Drama Society.md
       - CCA/Infocomm Technology Club.md
