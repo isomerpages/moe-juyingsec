@@ -122,3 +122,33 @@ order to contribute to the positive school culture of JYSS.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Shu Han (OIC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Yee Ting (2IC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ow Wee Chiang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
