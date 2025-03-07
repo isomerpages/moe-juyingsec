@@ -5,6 +5,25 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
+</div>
+<p></p>
+<p></p>
+<h4><strong>Vision</strong></h4>
+<p>Unyielding and Illustrious Student Leaders who Lead with Conviction.</p>
+<h4><strong>Mission</strong></h4>
+<p>Empowering Self and Others, Encouraging Collaboration, Empathising with
+Others</p>
+<h4><strong>Overview</strong></h4>
+<p>Juying Student Council (JYSC) develops student leaders who will uphold
+and embody Juying’s R2IGHT school values. As the apex of student leadership
+in the school, Student Councillors are the leaders of leaders, who lead
+the way for the student body through example. Through the exclusive training
+and hands-on project management, JYSC empowers our Student Councillors
+and other student leaders, enabling them to collaborate effectively in
+order to contribute to the positive school culture of JYSS.</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -67,26 +86,6 @@ third_nav_title: CCA
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://youtu.be/-4JGr_qE5YU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JYSC" src="/images/Student_Leaders.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Council</div><div class="isomer-card-link">JYSC OPEN HOUSE 2023</div></div></a>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
-</div>
-<p></p>
-<p></p>
-<h4><strong>Vision</strong></h4>
-<p>Unyielding and Illustrious Student Leaders who Lead with Conviction.</p>
-<h4><strong>Mission</strong></h4>
-<p>Empowering Self and Others, Encouraging Collaboration, Empathising with
-Others</p>
-<h4><strong>Overview</strong></h4>
-<p>Juying Student Council (JYSC) develops student leaders who will uphold
-and embody Juying’s R2IGHT school values. As the apex of student leadership
-in the school, Student Councillors are the leaders of leaders, who lead
-the way for the student body through example. Through the exclusive training
-and hands-on project management, JYSC empowers our Student Councillors
-and other student leaders, enabling them to collaborate effectively in
-order to contribute to the positive school culture of JYSS.</p>
-<p></p>
-<p></p>
 <p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
