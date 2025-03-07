@@ -6,9 +6,6 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>Symphonic Band</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/band%201.jpg">
-</div>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Symphonic_FORMAL.jpg">
@@ -16,8 +13,23 @@ variant: tiptap
 <h4><strong>Vision</strong></h4>
 <p>One Band, One Sound.</p>
 <p></p>
-<p></p>
-<p></p>
+<h4><strong>Mission</strong></h4>
+<p>To develop musical and character excellence, a love for music and a sense
+of camaraderie in members of the symphonic band.</p>
+<h4><strong>Overview</strong></h4>
+<p>The Juying Symphonic Band (JYSB) aims to develop in our members values
+of responsibility and resilience, confident appreciation for music and
+team spirit through performance and involvement in a thriving musical community.
+As such, the Symphonic Band participated in events to build up their exposure
+to the music scene.</p>
+<p>The Juying Symphonic Band also continue to give our students the opportunity
+to participate at the Singapore Youth Festival (SYF) Arts Presentation.</p>
+<p>JYSB strives to give every member the opportunity to learn something outside
+of a classroom setting, and to give them a new skill. The members also
+learn to persevere in times of adversity, becomes more passionate about
+music playing and also learn to work in harmony as a team with the other
+members of JYSB, so as to create music together.</p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -41,24 +53,106 @@ variant: tiptap
 </div>
 </div>
 <p></p>
+<h4><strong>Achievements</strong><br></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th Singapore International Band Festival (SIBF) Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<h4><strong>Mission</strong></h4>
-<p>To develop musical and character excellence, a love for music and a sense
-of camaraderie in members of the symphonic band.</p>
-<h4><strong>Overview</strong></h4>
-<p>The Juying Symphonic Band (JYSB) aims to develop in our members values
-of responsibility and resilience, confident appreciation for music and
-team spirit through performance and involvement in a thriving musical community.
-As such, the Symphonic Band participated in events to build up their exposure
-to the music scene.</p>
-<p>The Juying Symphonic Band also continue to give our students the opportunity
-to participate at the Singapore Youth Festival (SYF) Arts Presentation.</p>
-<p>JYSB strives to give every member the opportunity to learn something outside
-of a classroom setting, and to give them a new skill. The members also
-learn to persevere in times of adversity, becomes more passionate about
-music playing and also learn to work in harmony as a team with the other
-members of JYSB, so as to create music together.</p>
-<h4><strong>Activities</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4><strong>Key Programmes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -422,104 +516,7 @@ members of JYSB, so as to create music together.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Achievements</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5th Singapore International Band Festival (SIBF) Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -573,24 +570,12 @@ members of JYSB, so as to create music together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Resident Conductor</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jasen How</p>
+<p>Mr Aaron Yong</p>
 </td>
 </tr>
 <tr>
