@@ -85,6 +85,67 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card-title">After NDP performance</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/q.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Performing parts of the B-Dazzled Show Choir Competition piece in school</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/w.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Received the Bronze trophy from school principal, Mdm Soh</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/e.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Visited Marina Bay Sands Theatre for their Aladdin Musical Excursion</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/r.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Performed for Singapore Youth Festival (SYF)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/t.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Aftermath of SYF performance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/y.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">All dolled up and rehearsing for one last time with the instructor before
+the B-Dazzled Show Choir Competition</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
