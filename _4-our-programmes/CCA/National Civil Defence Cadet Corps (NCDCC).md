@@ -7,15 +7,11 @@ variant: tiptap
 ---
 <h3><strong>National Civil Defence Cadet Corps (NCDCC)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc1.jpg">
-</div>
-<p>Juying School Leaders with our NCDCC CCA Leaders</p>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NCDCC_FORMAL.jpg">
 </div>
 <p>Ready to respond at a moment's notice</p>
 <p></p>
-<p></p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

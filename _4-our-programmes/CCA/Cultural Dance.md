@@ -7,117 +7,8 @@ variant: tiptap
 ---
 <h3><strong>Cultural Dance</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/cultural%20dance%201.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cultural_Dance_FORMAL.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1__JYians_performing_for_SYF_2023.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">JYians performing for SYF 2023</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2__Invitation_to_perform_for_SATA_Commshealth_at_Toa_Payoh_Hub.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Invitation to perform for SATA Comms Health at Toa Payoh Hub</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3__Combined_Practice_with_Beatty_Sec_Modern_Dancers.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Combined Practice with Beatty Sec Modern Dancers</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4__Invitation_to_perform_at_Nanyang_CC_NDP_Show.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Invitation to perform at Nanyang CC NDP Show</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5__After_watching_a_dance_performance_in_Esplanade.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">After watching a dance performance in Esplanade</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/6__Playing_Twister_for_a_bonding_activity.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Playing Twister for a bonding activity</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/7__JYians_all_excited_to_perform_for_Chingay_2024.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">JYians all excited to perform for Chingay 2024</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/8__Farewell_Party_for_Sec_4s_and_5s.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Farewell Party for Sec 4s and 5</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/9__Group_photo_with_our_new_sec_1_members.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Group photo with our new sec 1 members</div>
-</div>
-</div>
-</div>
-<p></p>
 <p></p>
 <h4><strong>Vision</strong></h4>
 <p>Inculcating values through the love of arts.</p>
@@ -148,217 +39,8 @@ sharing what they know about dance.&nbsp;</p>
 <p>Thus our CCA is definitely an established platform to support and develop
 our members in Juying Secondary School on character building and aesthetic
 talents.</p>
-<h4><strong>Organisation Chart</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Suhana Jumadi (IC)
-<br>Ms Goh Wan Ru</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Dance Instructor</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quek Jiang Da</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Student Leaders</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SIA JIA LIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FLORENCE CHONG WEN YU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JANA KEE ZHI EN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NUR AMIRAH HUDA BINTE ABDULL RAHMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wardrobe Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GOH ZI SHAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wardrobe Manager</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Practice Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Practice Day</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 2:30 pm - 4:30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Achievements</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment in Chinese Contemporary Dance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yellowren Modern Dance Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Key Programmes</strong></h4>
+<h4><strong>Key Programmes / Activities</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -396,7 +78,7 @@ talents.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Club Performances</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -554,17 +236,8 @@ celebrations performance in school.</p>
 <p>A performance for Chinese New Year celebrations in school.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4><strong>Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -667,6 +340,306 @@ celebrations performance in school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Strengthen your arm muscle!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Activities</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1__JYians_performing_for_SYF_2023.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">JYians performing for SYF 2023</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2__Invitation_to_perform_for_SATA_Commshealth_at_Toa_Payoh_Hub.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Invitation to perform for SATA Comms Health at Toa Payoh Hub</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3__Combined_Practice_with_Beatty_Sec_Modern_Dancers.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Combined Practice with Beatty Sec Modern Dancers</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4__Invitation_to_perform_at_Nanyang_CC_NDP_Show.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Invitation to perform at Nanyang CC NDP Show</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5__After_watching_a_dance_performance_in_Esplanade.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">After watching a dance performance in Esplanade</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/6__Playing_Twister_for_a_bonding_activity.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Playing Twister for a bonding activity</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/7__JYians_all_excited_to_perform_for_Chingay_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">JYians all excited to perform for Chingay 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/8__Farewell_Party_for_Sec_4s_and_5s.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Farewell Party for Sec 4s and 5</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/9__Group_photo_with_our_new_sec_1_members.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Group photo with our new sec 1 members</div>
+</div>
+</div>
+</div>
+<h4><strong>Achievements</strong><br></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment in Chinese Contemporary Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yellowren Modern Dance Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br></h4>
+<p></p>
+<h4><strong>CCA Schedule</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Practice Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Practice Day</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance Studio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 2:30 pm - 4:30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Organisation Chart</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Suhana Jumadi (IC)
+<br>Ms Goh Wan Ru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dance Instructor</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quek Jiang Da</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIA JIA LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FLORENCE CHONG WEN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JANA KEE ZHI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AMIRAH HUDA BINTE ABDULL RAHMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH ZI SHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wardrobe Manager</p>
 </td>
 </tr>
 <tr>
