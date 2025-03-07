@@ -2,8 +2,9 @@ collections:
   4-our-programmes:
     output: true
     order:
-      - CCA/Student Council.md
+      - CCA/.keep
       - CCA/Grading System.md
+      - CCA/Student Council.md
       - CCA/Speech & Drama Society.md
       - CCA/Infocomm Technology Club.md
       - CCA/Art & Craft Club.md
@@ -17,7 +18,6 @@ collections:
       - CCA/Cultural Dance.md
       - CCA/Symphonic Band.md
       - CCA/Choir.md
-      - CCA/.keep
       - Cyberwellness.md
       - CCE/Sexuality Education.md
       - CCE/LLP – PASSION.md
