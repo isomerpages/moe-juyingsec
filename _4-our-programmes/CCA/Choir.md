@@ -23,6 +23,114 @@ as well as Teachers Day!</p>
 supportive care of their teachers, trainers and peers - they developed
 their vocal and dance skills to greater heights to take on more exciting
 performing challenges ahead to showcase their talents to the world.</p>
+<p></p>
+<h4><strong>Key Programmes / Activities</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity / Performance</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exchange Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year School Concert Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gek Poh Ville Community Club Chinese New Year Gala Dinner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exchange Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Soloist Grand Finals Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B-Dazzled Singapore Show Choir Festival</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arts and Health Festival at Jurong Health Campus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lion King Musical</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher’s Day Musical Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Choir Camp</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -314,171 +422,7 @@ the B-Dazzled Show Choir Competition</div>
 </tr>
 </tbody>
 </table>
-<h4><br><strong>Key Programmes</strong><br></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activity / Performance</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Exchange Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year School Concert Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gek Poh Ville Community Club Chinese New Year Gala Dinner</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Exchange Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B-Dazzled Soloist Grand Finals Concert</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B-Dazzled Singapore Show Choir Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang National Day Observance Ceremony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arts and Health Festival at Jurong Health Campus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lion King Musical</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day Musical Concert</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Choir Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CCA Schedule</strong><br></h4>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
