@@ -47,6 +47,95 @@ competition to put their skills to the test.&nbsp; &nbsp;&nbsp;</p>
 <p>Through means of providing support for the school and participation in
 competitions, students are able to put into practice the school values
 of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
+<p></p>
+<h4><strong>Key Programmes / Activities</strong></h4>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team Building Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audio Visual, Information&nbsp;and Communications Technology Equipment
+Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audio Visual, Information&nbsp;and Communications Technology Support for
+School Events &amp; Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photography Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Videography Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Canon PhotoChallenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEGO Spike Programming (Basic &amp; Advanced)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic Aero Challenge Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Micro:bit Advanced DigitalMaker Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Python Programming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Game Apps Development using Scratch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journeys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Involvement Project (CIP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -356,89 +445,6 @@ of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
-<h4><strong>Key Programmes</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Team Building Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Audio Visual, Information&nbsp;and Communications Technology Equipment
-Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Audio Visual, Information&nbsp;and Communications Technology Support for
-School Events &amp; Activities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Photography Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Videography Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Canon PhotoChallenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LEGO Spike Programming (Basic &amp; Advanced)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ngee Ann Polytechnic Aero Challenge Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Micro:bit Advanced DigitalMaker Training</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Python Programming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mobile Game Apps Development using Scratch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Learning Journeys</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Community Involvement Project (CIP)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -507,6 +513,17 @@ School Events &amp; Activities</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>RINKO LEE XUE NING</p>
