@@ -7,16 +7,23 @@ variant: tiptap
 ---
 <h3><strong>Choir</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/choir1.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Choir_FORMAL.jpg">
 </div>
 <h4><strong>Vision</strong></h4>
 <p>One Choir One Voice.</p>
 <p></p>
-<p></p>
+<h4><strong>Overview</strong></h4>
+<p>The Juying Choir performed passionately in the Singapore Youth Festival
+2023 and was awarded the Certificate of Commendation. &nbsp;</p>
+<p>Amidst the COVID-19 Pandemic, the choir has been unable to sing face-to-face
+to adhere to the MOE guidelines. However, this has not stopped the choir
+from coming up with various virtual performances for SYF, National Day
+as well as Teachers Day!</p>
+<p>Through these key events where our choir members were nurtured under the
+supportive care of their teachers, trainers and peers - they developed
+their vocal and dance skills to greater heights to take on more exciting
+performing challenges ahead to showcase their talents to the world.</p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -88,17 +95,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<h4><strong>Overview</strong></h4>
-<p>The Juying Choir performed passionately in the Singapore Youth Festival
-2023 and was awarded the Certificate of Commendation. &nbsp;</p>
-<p>Amidst the COVID-19 Pandemic, the choir has been unable to sing face-to-face
-to adhere to the MOE guidelines. However, this has not stopped the choir
-from coming up with various virtual performances for SYF, National Day
-as well as Teachers Day!</p>
-<p>Through these key events where our choir members were nurtured under the
-supportive care of their teachers, trainers and peers - they developed
-their vocal and dance skills to greater heights to take on more exciting
-performing challenges ahead to showcase their talents to the world.</p>
+<h4></h4>
 <h4><strong>Organisation Chart</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -112,15 +109,20 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Samuel Cho (IC)
-<br>Ms Goh Shu Han
-<br>Ms Chen Yong Hua</p>
+<p>Ms Chen Yonghua(IC)
+<br>Ms Lim Yan Ping
+<br>Ms Tan Hui Si</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Conductor: Ms Lee Fooi Pin
 <br>Pianist: Mr Betrand Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
