@@ -24,7 +24,55 @@ their leadership skills and enhance their teamwork.
 <br>
 <br>
 </p>
+<h4><strong>Key Programmes / Activities</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan - Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games West Zone Badminton Championships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Kim Wee Badminton Challenge Trophy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Badminton Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
@@ -89,7 +137,6 @@ their leadership skills and enhance their teamwork.
 </div>
 </div>
 </div>
-<p></p>
 <h4></h4>
 <h4><strong>Achievements</strong></h4>
 <p></p>
@@ -249,56 +296,6 @@ their leadership skills and enhance their teamwork.
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>Key Programmes</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activity</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan - Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games West Zone Badminton Championships</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wee Kim Wee Badminton Challenge Trophy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual Badminton Camp</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
