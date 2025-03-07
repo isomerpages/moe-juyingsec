@@ -25,7 +25,55 @@ both traditional and modern arts.&nbsp;</p>
 <p>The Art &amp; Crafts Club also takes part in various art competitions
 to challenge our students so as to further develop their skills and showcase
 their abilities.</p>
-<h4></h4>
+<p></p>
+<h4><strong>Key Programmes / Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programmes</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Family Connectors Celebrating Families: Design-A-Postcard Competition
+<br>- Draw My Stamp Story Art Competition 2021
+<br>- Live On Festival (LOF) 2021
+<br>- Miniature Food Making Workshop 2021
+<br>- Gratitude Fund Raising Project 2021
+<br>- Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee
+(NCCC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Draw My Stamp Story Art Competition 2020
+<br>- Live On Design Competition 2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Activities</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
@@ -359,49 +407,7 @@ their abilities.</p>
 </tr>
 </tbody>
 </table>
-<h4><br><strong>Key Programmes</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programmes</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Family Connectors Celebrating Families: Design-A-Postcard Competition
-<br>- Draw My Stamp Story Art Competition 2021
-<br>- Live On Festival (LOF) 2021
-<br>- Miniature Food Making Workshop 2021
-<br>- Gratitude Fund Raising Project 2021
-<br>- Nanyang Sayang Programme by Nanyang Citizens’ Consultative Committee
-(NCCC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Draw My Stamp Story Art Competition 2020
-<br>- Live On Design Competition 2020</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
