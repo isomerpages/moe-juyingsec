@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
 </div>
-<p></p>
 <p></p>
 <h4><strong>Vision</strong></h4>
 <p>Unyielding and Illustrious Student Leaders who Lead with Conviction.</p>
