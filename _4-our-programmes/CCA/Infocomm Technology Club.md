@@ -48,55 +48,6 @@ competition to put their skills to the test.&nbsp; &nbsp;&nbsp;</p>
 competitions, students are able to put into practice the school values
 of Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity.</p>
 <h4><strong>Activities</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Team Building Activities</p>
-</li>
-<li>
-<p>Audio Visual, Information&nbsp;and Communications Technology Equipment
-Training</p>
-</li>
-<li>
-<p>Audio Visual, Information&nbsp;and Communications Technology Support for
-School Events &amp; Activities</p>
-</li>
-<li>
-<p>Photography Training</p>
-</li>
-<li>
-<p>Videography Training</p>
-</li>
-<li>
-<p>Canon PhotoChallenge</p>
-</li>
-<li>
-<p>LEGO Spike Programming (Basic &amp; Advanced)</p>
-</li>
-<li>
-<p>Ngee Ann Polytechnic Aero Challenge Competition</p>
-</li>
-<li>
-<p>World Robot Games (WRG) | Line Tracing, SumoBot</p>
-</li>
-<li>
-<p>Micro:bit Advanced DigitalMaker Training</p>
-</li>
-<li>
-<p>Python Programming</p>
-</li>
-<li>
-<p>Mobile Game Apps Development using Scratch</p>
-</li>
-<li>
-<p>Learning Journeys</p>
-</li>
-<li>
-<p>Community Involvement Project (CIP)</p>
-</li>
-</ul>
-<p></p>
-<h4><strong>Activities</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -401,19 +352,92 @@ School Events &amp; Activities</p>
 <p>4th Place</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Team Building Activities</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Audio Visual, Information&nbsp;and Communications Technology Equipment
+Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audio Visual, Information&nbsp;and Communications Technology Support for
+School Events &amp; Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photography Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Videography Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Canon PhotoChallenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEGO Spike Programming (Basic &amp; Advanced)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic Aero Challenge Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Micro:bit Advanced DigitalMaker Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Python Programming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Game Apps Development using Scratch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journeys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Involvement Project (CIP)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
