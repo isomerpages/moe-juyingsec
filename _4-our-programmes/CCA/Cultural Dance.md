@@ -39,6 +39,207 @@ sharing what they know about dance.&nbsp;</p>
 <p>Thus our CCA is definitely an established platform to support and develop
 our members in Juying Secondary School on character building and aesthetic
 talents.</p>
+<p></p>
+<h4><strong>Key Programmes / Activities</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Activities / Performance</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher’s Day Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year End Bonding Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%202.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%203.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%204.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers' Day Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%205.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The beauty of our dancers dancing to a Chinese-themed dance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%206.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Togetherness in harmony.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%207.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rehearsing for perfection.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%208.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern dance piece for Singapore Youth Festival Extravaganza at Bukit
+Panjang Plaza.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%209.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our swift dancers flying high for National Day Parade at Nanyang Community
+Club.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2010.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 dancers performing during the Teacher’s Day celebration.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2011.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meal time during camp is awesome!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2012.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bonding camp is the time to get to know one another inside out.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2013.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Act it out with dance postures!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2014.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our dancer, Jie Lin, smiles at the audience during the Chinese New Year
+celebrations performance in school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2015.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>A performance for Chinese New Year celebrations in school.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -228,44 +429,7 @@ talents.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Key Programmes</strong><br></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Activities / Performance</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day Celebration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year End Bonding Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4><br></h4>
 <p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
@@ -386,174 +550,6 @@ talents.</p>
 </tbody>
 </table>
 <h4></h4>
-<h4><strong>Club Performances</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%202.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%203.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%204.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers' Day Performance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%205.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>The beauty of our dancers dancing to a Chinese-themed dance.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%206.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Togetherness in harmony.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%207.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rehearsing for perfection.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%208.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modern dance piece for Singapore Youth Festival Extravaganza at Bukit
-Panjang Plaza.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%209.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our swift dancers flying high for National Day Parade at Nanyang Community
-Club.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2010.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secondary 1 dancers performing during the Teacher’s Day celebration.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2011.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Meal time during camp is awesome!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2012.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bonding camp is the time to get to know one another inside out.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2013.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Act it out with dance postures!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2014.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our dancer, Jie Lin, smiles at the audience during the Chinese New Year
-celebrations performance in school.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2015.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>A performance for Chinese New Year celebrations in school.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
