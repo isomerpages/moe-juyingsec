@@ -542,6 +542,14 @@ performing challenges ahead to showcase their talents to the world.</p>
 <p>Welfare Manager</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -550,6 +558,14 @@ performing challenges ahead to showcase their talents to the world.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Anna Chain Htoo</p>
@@ -593,31 +609,6 @@ performing challenges ahead to showcase their talents to the world.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Music Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 2.30 pm - 5.30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4></h4>
 <h4></h4>
 <h4><strong>Events</strong></h4>
