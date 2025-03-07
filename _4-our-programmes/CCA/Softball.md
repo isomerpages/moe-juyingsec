@@ -183,6 +183,14 @@ The objective is to score more runs than the other team.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>IZZ FAZEEL BIN ZAREEN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,6 +227,14 @@ The objective is to score more runs than the other team.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
