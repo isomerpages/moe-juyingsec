@@ -238,8 +238,112 @@ celebrations performance in school.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2016.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debrief is must after rehearsal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2017.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flag day with sec 3 dancers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2018.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gong Xi Fa Cai Mr Yee and Nanyang Constituency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2019.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ready for Singapore Youth Festival Arts Presentation 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2020.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ready to perform!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2021.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hold your posture!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2022.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Syncronization is the key</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2023.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Warm up with my buddy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Strengthen your arm muscle!</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -249,8 +353,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">JYians performing for SYF 2023</div>
+<div class="isomer-card-title">JYians performing for SYF 2023</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -260,8 +363,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Invitation to perform for SATA Comms Health at Toa Payoh Hub</div>
+<div class="isomer-card-title">Invitation to perform for SATA Comms Health at Toa Payoh Hub</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -271,8 +373,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Combined Practice with Beatty Sec Modern Dancers</div>
+<div class="isomer-card-title">Combined Practice with Beatty Sec Modern Dancers</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -282,8 +383,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Invitation to perform at Nanyang CC NDP Show</div>
+<div class="isomer-card-title">Invitation to perform at Nanyang CC NDP Show</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -293,8 +393,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">After watching a dance performance in Esplanade</div>
+<div class="isomer-card-title">After watching a dance performance in Esplanade</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -304,8 +403,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Playing Twister for a bonding activity</div>
+<div class="isomer-card-title">Playing Twister for a bonding activity</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -315,8 +413,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">JYians all excited to perform for Chingay 2024</div>
+<div class="isomer-card-title">JYians all excited to perform for Chingay 2024</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -326,8 +423,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Farewell Party for Sec 4s and 5</div>
+<div class="isomer-card-title">Farewell Party for Sec 4s and 5</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -337,8 +433,7 @@ celebrations performance in school.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cultural Dance</div>
-<div class="isomer-card-description">Group photo with our new sec 1 members</div>
+<div class="isomer-card-title">Group photo with our new sec 1 members</div>
 </div>
 </div>
 </div>
@@ -545,114 +640,6 @@ celebrations performance in school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wardrobe Manager</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4></h4>
-<h4><strong>Activities</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2016.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debrief is must after rehearsal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2017.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flag day with sec 3 dancers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2018.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gong Xi Fa Cai Mr Yee and Nanyang Constituency</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2019.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ready for Singapore Youth Festival Arts Presentation 2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2020.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ready to perform!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2021.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hold your posture!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2022.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Syncronization is the key</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2023.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Warm up with my buddy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cultural%20dance%2024.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Strengthen your arm muscle!</p>
 </td>
 </tr>
 <tr>
