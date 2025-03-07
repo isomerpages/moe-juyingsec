@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p></p>
+<h1><strong>Student Council</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student_Council_FORMAL.jpg">
 </div>
@@ -23,7 +23,7 @@ the way for the student body through example. Through the exclusive training
 and hands-on project management, JYSC empowers our Student Councillors
 and other student leaders, enabling them to collaborate effectively in
 order to contribute to the positive school culture of JYSS.</p>
-<p></p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
