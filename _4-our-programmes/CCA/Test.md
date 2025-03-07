@@ -88,13 +88,21 @@ order to contribute to the positive school culture of JYSS.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Venue</p>
@@ -123,12 +131,17 @@ order to contribute to the positive school culture of JYSS.</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
+<h4><strong>Student Council Teacher Advisors (SCTAs)</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shu Han (OIC)</p>
@@ -149,17 +162,30 @@ order to contribute to the positive school culture of JYSS.</p>
 <p>Mr Ow Wee Chiang</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p></p>
+<h4><strong>Student Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LIYA SHEMY</p>
@@ -198,6 +224,14 @@ order to contribute to the positive school culture of JYSS.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Partnership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
