@@ -2,6 +2,7 @@ collections:
   4-our-programmes:
     output: true
     order:
+      - CCA/.keep
       - CCA/Grading System.md
       - CCA/Student Council.md
       - CCA/Speech & Drama Society.md
@@ -17,7 +18,6 @@ collections:
       - CCA/Cultural Dance.md
       - CCA/Symphonic Band.md
       - CCA/Choir.md
-      - CCA/.keep
       - Cyberwellness.md
       - CCE/Sexuality Education.md
       - CCE/LLP – PASSION.md

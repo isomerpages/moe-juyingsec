@@ -7,83 +7,8 @@ variant: tiptap
 ---
 <h3><strong>Softball</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/softball1.jpg">
-</div>
-<h4></h4>
-<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Softball_FORMAL.jpg">
 </div>
-<p></p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Div_in_action.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Softball</div>
-<div class="isomer-card-description">B Div in action</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pioneer_Batch_of_JY_Softballers.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Softball</div>
-<div class="isomer-card-description">Pioneer batch of JY softballers</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Farewell_Party_for_Sec_4s.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Softball</div>
-<div class="isomer-card-description">Farewell party for Sec 4s</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/EXCO_2024.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Softball</div>
-<div class="isomer-card-description">EXCO 2024</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Nanyang_Sayang.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Softball</div>
-<div class="isomer-card-description">Nanyang Sayang</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/C_Div_2024.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Softball</div>
-<div class="isomer-card-description">C Div 2024</div>
-</div>
-</div>
-</div>
-<p></p>
 <p></p>
 <h4><strong>Vision</strong></h4>
 <p>Motivated and Resilient Softballers Who Strive for Excellence On and Off
@@ -111,6 +36,85 @@ promises a world of fun and the learning of different skills sets. Softball
 is a bat-and-ball sport played between two teams of 9 players. Each team
 will take turns to be the batting and fielding team for each round (inning).
 The objective is to score more runs than the other team.</p>
+<p></p>
+<p></p>
+<h4><strong>Activities</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__6_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CCA Leaders</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Div_in_action.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">B Div in action</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pioneer_Batch_of_JY_Softballers.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pioneer batch of JY softballers</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Farewell_Party_for_Sec_4s.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Farewell party for Sec 4s</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/EXCO_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">EXCO 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Nanyang_Sayang.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nanyang Sayang</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/C_Div_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">C Div 2024</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<h4></h4>
 <h4><strong>CCA Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -149,29 +153,23 @@ The objective is to score more runs than the other team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Weiqiang (IC)</p>
+<p>Mr Lim Chiang Long
+<br>Mdm Rosnah Mustaffa</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Kai Jie</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Coach</p>
+<p>Instructor (Coach)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Gerann Ngiam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -183,6 +181,14 @@ The objective is to score more runs than the other team.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>IZZ FAZEEL BIN ZAREEN</p>
@@ -221,6 +227,14 @@ The objective is to score more runs than the other team.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
