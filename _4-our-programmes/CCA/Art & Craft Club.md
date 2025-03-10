@@ -84,7 +84,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2024 ART &amp; CRATS CLUB</div>
+<div class="isomer-card-title">2024 ART &amp; CRAFTS CLUB</div>
 </div>
 </div>
 <div class="isomer-card">
