@@ -122,22 +122,22 @@ to learn, lead and serve.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Nyoe Chee Yong</p>
+<p>Mr Adrian Nyoe Chee Yong(IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Fauzul</p>
+<p>Ms Lim Jia Ying (2IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Benjamin Goh Qi Xuan</p>
+<p>Mr Mohd Fauzul Mohd Taha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jia Ying</p>
+<p>Mr Muhd Nasri B Nooran</p>
 </td>
 </tr>
 </tbody>
