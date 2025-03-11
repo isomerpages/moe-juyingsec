@@ -109,177 +109,9 @@ a compassionate heart.</p>
 <p>These are testaments of the growth of the cadets to be role models of
 excellence for others to emulate under the guidance of the teacher officers
 to learn, lead and serve.</p>
-<h4><strong>Organisation Chart</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Teachers-In-Charge</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Adrian Nyoe Chee Yong(IC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Jia Ying (2IC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Fauzul Mohd Taha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Nasri B Nooran</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Student Leaders</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ALIYAH DINIE NASUHA BINTE RAHMAT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>USM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD DARWISY AKMAL BIN MUHAMMAD SHAHLI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ASM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NURUL AMIRA NATASYA BINTE SADALI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RSM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MADELEINE LAU JIA XI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RSM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOHAMED RYAN BIN MOHAMED FAIZAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ROTA IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NUR ADRIYANA CHONG BINTE KHAIRUL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ROTA IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAY XUAN HUANG, KAYDEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ROTA IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NURUL ELLYSHA ATRISHA BINTE JOHARI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fire Safety Instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD DELFI HAKIMI BIN MUHAMMAD FAUZI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Response Instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NUR ADRIANA BINTE YAHYA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>USAR Instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ALYA AMIRAH BINTE MUHAMMAD BUKHORI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marine Instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ALIF IRSYAD BIN MOHD FARID</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Quartermaster</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Training Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Training Day</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Foyer / Parade Square</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday 3 pm - 6 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
+<h4></h4>
+<h4></h4>
 <h4><strong>Achievements</strong><br><strong>2022</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1005,7 +837,7 @@ engaging the public.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Activities</strong></h4>
+<h4><strong>Key Programmes / Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1212,6 +1044,178 @@ School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>CCA Schedule</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Day</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Foyer / Parade Square</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday 3 pm - 6 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Organisation Chart</strong><br></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-In-Charge</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Nyoe Chee Yong(IC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Jia Ying (2IC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Fauzul Mohd Taha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Nasri B Nooran</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Leaders</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALIYAH DINIE NASUHA BINTE RAHMAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>USM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD DARWISY AKMAL BIN MUHAMMAD SHAHLI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURUL AMIRA NATASYA BINTE SADALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MADELEINE LAU JIA XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMED RYAN BIN MOHAMED FAIZAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROTA IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ADRIYANA CHONG BINTE KHAIRUL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROTA IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY XUAN HUANG, KAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROTA IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURUL ELLYSHA ATRISHA BINTE JOHARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fire Safety Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD DELFI HAKIMI BIN MUHAMMAD FAUZI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Response Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ADRIANA BINTE YAHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>USAR Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALYA AMIRAH BINTE MUHAMMAD BUKHORI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marine Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALIF IRSYAD BIN MOHD FARID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Quartermaster</p>
 </td>
 </tr>
 </tbody>
