@@ -99,11 +99,6 @@ School Events &amp; Activities</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ngee Ann Polytechnic Aero Challenge Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Micro:bit Advanced DigitalMaker Training</p>
 </td>
 </tr>
