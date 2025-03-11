@@ -352,7 +352,7 @@ their coach</div>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Chuah Soon Ann (IC)
-<br>Mr Ma Yan Ping (2IC)</p>
+<br>Mr Ma Yaping (2IC)</p>
 </td>
 </tr>
 <tr>

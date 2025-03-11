@@ -1,5 +1,5 @@
 ---
-title: Art & Craft Club
+title: Art & Crafts Club
 permalink: /cca/clubs-n-societies/art-n-craft-club/
 description: ""
 third_nav_title: CCA
@@ -84,7 +84,7 @@ their abilities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2024 ART &amp; CRATS CLUB</div>
+<div class="isomer-card-title">2024 ART &amp; CRAFTS CLUB</div>
 </div>
 </div>
 <div class="isomer-card">
