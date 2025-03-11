@@ -109,8 +109,217 @@ to learn, lead and serve.</p>
 </div>
 </div>
 <h4></h4>
-<h4></h4>
-<h4></h4>
+<h4><strong>Key Programmes / Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emergency Preparedness Day at Taman Jurong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jan
+<br>Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Psychological First Aid Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drill Competition (PDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chingay Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disaster and Response Team (DART) Base Visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Specialisation Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Sector Inter Unit Civil Defence Skills Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Anti-Narcotics Association (SANA) Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Games Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Service Week at Xingnan Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cardiopulmonary resuscitation (CPR) Service Week at Westwood Secondary
+School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Homefront Security Course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Affirmation Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emergency Preparedness (EP) Centre visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Defence Heritage Gallery visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emergency Preparedness day at Jurong West</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UG Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFEC-NCDCC Inter-Unit quiz (IQ)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fire Station visit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Outdoor Resilience Adventure Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Annual Unit Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4></h4>
 <h4><strong>Competitions</strong></h4>
 <table style="minWidth: 75px">
@@ -361,217 +570,7 @@ to learn, lead and serve.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Key Programmes / Activities</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Period</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activity</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Emergency Preparedness Day at Taman Jurong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jan
-<br>Sept</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Psychological First Aid Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Precision Drill Competition (PDC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chingay Parade</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Disaster and Response Team (DART) Base Visit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Specialisation Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Sector Inter Unit Civil Defence Skills Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Anti-Narcotics Association (SANA) Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Games Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Aid Service Week at Xingnan Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cardiopulmonary resuscitation (CPR) Service Week at Westwood Secondary
-School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Homefront Security Course</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Affirmation Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Parade</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Emergency Preparedness (EP) Centre visit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Civil Defence Heritage Gallery visit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Emergency Preparedness day at Jurong West</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UG Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFEC-NCDCC Inter-Unit quiz (IQ)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fire Station visit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Outdoor Resilience Adventure Challenge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Annual Unit Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
 <h4><strong>Achievements</strong><br><strong>2022</strong><br></h4>
 <table style="minWidth: 50px">
