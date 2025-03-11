@@ -1,5 +1,5 @@
 ---
-title: Infocomm Technology Club
+title: Audio Visual and Infocomm Technology
 permalink: /cca/clubs-n-societies/infocomm-technology-club/
 description: ""
 third_nav_title: CCA
@@ -95,11 +95,6 @@ School Events &amp; Activities</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LEGO Spike Programming (Basic &amp; Advanced)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ngee Ann Polytechnic Aero Challenge Competition</p>
 </td>
 </tr>
 <tr>

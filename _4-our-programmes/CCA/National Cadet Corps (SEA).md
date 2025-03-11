@@ -33,7 +33,122 @@ Sea Competition (Kayaking), Road Relay and other sports and games such
 as captain's ball, frisbee and soccer. &nbsp;</p>
 <p>NCC SEA cadets are also given the opportunity to be the official school
 flag bearers at every National Day Observance Ceremony.</p>
-<p></p>
+<p>
+<br>
+</p>
+<h4><strong>Activities</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_1___Presentation_of_Unit_Recognition_Award_2023__Distinction_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Presentation of Unit Recognition Award 2023</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_2___Precision_Drill_Squad__PDS__Training.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Precision Drill Squad (PDS) Training</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_3___PDS_Competition_2024__Preliminaries_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">PDS Competition 2024 (Preliminaries)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_4___PDS_Competition_2024__Grand_Finals_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">PDS Competition 2024 (Grand Finals)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_5___Dragon_Boating_Training.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dragon Boating Training</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_6___National_Inter_Schools_Dragon_Boat_Race_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Inter-Schools Dragon Boat Race 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">All ready to roar down Kallang in their dragonboats</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/55.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sui Mun (3rd in Kayaking Singles)</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/44.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Standing with pride, preparing to march with the national flag</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/22.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Getting ready to clean up the shore in their kayaks</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/33.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">On board ship from Canberra</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/66.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Booth Visiting at Changi Exhibition</div>
+</div>
+</div>
+</div>
 <p></p>
 <h4><strong>Key Programmes / Activities</strong></h4>
 <p></p>
@@ -423,120 +538,6 @@ flag bearers at every National Day Observance Ceremony.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Activities</strong></h4>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_1___Presentation_of_Unit_Recognition_Award_2023__Distinction_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Presentation of Unit Recognition Award 2023</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_2___Precision_Drill_Squad__PDS__Training.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Precision Drill Squad (PDS) Training</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_3___PDS_Competition_2024__Preliminaries_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">PDS Competition 2024 (Preliminaries)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_4___PDS_Competition_2024__Grand_Finals_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">PDS Competition 2024 (Grand Finals)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_5___Dragon_Boating_Training.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dragon Boating Training</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_6___National_Inter_Schools_Dragon_Boat_Race_2024.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National Inter-Schools Dragon Boat Race 2024</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/11.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">All ready to roar down Kallang in their dragonboats</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/55.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sui Mun (3rd in Kayaking Singles)</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/44.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Standing with pride, preparing to march with the national flag</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/22.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Getting ready to clean up the shore in their kayaks</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/33.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">On board ship from Canberra</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/66.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Booth Visiting at Changi Exhibition</div>
-</div>
-</div>
-</div>
 <p></p>
 <h4><strong>Achievements</strong><br></h4>
 <table style="minWidth: 75px">
