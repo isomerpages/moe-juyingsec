@@ -11,6 +11,20 @@ variant: tiptap
 </div>
 <p>Ready to respond at a moment's notice</p>
 <p></p>
+<h4><strong>Vision</strong></h4>
+<p>A choice uniformed group of community first responders.</p>
+<h4><strong>Mission</strong></h4>
+<p>To develop and empower our youth to be active and concerned citizens advocating
+life-saving skills</p>
+<h4><strong>Overview</strong></h4>
+<p>NCDCC aims to equip our cadets with life-saving skills to serve the community.
+Our cadets attended to casualties at various school and HQ events.&nbsp;</p>
+<p>With the civil defence knowledge and skills imparted to them, they will
+also be able to lend a helping hand as Community First Responders with
+a compassionate heart.</p>
+<p>These are testaments of the growth of the cadets to be role models of
+excellence for others to emulate under the guidance of the teacher officers
+to learn, lead and serve.</p>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -94,385 +108,10 @@ variant: tiptap
 </div>
 </div>
 </div>
-<p></p>
-<h4><strong>Vision</strong></h4>
-<p>A choice uniformed group of community first responders.</p>
-<h4><strong>Mission</strong></h4>
-<p>To develop and empower our youth to be active and concerned citizens advocating
-life-saving skills</p>
-<h4><strong>Overview</strong></h4>
-<p>NCDCC aims to equip our cadets with life-saving skills to serve the community.
-Our cadets attended to casualties at various school and HQ events.&nbsp;</p>
-<p>With the civil defence knowledge and skills imparted to them, they will
-also be able to lend a helping hand as Community First Responders with
-a compassionate heart.</p>
-<p>These are testaments of the growth of the cadets to be role models of
-excellence for others to emulate under the guidance of the teacher officers
-to learn, lead and serve.</p>
 <h4></h4>
 <h4></h4>
 <h4></h4>
-<h4><strong>Achievements</strong><br><strong>2022</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCDCC Unit Overall Proficiency Award (UOPA)</strong> 
-<br>Mdm Soh receiving the award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NCDCC Unit Overall Proficiency Award</strong> 
-<br>Presenting the award to Mdm Soh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/ncdcc3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SCDF-NCDCC Pinnacle Badge Award</strong> 
-<br>Hazrul Hakim Bin Norshahrul</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/ncdcc4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><strong>SCDF-NCDCC Pinnacle Badge Award</strong> 
-<br>Muhammad Irfan Azhari Bin Mohd Farid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong> 
-<br>NCDCC Unit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong> 
-<br>NCDCC in formation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong> 
-<br>NCDCC in formation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National Day Observance Ceremony</strong> 
-<br>NCDCC in formation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>2021</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Badge Award
-<br>Shena Quseerah Binte Hamidon
-<br>
-<br>Best Unit Cadet
-<br>Shena Quseerah Binte Hamidon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Badge Award
-<br>Muhaimin Dhani Anaqi Bin Maswande</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc8.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc10.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Photo Project</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc12.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>eCCA in Session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc13.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Fair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>2019</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc14.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Unit Overall Proficiency Award (UOPA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc15.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle badge award ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc16.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Parade</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc17.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Recruitment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc18.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc19.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Precision Drill Competition (PDC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc20.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc21.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc22.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Emergency Preparedness (EP) Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc23.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Observance Ceremony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc24.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ncdcc25.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our Sec 2 and 3 National Civil Defence Cadet Corps (NCDCC) cadets participated
-in the Emergency Preparedness Day at Taman Jurong on 14 Jan (Sun), where
-they actively engaged members of the public in imparting useful emergency
-response skills such as Improvised First Aid Skills, Fire Safety and the
-use of CPR and AED. This was organised as part of the nationwide SGSecure
-programme, which our NCDCC cadets play an important role in educating and
-engaging the public.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>2018</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1049,7 +688,461 @@ School</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>CCA Schedule</strong><br></h4>
+<h4><strong>Achievements</strong><br><strong>2022</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NCDCC Unit Overall Proficiency Award (UOPA)</strong> 
+<br>Mdm Soh receiving the award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NCDCC Unit Overall Proficiency Award</strong> 
+<br>Presenting the award to Mdm Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SCDF-NCDCC Pinnacle Badge Award</strong> 
+<br>Hazrul Hakim Bin Norshahrul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><strong>SCDF-NCDCC Pinnacle Badge Award</strong> 
+<br>Muhammad Irfan Azhari Bin Mohd Farid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Observance Ceremony</strong> 
+<br>NCDCC Unit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Observance Ceremony</strong> 
+<br>NCDCC in formation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Observance Ceremony</strong> 
+<br>NCDCC in formation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Observance Ceremony</strong> 
+<br>NCDCC in formation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2021</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Badge Award
+<br>Shena Quseerah Binte Hamidon
+<br>
+<br>Best Unit Cadet
+<br>Shena Quseerah Binte Hamidon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Badge Award
+<br>Muhaimin Dhani Anaqi Bin Maswande</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Photo Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc12.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>eCCA in Session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc13.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Fair</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2019</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Unit Overall Proficiency Award (UOPA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc15.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle badge award ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc16.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Parade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc17.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Recruitment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc19.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drill Competition (PDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc21.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc22.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Emergency Preparedness (EP) Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc23.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc24.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/ncdcc25.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Sec 2 and 3 National Civil Defence Cadet Corps (NCDCC) cadets participated
+in the Emergency Preparedness Day at Taman Jurong on 14 Jan (Sun), where
+they actively engaged members of the public in imparting useful emergency
+response skills such as Improvised First Aid Skills, Fire Safety and the
+use of CPR and AED. This was organised as part of the nationwide SGSecure
+programme, which our NCDCC cadets play an important role in educating and
+engaging the public.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br><strong>2018</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc26.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>JYSS Total Defence Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc27.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>JYSS Total Defence Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc28.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>JYSS Total Defence Day 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc29.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Service Week</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc30.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Service Week</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc31.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc32.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc33.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drill Competition (PDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/ncdcc34.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Precision Drill Competition (PDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br><strong>CCA Schedule</strong><br></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
