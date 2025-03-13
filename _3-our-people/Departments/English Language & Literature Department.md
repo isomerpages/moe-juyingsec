@@ -18,13 +18,8 @@ variant: tiptap
 <p>To achieve value-added results by equipping JYians with lifelong learning
 skills and values.</p>
 <h4><strong>Overview</strong></h4>
-<p>English Language Week is aimed to encourage students to develop a love
-for reading and writing. Fun and engaging activities are carried out during
-the week, such as the Great Riddle, Two-Liner Stories and Essay Writing,
-exposing students to different kinds of competitions.&nbsp;&nbsp;Students
-are also given an opportunity to discuss and share their favourite novels
-in assigned&nbsp;genres and present them as characters on Book Character
-Day.</p>
+<p><strong>In the English Language &amp; Literature department, our teachers aim:</strong>
+</p>
 <p>1. To develop JYians into confident and competent communicators
 <br>2. To develop a strong reading culture amongst JYians
 <br>3. To achieve value – added results in English Language</p>
