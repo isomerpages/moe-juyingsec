@@ -29,7 +29,7 @@ for exploration and for students to work collaboratively to deepen their
 learning.</p>
 <p></p>
 <h4><strong>Programmes and Strategies</strong></h4>
-<p><em> 1. Providing Learning Experiences in real life context to engage and motivate learners.<br>2. Bridging sessions to boost confidence and skills in numeracy and mathematical thinking.</em>
+<p><em>1. Providing Learning Experiences in real life context to engage and motivate learners.<br>2. Bridging sessions to boost confidence and skills in numeracy and mathematical thinking.</em>
 <br><em>3. </em>Focused Group Consultation for targeted learning.
 <br>3. PDLP to promote self-directed learners with intrinsic motivation.
 <br>4. Incorporating STEM education to promote students who are curious, creative
