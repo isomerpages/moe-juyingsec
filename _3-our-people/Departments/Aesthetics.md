@@ -73,7 +73,7 @@ and passionate learners through the inculcation of the Arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hema Lata</p>
+<p>Mr Dolly Yansen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Coordinator</p>
@@ -81,10 +81,10 @@ and passionate learners through the inculcation of the Arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jeshrei Toh</p>
+<p>Ms Hema Lata</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Coordinator</p>
+<p>Art Teacher</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ and passionate learners through the inculcation of the Arts.</p>
 <p>Mdm Linda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Teacher</p>
+<p>Art FAJT</p>
 </td>
 </tr>
 </tbody>
