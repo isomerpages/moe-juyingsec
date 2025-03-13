@@ -346,7 +346,7 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Wenqing</p>
+<p>Mr Soh Joon Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Science)</p>
@@ -354,10 +354,18 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Joon Wei</p>
+<p>Mr Senthil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science)</p>
+<p>(HOD, CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Rabaah Saidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 3 AYH)</p>
 </td>
 </tr>
 <tr>
@@ -365,23 +373,15 @@ a coastal walk at Changi.</p>
 <p>Mr Lee Hon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Physics)</p>
+<p>(Lead Teacher (Physics))</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khairiani</p>
+<p>Ms Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coordinator (FCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Senthil Silvarajoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD(CCE)</p>
+<p>(Biology Co-ordinator)</p>
 </td>
 </tr>
 <tr>
