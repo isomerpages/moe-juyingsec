@@ -302,18 +302,26 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mak Wai Han</p>
+<p>Mr Wang Woon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
+<p>Year Head</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Woon Keat</p>
+<p>Ms Rachel Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head (Lower Sec)</p>
+<p>Subject Head (EdTech)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mak Wai Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +329,15 @@ and Collaborative learners.</p>
 <p>Mr Albert Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Raba’ah Saidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +358,7 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Tham</p>
+<p>Ms Yeo Yee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -358,7 +374,7 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Yee Teng</p>
+<p>Mr Ow Wee Chiang&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -366,7 +382,7 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yap Wai Ling</p>
+<p>Ms Tharsiny Balakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -382,7 +398,7 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Wee Chiang</p>
+<p>Mr Lim Hock Beng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -390,7 +406,7 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Elisha Asilvatham</p>
+<p>Mr Raymond Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -398,15 +414,7 @@ and Collaborative learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Loo Pek Har</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tharsiny</p>
+<p>Mrs Yap Wailing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
