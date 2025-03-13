@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/English_Department.jpg">
 </div>
 <p></p>
-<h4><strong>English Department</strong></h4>
+<h4><strong>English Language &amp; Literature Department</strong></h4>
 <h3></h3>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian an effective communicator using Standard English.</p>
