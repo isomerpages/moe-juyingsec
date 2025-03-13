@@ -69,15 +69,15 @@ language and culture in a practical and authentic manner.</p>
 <p>Ms Lim Siew Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Chinese)</p>
+<p>Subject Head (Chinese Language)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maslinni Abdul Malik</p>
+<p>Mdm Wahidah Sidik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Subject Head (Malay Language)</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ language and culture in a practical and authentic manner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wahidah Sidik</p>
+<p>Mdm Maslinni Abdul Malik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
