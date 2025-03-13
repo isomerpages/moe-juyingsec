@@ -11,53 +11,77 @@ variant: tiptap
 </div>
 <h3>Humanities Department</h3>
 <h4><strong>Vision</strong></h4>
-<p>Every JYian Possess an Analytical and Inquisitive Mindset.</p>
+<p>Every JYian possesses an analytical and inquisitive mindset</p>
 <h4><strong>Mission</strong></h4>
 <p>To nurture JYians to be concerned global citizens who are passionate about
 the Humanities.</p>
 <h4><strong>Overview</strong></h4>
-<p>'Every JYian possesses an analytical and inquisitive mindset’&nbsp;is
-the vision of the Humanities Department. This is in line with the school’s
-vision of a gracious community of lifelong learners with strength of character.
-Our JYSS Humanities Programme aims to to develop our JYians into well-informed
-and responsible citizens with a global perspective. The programme also
-encourages active engagement so that our JYians will become confident,
-self-directed, critical, and reflective thinkers.</p>
-<p>To achieve our goal, the programme develops our JYians’ competence in
-three areas: knowledge and understanding, skills and processes, values,
-and attitudes. We strongly believe in learning which extends beyond the
-four walls of the classroom as there is no boundary to our quest for knowledge.&nbsp;</p>
+<p>The Juying Humanities Department aims to nurture every JYian with an analytical
+and inquisitive mindset, aligning with our school’s vision of cultivating
+a gracious community of lifelong learners with strength of character. Through
+the Humanities, we hope to empower JYians to become well-informed, responsible
+citizens with a global perspective, equipped to navigate an increasingly
+complex world.</p>
+<p></p>
+<p>We believe in cultivating students who are confident, self-directed, critical,
+and reflective thinkers. To achieve this, we focus on three key areas:</p>
+<p></p>
+<ul>
+<li>
+<p>Knowledge &amp; Understanding – Building a strong foundation in historical,
+geographical, and societal perspectives.</p>
+</li>
+<li>
+<p>Skills &amp; Processes – Developing critical thinking, research, inquiry,
+and communication skills.</p>
+</li>
+<li>
+<p>Values &amp; Attitudes – Fostering empathy, ethical reasoning, and responsible
+citizenship.</p>
+</li>
+</ul>
+<p></p>
+<p>Learning in Humanities extends beyond the classroom, as we believe that
+education has no boundaries. Through immersive learning journeys and experiential
+activities, we inspire students to engage with real-world issues and deepen
+their appreciation for the complexities of society.</p>
+<p></p>
+<p>Together, we create a vibrant learning environment that encourages curiosity,
+reflection, and a lifelong passion for understanding the world around us.</p>
+<p>
+<br>
+</p>
 <h4><strong>Programme and Activities</strong></h4>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Sec 1 Historical Investigation: British Singapore – Living with the Early
-Migrants</p>
+Migrants&nbsp;</p>
 </li>
 <li>
 <p>Sec 2 Historical Investigation: WWII in Singapore – Surviving Syonan-to</p>
 </li>
 <li>
-<p>Sec 3 EBS Learning Journey @ Jewel Changi: Effective Business Management</p>
+<p>Sec 3 EBS Learning Journey @ USS: Effective Business Management&nbsp;</p>
 </li>
 <li>
-<p>Sec 3 POA Learning Trail @ Vivocity: Sustainable Business Models</p>
+<p>Sec 3 POA Learning Trail @ JEM: Sustainable Business Models</p>
 </li>
 <li>
-<p>Sec 1 Geographical Investigation @ Bishan Park: Developing Sustainable
+<p>Sec 1 Geographical Investigation @ Jurong Lake District: Developing Sustainable
 Water Store</p>
 </li>
 <li>
-<p>Sec 2 Geographical Investigation @ URA: Building Sustainable Cities</p>
+<p>Sec 2 Geographical Investigation @ Skyville@Dawson: Building Sustainable
+Cities&nbsp;</p>
 </li>
 <li>
-<p>Sec 3 Geographical Investigation @ Sentosa: Thinking Geographically with
-Singapore</p>
+<p>Sec 3 Geographical Investigation @ HDB: Thinking Geographically with Singapore</p>
 </li>
 <li>
-<p>Sec 4/5 Geographical Investigation @ Chinatown: Exploring Tourism</p>
+<p>Sec 4/5 Geographical Investigation @ Singapore Science Center: Our World</p>
 </li>
 <li>
-<p>Sec 3 Social Studies Investigation @ URA: Governing through Urban Planning</p>
+<p>Sec 3 Social Studies Investigation @ URA: Governing through Urban Planning&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <h4><strong>Organization Chart</strong></h4>
@@ -85,14 +109,6 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Amy Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Student Management)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Karamjeet Singh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,10 +117,42 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elina Amiruddin</p>
+<p>Mr Dayan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>History/Geography Teacher</p>
+<p>HOD (Aesthetic)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Amy Yeo&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH (US)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elydia Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Management)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Daoxing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Well-Being)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Trina Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST (History)</p>
 </td>
 </tr>
 <tr>
@@ -117,23 +165,15 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elydia Azman</p>
+<p>Ms Azyan Azami</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geography Teacher</p>
+<p>Social Studies Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Chang Sze May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principles of Accounts Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chew Kiat Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principles of Accounts Teacher</p>
@@ -149,7 +189,23 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Martin Ng</p>
+<p>Mr Muhammad Nasri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English/History Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Syazwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English/Social Studies Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Gek Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Geography/Social Studies Teacher</p>
@@ -157,18 +213,26 @@ Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yee Jie Ying</p>
+<p>Mdm Ow Chin Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geography/Social Studies Teacher</p>
+<p>Geography Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Trina Tay</p>
+<p>Mrs Quek Kooi Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>History/Social Studies Teacher</p>
+<p>History Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Kiat Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principles of Accounts Teacher</p>
 </td>
 </tr>
 </tbody>
