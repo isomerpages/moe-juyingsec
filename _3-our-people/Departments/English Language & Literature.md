@@ -112,7 +112,7 @@ of the human experience through works of literature.</p>
 <p>Ms Lynette Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language &amp; Literature)</p>
+<p>Subject Head (English Language, Upper Sec &amp; Literature)</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,15 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Jen Siong</p>
+<p>Mr Lin Daoxing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Well-being)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Wan Ru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -133,7 +141,15 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teoh Cheng Ling</p>
+<p>Ms Hema Veeramohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Siong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -149,15 +165,7 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Wan Ru</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Syazwan</p>
+<p>Mr Mohammad Nasri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -173,7 +181,15 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gillian Yeong</p>
+<p>Mr Syazwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teoh Cheng Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
