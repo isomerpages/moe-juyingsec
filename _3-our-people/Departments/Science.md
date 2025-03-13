@@ -386,18 +386,10 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soo Mei Hui</p>
+<p>Mdm Tan Ying Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Tan Ying Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Chemistry Co-ordinator)</p>
 </td>
 </tr>
 <tr>
@@ -405,47 +397,15 @@ a coastal walk at Changi.</p>
 <p>Mr Yee Jen Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Physics Co-ordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Raudhah Mohd Rizal</p>
+<p>Ms Lim Yan Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Qi Xuan Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Roslin Bte Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Fauzul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samuel Cho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Sec 1 Co-ordinator)</p>
 </td>
 </tr>
 <tr>
@@ -453,20 +413,12 @@ a coastal walk at Changi.</p>
 <p>Ms Lim Jia Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Sec 2 Co-ordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng May Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Seng Leong John</p>
+<p>Mr John Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -474,7 +426,7 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnah</p>
+<p>Mdm Maryam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -490,7 +442,7 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kai Jie</p>
+<p>Mdm Rosnah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -498,42 +450,42 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jannah Binte Johari</p>
+<p>Mdm Rozita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Lab Technician)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Bee Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Lab Technician)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zareena Beham</p>
+<p>Ms Soo Mei Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Indradevi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Hui Si</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Yin Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 </tbody>
