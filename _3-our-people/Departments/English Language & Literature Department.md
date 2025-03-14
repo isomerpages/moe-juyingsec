@@ -1,5 +1,5 @@
 ---
-title: English Language & Literature
+title: English Language & Literature Department
 permalink: /people/departments/english-language-n-literature/
 description: ""
 third_nav_title: Departments
@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/English_Department.jpg">
 </div>
 <p></p>
-<h4><strong>English Department</strong></h4>
+<h4><strong>English Language &amp; Literature Department</strong></h4>
 <h3></h3>
 <h4><strong>Vision</strong></h4>
 <p>Every JYian an effective communicator using Standard English.</p>
@@ -18,13 +18,8 @@ variant: tiptap
 <p>To achieve value-added results by equipping JYians with lifelong learning
 skills and values.</p>
 <h4><strong>Overview</strong></h4>
-<p>English Language Week is aimed to encourage students to develop a love
-for reading and writing. Fun and engaging activities are carried out during
-the week, such as the Great Riddle, Two-Liner Stories and Essay Writing,
-exposing students to different kinds of competitions.&nbsp;&nbsp;Students
-are also given an opportunity to discuss and share their favourite novels
-in assigned&nbsp;genres and present them as characters on Book Character
-Day.</p>
+<p><strong>In the English Language &amp; Literature department, our teachers aim:</strong>
+</p>
 <p>1. To develop JYians into confident and competent communicators
 <br>2. To develop a strong reading culture amongst JYians
 <br>3. To achieve value – added results in English Language</p>
@@ -112,7 +107,7 @@ of the human experience through works of literature.</p>
 <p>Ms Lynette Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (English Language &amp; Literature)</p>
+<p>Subject Head (English Language, Upper Sec &amp; Literature)</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +120,15 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Jen Siong</p>
+<p>Mr Lin Daoxing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Well-being)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Wan Ru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -133,7 +136,15 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teoh Cheng Ling</p>
+<p>Ms Hema Veeramohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Siong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -149,15 +160,7 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Wan Ru</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Syazwan</p>
+<p>Mr Mohammad Nasri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -173,7 +176,15 @@ of the human experience through works of literature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gillian Yeong</p>
+<p>Mr Syazwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teoh Cheng Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

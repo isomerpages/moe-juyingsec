@@ -11,7 +11,8 @@ variant: tiptap
 </div>
 <h3>Science Department</h3>
 <h4><strong>Vision</strong></h4>
-<p>Every JYian a Self-Directed Learner With An Inquiring Mind.</p>
+<p>Every JYian, a lifelong learner and practitioner of Science</p>
+<p></p>
 <h4><strong>Mission</strong></h4>
 <p>To cultivate lifelong learners with an awareness and interest in the application
 of Science in their daily lives.</p>
@@ -19,9 +20,11 @@ of Science in their daily lives.</p>
 <p>The Science Department strives to inculcate the joy of learning in our
 students by providing them with varied experiences to stimulate their curiosity
 and discover their interests. Through our specially selected programmes,
-our students have also acquired new knowledge and skills relevant to the&nbsp;real
-world.</p>
-<h4><strong>Science@Juying Secondary</strong></h4>
+our students will also acquired new knowledge and skills relevant to the
+real world.</p>
+<p>
+<br><strong>Science@Juying Secondary</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ImFw4zd4nSA"></iframe>
 </div>
@@ -29,188 +32,6 @@ world.</p>
 <p>Explore current issues. Enrich your minds.
 <br>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/jysciencenewsfeed/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 visit our Juying Science newsfeed.</p>
-<h4><strong>Achievements</strong></h4>
-<p>Science department started year, celebrating the fruits of our exciting
-lessons and hard work throughout the previous years. JYians have done better
-than the national percentage distinctions and/or passes, in the following
-subjects.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1. Sec 4NT N-Level NT Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5. Sec 5NA O-Level Science (Physics/Biology)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2. Sec 4NA N-Level Science (Physics/Chemistry)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6. Sec 5NA O-Level Science (Physics/Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3. Sec 4NA N-Level Science (Physics/Biology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7. Sec 4E O-Level Physics (SPA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4. Sec 4Exp O-Level Science (Chemistry/Biology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8. Sec 4E O-Level Biology (SPA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Achievements in Competitions</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competitions</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022 STEM Playground</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Place (Participation)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 igNITE Skills Challenge - Game Creation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 Junior Chemistry Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Certification of Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 NYP Science &amp; Technology Challenge -Take Flight &amp; Soar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Innovative Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 REACH Assessments</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Outstanding, 29 Commendable</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019 International Competitions &amp; Assessments for Schools (ICAS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Distinction, 3 Credits, 1 Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 International Competitions &amp; Assessments
-<br>for Schools (ICAS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Distinction
-<br>17 Credits
-<br>17 Merits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018 ignITE Skills Challenge
-<br>– Colourful Hands, Colourful Minds</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017 International Competitions &amp; Assessments
-<br>for Schools (ICAS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Distinctions
-<br>20 Credits
-<br>23 Merits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017 ignITE SkillsChallenge
-<br>– Derma Rouge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finalists</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017 IgnITE Challenge Derma Rouge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finalists</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Programmes &amp; Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -346,7 +167,7 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Wenqing</p>
+<p>Mr Soh Joon Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Science)</p>
@@ -354,10 +175,18 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Joon Wei</p>
+<p>Mr Senthil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science)</p>
+<p>(HOD, CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Rabaah Saidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 3 AYH)</p>
 </td>
 </tr>
 <tr>
@@ -365,39 +194,23 @@ a coastal walk at Changi.</p>
 <p>Mr Lee Hon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Physics)</p>
+<p>(Lead Teacher (Physics))</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khairiani</p>
+<p>Ms Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coordinator (FCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Senthil Silvarajoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD(CCE)</p>
+<p>(Biology Co-ordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soo Mei Hui</p>
+<p>Mdm Tan Ying Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Tan Ying Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Chemistry Co-ordinator)</p>
 </td>
 </tr>
 <tr>
@@ -405,47 +218,15 @@ a coastal walk at Changi.</p>
 <p>Mr Yee Jen Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Physics Co-ordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Raudhah Mohd Rizal</p>
+<p>Ms Lim Yan Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Qi Xuan Benjamin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Roslin Bte Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Fauzul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samuel Cho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Sec 1 Co-ordinator)</p>
 </td>
 </tr>
 <tr>
@@ -453,20 +234,12 @@ a coastal walk at Changi.</p>
 <p>Ms Lim Jia Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>(Sec 2 Co-ordinator)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng May Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Seng Leong John</p>
+<p>Mr John Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -474,7 +247,7 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnah</p>
+<p>Mdm Maryam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -490,7 +263,7 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kai Jie</p>
+<p>Mdm Rosnah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -498,42 +271,42 @@ a coastal walk at Changi.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jannah Binte Johari</p>
+<p>Mdm Rozita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Lab Technician)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Bee Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Lab Technician)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zareena Beham</p>
+<p>Ms Soo Mei Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Indradevi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Hui Si</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Yin Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 </tbody>

@@ -73,7 +73,7 @@ and passionate learners through the inculcation of the Arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hema Lata</p>
+<p>Mr Dolly Yansen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Coordinator</p>
@@ -81,10 +81,10 @@ and passionate learners through the inculcation of the Arts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jeshrei Toh</p>
+<p>Ms Hema Lata</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Coordinator</p>
+<p>Art Teacher</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ and passionate learners through the inculcation of the Arts.</p>
 <p>Mdm Linda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Teacher</p>
+<p>Art FAJT</p>
 </td>
 </tr>
 </tbody>
@@ -185,4 +185,68 @@ and passionate learners through the inculcation of the Arts.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2D_Artworks_on_Display_at_the_Foyer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2D Artworks on Display at the Foyer</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Gallery_Corridors_around_the_School.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gallery Corridors around the School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SoundPLAY_Stage_at_the_Canteen.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SoundPLAY Stage at the Canteen</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Exhibition_Showcase_outside_Art_Room.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Exhibition Showcase outside Art Room</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Art_Corner_at_the_Canteen.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Art Corner at the Canteen</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3D_Artworks_on_Display_at_the_Foyer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">3D Artworks on Display at the Foyer</div>
+</div>
+</div>
+</div>
 <p></p>
