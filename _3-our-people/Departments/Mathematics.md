@@ -29,14 +29,35 @@ for exploration and for students to work collaboratively to deepen their
 learning.</p>
 <p></p>
 <h4><strong>Programmes and Strategies</strong></h4>
-<p><em>1. Providing Learning Experiences in real life context to engage and motivate learners.<br>2. Bridging sessions to boost confidence and skills in numeracy and mathematical thinking.</em>
-<br><em>3. </em>Focused Group Consultation for targeted learning.
-<br>3. PDLP to promote self-directed learners with intrinsic motivation.
-<br>4. Incorporating STEM education to promote students who are curious, creative
-and who aspires to be the change.
-<br><em>5.&nbsp; Using oracy to promote metacognition and peer assessment.</em>
-<br><em>6. Incorporating SAIL to promote active and independent learning.</em>
-<br>7. Incorporating computational thinking to develop problem thinking skills.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Providing Learning Experiences in real life context to engage and motivate
+learners.</p>
+</li>
+<li>
+<p>Bridging sessions to boost confidence and skills in numeracy and mathematical
+thinking.</p>
+</li>
+<li>
+<p>Focused Group Consultation for targeted learning.</p>
+</li>
+<li>
+<p>PDLP to promote self-directed learners with intrinsic motivation.</p>
+</li>
+<li>
+<p>Incorporating STEM education to promote students who are curious, creative
+and who aspires to be the change.</p>
+</li>
+<li>
+<p>Using oracy to promote metacognition and peer assessment.</p>
+</li>
+<li>
+<p>Incorporating SAIL to promote active and independent learning.</p>
+</li>
+<li>
+<p>Incorporating computational thinking to develop problem thinking skills.</p>
+</li>
+</ol>
 <p></p>
 <h4><strong>Activities</strong></h4>
 <div class="isomer-image-wrapper">
