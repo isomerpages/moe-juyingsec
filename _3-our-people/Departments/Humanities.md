@@ -47,8 +47,7 @@ activities, we inspire students to engage with real-world issues and deepen
 their appreciation for the complexities of society.</p>
 <p></p>
 <p>Together, we create a vibrant learning environment that encourages curiosity,
-reflection, and a lifelong passion for understanding the world around us.</p>
-<p>
+reflection, and a lifelong passion for understanding the world around us.
 <br>
 </p>
 <h4><strong>Programme and Activities</strong></h4>
@@ -261,7 +260,7 @@ experience. Here are the some of the Learning Journeys our JYians embarked.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>                                                                    JYSS Humanities Program 2024</h4>
+<h4>JYSS Humanities Program 2024</h4>
 </td>
 </tr>
 <tr>

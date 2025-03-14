@@ -58,18 +58,6 @@ Students will be embarking on a new novel,&nbsp;<em>Kindred</em>, next
 year. Literature students understand themselves and others better in a
 multicultural and interconnected world by exploring the depth and breadth
 of the human experience through works of literature.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/sec3%20alp1.jpeg">
-</div>
-<p>Debating on the given motion.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/sec3%20alp2.jpeg">
-</div>
-<p>Applying rebuttal skills in the inter-team debate.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/sec3%20alp3.jpeg">
-</div>
-<p>Discussing and researching for content.</p>
 <h4><strong>Secondary Four ALP – Interview Skills Workshop</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/sec4%20alp1.jpeg">
