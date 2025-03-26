@@ -23,18 +23,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Vacancy For Snack/Refreshment/Hot Drinks | Apply by 20 March 2025
-          date: 04 March 2025
-          announcement: "Type of stall: SNACKS, REFRESHMENTS AND HOT DRINKS (HALAL) |
-            STALL WITH EFFECT FROM 1 APRIL 2025 APPLICATION | CLOSING DATE: 20
-            MARCH 2025 | School Address: 33 Jurong West St 91 Singapore 649038"
-          link_text: Please click here for more information
-          link_url: https://staging-lite.d2bdt9mga46ewh.amplifyapp.com/canteen-advertisement/
-        - title: Launch of Official Instagram
-          date: 21 October 2024
-          announcement: Follow us @juyingsecondaryschool
-          link_text: ""
-          link_url: ""
         - title: Internationalisation Programme for 2025!
           date: 26 March 2025
           announcement: Juying is thrilled to launch our 2025 Internationalisation
@@ -43,6 +31,19 @@ sections:
             to register—we can’t wait for you to join the adventure!
           link_text: Click here
           link_url: https://drive.google.com/file/d/1jE0qs7RZcuINzp1Ylznx4BLKIS80H3SI/view?usp=sharing
+        - title: Vacancy For Snack/Refreshment/Hot Drinks | Apply by 20 March 2025
+          date: 04 March 2025
+          announcement: "Type of stall: SNACKS, REFRESHMENTS AND HOT DRINKS (HALAL) |
+            STALL WITH EFFECT FROM 1 APRIL 2025 APPLICATION | CLOSING DATE: 20
+            MARCH 2025 | School Address: 33 Jurong West St 91 Singapore
+            649038  Please click here for more information"
+          link_text: Please click here for more information
+          link_url: https://staging-lite.d2bdt9mga46ewh.amplifyapp.com/canteen-advertisement/
+        - title: Launch of Official Instagram
+          date: 21 October 2024
+          announcement: Follow us @juyingsecondaryschool
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
