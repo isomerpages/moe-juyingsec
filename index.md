@@ -35,6 +35,14 @@ sections:
           announcement: Follow us @juyingsecondaryschool
           link_text: ""
           link_url: ""
+        - title: Internationalisation Programme for 2025!
+          date: 26 March 2025
+          announcement: Juying is thrilled to launch our 2025 Internationalisation
+            Programme! Discover exciting learning trips to Bandung, Penang, and
+            Bintan.  Click the link below to Scan the QR codes in our newsletter
+            to register—we can’t wait for you to join the adventure!
+          link_text: Click here
+          link_url: https://drive.google.com/file/d/1jE0qs7RZcuINzp1Ylznx4BLKIS80H3SI/view?usp=sharing
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
