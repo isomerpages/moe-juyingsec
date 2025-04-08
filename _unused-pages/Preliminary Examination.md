@@ -5,17 +5,15 @@ description: ""
 variant: markdown
 ---
 <p><strong>Dear Students &amp; Parents,</strong></p>
-<p>The 2024 O &amp; N-level Preliminary Examinations schedules are now available.
+<p>The 2025 O &amp; N-level Preliminary Examinations schedules are now available.
 
 	
 </p><p>
 	
-<a href="https://drive.google.com/file/d/17AF8JC5wse5X3g6jnGHdzWtYZhXKyhdk/view?usp=sharing">2024 O-level Preliminary Examinations Schedule_for_Students.pdf</a>
+<a href="https://drive.google.com/drive/folders/12K_HQkZjdLo9vvyPQDBtP_0u7YmeeVFB?usp=sharing">2025 O &amp; N-level Preliminary Examinations Schedule_for_Students.pdf</a>
 </p>
 	
-<p></p><p>
-<a href="https://drive.google.com/file/d/1T1TZHBwB3ad33Q6Q9tY8OSOorklTAdLV/view?usp=drive_link">2024 N-level Preliminary Examinations Schedule_for_Students.pdf</a>
-</p>
+
 
 
 
