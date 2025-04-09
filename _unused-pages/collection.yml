@@ -2,16 +2,16 @@ collections:
   unused-pages:
     output: true
     order:
+      - Preliminary Examination.md
+      - GCE O & N level Information.md
+      - Semester 1 Weighted Assessments.md
+      - Semester 2 Weighted Assessments.md
+      - Post–Exam Timetable.md
+      - End of Year Examination.md
       - Sexuality Education.md
       - Administrative Information.md
       - Insurance For Students.md
-      - GCE O & N level Information.md
-      - Preliminary Examination.md
-      - Post–Exam Timetable.md
       - FGC Schedules.md
-      - Semester 2 Weighted Assessments.md
-      - Semester 1 Weighted Assessments.md
-      - End of Year Examination.md
       - ClassTimeTable.md
       - Counselling Services.md
       - ECHA Nomination Form.md
