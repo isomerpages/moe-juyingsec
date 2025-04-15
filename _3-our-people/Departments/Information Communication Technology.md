@@ -237,7 +237,7 @@ to develop their own animations and games.</p>
 <p>Mdm Rosnah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Science / CPA Teacher</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ to develop their own animations and games.</p>
 <p>Ms Tharsiny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Math / CPA Teacher</p>
 </td>
 </tr>
 <tr>
