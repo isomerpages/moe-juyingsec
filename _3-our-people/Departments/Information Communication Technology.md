@@ -181,31 +181,15 @@ to develop their own animations and games.</p>
 <p>Mr Tan Meng Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Information Communication Technology)</p>
+<p>HOD (ICT) / (D&amp;T)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tee-Ong Xian Qing</p>
+<p>Ms Rachel Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Khoo Woei Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nor Diana Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>SH(EdTech)</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +197,55 @@ to develop their own animations and games.</p>
 <p>Mr Ong Hok Beng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Teacher (D&amp;T)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Diana Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D&amp;T Coordinator (Upper Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Sing Charn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D&amp;T Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Woei Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math / D&amp;T / Mobile Robotics Teachers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tee-Ong Xian Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math / CPA Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science / CPA Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tharsiny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math / CPA Teacher</p>
 </td>
 </tr>
 <tr>
@@ -234,22 +266,6 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tharsiny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Adilah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,10 +282,10 @@ to develop their own animations and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sasithar Themudu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 </tbody>
