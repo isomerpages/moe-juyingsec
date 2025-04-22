@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm ROSNAH BTE MUSTAFA
+<p>Mr Karamjeet Singh
 <br>Class 4O Form Teacher</p>
 </td>
 </tr>
