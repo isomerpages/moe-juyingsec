@@ -44,6 +44,15 @@ sections:
           announcement: Follow us @juyingsecondaryschool
           link_text: ""
           link_url: ""
+        - title: School's Main Telephone Line Technical Issue
+          date: 29 April 2025
+          announcement: Please be informed that we are currently experiencing technical
+            issues with the school's main phone line. The automated system is
+            incorrectly stating that the school is closed. To reach us, please
+            press “0” to reach the General Office. We are working to resolve the
+            issue as soon as possible.
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
