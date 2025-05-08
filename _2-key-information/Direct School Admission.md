@@ -125,7 +125,9 @@ Hop dance item to showcase their talent.</p>
 </tbody>
 </table>
 <p><strong>APPLICATION PROCEDURE:</strong>
-<br><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal and is free-of-charge. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
+<br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2025</strong>, <strong>11am to 3 Jun 2025, 3pm</strong>.
+For more details, please refer to MOE website<strong> – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>
 </p>
 <p><strong>Useful MOE weblinks</strong>
 </p>
