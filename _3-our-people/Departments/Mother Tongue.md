@@ -8,6 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments_and_Committees_08.jpg">
 </div>
+<p>Malay Unit Link: <a href="https://sites.google.com/moe.edu.sg/sekolahmenengahjuying?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">BMJYSS</a>
+</p>
+<p>Chinese Unit Link: <a href="https://sites.google.com/moe.edu.sg/juyingcl/1-%E4%B8%BB%E9%A1%B5" rel="noopener noreferrer nofollow" target="_blank">聚英·华语乐学站</a>
+</p>
 <h3><strong>Mother Tongue Department</strong></h3>
 <p>At Juying Secondary School, we take pride in nurturing joyful learners
 and proficient communicators. Our Mother Tongue Department plays a pivotal
