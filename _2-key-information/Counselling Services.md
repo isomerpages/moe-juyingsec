@@ -53,6 +53,32 @@ Assessment in Community mental Health (REACH)&nbsp; or social service agencies.&
 </p>
 <p>Call the General Office @ 6308 9898 and ask them to transfer you to our
 school counsellors.&nbsp;&nbsp;</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Huang Wei Wei&nbsp;</p>
+</li>
+<li>
+<p>Ms Raihanah</p>
+</li>
+<li>
+<p>Ms Shazana</p>
+</li>
+<li>
+<p>Ms Phyllis Zhou</p>
+</li>
+<li>
+<p>Ms Chang Melody</p>
+</li>
+<li>
+<p>Mr Terrance Woo</p>
+</li>
+</ul>
+<p>Or leave your name and contact number for us to get back to you.</p>
+<p><strong>You are Precious to Us …<br>You are JYSS’ Pearl …</strong>
+</p>
+<p></p>
+<p></p>
 <p>Or leave your name and contact number for us to get back to you.</p>
 <h4><strong>You are Important to Us!</strong></h4>
 <p><strong>Other Useful Numbers</strong>
