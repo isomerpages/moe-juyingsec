@@ -74,12 +74,10 @@ school counsellors.&nbsp;&nbsp;</p>
 <p>Mr Terrance Woo</p>
 </li>
 </ul>
-<p>Or leave your name and contact number for us to get back to you.</p>
-<p><strong>You are Precious to Us …<br>You are JYSS’ Pearl …</strong>
+<p>Or leave your name and contact number for us to get back to you.
+<br>
+<br><strong>You are Precious to Us …<br>You are JYSS’ Pearl ...</strong>
 </p>
-<p></p>
-<p></p>
-<p>Or leave your name and contact number for us to get back to you.</p>
 <h4><strong>You are Important to Us!</strong></h4>
 <p><strong>Other Useful Numbers</strong>
 </p>
