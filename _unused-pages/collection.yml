@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - School Calendar.md
       - Preliminary Examination.md
       - GCE O & N level Information.md
       - Semester 1 Weighted Assessments.md
