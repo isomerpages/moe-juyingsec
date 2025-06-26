@@ -2,7 +2,6 @@ collections:
   2-key-information:
     output: true
     order:
-      - School Calendar.md
       - School Routines & Procedures.md
       - Student PDLP.md
       - Secondary 1 Registration/.keep
