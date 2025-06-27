@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - School Calendar.md
       - Preliminary Examination.md
       - GCE O & N level Information.md
       - Semester 1 Weighted Assessments.md
@@ -17,5 +18,4 @@ collections:
       - ECHA Nomination Form.md
       - Travel Declaration From.md
       - FAS Form.md
-      - School Calendar.md
       - Facilities.md

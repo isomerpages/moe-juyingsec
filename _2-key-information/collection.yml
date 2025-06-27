@@ -2,6 +2,8 @@ collections:
   2-key-information:
     output: true
     order:
+      - School Routines & Procedures.md
+      - Student PDLP.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
       - Secondary 1 Registration/Books & Uniform.md
@@ -10,8 +12,6 @@ collections:
       - Secondary 1 Registration/Appeal.md
       - Secondary 1 Registration/Other Enquiries.md
       - Booklists 2025.md
-      - School Routines & Procedures.md
-      - Student PDLP.md
       - Group Personal Accident Insurance For Students.md
       - Home Based Learning (HBL).md
       - Direct School Admission.md
