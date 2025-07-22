@@ -23,12 +23,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: GCE O & N LEVEL ORAL EXAMINATION
-          date: 08 July 2025
-          announcement: For schedule and venue information, please click link below. All
-            the best for your upcoming exams!
-          link_text: Candidates Oral Schedule & Venue
-          link_url: https://drive.google.com/drive/folders/1tXFGLiAEHpaFUoqqwwqkxfmPdl656xCt?usp=drive_link
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool

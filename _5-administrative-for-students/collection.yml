@@ -1,8 +1,7 @@
 collections:
-  unused-pages:
+  5-administrative-for-students:
     output: true
     order:
-      - School Calendar.md
       - Preliminary Examination.md
       - GCE O & N level Information.md
       - Semester 1 Weighted Assessments.md
@@ -10,7 +9,6 @@ collections:
       - Post–Exam Timetable.md
       - End of Year Examination.md
       - Sexuality Education.md
-      - Administrative Information.md
       - Insurance For Students.md
       - FGC Schedules.md
       - ClassTimeTable.md
