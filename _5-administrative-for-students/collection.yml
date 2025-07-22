@@ -1,5 +1,5 @@
 collections:
-  unused-pages:
+  5-administrative-for-students:
     output: true
     order:
       - School Calendar.md
