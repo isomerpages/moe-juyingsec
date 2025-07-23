@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /information/administrative-information/direct-school-admission/
+permalink: /key-information/direct-school-admission/
 description: ""
 variant: tiptap
 ---

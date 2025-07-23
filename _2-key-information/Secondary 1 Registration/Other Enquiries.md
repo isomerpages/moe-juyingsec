@@ -1,6 +1,6 @@
 ---
 title: Other Enquiries
-permalink: /information/administrative-information/secondary-1-registration/other-enquiries/
+permalink: /key-information/secondary-1-registration/other-enquiries/
 description: ""
 third_nav_title: Secondary 1 Registration
 variant: tiptap

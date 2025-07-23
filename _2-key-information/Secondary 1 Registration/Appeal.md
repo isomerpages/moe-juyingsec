@@ -1,6 +1,6 @@
 ---
 title: Appeal
-permalink: /information/administrative-information/secondary-1-registration/appeal/
+permalink: /key-information/secondary-1-registration/appeal/
 description: ""
 third_nav_title: Secondary 1 Registration
 variant: tiptap

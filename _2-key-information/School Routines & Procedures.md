@@ -1,7 +1,8 @@
 ---
-title: School Routines &amp; Procedures
-permalink: /information/administrative-information/school-routines-n-procedures/
+title: School Routines & Procedures
+permalink: /key-information/school-routines-n-procedures/
 description: ""
+variant: tiptap
 ---
 <h4><strong>Absence During School Term</strong></h4>
 <p>Should a student be absent from school, we would like the student, parent or guardian to contact or leave a message for the Form Teacher. We will also be contacting the parent/guardian as soon as we can. In so doing we hope to work in partnership with parents to ensure that our students come to school regularly. Students are expected to submit to the Form Teacher the relevant documents to support the absence&nbsp;<strong>within 2 days</strong>&nbsp;upon returning to school. &nbsp;</p>

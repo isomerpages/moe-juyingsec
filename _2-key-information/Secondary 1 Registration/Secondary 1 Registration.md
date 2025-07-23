@@ -1,6 +1,6 @@
 ---
 title: Secondary 1 Registration
-permalink: /information/administrative-information/secondary-1-registration/
+permalink: /key-information/secondary-1-registration/
 description: ""
 third_nav_title: Secondary 1 Registration
 variant: tiptap

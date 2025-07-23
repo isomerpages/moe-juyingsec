@@ -1,6 +1,6 @@
 ---
 title: Booklists 2025
-permalink: /information/administrative-information/bookshop-booklists/
+permalink: /key-information/bookshop-booklists/
 description: ""
 variant: tiptap
 ---
