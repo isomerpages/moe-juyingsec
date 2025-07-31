@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Screenshot_2025_07_31_171939.png
+      background: /images/Screenshot_2025_07_31_173713.png
       key_highlights:
         - title: Administration for Students
           description: ""
