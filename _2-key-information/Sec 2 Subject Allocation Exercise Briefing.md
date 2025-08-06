@@ -4,3 +4,4 @@ permalink: /sec-2-subject-allocation-exercise-briefing/
 variant: tiptap
 description: ""
 ---
+<p></p>
