@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/EXCO_1.jpg
+      background: /images/EXCO_9.png
       key_highlights:
         - title: Administration for Students
           description: ""
