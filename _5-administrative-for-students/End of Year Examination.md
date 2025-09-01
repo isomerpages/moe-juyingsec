@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Dear Parents and Students</strong>
 </p>
-<p>The 2024 End-of-Year (EOY) Examination Topics are as follows:</p>
+<p>The 2025 End-of-Year (EOY) Examination Topics are as follows:</p>
 <p></p>
 <ul>
 <li>
@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>The 2024 End-of-Year (EOY) Examination Schedule are as follows:</p>
+<p>The 2025 End-of-Year (EOY) Examination Schedule are as follows:</p>
 <p></p>
 <ul>
 <li>
