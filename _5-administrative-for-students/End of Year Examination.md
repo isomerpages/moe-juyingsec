@@ -26,15 +26,15 @@ variant: tiptap
 <p></p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1zp3hNGAVB9K1PibxeIjPRy6iqXf1dZIM/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 EOY Examination Schedule</a>
+<p><a href="https://drive.google.com/file/d/1Wh2iOnpd78HnLd0MaIcm3SNMdZQKnK29/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 EOY Examination Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1kf9TrfoQ44kg_Mm4MOg8hBL5zuoGdF_t/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 EOY Examination Schedule</a>
+<p><a href="https://drive.google.com/file/d/18g4es_mMSA6UwNqnOGkUA5f7f-ZylFTv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 EOY Examination Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1f8bNFvOvMb73oHh9cFepdh3k2g-B95pI/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 EOY Examination Schedule</a>
+<p><a href="https://drive.google.com/file/d/1Z85N8CiDwsxD5vpN48it5akvwXl0uT3x/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 EOY Examination Schedule</a>
 </p>
 </li>
 </ul>
