@@ -26,36 +26,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Snacks</strong>
-</p>
-</li>
-<li>
-<p><strong>Refreshments</strong>
-</p>
-</li>
-<li>
-<p><strong>Hot drinks</strong>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>20 MARCH 2025</strong>
+<p><strong>Vegetarian Food</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Assorted Snacks and Refreshments (Halal)</strong>
+<p><strong>30 October 2025</strong>
 </p>
-</li>
-<li>
-<p><strong>Assorted Hot Beverages (Halal)</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vegetarian rice, noodles and any snacks</strong>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -76,8 +56,7 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Download and complete the application form. </strong><a href="https://drive.google.com/file/d/1PLtSHrhHVgrPKf_kgPvztMhWHKnx38NK/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here</a>
-<br><strong>You may also request for a hardcopy from the School’s General Office</strong>
+<p><strong>Download and complete the application form. You may also request for a hardcopy from the School’s General Office</strong>
 </p>
 </li>
 </ol>
@@ -119,11 +98,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Email:&nbsp;&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">ashok_kumar@moe.edu.sg</a></strong>
+<p><strong>Email:&nbsp;&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">ashok_kumar@moe.edu.sg</a> / <a rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_chien_jenny@moe.edu.sg</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Contact Person: Mr Ashok / Ms Nuraini</strong>
+<p><strong>Contact Person: Mr Ashok / Ms Jenny</strong>
 </p>
 </li>
 </ul>
