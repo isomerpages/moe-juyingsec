@@ -48,7 +48,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Western Food (Halal) - Baked rice, Pasta, Tortilla wrap, Pizza, Burgers, Chicken Chop, Fish&amp;Chips, Baked Mac&amp;Cheese, Pies </strong>
+<p><strong>Western Food (Halal) - Baked rice, Pasta, Tortilla wrap, Pizza, Burgers, Chicken Chop, Fish&amp;Chips, Baked Mac&amp;Cheese, Pies</strong>
 </p>
 </td>
 </tr>
