@@ -32,8 +32,8 @@ sections:
           date: 31 October 2025
           announcement: "Application closing date: 14 Nov 2025    Click on the link below
             for more information."
-          link_text: ""
-          link_url: ""
+          link_text: Additionnal Information + Application Procedure
+          link_url: https://docs.google.com/document/d/17uqLHhmA_adi0Y4bSKHrKD4a8jxhkxWy/edit?usp=drive_link&ouid=106017199163097979762&rtpof=true&sd=true
         - title: Vacancy for Western Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
           announcement: "Application closing date: 14 Nov 2025    Click on the link below
