@@ -28,18 +28,18 @@ sections:
           announcement: Follow us @juyingsecondaryschool
           link_text: ""
           link_url: ""
-        - title: Vacancy for Vegetarian Stall (wef 2 Jan 2026)
+        - title: Vacancy for Vegetarian Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
-          announcement: "Application closing date: 14 Nov 2025    Click on the link for
-            more information."
+          announcement: "Application closing date: 14 Nov 2025    Click on the link below
+            for more information."
           link_text: ""
           link_url: ""
         - title: Vacancy for Western Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
-          announcement: "Application closing date: 14 Nov 2025    Click on the link for
-            more information."
-          link_text: ""
-          link_url: ""
+          announcement: "Application closing date: 14 Nov 2025    Click on the link below
+            for more information."
+          link_text: Additionnal Information + Application Procedure
+          link_url: https://docs.google.com/document/d/1tFEfsrSlaA6L-orsMQq4mKgoFzkD92cV/edit?usp=drive_link&ouid=106017199163097979762&rtpof=true&sd=true
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
