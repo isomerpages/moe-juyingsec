@@ -34,9 +34,10 @@ sections:
             more information."
           link_text: ""
           link_url: ""
-        - title: New Announcement
+        - title: Vacancy for Western Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
-          announcement: Announcement content
+          announcement: "Application closing date: 14 Nov 2025    Click on the link for
+            more information."
           link_text: ""
           link_url: ""
   - infobar:
