@@ -30,7 +30,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 October 2025</strong>
+<p><strong>14 November 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,13 +40,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Western Food</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>14 November 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Western Food (Halal) - Baked rice, Pasta, Tortilla wrap, Pizza, Burgers, Chicken Chop, Fish&amp;Chips, Baked Mac&amp;Cheese, Pies </strong>
+</p>
 </td>
 </tr>
 </tbody>
