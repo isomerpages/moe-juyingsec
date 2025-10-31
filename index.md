@@ -23,11 +23,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Launch of Official Instagram
-          date: 21 October 2024
-          announcement: Follow us @juyingsecondaryschool
-          link_text: ""
-          link_url: ""
         - title: Vacancy for Vegetarian Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
           announcement: "Application closing date: 14 Nov 2025    Click on the link below
@@ -40,6 +35,11 @@ sections:
             for more information."
           link_text: Additionnal Information + Application Procedure
           link_url: https://docs.google.com/document/d/1tFEfsrSlaA6L-orsMQq4mKgoFzkD92cV/edit?usp=drive_link&ouid=106017199163097979762&rtpof=true&sd=true
+        - title: Launch of Official Instagram
+          date: 21 October 2024
+          announcement: Follow us @juyingsecondaryschool
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Scroll down the Juying Path
       id: infobar
