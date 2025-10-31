@@ -30,9 +30,8 @@ sections:
           link_url: ""
         - title: Vacancy for Vegetarian Stall (wef 2 Jan 2026)
           date: 31 October 2025
-          announcement: "Application closing date: 14 Nov 2025  Type of stall: Vegetarian
-            Food - Vegetarian rice, noodles and any snacks.   Click on the link
-            for more information."
+          announcement: "Application closing date: 14 Nov 2025    Click on the link for
+            more information."
           link_text: ""
           link_url: ""
         - title: New Announcement
