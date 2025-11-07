@@ -23,6 +23,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Juying Open House
+          date: 07 November 2025
+          announcement: You’re invited to our Open House on 22 Nov, 9:00am–12:00pm!  Drop
+            by to explore our programs, meet the team, and ask questions. See
+            you there!
+          link_text: ""
+          link_url: ""
         - title: Vacancy for Vegetarian Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
           announcement: "Application closing date: 14 Nov 2025    Click on the link below
