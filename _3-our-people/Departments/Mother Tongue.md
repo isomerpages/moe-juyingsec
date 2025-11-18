@@ -323,39 +323,114 @@ language and culture in a practical and authentic manner.</p>
 </tbody>
 </table>
 <h4>Achievements</h4>
-<p>We also provide opportunities for students to participate in national
-competitions. In 2024/2023, our teachers have trained and sent our students
-to take part in the following competitions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Narrative Essay Writing Competition: Syakir Zufayri, Champion</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Poem Recital Competition: Sec 2 G2 Consolation Prize</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chinese Riddle Competition: 5th</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>6th National Text Recital Competition</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Create your own Newspaper Competition</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Young Reporter News Challenge</p>
-</li>
-</ul>
+<p>We also provide diverse and meaningful opportunities for students to participate
+in national and cluster level competitions. Aligned with MOE’s focus on
+EdTech integration, 21st Century Competencies (E21s), and CCE values, our
+MT Units nurture confident communicators, culturally grounded learners
+and digitally savvy creators.
+<br>
+<br>Our teachers have trained and guided our students to take part in various
+national competitions, where they demonstrated strong language proficiency,
+creativity and character. These are their achievements:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Chinese Language Unit</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Malay Language Unit</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Text Recitation – Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peraduan Pena Emasku 2024 – Gold Award (4<sup>th</sup> Place)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Poetry Recitation Competition-Commendation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saya Boleh Berpidato – Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Youth Chinese Writing Competition – Commendation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MT Fiesta Malay Language &amp; Culture Quiz – 3<sup>rd</sup> Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MT Fiesta Chinese Language &amp; Culture Quiz – 2<sup>nd</sup> Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MT Fiesta Visual Literature Competition (Lower Sec) – 3<sup>rd</sup> Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MT Fiesta Visual Literature Competition (Lower Sec) – 3<sup>rd</sup> Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MT Fiesta Visual Literature Competition (Upper Sec) – 3<sup>rd</sup> Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Young Reporters News Challenge – Best Junior Reporter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peraduan Pena Emasku 2025 – Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Riddle Competition - Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -458,13 +533,24 @@ to take part in the following competitions:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Zi Shan</p>
+<p>Certificate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2P</p>
+<p>Certificate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
+<p>Certificate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
