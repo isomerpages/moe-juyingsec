@@ -17,7 +17,8 @@ variant: tiptap
 and proficient communicators. Our Mother Tongue Department plays a pivotal
 role in achieving this mission. Here are three key pillars that define
 our department's commitment to excellence:</p>
-<h4>1) Fostering Joyful Learners and Proficient Communicators:</h4>
+<p><strong>1) Fostering Joyful Learners and Proficient Communicators:</strong>
+</p>
 <p>At Juying Secondary School, every student is encouraged to become a joyful
 learner and proficient communicator in their mother tongue. We believe
 that language is not just a tool for communication but a gateway to understanding
@@ -26,7 +27,8 @@ strives to make language learning a delightful journey for every JYian.
 Through adoption of blended learning to design effective and engaging learning
 experience, we empower students to not just speak, read, and write proficiently
 but to also appreciate the beauty of their mother tongue.</p>
-<h4>2) Embracing the Joy of Teaching and Learning:</h4>
+<p><strong>2) Embracing the Joy of Teaching and Learning:</strong>
+</p>
 <p>The Mother Tongue Department believes that the joy of teaching and learning
 is contagious. Our educators are passionate about their subjects and are
 committed to igniting that passion in our students. We understand that
@@ -34,7 +36,8 @@ a strong foundation in one's mother tongue sets the stage for a lifetime
 of learning and success. With this belief, we create a classroom atmosphere
 that is not only educational but also fun, where students eagerly participate,
 ask questions, and explore the rich tapestry of their language and culture.</p>
-<h4>3) Authentic Learning through PASSION:</h4>
+<p><strong>3) Authentic Learning through PASSION:</strong>
+</p>
 <p>Our Mother Tongue Department goes beyond conventional learning methods.
 We anchor our approach on PASSION - learning experiences. Two of our flagship
 programs, the Mother Tongue Fortnight Programme and Overseas Exchange Programme,
@@ -45,6 +48,8 @@ activities, language games, and workshops which are designed and conducted
 by teachers based on students’ interests. It creates an environment where
 students can connect with their roots and discover the beauty of their
 language and culture in a practical and authentic manner.</p>
+<p><strong>&nbsp;</strong>
+</p>
 <h4><strong>Organization Chart</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,7 +83,7 @@ language and culture in a practical and authentic manner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wahidah Sidik</p>
+<p>Ms Nur Wahidah Sidik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Malay Language)</p>
@@ -180,144 +185,12 @@ language and culture in a practical and authentic manner.</p>
 <p>Teacher</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Photos</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Activity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Photo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>书法 / Calligraphy</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="chinese" src="/images/Picture1.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>勘探 / Google Earth Exploration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="chinese" src="/images/Picture3.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>传统手工 / Hand-painted Fans</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>唱跳华语歌 / Language through Karaoke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>戏剧 / Language through Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>推理游戏设计 / Mystery Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>象棋 / Chinese Chess</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Makanan Tradisional / Traditional Food</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Permainan Tradisional / Traditional Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Batik Painting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture15.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parkaian Tradisional / Traditional Attire</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture18.jpg">
-</div>
 </td>
 </tr>
 </tbody>
