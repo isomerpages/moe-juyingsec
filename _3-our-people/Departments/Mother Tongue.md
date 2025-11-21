@@ -345,4 +345,51 @@ student leaders. As we commemorate SG60, this journey reminds us that our
 JYians are ready to connect, contribute and thrive in a globalised world.
 <br>
 <br>
+<br>
 </p>
+<p>Taruna Bakti Junior High School</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMP_Taruna_Bakti_Jr_High_School.jpg">
+</div>
+<p>
+<br>
+<br>Saung Angklung Udjo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saung_Angklung_Udjo.jpg">
+</div>
+<p>Strawberry &amp; Tea Plantation</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Strawberry_Farm_and_Tea_Plantation.jpg">
+</div>
+<p>Silkworm Farm</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wisata_Ilmu_Sutera.jpg">
+</div>
+<p>Whoosh! Speed Train</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Internationalisation_Whoosh.jpg">
+</div>
+<p>Gedung Sate, Geology Museum, Paskal Food Market and many more</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Paskal_Food_Market__Gedung_Sate___Geology_Museum__places_we_eat.jpg">
+</div>
+<p><strong>Mother Tongue Fortnight Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Fortnight_Programme.jpg">
+</div>
+<p><strong>Other Programmes</strong>
+<br>
+<br>Chinese Language Radio Invasion</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Radio_Invasion.jpg">
+</div>
+<p>89.7FM Skuad Serbu Sekolah</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/89_7FM_Skuad_Serbu_Sekolah.jpg">
+</div>
+<p>----Learning Journey to Kampung Buangkok &amp; Yusof: Potrait of a President</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Journeys___Kampung_Buangkok___Yusof__Portrait_of_a_President.jpg">
+</div>
+<p></p>
