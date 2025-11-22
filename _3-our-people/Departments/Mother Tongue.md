@@ -17,7 +17,8 @@ variant: tiptap
 and proficient communicators. Our Mother Tongue Department plays a pivotal
 role in achieving this mission. Here are three key pillars that define
 our department's commitment to excellence:</p>
-<h4>1) Fostering Joyful Learners and Proficient Communicators:</h4>
+<p><strong>1) Fostering Joyful Learners and Proficient Communicators:</strong>
+</p>
 <p>At Juying Secondary School, every student is encouraged to become a joyful
 learner and proficient communicator in their mother tongue. We believe
 that language is not just a tool for communication but a gateway to understanding
@@ -26,7 +27,8 @@ strives to make language learning a delightful journey for every JYian.
 Through adoption of blended learning to design effective and engaging learning
 experience, we empower students to not just speak, read, and write proficiently
 but to also appreciate the beauty of their mother tongue.</p>
-<h4>2) Embracing the Joy of Teaching and Learning:</h4>
+<p><strong>2) Embracing the Joy of Teaching and Learning:</strong>
+</p>
 <p>The Mother Tongue Department believes that the joy of teaching and learning
 is contagious. Our educators are passionate about their subjects and are
 committed to igniting that passion in our students. We understand that
@@ -34,7 +36,8 @@ a strong foundation in one's mother tongue sets the stage for a lifetime
 of learning and success. With this belief, we create a classroom atmosphere
 that is not only educational but also fun, where students eagerly participate,
 ask questions, and explore the rich tapestry of their language and culture.</p>
-<h4>3) Authentic Learning through PASSION:</h4>
+<p><strong>3) Authentic Learning through PASSION:</strong>
+</p>
 <p>Our Mother Tongue Department goes beyond conventional learning methods.
 We anchor our approach on PASSION - learning experiences. Two of our flagship
 programs, the Mother Tongue Fortnight Programme and Overseas Exchange Programme,
@@ -45,6 +48,8 @@ activities, language games, and workshops which are designed and conducted
 by teachers based on students’ interests. It creates an environment where
 students can connect with their roots and discover the beauty of their
 language and culture in a practical and authentic manner.</p>
+<p><strong>&nbsp;</strong>
+</p>
 <h4><strong>Organization Chart</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,7 +83,7 @@ language and culture in a practical and authentic manner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wahidah Sidik</p>
+<p>Ms Nur Wahidah Sidik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Malay Language)</p>
@@ -180,144 +185,12 @@ language and culture in a practical and authentic manner.</p>
 <p>Teacher</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Photos</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Activity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Photo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>书法 / Calligraphy</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="chinese" src="/images/Picture1.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>勘探 / Google Earth Exploration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="chinese" src="/images/Picture3.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>传统手工 / Hand-painted Fans</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>唱跳华语歌 / Language through Karaoke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>戏剧 / Language through Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>推理游戏设计 / Mystery Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>象棋 / Chinese Chess</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Makanan Tradisional / Traditional Food</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Permainan Tradisional / Traditional Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Batik Painting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture15.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parkaian Tradisional / Traditional Attire</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture18.jpg">
-</div>
 </td>
 </tr>
 </tbody>
@@ -332,6 +205,30 @@ and digitally savvy creators.
 <br>Our teachers have trained and guided our students to take part in various
 national competitions, where they demonstrated strong language proficiency,
 creativity and character. These are their achievements:</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Achievements_CL.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CL Unit Achievements</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placaholder Image" src="/images/Achievements_ML.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ML Unit Achievements</div>
+</div>
+</div>
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -431,285 +328,68 @@ creativity and character. These are their achievements:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>POETRY FESTIVAL SINGAPORE – CHINESE POETRY RECITATION COMPETITION 2023</strong>
+<p></p>
+<h4><strong>Our Programmes</strong><br><strong>Internationalisation Programme</strong></h4>
+<p></p>
+<p>From 1–4 June 2025, 26 JYians travelled to Bandung, Indonesia, for an
+enriching overseas learning experience under our Internationalisation Programme.
+Students took part in a vibrant exchange at Taruna Bakti Junior High School,
+explored key landmarks such as Gedung Sate and the Geology Museum and experienced
+modern transport on the Whoosh! high-speed train.</p>
+<p>Cultural immersion came alive through angklung performances at Saung Angklung
+Udjo and a hands-on visit to Wisata Ilmu Sutera to learn about sustainable
+silk farming. Students also observed how social enterprises impact communities
+during their stop at Paskal Food Market.</p>
+<p>The trip nurtured global competencies, cultural appreciation and confident
+student leaders. As we commemorate SG60, this journey reminds us that our
+JYians are ready to connect, contribute and thrive in a globalised world.
+<br>
+<br>
+<br>
+</p>
+<p>Taruna Bakti Junior High School</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMP_Taruna_Bakti_Jr_High_School.jpg">
+</div>
+<p>
+<br>
+<br>Saung Angklung Udjo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saung_Angklung_Udjo.jpg">
+</div>
+<p>Strawberry &amp; Tea Plantation</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Strawberry_Farm_and_Tea_Plantation.jpg">
+</div>
+<p>Silkworm Farm</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wisata_Ilmu_Sutera.jpg">
+</div>
+<p>Whoosh! Speed Train</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Internationalisation_Whoosh.jpg">
+</div>
+<p>Gedung Sate, Geology Museum, Paskal Food Market and many more</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Paskal_Food_Market__Gedung_Sate___Geology_Museum__places_we_eat.jpg">
+</div>
+<p><strong>Mother Tongue Fortnight Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_cny_poetry.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue_Fortnight_Programme.jpg">
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sia Jia Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-O</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Commendation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wong Jing Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yang Xuanhao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Shi Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2S2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tee Wen Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2S2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wong Loke Yau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2S2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chuo Jia Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Certificate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p><strong>Other Programmes</strong>
+<br>
+<br>Chinese Language Radio Invasion</p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Radio_Invasion.jpg">
 </div>
-<p>“新蕾奖 XIN LEI JIANG” 19th
-<br>National Secondary School
-<br>Chinese Creative Writing Competition</p>
-<p><strong>First Prize</strong>
-<br>Liu Hang Yi (3E3)</p>
+<p>89.7FM Skuad Serbu Sekolah</p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/89_7FM_Skuad_Serbu_Sekolah.jpg">
 </div>
-<p>National Calligraphy Competition organised by Fo Guang Shan Singapore.</p>
-<p>ZHANG YITING (4E2)</p>
+<p>----Learning Journey to Kampung Buangkok &amp; Yusof: Potrait of a President</p>
 <div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl3.jpg">
-</div>
-<p>National Calligraphy Competition
-<br>organised by Fo Guang Shan Singapore.</p>
-<p>MAY THU KHIN (2E3)</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl4.jpg">
-</div>
-<p>“XIN LEI JIANG”
-<br>National Chinese Creative Writing Competition</p>
-<p>CLAUDIA SEWI YING TING (3E2)</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%;margin-right:15px;" height="auto" width="100%" src="/images/mtl5.jpg">
-</div>
-<p>National Calligraphy Competition
-<br>organised by Fo Guang Shan Singapore.</p>
-<p>TAN JING EN (1E2)</p>
-<h4>Overseas Exchange Programme:</h4>
-<p>We believe that language and culture are best learned when experienced
-firsthand. Our overseas exchange program offers students the opportunity
-to live and study in countries where their mother tongue is spoken. This
-not only enhances language proficiency but also fosters cross-cultural
-understanding, global awareness, and personal growth.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture19.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Pretrip Brief</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture20.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Welcome!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teh Tarik" src="/images/Picture21.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Teh Tarik</div>
-</div>
-</div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_Journeys___Kampung_Buangkok___Yusof__Portrait_of_a_President.jpg">
 </div>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture22.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Flipping pratas</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wayang Kulit" src="/images/Picture23.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Wayang Kulit</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wayang Kulit" src="/images/Picture24.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Backstage</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nature walk" src="/images/Picture25.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Nature walk</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Malaysia Exchange" src="/images/Picture26.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Malaysia Exchange</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Studying together" src="/images/Picture27.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Studying together</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Friendship" src="/images/Picture28.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Friendship</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Home" src="/images/Picture29.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Home</div>
-</div>
-</div>
-</div>
-<p>In conclusion, the Mother Tongue Department at Juying Secondary School
-is dedicated to empowering our students with the linguistic and cultural
-tools they need to excel in the modern world. We are committed to creating
-a dynamic and joyful learning environment where every student can thrive,
-both as a language enthusiast and a global citizen.</p>
