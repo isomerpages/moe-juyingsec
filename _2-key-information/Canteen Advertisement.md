@@ -67,6 +67,17 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -74,7 +85,8 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Download and complete the application form. You may also request for a hardcopy from the School’s General Office</strong>
+<p><strong>Download and complete the application form. You may also request for a hardcopy from the School’s General Office. </strong>
+<a href="https://drive.google.com/file/d/1abFu8gm5A9sIiPuOeBTG64YiOXpT-TO4/view?usp=drive_link" rel="noopener nofollow" target="_blank">Form</a>
 </p>
 </li>
 </ol>
