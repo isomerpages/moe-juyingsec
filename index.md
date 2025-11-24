@@ -33,16 +33,22 @@ sections:
       announcement_items:
         - title: Vacancy for Vegetarian Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
-          announcement: "Application closing date: 14 Nov 2025    Click on the link below
+          announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
-          link_url: https://docs.google.com/document/d/17uqLHhmA_adi0Y4bSKHrKD4a8jxhkxWy/edit?usp=drive_link&ouid=106017199163097979762&rtpof=true&sd=true
+          link_url: https://docs.google.com/document/d/15s23n2RvaWJBR3mTd-QyR1-iSEUuRs6W/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
         - title: Vacancy for Western Stall (w.e.f 2 Jan 2026)
           date: 31 October 2025
-          announcement: "Application closing date: 14 Nov 2025    Click on the link below
+          announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
-          link_url: https://docs.google.com/document/d/1tFEfsrSlaA6L-orsMQq4mKgoFzkD92cV/edit?usp=drive_link&ouid=106017199163097979762&rtpof=true&sd=true
+          link_url: https://docs.google.com/document/d/1jdp3muciG2yHVLwZ5gtqyTnCgExRM35p/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
+        - title: Vacancy for Any Asia Cuisines   (w.e.f 2 Jan 2026)
+          date: 24 November 2025
+          announcement: "Application closing date: 01 Dec 2025    Click on the link below
+            for more information."
+          link_text: Additional Information + Application Procedure
+          link_url: https://docs.google.com/document/d/1VQWZGU3qwCzBo7u_v27QdvygKzVDVW3C/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool
