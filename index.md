@@ -32,13 +32,13 @@ sections:
       id: announcements
       announcement_items:
         - title: Vacancy for Vegetarian Stall (w.e.f 2 Jan 2026)
-          date: 31 October 2025
+          date: 24 November 2025
           announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
           link_url: https://docs.google.com/document/d/15s23n2RvaWJBR3mTd-QyR1-iSEUuRs6W/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
         - title: Vacancy for Western Stall (w.e.f 2 Jan 2026)
-          date: 31 October 2025
+          date: 24 November 2025
           announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
