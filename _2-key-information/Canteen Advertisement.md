@@ -54,13 +54,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Any Asia Cuisines </strong>
+<br><strong>(Non-Halal / Halal)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>01 DECEMBER 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Japanese, Korean, Thai, Indonesian, Snack, (Pau, Chee Cheong Fun, Dim sum) , Meat Delight Rice (Chicken, Duck &amp; Char Siew)</strong>
+</p>
 </td>
 </tr>
 </tbody>
