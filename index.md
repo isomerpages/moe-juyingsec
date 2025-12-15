@@ -19,14 +19,11 @@ sections:
           description: ""
           url: https://sites.google.com/view/juyingtestimonials/home?authuser=0
       variant: center
-  - infopic:
-      title: Juying Open House
-      id: infopic
-      description: You’re invited to our Open House on 22 Nov, 9:00am–12:00pm!  Drop
-        by to explore our programs, meet the team, and ask questions. See you
-        there!
-      image: /images/WhatsApp_Image_2025_11_06_at_1_02_22_PM.jpg
-      alt: Image alt text
+  - infobar:
+      title: Welcome Sec 1s to Juying Secondary School
+      id: infobar
+      button: please click on - Sec 1 Registration and Appeal
+      url: https://www.juyingsec.moe.edu.sg/key-information/secondary-1-registration/appeal/
   - announcements:
       title: Announcements
       id: announcements
