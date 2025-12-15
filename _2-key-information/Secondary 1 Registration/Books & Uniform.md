@@ -11,7 +11,7 @@ uniform from
 <br><u>19 December 2025 onwards</u>.
 <br>Please note that parking is not provided. You can park at the HDB carparks
 near the school.
-<br>You can download the Sec 1 Booklist&nbsp;<a href="https://drive.google.com/file/d/1Nkd7RBF0hl0hpPmv6VjATFpenPtF8_4b/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>You can download the Sec 1 Booklist&nbsp;<a href="https://drive.google.com/file/d/1oEMRSorobY9rowzH_KeBYro16rXQgftk/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>Please ensure that your booklist is accurately ticked for all the required
 subjects before proceeding to the bookshop. Also, please remember to obtain
 a queue number from the General Office.</p>
