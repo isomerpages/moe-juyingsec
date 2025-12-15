@@ -54,10 +54,7 @@ in-person, at Juying Secondary School.
 <br>
 </p>
 <p></p>
-<p><strong>Appeal deadline: 22 December 2025, 12 pm</strong>
-<br>
-<br>
-</p>
+<p></p>
 </li>
 <li>
 <p>However, if you wish to file your appeal online, you can submit your appeal
