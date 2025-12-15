@@ -74,7 +74,11 @@ problems.</p>
 </li>
 <li>
 <p>Severe physical impairments, such as those requiring permanent use of
-a wheelchair.</p>
+a wheelchair.
+<br>
+<br><strong>Appeal deadline: 22 December 2025, 12 pm</strong>
+<br>
+</p>
 </li>
 </ul>
 <p>&nbsp;</p>
