@@ -37,24 +37,24 @@ sections:
             school rules and requirements."
           link_text: ""
           link_url: ""
-        - title: Vacancy for Vegetarian Stall (w.e.f 2 Jan 2026)
+        - title: Vacancy for Vegetarian Stall (w.e.f End Feb 2026)
           date: 24 November 2025
           announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
-          link_url: https://docs.google.com/document/d/15s23n2RvaWJBR3mTd-QyR1-iSEUuRs6W/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
-        - title: Vacancy for Western Stall (w.e.f 2 Jan 2026)
+          link_url: https://docs.google.com/document/d/1DwAyquX5ntjVLP4R9p492zmyvku53-MY/edit?usp=drive_link&ouid=101558185724620304443&rtpof=true&sd=true
+        - title: Vacancy for Western Stall (w.e.f End Feb 2026)
           date: 24 November 2025
           announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
-          link_url: https://docs.google.com/document/d/1jdp3muciG2yHVLwZ5gtqyTnCgExRM35p/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
-        - title: Vacancy for Any Asia Cuisines   (w.e.f 2 Jan 2026)
+          link_url: https://docs.google.com/document/d/1PMXT7eOvw_xb3mgyLbJWW6dfh4ukCZXv/edit?usp=drive_link&ouid=101558185724620304443&rtpof=true&sd=true
+        - title: Vacancy for Any Asia Cuisines(w.e.f End Feb 2026)
           date: 24 November 2025
           announcement: "Application closing date: 01 Dec 2025    Click on the link below
             for more information."
           link_text: Additional Information + Application Procedure
-          link_url: https://docs.google.com/document/d/1VQWZGU3qwCzBo7u_v27QdvygKzVDVW3C/edit?usp=sharing&ouid=101558185724620304443&rtpof=true&sd=true
+          link_url: https://docs.google.com/document/d/1wFK3rWyny1VjGnZLizB2XcUEaoLNS7lS/edit?usp=drive_link&ouid=101558185724620304443&rtpof=true&sd=true
         - title: Launch of Official Instagram
           date: 21 October 2024
           announcement: Follow us @juyingsecondaryschool
