@@ -51,7 +51,7 @@ in-person, at Juying Secondary School.</p>
 <li>
 <p>However, if you wish to file your appeal online, you can submit your appeal
 request and supporting documents via email to
-<br>Mrs Amy Yeo, Year Head : (<a href="ong_siew_har@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_siew_har@schools.gov.sg</a>)</p>
+<br>Mrs Amy Yeo, Year Head (<a href="ong_siew_har@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_siew_har@schools.gov.sg</a>)</p>
 </li>
 </ul>
 <p>Appeals for serious medical conditions will only be considered for students
