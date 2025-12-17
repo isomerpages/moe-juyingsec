@@ -19,7 +19,7 @@ form from the General Office or download the soft copy <a href="https://drive.go
 documents. Please submit your application by <strong>24 December 2025</strong> so
 that you will be able to collect your FAS items before the school reopens.</p>
 <p>For more information, you may contact the school’s general office or refer
-to MOE’s website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>).</p>
+to MOE’s website (<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>).</p>
 <p>&nbsp;<strong><u>Collection of FAS Items</u></strong>
 <br>Students who are successful in their FAS application (approved by primary
 school) can visit the school during office hours from 19 December 2025
