@@ -10,16 +10,12 @@ variant: tiptap
 <li>
 <p>To appeal for a&nbsp;<strong><u>transfer into</u></strong>&nbsp;Juying
 Secondary School, submit your application using the following link (
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss2026sec1appeal</a>)</p>
+<a href="https://go.gov.sg/jyss2026sec1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss2026sec1appeal</a>)</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>To appeal for a&nbsp;<strong><u>transfer out</u></strong>&nbsp;of Juying
 Secondary School, your child/ward must still complete the Sec 1 Registration
 via Parents Gateway and attend school until the transfer is approved.
-<br>
 <br>
 </p>
 </li>
@@ -44,17 +40,13 @@ point of the posting year.</p>
 </ul>
 </li>
 </ul>
-<h4><br><strong>Appeal for School Transfer (non-medical conditions and other reasons)</strong></h4>
+<h4><strong>Appeal for School Transfer (with serious medical conditions)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To apply for an appeal to transfer out of Juying Secondary school due
 to serious medical conditions, please prepare the supporting documents
 (i.e. medical reports, and/or letters from doctors) and file your appeal,
-in-person, at Juying Secondary School.
-<br>
-</p>
-<p></p>
-<p></p>
+in-person, at Juying Secondary School.</p>
 </li>
 <li>
 <p>However, if you wish to file your appeal online, you can submit your appeal
@@ -62,8 +54,9 @@ request and supporting documents via email to Mrs Amy Yeo, Year Head (
 <a rel="noopener noreferrer nofollow" target="_blank">ong_siew_har@schools.gov.sg</a>)</p>
 </li>
 </ul>
-<p>&nbsp;Appeals for serious medical conditions will only be considered for
-students with:</p>
+<p></p>
+<p>Appeals for serious medical conditions will only be considered for students
+with:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Serious medical conditions, such as chronic heart conditions, or kidney
