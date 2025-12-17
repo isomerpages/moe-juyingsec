@@ -16,7 +16,7 @@ near the school.
 subjects before proceeding to the bookshop. Also, please remember to obtain
 a queue number from the General Office.</p>
 <p>&nbsp;<strong><u>Online Orders and Home Delivery (Books and Uniforms)</u></strong>
-<br>Pacific Bookstores: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Pacific Bookstores: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 <br>Finest Fashion: <a href="https://finestuniform.com/collections/juying-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/juying-secondary-school</a>
 <br>[Online order Passcode: JYSS22b]
 <br>
