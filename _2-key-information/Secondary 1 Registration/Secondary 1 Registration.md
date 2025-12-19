@@ -5,11 +5,13 @@ description: ""
 third_nav_title: Secondary 1 Registration
 variant: tiptap
 ---
-<h4><strong>First Day of School 2025 &amp; Orientation</strong></h4>
+<h4><strong>First Day of School 2026 &amp; Orientation</strong></h4>
 <p>Dear Parents / Guardians of Sec 1 students
-<br>The first day of school is&nbsp;<strong>Thursday, 2 January 2025. </strong>The <strong>Sec 1 Orientation Programme</strong> will
-take place from 2 January 2025 to 7 January 2025.
-<br>Below are some of the key activities from 2 Jan to 7 Jan 2025:</p>
+<br>
+<br>The first day of school is&nbsp;<strong>Friday, 2 January 2026.&nbsp;</strong>The&nbsp;<strong>Sec 1 Orientation Programme</strong>&nbsp;will
+take place from 2 January 2026 to 7 January 2026.
+<br>Below are some of the key activities from 2 January 2026 to 7 January
+2026:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ice breakers and class bonding activities</p>
@@ -21,16 +23,17 @@ take place from 2 January 2025 to 7 January 2025.
 <p>Secondary 1 Installation Ceremony</p>
 </li>
 <li>
-<p>Camp fire</p>
+<p>Camp fire (6 January 2026)</p>
 </li>
 <li>
-<p>Class Bonding Day (6 Jan 2025)</p>
+<p>Class bonding activity (6 January 2026)</p>
 </li>
 <li>
-<p>CCA Experience</p>
+<p>CCA Fair / Experience</p>
 </li>
 </ul>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Reporting for the first day of school:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -41,10 +44,18 @@ take place from 2 January 2025 to 7 January 2025.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday, 2 January 2025</p>
+<p>Friday, 2 January 2026</p>
 </td>
 </tr>
 <tr>
@@ -52,9 +63,9 @@ take place from 2 January 2025 to 7 January 2025.
 <p>Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.20am to 4.40pm
-<br>Students are strongly encouraged to report to school by <strong><u>7.20 am</u></strong>.
-School morning assembly will start at 7.30 am. &nbsp;</p>
+<p>8.30 am to 12.40 pm
+<br>Students are strongly encouraged to report to school by&nbsp;<strong><u>8.30 am</u></strong>.
+School morning assembly will start at 8.30 am. &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -70,14 +81,22 @@ School morning assembly will start at 7.30 am. &nbsp;</p>
 <p>Attire:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Half School Uniform (Red Sec 1 PE T-Shirt and School Skirt/Shorts)
-<br><em>Students who are not able to purchase the school uniform due to various reasons including waiting for outcome of appeal, you may report in your primary school uniform</em>
+<p>Half School Uniform (Green cohort T-Shirt and school skirts / shorts)
+<br><em>Students who are not able to purchase the school uniform due to various reasons including waiting for outcome of appeal, you may report in your primary school uniform.</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Things to bring along:</p>
+<p>&nbsp;Things to bring along:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Writing materials</p>
@@ -93,15 +112,14 @@ School morning assembly will start at 7.30 am. &nbsp;</p>
 </li>
 </ul>
 <p>Please refer to the announcement via Parents Gateway for more information.
-The announcement will be posted by end of <strong>18&nbsp;December 2024.</strong>
-</p>
-<p><strong>Registration Process</strong>
-<br>For registration, please log into Parents Gateway to view the announcement
-and complete the following:</p>
+The announcement will be posted by end of&nbsp;<strong>19&nbsp;December 2025</strong>.</p>
+<p>&nbsp;<strong>Sec 1 E-Registration </strong>
+<br>Please log into <strong>Parents Gateway</strong> on <strong>20 December 2025</strong> to
+view the announcement and complete the following:</p>
 <p>1.&nbsp; Provide contact details
 <br>2.&nbsp; Complete brief questionnaire
 <br>3.&nbsp; Select 'Yes' to complete the registration</p>
-<p><strong>Registration period: 19 December 2024, 8 am to 20 December 2024, 2 pm.</strong>
+<p><strong>Registration period: 20 December 2025, 8 am to 22 December 2025, 2 pm.</strong>
 <br>For other information pertaining to Secondary 1 matters, you may refer
 to the following subpages:
 <br>1.&nbsp;&nbsp;&nbsp; Books &amp; Uniform
@@ -109,5 +127,3 @@ to the following subpages:
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE-FAS
 <br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeal
 <br>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other Enquiries</p>
-<p></p>
-<p></p>
