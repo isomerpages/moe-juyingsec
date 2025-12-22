@@ -22,7 +22,11 @@ sections:
   - infobar:
       title: Welcome Sec 1s to Juying Secondary School
       id: infobar
-      button: please click on - Sec 1 Registration and Appeal
+      button: Sec 1 Registration
+      url: https://www.juyingsec.moe.edu.sg/key-information/secondary-1-registration/secondary-1-registration/
+  - infobar:
+      id: infobar
+      button: Appeal
       url: https://www.juyingsec.moe.edu.sg/key-information/secondary-1-registration/appeal/
   - announcements:
       title: Announcements
