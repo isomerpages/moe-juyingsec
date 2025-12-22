@@ -32,15 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 'N' Level Examination Results Release
-          date: 15 December 2025
-          announcement: "Date: 18 December 2025, Thursday (Reporting Time: 1.45 pm)
-            Attire: Full School Uniform (Polo T-Shirt with School Pants/Skirt,
-            with Black School Shoes) Grooming: Students should report to school
-            with an appropriate hairstyle, hair colour, and footwear, as per the
-            school rules and requirements."
-          link_text: ""
-          link_url: ""
         - title: Vacancy for Vegetarian Stall (w.e.f End Feb 2026)
           date: 24 November 2025
           announcement: Click on the link below for more information.
