@@ -268,6 +268,14 @@ health and keep fit through regular physical exercise.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Chiang Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Denise Wong</p>
 </td>
 <td rowspan="1" colspan="1">
