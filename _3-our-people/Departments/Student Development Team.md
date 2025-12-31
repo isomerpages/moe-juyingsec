@@ -36,66 +36,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maybellina Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wang Woon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. Year Head (Upper Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nor Diana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education and Career Guidance (ECG) Coordinator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chuah Soon Ann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Local Values-in-Action (VIA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yee Jen Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Wellness Coordinator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Khairiani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sexuality Ed Coordinator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Yong Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IS Integration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Woon Keat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Positive School Climate</p>
 </td>
 </tr>
 <tr>
@@ -128,14 +72,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Charis Lee Jing Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
 </td>
 </tr>
 <tr>

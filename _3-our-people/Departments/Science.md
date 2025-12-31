@@ -6,8 +6,9 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h3></h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments_and_Committees_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00260.jpg">
 </div>
 <h3>Science Department</h3>
 <h4><strong>Vision</strong></h4>
@@ -227,14 +228,6 @@ a coastal walk at Changi.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(Sec 1 Co-ordinator)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Jia Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 2 Co-ordinator)</p>
 </td>
 </tr>
 <tr>

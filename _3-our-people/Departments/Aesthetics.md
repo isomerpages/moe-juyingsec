@@ -6,8 +6,9 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aesthetic_Dept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00235.jpg">
 </div>
 <h4><strong>Aesthetics Department</strong></h4>
 <h4><strong>Vision</strong></h4>
@@ -93,6 +94,14 @@ and passionate learners through the inculcation of the Arts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

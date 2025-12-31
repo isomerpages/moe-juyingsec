@@ -6,10 +6,10 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/English_Department.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00247.jpg">
+</div>
 <h4><strong>English Language &amp; Literature Department</strong></h4>
 <h3></h3>
 <h4><strong>Vision</strong></h4>
@@ -173,6 +173,14 @@ of the human experience through works of literature.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Teoh Cheng Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mun Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments_and_Committees_08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00242.jpg">
 </div>
 <p>Malay Unit Link: <a href="https://sites.google.com/moe.edu.sg/sekolahmenengahjuying?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">BMJYSS</a>
 </p>

@@ -4,6 +4,12 @@ permalink: /people/executive-n-administrative-staff/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00229.jpg">
+</div>
+<h4><strong>Executive &amp; Administrative Staff</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,14 +30,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Veron Lee Wai Leng&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
