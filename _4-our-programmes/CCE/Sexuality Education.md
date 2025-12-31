@@ -94,43 +94,48 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 <p><a href="https://drive.google.com/file/d/1J9mBDKCTTARHB3fByG6jozpNJnSpw7m9/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 5 Curriculum.pdf</a>
 </p>
-<p>*Note: The time period provided for the lessons may be shifted if there
-may be a need to do so depending on the changes in the CCE curriculum.
-<br>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p>8.&nbsp;&nbsp;&nbsp;<em>eTeens</em> is a programme that was developed by
+Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. With the formation of the Communicable
+Diseases Agency (CDA) on 1 April 2025, the programme would now be managed
+by CDA’s Training and Education Division instead of HPB. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions to protect themselves
+from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;Students are taught skills such as decision-making,
+assertiveness and negotiation to say “no” to sex and negative peer pressure.
+They also learn that the impact of STIs/HIV extends beyond themselves and
+involves their family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Juying Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
-<p>8.&nbsp;&nbsp;<em>eTeens</em> is a programme developed by Health Promotion
-Board, in collaboration with the Ministry of Education, to provide Secondary
-3 students with accurate information on STIs, HIV and protection from a
-health perspective. <em>eTeens</em> is conducted in two segments – a mass
-talk segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p>9.&nbsp;Students are taught skills such as decision-making, assertiveness
-and negotiation to say “no” to sex and negative peer pressure. They also
-learn that the impact of STIs/HIV extends beyond themselves and involves
-their family, and the importance of responsible decision-making and seeking
-help. Abstinence and upholding family values are the key messages.</p>
-<p>
-<br><strong>At Juying Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-<br>
+<p><strong>&nbsp;</strong>
 </p>
-<p><a href="https://docs.google.com/document/d/1mVXIT-Ja1_kAby1yE8NxwE8g8xyRvcME/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Click here for eTeens Programme</a>
+<p><a href="https://drive.google.com/file/d/14fIPcQORs4zShjKwdfvXfDoQdzRLeW61/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Sex-Ed eteens Curriculum.pdf</a>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <p></p>
 <p><strong>Information for Parents</strong>
-<br>10.&nbsp;Parents may opt their children out of the Sexuality Education
+</p>
+<p>10.&nbsp;&nbsp;Parents may opt their children out of the Sexuality Education
 lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
 by MOE-approved external providers.</p>
-<p>11.&nbsp;Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+<p>11.&nbsp;&nbsp;Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible on Parents Gateway. <a href="https://form.gov.sg/677cde8c3d07871a255e7362" rel="noopener nofollow" target="_blank">Click here</a>
-<br>The completed form is to be submitted by 14/01/2025.</p>
+at the start of the year and is also available <a href="https://form.gov.sg/695249617f7d4b15a6d1aa7d" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 26/01/2026.</p>
 <p>12.&nbsp;Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also accessible on Parents Gateway. <a href="https://form.gov.sg/677ce3643fa286e2737f5248" rel="noopener nofollow" target="_blank">Click here</a>
-<br>The completed form is to be submitted by 14/01/2025.</p>
-<p>13.&nbsp;Parents can contact the school at <strong>general Office:</strong>&nbsp;6308
-9898,
-<br><strong>Email:</strong>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+at the start of the year and is also available <a href="https://form.gov.sg/695240d499b04bd50f262bf8" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u> &nbsp;The
+completed form is to be submitted by 12/01/2026.</p>
+<p>13.&nbsp;Parents can contact the school at 6308 9898, or via email us
+at <a rel="noopener noreferrer nofollow" target="_blank">juying_ss@moe.edu.sg</a> &nbsp;if
+you have any queries for discussion or to seek clarification about the
+school’s Sexuality Education programme.</p>
+<p>
+<br>
+</p>
