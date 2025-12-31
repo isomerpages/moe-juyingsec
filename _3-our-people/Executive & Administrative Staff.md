@@ -4,6 +4,12 @@ permalink: /people/executive-n-administrative-staff/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00229.jpg">
+</div>
+<h4><strong>Executive &amp; Administrative Staff</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
