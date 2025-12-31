@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr MA YA PING
+<p>Mr Mohammad Fauzul Mohd Taha
 <br>Class 3-P Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms RACHEL THAM
+<p>Ms Tan Hui Si
 <br>Class 3-P Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms GOH WAN RU
+<p>Mr Lim Chiang Long
 <br>Class 3-A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms LIM YAN PING
+<p>Mr Chang Weng kit
 <br>Class 3-A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,7 +49,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms RAUDHAH
+<p>Mr Lui Tze Ting Albert
+<br>Class 3-S1 Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xu Jia'en Serena
 <br>Class 3-S2 Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,16 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms TEH MUN YEE
-<br>Class 3-S2 Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms CHANG SZE MAY
+<p>Ms Teh Mun Yee
 <br>Class 3-I Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms STEPHANIE CHEW
+<p>Mr Lin Daoxing
 <br>Class 3-I Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr KARTIK RAJ
+<p>Ms Wong Zhimin Lynette
 <br>Class 3-O Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnah
+<p>Mrs Tee-Ong Xian Qing
 <br>Class 3-O Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,16 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms TAN HUI SI
-<br>Class 3-O Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms CHEN YONG HUA
+<p>Ms Goh Shu Han
 <br>Class 3-N Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,8 +112,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm TAN YING SHAN
+<p>Ms Stephanie Chew Yu Jun
 <br>Class 3-N Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
