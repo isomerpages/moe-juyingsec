@@ -6,8 +6,9 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h3></h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Humanities_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00253.jpg">
 </div>
 <h3>Humanities Department</h3>
 <h4><strong>Vision</strong></h4>
@@ -132,14 +133,6 @@ Cities&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elydia Azman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Student Management)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lin Daoxing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,14 +209,6 @@ Cities&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Geography Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Quek Kooi Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History Teacher</p>
 </td>
 </tr>
 <tr>
