@@ -92,14 +92,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Shu Jiun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer (SSD)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Amy Yeo (Ong Siew Har)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
