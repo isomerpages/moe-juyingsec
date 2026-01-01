@@ -4,44 +4,54 @@ permalink: /information/principals-message/principals-message-2023/
 description: ""
 variant: tiptap
 ---
-<h3><br>Principal's Message 2025</h3>
-<p>Dear Parents
-<br>As we step into 2025, we are navigating a world marked by rapid change
-and complexity. Circumstances continue to evolve unpredictably, requiring
-us to adapt quickly and creatively. While VUCA (Volatility, Uncertainty,
-Complexity, Ambiguity) once captured the essence of such times, today’s
-challenges are better reflected by BANI—a world that is Brittle, Anxious,
-Nonlinear, and Incomprehensible.</p>
-<p>In a brittle world, trusted systems can falter under strain, as seen in
-global supply chain disruptions and climate challenges. Anxiety stems from
-our fast-paced, hyperconnected reality, where uncertainty about the future
-looms large. Nonlinearity shows how small events can trigger vast, unexpected
-impacts, from geopolitical shifts to breakthroughs in artificial intelligence
-(AI). Finally, incomprehensibility reflects the growing difficulty of making
-sense of our ever-evolving world, especially for small nations like Singapore.</p>
-<p>In such a world, our children need more than academic excellence. They
-need empathy to navigate the anxiety and uncertainty around them. They
-need curiosity to remain open to learning and understanding in a non-linear
-environment. And they need resilience and adaptability to face incomprehensible
-challenges with confidence. At Juying Secondary School, we recognise these
-and have made it our mission to equip students with these essential qualities.
-Through programme like PASSION and our thoughtfully crafted Subject Curriculum
-and CCE experiences, we focus not just on knowledge acquisition but on
-nurturing 21st-century competencies and mindset like inventive thinking,
-communication, and intellectual agility. We aim to prepare our students
-not only for their immediate future but for the decades of growth, change,
-and opportunities that lie ahead.</p>
-<p>This vision is only possible through the strong partnership we share with
-you, our parents and community. Your support, engagement, and collaboration
-are vital in shaping an environment where our students feel empowered to
-thrive. Together, we can provide them with the tools, values, and opportunities
-they need to succeed in this BANI world. As we begin this new academic
-year, let us work together to inspire our children to dream big, think
-critically, and act with compassion. I wish everyone a fulfilling and successful
-year ahead.
-<br>
-<br>Your partner-in-education,
-<br>
+<h3><br>Principal's Message 2026</h3>
+<p>Welcome to Academic Year 2026.
+<br>As we begin this new chapter together, I do so with a deep sense of joy
+and optimism about the journey ahead. Our rallying theme for the year, <strong>Let Learning lead the Way, Our Futureprint starts Today</strong>,
+reflects both who we are as a school and how we choose to move forward
+in an increasingly complex world.</p>
+<p>&nbsp;In my last message, I shared that we live in what is often described
+as a BANI world, one that is brittle, anxious, nonlinear, and incomprehensible.
+In such a context, fixed answers and rigid pathways are no longer sufficient.
+The only sustainable response is the agility to learn. This is why learning
+must lead the way. When students know how to <strong>learn, unlearn </strong>and<strong> relearn</strong>,
+they are better prepared not just for examinations, but for life beyond
+school.</p>
+<p>&nbsp;At the heart of our school is a strong culture of care and a culture
+of positivity. We believe that students learn best when they feel safe,
+supported and valued. Care is not an add on. It is foundational. Positivity
+is not about ignoring challenges, but about approaching them with hope,
+purpose and belief in growth. Together, these cultures create the conditions
+where learning can flourish and where joy in learning can take root.</p>
+<p>&nbsp;Learning, for us, is a meaningful journey. It is not a race to the
+finish line, but a process of discovery, reflection and growth. In our
+classrooms, students are encouraged to ask questions, think deeply, collaborate
+with others and make sense of what they learn. Teachers design learning
+experiences that are engaging and relevant, guided by evidence informed
+practices and clear feedback. We want students to understand where they
+are in their learning, where they are heading, and how to take the next
+step with confidence.</p>
+<p>&nbsp;Our futureprint speaks to the lasting impact of this journey. It
+is the imprint of values, skills and dispositions that our students carry
+with them long after they leave our school. This futureprint is <strong>shaped daily</strong> through
+how students show care for others, how they respond to setbacks, and how
+they grow through challenges. It is strengthened through diverse experiences
+in academic learning, applied programmes, leadership, service, sports and
+the arts. Every experience matters, because every experience contributes
+to who our students are becoming.</p>
+<p>&nbsp;Partnership remains central to our work. Parents are valued partners
+in this journey, and we are grateful for your trust and collaboration.
+When school and home work together, students benefit from a consistent
+message of care, encouragement and high expectations. We also welcome the
+support of our community partners, whose contributions enrich learning
+and broaden perspectives.</p>
+<p>&nbsp;As we step into 2026, I invite our students to <strong>embrace learning</strong> with
+curiosity and courage, our staff to continue leading with <strong>care and professionalism</strong>,
+and our parents to <strong>walk alongside us</strong> with confidence. Let
+us hold firmly to our shared purpose, nurture joy in learning, and strengthen
+our culture of care and positivity.</p>
+<p>Let learning lead the way. Our futureprint starts today.</p>
+<p>&nbsp;
 <br>Mr Kyris Ang
 <br>Principal</p>
 <p>&nbsp;</p>
