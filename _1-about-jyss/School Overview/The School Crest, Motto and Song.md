@@ -76,7 +76,7 @@ working harmony.</p>
 <br>Determined to succeed.
 <br>We forge forward with an iron will
 <br>To establish a gracious community and to support others
-<br>Heroes of virtue and strength,
+<br>Heroes of virtue and of strength,
 <br>We meet and we uphold the
 <br>Motto of our school,
 <br><strong>Together We Will Succeed.</strong>
@@ -86,7 +86,7 @@ working harmony.</p>
 <br>We are eager to serve and ready to give
 <br>We team up as a group of heroes,
 <br>To strengthen ourselves to be the best and to support others
-<br>Heroes of virtue and strength,
+<br>Heroes of virtue and of strength,
 <br>We meet and we uphold the
 <br>Motto of our school,
 <br><strong>Together We Will Succeed.</strong>
