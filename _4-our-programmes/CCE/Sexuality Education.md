@@ -112,7 +112,7 @@ involves their family, and the importance of responsible decision-making
 and seeking help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Juying Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><strong>&nbsp;</strong><a href="https://drive.google.com/file/d/1B7wMeaPAOIwj4hz2OP_FjEC4f8f6aV8F/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Sex-Ed eteens Curriculum.pdf</a>
+<p><strong>&nbsp;</strong><a href="https://drive.google.com/file/d/1Oskh8Yuq5NG2G3TXqDqsrRJzhwnfaabZ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2026 Sex-Ed eteens Curriculum.pdf</a>
 </p>
 <p></p>
 <p>
