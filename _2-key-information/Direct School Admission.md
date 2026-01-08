@@ -169,28 +169,6 @@ For more details, please refer to MOE website<strong> – <a rel="noopener noref
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>*go live on 7 May, 11am</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
-<p>*go live on 7 May, 11am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
