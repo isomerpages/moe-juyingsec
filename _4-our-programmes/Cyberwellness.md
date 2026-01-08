@@ -74,10 +74,6 @@ home.</p>
 <p><a href="http://sure.nlb.gov.sg/" rel="noopener" target="_blank">http://sure.nlb.gov.sg</a>
 </p>
 </li>
-<li>
-<p><a href="http://help123.sg/" rel="noopener" target="_blank">http://help123.sg</a>
-</p>
-</li>
 </ul>
 <p><strong>From External Agencies</strong>
 </p>
