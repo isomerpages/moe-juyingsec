@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Parents and Students,
-<br>The 2025 Semester 1 Weighted Assessment&nbsp; (WA) schedules and topics
+<br>The 2026 Semester 1 Weighted Assessment&nbsp; (WA) schedules and topics
 are as follows:
 <br>
 <br>Secondary 1 WA Schedule:
