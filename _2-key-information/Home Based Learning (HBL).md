@@ -43,40 +43,51 @@ Gateway at the start of the semester.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 Jan</p>
+<p>28 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Mar</p>
+<p>8 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jul</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 - 17 Jul (Tue - Thur)</p>
+<p>14 - 16 Jul (Tue - Thur)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Feb</p>
+<p>11 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Apr</p>
+<p>22 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jul</p>
+<p>29 Jul</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Mar</p>
+<p>25 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
