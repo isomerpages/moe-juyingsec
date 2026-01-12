@@ -32,6 +32,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: O-Level Result Release
+          date: 14 January 2026
+          announcement: "Date: 14 January 2026 | Reporting Time: 1.45 pm | Venue: MPH |
+            Attire: Full School Uniform (Polo T-Shirt with School Pants/Skirt,
+            with Black School Shoes) Grooming: Students should report to school
+            with an appropriate hairstyle, hair colour, and footwear, as per the
+            school rules and requirements."
+          link_text: ""
+          link_url: ""
         - title: Vacancy for Vegetarian Stall (w.e.f End Feb 2026)
           date: 24 November 2025
           announcement: Click on the link below for more information.
