@@ -23,7 +23,6 @@ sections:
       title: Resource For Parents
       subtitle: 2025 O-Level Results Release
       id: infobar
-      description: Click the link below
       button: More Information
       url: /resource-for-parents/
   - infobar:
