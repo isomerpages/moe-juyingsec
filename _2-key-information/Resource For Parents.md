@@ -14,6 +14,8 @@ actions that their grades do not define who they are.&nbsp;&nbsp;
 opportunity to have open conversations and guide them as they consider
 their next steps.&nbsp;
 <br>
+<br><a href="https://drive.google.com/file/d/1wAcv8Cm374QYyWM8u7XaCmpaieFaQgzl/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 O-Level Parent Information Sheet</a>
+<br>
 <br><strong>Resources for Parents</strong>
 <br>For resources on social and emotional support as well as education and
 career guidance, please refer to the attached Information Sheet for Parents
@@ -40,5 +42,5 @@ a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results.
 <br>
-<br><a href="https://drive.google.com/file/d/1wAcv8Cm374QYyWM8u7XaCmpaieFaQgzl/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 O-Level Parent Information Sheet</a>
+<br>
 </p>
