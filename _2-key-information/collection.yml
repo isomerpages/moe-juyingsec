@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - Resource For Parents.md
       - School Routines & Procedures.md
       - Student PDLP.md
       - Sec 2 Subject Allocation Exercise Briefing.md
