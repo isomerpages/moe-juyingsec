@@ -21,7 +21,7 @@ experience in schools.</p>
 <p>Information on home based learning days will be sent through Parents'
 Gateway at the start of the semester.</p>
 <blockquote>
-<h4><strong>Home Based Learning Days for 2025</strong></h4>
+<h4><strong>Home Based Learning Days for 2026</strong></h4>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
