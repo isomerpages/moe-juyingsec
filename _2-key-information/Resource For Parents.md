@@ -38,4 +38,7 @@ their schools or make an ECG counselling appointment with the ECG Centre
 results. Those who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
-when collecting the results.</p>
+when collecting the results.
+<br>
+<br><a href="https://drive.google.com/file/d/1wAcv8Cm374QYyWM8u7XaCmpaieFaQgzl/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 O-Level Parent Information Sheet</a>
+</p>
