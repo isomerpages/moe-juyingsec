@@ -20,6 +20,12 @@ sections:
           url: https://sites.google.com/view/juyingtestimonials/home?authuser=0
       variant: center
   - infobar:
+      title: Resource For Parents
+      subtitle: 2025 O-Level Results Release
+      id: infobar
+      button: More Information
+      url: /resource-for-parents/
+  - infobar:
       title: Welcome Sec 1s to Juying Secondary School
       id: infobar
       button: Sec 1 Registration
