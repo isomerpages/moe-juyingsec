@@ -2,6 +2,7 @@ collections:
   2-key-information:
     output: true
     order:
+      - ClassTimeTable.md
       - Resource For Parents.md
       - School Routines & Procedures.md
       - Student PDLP.md
