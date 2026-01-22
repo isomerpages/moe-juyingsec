@@ -2,10 +2,11 @@ collections:
   2-key-information:
     output: true
     order:
-      - ClassTimeTable.md
       - Resource For Parents.md
       - School Routines & Procedures.md
       - Student PDLP.md
+      - Home Based Learning (HBL).md
+      - ClassTimeTable.md
       - Sec 2 Subject Allocation Exercise Briefing.md
       - Secondary 1 Registration/.keep
       - Secondary 1 Registration/Secondary 1 Registration.md
@@ -16,6 +17,5 @@ collections:
       - Secondary 1 Registration/Other Enquiries.md
       - Booklists 2026.md
       - Group Personal Accident Insurance For Students.md
-      - Home Based Learning (HBL).md
       - Direct School Admission.md
       - Counselling Services.md
