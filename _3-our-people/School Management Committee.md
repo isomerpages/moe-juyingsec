@@ -71,7 +71,8 @@ variant: tiptap
 <p>Mr Wang Woon Keat&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)&nbsp;</p>
+<p>HOD Year Head
+<br>(Upper-Sec)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +96,8 @@ variant: tiptap
 <p>Mrs Amy Yeo (Ong Siew Har)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Management)&nbsp;</p>
+<p>HOD Year Head
+<br>(Lower-Sec)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -144,14 +146,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Science)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lian Chuen Pei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD&nbsp;(Physical Education &amp; CCA)</p>
 </td>
 </tr>
 <tr>
@@ -288,6 +282,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (Physics, Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Shu Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Leadership, Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
