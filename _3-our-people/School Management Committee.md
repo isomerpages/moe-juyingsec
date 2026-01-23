@@ -156,14 +156,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Meng Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD&nbsp;(Information Communication Technology)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Dayan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,7 +175,7 @@ variant: tiptap
 <p>Mr Soh Wei Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Physical Education &amp; CCA)</p>
+<p>HOD Physical Education &amp; CCA (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -228,14 +220,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elydia Azman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Student Management)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lek Hui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +231,7 @@ variant: tiptap
 <p>Ms Rachel Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Information Communication Technology)</p>
+<p>Subject Head (EdTech)</p>
 </td>
 </tr>
 <tr>
@@ -264,6 +248,46 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Thiam Khai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Info Comm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Jing Xiang Eric</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Curriculum Innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kheng Loon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Huay Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yee Jen Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Physics, Internal)</p>
 </td>
 </tr>
 </tbody>
