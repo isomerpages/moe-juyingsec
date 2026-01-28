@@ -59,8 +59,8 @@ lessons are designed and enacted to provide the learning experiences to
 <h4></h4>
 <h4><strong>Parent Handbook</strong></h4>
 <p>Click on the link below to view or download the Parent Handbook.
-<br><a href="https://drive.google.com/file/d/1xS8KL16ZMn0yh4l757wT5AcNTDPjF-HT/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook | on Learning with a PLD_2025.pdf</a>
-<br><a href="https://drive.google.com/file/d/1QSDhqpeAGfdcxWcQYHSJg178TmsFM1cz/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook | on Learning with a PLD_2025.pdf</a>
+<br><a href="https://drive.google.com/file/d/1Jn0MHFYH_gWOyhAqIcmqoP0K3E9qHo5J/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2026 </a>
+<br><a href="https://drive.google.com/file/d/1Z9suhtIeFbJd5PjV7wigVPw7MxqJ586M/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 <br>
 </p>
 <h4><strong>FAQs for the Roll-Out of the Personal Learning Devices</strong></h4>
