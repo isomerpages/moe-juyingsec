@@ -11,7 +11,7 @@ strengthen their digital literacy. One of the components of the NDLP is
 the introduction of the&nbsp;Personalised&nbsp;Digital Learning&nbsp;Programme&nbsp;(PDLP)
 for all secondary school students, whereby every secondary school student
 will own a school-prescribed Personal Learning Device (PLD) by end-2021.</p>
-<h4><strong>PDLP</strong></h4>
+<h4><strong>PLD</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Every student is required to have a device for teaching and learning purposes
@@ -67,7 +67,7 @@ lessons are designed and enacted to provide the learning experiences to
 <p></p>
 <h4><strong>PLD @ Juying</strong></h4>
 <p>Juying Secondary will continuously engage our students and parents/guardians
-by sharing our school’s&nbsp;approach and implementation plan for PDLP.&nbsp;
+by sharing our school’s&nbsp;approach and implementation plan for PLD.&nbsp;
 Click the following for the Parents Engagement Slides.
 <br><a href="https://drive.google.com/file/d/16bTPh337kOP21nGaB32VgLffR9tC2QKT/view?usp=sharing" rel="noopener nofollow" target="_blank">Parents Engagement Slides</a>
 </p>
