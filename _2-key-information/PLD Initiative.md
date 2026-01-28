@@ -63,16 +63,13 @@ lessons are designed and enacted to provide the learning experiences to
 <br><a href="https://drive.google.com/file/d/1Z9suhtIeFbJd5PjV7wigVPw7MxqJ586M/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 <br>
 </p>
-<h4><strong>FAQs for the Roll-Out of the Personal Learning Devices</strong></h4>
-<p>Click on the link below to view or download the FAQ list
-<br><a href="https://drive.google.com/file/d/1Ero9FqH9uf_RQ2QQiNZUAhtzoFforgoG/view?usp=sharing" rel="noopener nofollow" target="_blank">Set of FAQs for school reference_2025.pdf</a>
-</p>
+<h4></h4>
 <p></p>
-<h4><strong>PDLP @ Juying</strong></h4>
+<h4><strong>PLD @ Juying</strong></h4>
 <p>Juying Secondary will continuously engage our students and parents/guardians
 by sharing our school’s&nbsp;approach and implementation plan for PDLP.&nbsp;
 Click the following for the Parents Engagement Slides.
-<br><a href="https://docs.google.com/presentation/d/1mtzF7sIos07hhTTH5mkdjDjNXMFmhN4W/edit?usp=sharing&amp;ouid=101558185724620304443&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Parents Engagement Slides Deck_2025.pdf</a>
+<br><a href="https://drive.google.com/file/d/16bTPh337kOP21nGaB32VgLffR9tC2QKT/view?usp=sharing" rel="noopener nofollow" target="_blank">Parents Engagement Slides</a>
 </p>
 <p></p>
 <p>Here are some useful resources to help your child make use of the PLD
@@ -83,9 +80,10 @@ safely and effectively.</p>
 <p>Dear Parents, if your child encounters any technical issues pertaining
 to their PLD, he or she can approach the school's IT helpdesk thru the
 following means</p>
-<p>1. <strong>Approach any of the IT support staff at Computer Lab 1 during recess time or after school (latest by 5pm)</strong>
+<p>1. <strong>Approach any of the IT support staff at Computer Lab 1 during recess time or after school (latest by 4pm)</strong>
 </p>
-<p>Mr Tan Jian Wei (Desktop Engineer ) | Ms Nur Adilah (ICT Associate)</p>
+<p>Ms Nur Adilah (ICT Associate) | Mr Sasi (Desktop Engineer) | Mr Haqim
+(Desktop Engineer)</p>
 <p></p>
 <p></p>
 <p></p>
