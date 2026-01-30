@@ -10,7 +10,6 @@ third_nav_title: Achievements
 of merit and service to Singapore.
 <br>
 <br>
-<br>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -136,6 +135,11 @@ of merit and service to Singapore.
 </table>
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/national_day.png">
+</div>
+<p>
 <br>
 <br>
 </p>
