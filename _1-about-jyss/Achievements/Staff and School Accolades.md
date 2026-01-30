@@ -100,6 +100,29 @@ of merit and service to Singapore.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Meng Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Commendation Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norhafiani Binte Abdul Majid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Long Service Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
