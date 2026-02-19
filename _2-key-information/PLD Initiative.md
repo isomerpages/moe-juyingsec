@@ -63,7 +63,56 @@ lessons are designed and enacted to provide the learning experiences to
 <br><a href="https://drive.google.com/file/d/1Z9suhtIeFbJd5PjV7wigVPw7MxqJ586M/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 <br>
 </p>
-<h4></h4>
+<h4><strong>Device Management Application (DMA) Parent Guides 2026</strong><br><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1 (iPadOS DMA)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2 to 5 (Windows OS)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1w15zeAlbtFxCiIuV-2kXyBjqqgUGOdod/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Default Option</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1PsYFiHWe6WIQep73_Nz6uLqASOGf-76A/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Default Option</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1g_FLaDLexW9cgq2ldi0YlbkWhZyNcUND/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Option A</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1HzgnOsdd9dGeVd8UMagED0hidT6zbpqO/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Option A</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1oyooKaBxDpdiNge6QYjYEvyz4tH5LnCz/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Option B</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/17tUsQMBfleEte1_nOC8Q488OhQPNz6Cb/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Option B</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br><br></h4>
 <p></p>
 <h4><strong>PLD @ Juying</strong></h4>
 <p>Juying Secondary will continuously engage our students and parents/guardians
