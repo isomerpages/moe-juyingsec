@@ -110,10 +110,16 @@ lessons are designed and enacted to provide the learning experiences to
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<h4><br><br></h4>
-<p></p>
 <h4><strong>PLD @ Juying</strong></h4>
 <p>Juying Secondary will continuously engage our students and parents/guardians
 by sharing our school’s&nbsp;approach and implementation plan for PLD.&nbsp;
