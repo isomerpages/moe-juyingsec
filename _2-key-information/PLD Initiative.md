@@ -56,12 +56,11 @@ lessons are designed and enacted to provide the learning experiences to
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/pdlp1.jpg">
 </div>
-<h4></h4>
+<h4><br><strong>Jyss Acceptable Use Policy (AUP)</strong><br><a href="https://drive.google.com/file/d/17Tyqj8HjkafON5cHhaiY60Pa5KyFOeGZ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click here</a></h4>
 <h4><strong>Parent Handbook</strong></h4>
 <p>Click on the link below to view or download the Parent Handbook.
 <br><a href="https://drive.google.com/file/d/1Jn0MHFYH_gWOyhAqIcmqoP0K3E9qHo5J/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2026 </a>
 <br><a href="https://drive.google.com/file/d/1Z9suhtIeFbJd5PjV7wigVPw7MxqJ586M/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
-<br>
 </p>
 <h4><strong>Device Management Application (DMA) Parent Guides 2026</strong><br><br></h4>
 <table style="minWidth: 50px">
