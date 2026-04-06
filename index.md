@@ -38,18 +38,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Vacancy for Vegetarian Stall (w.e.f End Feb 2026)
-          date: 24 November 2025
+        - title: Vacancy for Vegetarian Stall
+          date: 06 April 2026
           announcement: Click on the link below for more information.
           link_text: Additional Information + Application Procedure
           link_url: https://docs.google.com/document/d/1DwAyquX5ntjVLP4R9p492zmyvku53-MY/edit?usp=drive_link&ouid=101558185724620304443&rtpof=true&sd=true
-        - title: Vacancy for Western Stall (w.e.f End Feb 2026)
-          date: 24 November 2025
-          announcement: Click on the link below for more information.
-          link_text: Additional Information + Application Procedure
-          link_url: https://docs.google.com/document/d/1PMXT7eOvw_xb3mgyLbJWW6dfh4ukCZXv/edit?usp=drive_link&ouid=101558185724620304443&rtpof=true&sd=true
-        - title: Vacancy for Any Asia Cuisines(w.e.f End Feb 2026)
-          date: 24 November 2025
+        - title: Vacancy for Any Asia Cuisines
+          date: 06 April 2026
           announcement: Click on the link below for more information.
           link_text: Additional Information + Application Procedure
           link_url: https://docs.google.com/document/d/1wFK3rWyny1VjGnZLizB2XcUEaoLNS7lS/edit?usp=drive_link&ouid=101558185724620304443&rtpof=true&sd=true
