@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <p><strong>Dear Students &amp; Parents,</strong>
 </p>
-<p>The 2025 O &amp; N-level Preliminary Examinations schedules are now available.</p>
-<p></p>
-<p><a href="https://drive.google.com/file/d/1YZQzz0OwGtWDw3wq5Nr4YXPnwUNFV1Yb/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 O-level Preliminary Examinations Schedule_for_Students.pdf</a>
+<p>The 2026 O &amp; N-level Preliminary Examinations schedules are now available.
+<br><a href="https://drive.google.com/file/d/16W5r5-lTWfuWD4J2oIJuf0URBdbBWOpr/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <p></p>
 <p></p>
