@@ -6,15 +6,13 @@ variant: tiptap
 ---
 <h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2026)</h4>
 <p><strong>JOIN US via DSA</strong>
-<br>Dear P6 students,
-<br>Juying Secondary School (JYSS)&nbsp;invites you to apply for&nbsp;Direct
-School Admission (DSA)&nbsp;to&nbsp;Secondary One (2026)&nbsp;at JYSS!</p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</strong>
-<br>Apply now to JYSS via DSA!</p>
+<br>Juying Secondary School (JYSS)&nbsp;welcomes Primary Six students who
+are eligible, to apply for&nbsp;Direct School Admission (DSA)&nbsp;to&nbsp;Secondary
+One (2027)&nbsp;at JYSS!</p>
 <p></p>
-<table style="minWidth: 100px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -23,90 +21,67 @@ School Admission (DSA)&nbsp;to&nbsp;Secondary One (2026)&nbsp;at JYSS!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Talent</strong>
+<br><strong>CCA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CCA</strong>
+<p><strong>Programme/CCA outline</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection&nbsp;Criteria for DSA applicants</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Process</strong>
+<p><strong>Application Criteria</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
-<br>Softball (Boys)</p>
+<p><strong>Netball</strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>In Netball CCA, we train three hours per week, focusing on physical fitness,
+agility, ball handling skills, and team communication strategies. We incorporate
+student agency and reflection activities to help players develop critical
+thinking and decision-making abilities on court. Throughout the year, students
+participate in friendly matches with other schools, external competitions
+such as Pesta Sukan, and the National School Games, providing ample opportunities
+for game exposure and building confidence as competitive netball players.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrate proficiency of skills and abilities in Netball.</p>
+<p>·&nbsp;Prior experience or achievements in school/club competitions.</p>
+<p>·&nbsp;Exhibit genuine passion for Netball, demonstrate strong teamwork
+abilities, show discipline and commitment to regular training and competitions.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Display good physical fitness and
+have no medical conditions that would prevent participation in Netball.</p>
+<p>Demonstrate ability to balance academic responsibilities with sporting
+commitments.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Softball</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants should:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrate proficiency of skills and abilities, interest and passion
-in softball.</p>
-</li>
-<li>
-<p>Have past experiences and records of achievements in softball in Primary
-School.</p>
-</li>
-</ul>
-<p><strong><em>*Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
-</p>
+<p>Our Softball programme teaches students valuable skills including throwing,
+catching, hitting, and base running while fostering camaraderie and sportsmanship
+values. Students will have opportunities to represent the school in the
+annual National School Games and participate in friendly games or carnival
+tournaments with other school teams. Through structured training and competitive
+play, students develop both technical abilities and teamwork skills essential
+for success in this bat-and-ball sport.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted Applicants:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Will be invited for an interview in July 2025.</p>
-</li>
-<li>
-<p>Share their achievements and experiences in softball.</p>
-</li>
-<li>
-<p>Showcase level of proficiency in executing 4 tasks relating to throwing,
-catching, batting and agility during the trial.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-<br>Modern Dance (Boys &amp; Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Modern Dance (Hip Hop)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants should:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate proficiency of
-skills and abilities, interest and passion in Hip Hop dance</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates should have prior
-experience and a record of achievements in Hip Hop Dance during primary
-school or possess a dance background through personal lessons.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate exemplary conduct,
-keen interest and passion in dance.</p>
-<p><strong><em>*Please note that meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted Applicants:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be invited for an interview
-in July 2025.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Share their achievements and
-experiences in dance.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Come up with a 1-minute Hip
-Hop dance item to showcase their talent.</p>
+<p>·&nbsp;Demonstrate proficiency of skills and abilities in Softball.</p>
+<p>·&nbsp;Prior experience or achievements in school/club competitions.</p>
+<p>·&nbsp;&nbsp;Exhibit genuine passion for Softball, demonstrate strong
+teamwork abilities, show discipline and commitment to regular training
+and competitions.</p>
+<p>·&nbsp;&nbsp;Display good physical fitness and have no medical conditions
+that would prevent participation in Softball.</p>
+<p>Demonstrate ability to balance academic responsibilities with sporting
+commitments.</p>
 </td>
 </tr>
 </tbody>
