@@ -4,7 +4,7 @@ permalink: /key-information/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2026)</h4>
+<h4><strong>Direct School Admission Exercise</strong><br>(for Admission to Secondary One in 2027)</h4>
 <p><strong>JOIN US via DSA</strong>
 <br>Juying Secondary School (JYSS)&nbsp;welcomes Primary Six students who
 are eligible, to apply for&nbsp;Direct School Admission (DSA)&nbsp;to&nbsp;Secondary
@@ -60,14 +60,26 @@ such as Pesta Sukan, and the National School Games, providing ample opportunitie
 for game exposure and building confidence as competitive netball players.</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Demonstrate proficiency of skills and abilities in Netball.</p>
-<p>·&nbsp;Prior experience or achievements in school/club competitions.</p>
-<p>·&nbsp;Exhibit genuine passion for Netball, demonstrate strong teamwork
-abilities, show discipline and commitment to regular training and competitions.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Display good physical fitness and
-have no medical conditions that would prevent participation in Netball.</p>
+</li>
+<li>
+<p>Prior experience or achievements in school/club competitions.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Netball, demonstrate strong teamwork abilities,
+show discipline and commitment to regular training and competitions.</p>
+</li>
+<li>
+<p>Display good physical fitness and have no medical conditions that would
+prevent participation in Netball.</p>
+</li>
+<li>
 <p>Demonstrate ability to balance academic responsibilities with sporting
 commitments.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -85,15 +97,26 @@ play, students develop both technical abilities and teamwork skills essential
 for success in this bat-and-ball sport.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Demonstrate proficiency of skills and abilities in Softball.</p>
-<p>·&nbsp;Prior experience or achievements in school/club competitions.</p>
-<p>·&nbsp;&nbsp;Exhibit genuine passion for Softball, demonstrate strong
-teamwork abilities, show discipline and commitment to regular training
-and competitions.</p>
-<p>·&nbsp;&nbsp;Display good physical fitness and have no medical conditions
-that would prevent participation in Softball.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and abilities in Softball.</p>
+</li>
+<li>
+<p>Prior experience or achievements in school/club competitions.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Softball, demonstrate strong teamwork abilities,
+show discipline and commitment to regular training and competitions.</p>
+</li>
+<li>
+<p>Display good physical fitness and have no medical conditions that would
+prevent participation in Softball.</p>
+</li>
+<li>
 <p>Demonstrate ability to balance academic responsibilities with sporting
 commitments.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -112,14 +135,24 @@ discipline, ensemble values, and a lifelong appreciation for the choral
 arts.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Demonstrate proficiency of skills and talents in Choir.</p>
-<p>·&nbsp;Prior experience in school choir or participation in school performances,
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and talents in Choir.</p>
+</li>
+<li>
+<p>Prior experience in school choir or participation in school performances,
 SYF Arts Presentation, or other related competitions.</p>
-<p>·&nbsp;Exhibit genuine passion for Choir, demonstrate willingness to learn
-and improve, show ability to collaborate in ensemble settings, display
-commitment to regular practices and performances.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Choir, demonstrate willingness to learn and
+improve, show ability to collaborate in ensemble settings, display commitment
+to regular practices and performances.</p>
+</li>
+<li>
 <p>Demonstrate ability to manage academic responsibilities alongside rehearsal
 and performance schedules.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -139,14 +172,24 @@ and receive professional training and mentorship from certified band instructors
 including experienced musicians from the SAF Band.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;Demonstrate proficiency of skills and talents in Band.</p>
-<p>·&nbsp;&nbsp;&nbsp;Prior experience in school bands or participation in
-school performances, SYF Arts Presentation, or other related competitions.</p>
-<p>·&nbsp;&nbsp;Exhibit genuine passion for Band, demonstrate willingness
-to learn and improve, show ability to collaborate in ensemble settings,
-display commitment to regular practices and performances.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and talents in Band.</p>
+</li>
+<li>
+<p>Prior experience in school bands or participation in school performances,
+SYF Arts Presentation, or other related competitions.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Band, demonstrate willingness to learn and
+improve, show ability to collaborate in ensemble settings, display commitment
+to regular practices and performances.</p>
+</li>
+<li>
 <p>Demonstrate ability to manage academic responsibilities alongside rehearsal
 and performance schedules.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -167,14 +210,24 @@ Above all, students will join a supportive 'dance family' that prioritises
 mentorship, cultural appreciation and shared growth.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Demonstrate proficiency of skills and talents in dance.</p>
-<p>·&nbsp;Prior experience in school dance groups or participation in school
-performances, SYF Arts Presentation, or other related competitions.</p>
-<p>·&nbsp;Exhibit genuine passion for Cultural Dance, demonstrate willingness
-to learn and improve, show ability to collaborate in group settings, display
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and talents in dance.</p>
+</li>
+<li>
+<p>Prior experience in school dance groups or participation in school performances,
+SYF Arts Presentation, or other related competitions.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Cultural Dance, demonstrate willingness to
+learn and improve, show ability to collaborate in group settings, display
 commitment to regular practices and performances.</p>
+</li>
+<li>
 <p>Demonstrate ability to manage academic responsibilities alongside rehearsal
 and performance schedules.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -194,14 +247,24 @@ learn choreography, and collaborate with peers, developing teamwork and
 a strong sense of discipline through the art of dance.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Demonstrate proficiency of skills and talents in dance.</p>
-<p>·&nbsp;Prior experience in school dance groups or participation in school
-performances, SYF Arts Presentation, or other related competitions.</p>
-<p>·&nbsp;Exhibit genuine passion for Modern Dance (Hip-Hop), demonstrate
-willingness to learn and improve, show ability to collaborate in group
-settings, display commitment to regular practices and performances.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and talents in dance.</p>
+</li>
+<li>
+<p>Prior experience in school dance groups or participation in school performances,
+SYF Arts Presentation, or other related competitions.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Modern Dance (Hip-Hop), demonstrate willingness
+to learn and improve, show ability to collaborate in group settings, display
+commitment to regular practices and performances.</p>
+</li>
+<li>
 <p>Demonstrate ability to manage academic responsibilities alongside rehearsal
 and performance schedules.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -221,15 +284,25 @@ trained in technical aspects such as lighting, sound, and backstage crew
 work, providing a well-rounded theatre education experience.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Demonstrate proficiency of skills and talents in drama.</p>
-<p>·&nbsp;Prior experience in school drama productions, speech competitions,
-or participation in school performances, SYF Arts Presentation, or other
-related competitions.</p>
-<p>·&nbsp;Exhibit genuine passion for Speech &amp; Drama, demonstrate willingness
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and talents in drama.</p>
+</li>
+<li>
+<p>Prior experience in school drama productions, speech competitions, or
+participation in school performances, SYF Arts Presentation, or other related
+competitions.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for Speech &amp; Drama, demonstrate willingness
 to learn and improve, show ability to collaborate in group settings, display
 commitment to regular practices and performances.</p>
+</li>
+<li>
 <p>Demonstrate ability to manage academic responsibilities alongside rehearsal
 and performance schedules.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -249,15 +322,24 @@ will enjoy ambassadorship opportunities at Gardens by the Bay and participate
 in mentorship sessions with student leaders from other schools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Demonstrate proficiency of skills and talents in public speaking.</p>
-<p>·&nbsp;Prior experience in emceeing, presentations, public speaking contests
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate proficiency of skills and talents in public speaking.</p>
+</li>
+<li>
+<p>Prior experience in emceeing, presentations, public speaking contests
 or other related competitions.</p>
-<p>·&nbsp;Exhibit genuine passion for communication, demonstrate confidence
-in engaging with diverse audiences, show responsibility and ability to
-work well with others, display openness to feedback and willingness to
-improve.</p>
+</li>
+<li>
+<p>Exhibit genuine passion for communication, demonstrate confidence in engaging
+with diverse audiences, show responsibility and ability to work well with
+others, display openness to feedback and willingness to improve.</p>
+</li>
+<li>
 <p>Demonstrate ability to balance academic responsibilities with programme
 commitments and activities.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
