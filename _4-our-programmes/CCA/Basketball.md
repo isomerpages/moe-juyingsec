@@ -114,7 +114,7 @@ them well as it strengthens their physical and mental endurance.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Basketball_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Group Photo" src="/images/Basketball_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -124,7 +124,7 @@ them well as it strengthens their physical and mental endurance.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/basketball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Coach’s Voice" src="/images/basketball_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -135,7 +135,7 @@ Neo , during our match in the National School Games (NSG)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/basketball_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Coaching for Success" src="/images/basketball_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -146,7 +146,7 @@ their coach</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/basketball_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Coach’s Corner" src="/images/basketball_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -156,7 +156,7 @@ their coach</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Basketball_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Together We Shine" src="/images/Basketball_5.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -166,7 +166,7 @@ their coach</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/basketball_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Unity Vibes" src="/images/basketball_6.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -176,7 +176,7 @@ their coach</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__9_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Alumni Homecoming" src="/images/download__9_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -186,7 +186,7 @@ their coach</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__8_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prize Awards" src="/images/download__8_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -197,7 +197,7 @@ their coach</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__10_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Compete &amp; Conquer" src="/images/download__10_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
