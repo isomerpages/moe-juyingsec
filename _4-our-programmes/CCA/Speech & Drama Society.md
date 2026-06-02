@@ -29,7 +29,7 @@ in the International Science Drama Competition 2024!
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_03_06_102543.png">
+<img style="width: 100%" height="auto" width="100%" alt="Voices of Expression" src="/images/Screenshot_2025_03_06_102543.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -40,7 +40,7 @@ Woes’</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_03_06_102553.png">
+<img style="width: 100%" height="auto" width="100%" alt="Stage of Stories" src="/images/Screenshot_2025_03_06_102553.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -50,7 +50,7 @@ Woes’</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_03_06_102606.png">
+<img style="width: 100%" height="auto" width="100%" alt="The Art of Performance" src="/images/Screenshot_2025_03_06_102606.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ Woes’</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_03_06_102531.png">
+<img style="width: 100%" height="auto" width="100%" alt="Spotlight Celebration" src="/images/Screenshot_2025_03_06_102531.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -70,7 +70,7 @@ Woes’</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_03_06_102520.png">
+<img style="width: 100%" height="auto" width="100%" alt="Unity in Action" src="/images/Screenshot_2025_03_06_102520.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -80,7 +80,7 @@ Woes’</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2025_03_06_102506.png">
+<img style="width: 100%" height="auto" width="100%" alt="Showtime" src="/images/Screenshot_2025_03_06_102506.png">
 </div>
 </div>
 <div class="isomer-card-body">
