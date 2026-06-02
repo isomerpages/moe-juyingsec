@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h4><strong>School Crest</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Together We Will Succeed" src="/images/juyingcrest.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/school_Crest.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -93,6 +94,6 @@ working harmony.</p>
 <br><strong>Together We Will Succeed.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/flyhlaWObU0?si=NpoSZv1Gdi1GD82Q"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/flyhlaWObU0?si=NpoSZv1Gdi1GD82Q"></iframe>
 </div>
 <p></p>
