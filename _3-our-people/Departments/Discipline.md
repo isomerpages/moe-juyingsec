@@ -103,26 +103,10 @@ for offences to bring about true learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elydia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Goh Shu Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohter Amat Amin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager (Discipline)</p>
 </td>
 </tr>
 <tr>
