@@ -136,7 +136,7 @@ School Events &amp; Activities</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="National Day Celebration" src="/images/1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -146,7 +146,7 @@ School Events &amp; Activities</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Run, Rise, Conquer" src="/images/2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -156,7 +156,7 @@ School Events &amp; Activities</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Through the Lens" src="/images/3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -166,7 +166,7 @@ School Events &amp; Activities</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Audio Vibes" src="/images/4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -176,7 +176,7 @@ School Events &amp; Activities</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Capturing Connections" src="/images/5.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -186,7 +186,7 @@ School Events &amp; Activities</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/AVPA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Soundscape" src="/images/AVPA.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
