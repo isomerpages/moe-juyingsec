@@ -79,7 +79,7 @@ their leadership skills and enhance their teamwork.
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Rise to Compete" src="/images/Picture1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -89,7 +89,7 @@ their leadership skills and enhance their teamwork.
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Game On!" src="/images/Picture2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -99,7 +99,7 @@ their leadership skills and enhance their teamwork.
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="The Training Rally" src="/images/Picture3.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -109,7 +109,7 @@ their leadership skills and enhance their teamwork.
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Together We Grow" src="/images/Picture4.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -119,7 +119,7 @@ their leadership skills and enhance their teamwork.
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Picture5.png">
+<img style="width: 100%" height="auto" width="100%" alt="The Victory Day" src="/images/Picture5.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -129,7 +129,7 @@ their leadership skills and enhance their teamwork.
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download_new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Coach’s Wisdom" src="/images/download_new.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
