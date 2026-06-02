@@ -136,7 +136,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1_preparing_for_cny.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lunar New Year Celebration" src="/images/1_preparing_for_cny.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -146,7 +146,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2_cny_perf_at_nycc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lucky Vibes Only" src="/images/2_cny_perf_at_nycc.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -156,7 +156,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3_exchange_with_blss.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bridging Borders, Building Friendships" src="/images/3_exchange_with_blss.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -166,17 +166,17 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4_exchange_with_blss.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Explore &amp; Exchange" src="/images/4_exchange_with_blss.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Exchange with BLSS</div>
+<div class="isomer-card-title">Meet, Learn, Explore</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5_ndp_perf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Forward Singapore" src="/images/5_ndp_perf.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -186,7 +186,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/7_after_ndp_perf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The NDP Experience" src="/images/7_after_ndp_perf.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -196,7 +196,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/q.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Shine Your Light" src="/images/q.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -206,7 +206,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prize Awards" src="/images/w.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -216,7 +216,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our Theatre Visit" src="/images/e.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -226,7 +226,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/r.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="We Perform SG" src="/images/r.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -236,7 +236,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The SG Experience" src="/images/t.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -246,7 +246,7 @@ performing challenges ahead to showcase their talents to the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/y.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Feeling Before the Leap" src="/images/y.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
