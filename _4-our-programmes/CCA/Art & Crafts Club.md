@@ -80,7 +80,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_Art___Crafts_Club_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Group Members Photo" src="/images/2024_Art___Crafts_Club_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -90,7 +90,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024_SYF_Submission.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Masterpiece" src="/images/2024_SYF_Submission.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -100,7 +100,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Our_newly_appointed_EXCOs_2024_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prize Awards" src="/images/Our_newly_appointed_EXCOs_2024_2025.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -110,7 +110,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Presenting_our_CCA_to_the_Sec_1s_batch_during_CCA_Fair_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Fair" src="/images/Presenting_our_CCA_to_the_Sec_1s_batch_during_CCA_Fair_2024.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -120,7 +120,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Saying_goodbye_to_our_graduating_batch.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A Fond Farewell" src="/images/Saying_goodbye_to_our_graduating_batch.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -130,7 +130,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Setting_up_a_tunnel_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Team Synergy Day" src="/images/Setting_up_a_tunnel_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -140,7 +140,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Air_Dry_Clay_Desserts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sprinkle Some Joy" src="/images/WIP___Air_Dry_Clay_Desserts.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -150,7 +150,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WIP___Students_working_on_air_dry_clay.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Skill Up!" src="/images/WIP___Students_working_on_air_dry_clay.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -160,7 +160,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Working_on_our_annual_Teachers__Day_Banner_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A Gift of Gratitude" src="/images/Working_on_our_annual_Teachers__Day_Banner_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -170,7 +170,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="With Appreciation and Thanks" src="/images/download__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -180,7 +180,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A Living Masterpiece" src="/images/download__4_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -190,7 +190,7 @@ their abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/download__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Master Behind Every Success" src="/images/download__5_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
