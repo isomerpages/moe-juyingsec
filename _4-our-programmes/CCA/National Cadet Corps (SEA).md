@@ -41,7 +41,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_1___Presentation_of_Unit_Recognition_Award_2023__Distinction_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Recognition Awards" src="/images/Pic_1___Presentation_of_Unit_Recognition_Award_2023__Distinction_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -51,7 +51,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_2___Precision_Drill_Squad__PDS__Training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Learn, Train, Achieve" src="/images/Pic_2___Precision_Drill_Squad__PDS__Training.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +61,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_3___PDS_Competition_2024__Preliminaries_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Victory Day" src="/images/Pic_3___PDS_Competition_2024__Preliminaries_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -71,7 +71,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_4___PDS_Competition_2024__Grand_Finals_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Big Showdown" src="/images/Pic_4___PDS_Competition_2024__Grand_Finals_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -81,7 +81,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_5___Dragon_Boating_Training.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Power Up Day" src="/images/Pic_5___Dragon_Boating_Training.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -91,7 +91,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pic_6___National_Inter_Schools_Dragon_Boat_Race_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Clash of Excellence" src="/images/Pic_6___National_Inter_Schools_Dragon_Boat_Race_2024.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -101,7 +101,7 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Challenge Accepted" src="/images/11.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -111,41 +111,21 @@ flag bearers at every National Day Observance Ceremony.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/55.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prize Awards" src="/images/55.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sui Mun (3rd in Kayaking Singles)</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/44.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Standing with pride, preparing to march with the national flag</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/22.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Getting ready to clean up the shore in their kayaks</div>
-</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/33.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="March of Unity" src="/images/44.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">On board ship from Canberra</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/66.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Booth Visiting at Changi Exhibition</div>
+<div class="isomer-card-title">Standing with pride, preparing to march with the national flag</div>
 </div>
 </div>
 </div>
