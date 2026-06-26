@@ -44,7 +44,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Leaders in Motion" src="/images/download__6_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/B_Div_in_action.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Let the Challenge Begin" src="/images/B_Div_in_action.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -64,7 +64,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pioneer_Batch_of_JY_Softballers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Together We Shine" src="/images/Pioneer_Batch_of_JY_Softballers.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -74,7 +74,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Farewell_Party_for_Sec_4s.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Last Goodbye" src="/images/Farewell_Party_for_Sec_4s.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -84,7 +84,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/EXCO_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prize Awards" src="/images/EXCO_2024.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -94,7 +94,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Nanyang_Sayang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pro Tips" src="/images/Nanyang_Sayang.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -104,7 +104,7 @@ The objective is to score more runs than the other team.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/C_Div_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Forever Connected" src="/images/C_Div_2024.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

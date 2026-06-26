@@ -2,38 +2,127 @@
 title: School
 permalink: /achievements/school/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Achievements
 ---
-| CATEGORY | AWARD |
-|---|---|
-| Academic Value-Added | Achievement Award for the Normal Academic Stream |
-| Aesthetics | Sustained Achievement Award |
-| Sports    |  Achievement Award |
-| Uniformed Groups    | Achievement Award  |
-| Physical Health / CHERISH     | Sustained Achievement Award  |
-| Character Development Programme | Achievement Award |
-| Character Development Programme | Friend of SINGA  |
-| 3E Awards | Silver Award  |
-| National Arts Education  | GLOW Award |
-| Environment | Community in Bloom Award  (Gold Award) |
-| Environment  | IXORA Award |
-| Building &amp; Environment | Building Construction Authority (BCA) Award  |
-|
-
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 25%;"><img src="/images/achievement1.jpg" style="width:100%"></td>
-<td style="width: 25%;"><img src="/images/achievement2.jpg" style="width:100%"></td>
-<td style="width: 25%;"><img src="/images/achievement3.jpg" style="width:100%"></td>
-<td style="width: 25%;"><img src="/images/achievement4.jpg" style="width:100%"></td>
+<th rowspan="1" colspan="1">
+<p>CATEGORY</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARD</p>
+</th>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/achievement5.jpg" style="width:100%"></td>
-<td style="width: 25%;"><img src="/images/achievement6.jpg" style="width:100%"></td>
-<td style="width: 25%;"><img src="/images/achievement7.jpg" style="width:100%"></td>
-<td style="width: 25%;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Academic Value-Added</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Award for the Normal Academic Stream</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustained Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uniformed Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Health / CHERISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustained Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character Development Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character Development Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friend of SINGA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3E Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Arts Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GLOW Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Community in Bloom Award (Gold Award)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IXORA Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Building &amp; Environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building Construction Authority (BCA) Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
