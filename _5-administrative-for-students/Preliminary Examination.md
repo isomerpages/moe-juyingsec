@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Dear Students &amp; Parents,</strong>
 </p>
 <p>The 2026 O &amp; N-level Preliminary Examinations schedules are now available.
-<br><a href="https://drive.google.com/file/d/1QEbbxK4W7o1keA9WaArC9W9P_3sXZLFQ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+<br><a href="https://drive.google.com/file/d/1CarKpb_ZnXhV79Cz2PQJ8XIgK2UBl-DV/view?usp=sharing" rel="" target="_self">N-Level Prelim Schedule, Click here</a>
 </p>
 <p></p>
 <p></p>
